@@ -1,12 +1,13 @@
 <template>
   <div>
-    <h1>{{ $t('personal_description') }}</h1>
+    <h1>{{ $t('messages.personal_description') }}</h1>
   </div>
 </template>
 
 <script>
+export default {
 
-export default {}
+}
 </script>
 
 <style>

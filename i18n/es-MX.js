@@ -1,3 +1,5 @@
 export default {
-    personal_description: 'Salve mundus en español chido'
+    messages: {
+        personal_description: 'Salve mundus en español chido'
+    }
 }

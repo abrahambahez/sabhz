@@ -29,6 +29,7 @@ export default {
   ** Global CSS
   */
   css: [
+    '@/assets/css/main.css'
   ],
   /*
   ** Plugins to load before mounting the App
@@ -45,6 +46,7 @@ export default {
   ** Nuxt.js dev-modules
   */
   buildModules: [
+    '@nuxtjs/color-mode'
   ],
   /*
   ** Nuxt.js modules
@@ -71,7 +73,8 @@ export default {
         name: 'Español'
       }
     ],
-    langDir: 'i18n/'
+    langDir: 'i18n/',
+    lazy: true
   },
   content: {
     apiPrefix: '_content',
