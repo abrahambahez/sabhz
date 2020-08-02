@@ -1,0 +1,17 @@
+{
+  "name": "sabhz",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxt/content": "^1.5.3",
+    "nuxt": "^2.14.0",
+    "nuxt-i18n": "^6.13.2"
+  },
+  "devDependencies": {}
+}
