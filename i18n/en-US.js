@@ -1,5 +1,6 @@
 export default {
-    messages: {
-        personal_description: 'Salve mundus in gringo english'
+    homePage: {
+        title: 'sabhz.',
+        aboutMe: 'I\'m Sergio A. '
     }
 }

@@ -29,7 +29,8 @@ export default {
   ** Global CSS
   */
   css: [
-    '@/assets/css/main.css'
+    '@/assets/css/main.css',
+    '@/assets/css/normalize.css'
   ],
   /*
   ** Plugins to load before mounting the App
@@ -48,6 +49,10 @@ export default {
   buildModules: [
     '@nuxtjs/color-mode'
   ],
+  colorMode: {
+    preference: 'dark', // default value of $colorMode.preference
+    fallback: 'dark', // fallback value if not system preference found
+  },
   /*
   ** Nuxt.js modules
   */
