@@ -19,6 +19,8 @@ export default {
 </script>
 <style scoped>
 section {
+    width: 60%;
+    margin: auto;
     padding-top: 1.5rem;
     display: flex; 
     justify-content: space-between;

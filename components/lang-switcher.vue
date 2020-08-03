@@ -1,9 +1,8 @@
 <template>
   <div>
     <nuxt-link
-
-      :to="switchLocalePath(switchLang)"
-      class="margin-0 uppercase sans-light size-08 primary">{{ langToSwitch }}
+      id="lang-switcher"
+      :to="switchLocalePath(switchLang)">{{ langToSwitch }}
 
     </nuxt-link>
   </div>
@@ -32,3 +31,14 @@ export default {
   }
 }
 </script>
+<style >
+#lang-switcher {
+  text-decoration: none;
+  margin: 0;
+  color: var(--color-primary);
+  font-weight: 200;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: color .25s ease;
+}
+</style>

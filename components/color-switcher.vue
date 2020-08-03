@@ -2,7 +2,6 @@
 
     <p
       id="color-switcher"
-      class="margin-0 uppercase sans-light size-08 pointer primary"
       @click="switchColor">
         {{ colorToSwitch }}
     </p>
@@ -35,6 +34,11 @@ export default {
 </script>
 <style scoped>
 #color-switcher {
+    margin: 0;
+    color: var(--color-primary);
+    font-weight: 200;
+    text-transform: uppercase;
+    cursor: pointer;
     transition: color .25s ease;
 }
 #color-switcher:hover {
