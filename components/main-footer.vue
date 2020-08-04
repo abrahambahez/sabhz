@@ -1,7 +1,7 @@
 <template>
-  <footer class="container margin-left-auto margin-right-auto align-center" style="margin-top:12rem;">
-      <color-switcher />
-      <p class="sans-light size-08 secondary">{{ $t('messages.footer') }}</p>     
+  <footer class="container margin-left-auto margin-right-auto margin-top-12 margin-bottom-2 align-center"> 
+      <p class="sans-light size-08 secondary">{{ $t('messages.footer.main') }}</p>
+      <color-switcher />   
   </footer>
 </template>
 

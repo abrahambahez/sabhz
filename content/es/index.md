@@ -12,6 +12,6 @@ Soy Sergio A., *Product Manager* en [KarmaPulse](https://www.karmapulse.com/), d
 
 Siéntete libre de explorar las colecciones:
 
----
+
 
 <content-index />

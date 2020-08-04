@@ -1,7 +1,7 @@
 <template>
 
     <p id="color-switcher"
-      class="margin-0 uppercase sans-light size-08 primary">
+      class="margin-0 sans-light size-08 primary">
         <span @click="$colorMode.preference = 'light' "
         class="transition-color hover-color pointer">light</span>
         <span> | </span>

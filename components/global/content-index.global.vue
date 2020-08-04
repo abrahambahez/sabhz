@@ -1,6 +1,6 @@
 <template>
     <section class="margin-left-auto margin-right-auto padding-top-3">
-        <h2>{{ $t('contentNavigation.collectionsTitle') }}</h2>
+        <h2 class="align-center">{{ $t('contentNavigation.collectionsTitle') }}</h2>
         <collection-filter 
         :collections="$t('contentNavigation.collections')" 
         @selectedCollection="setCollection" />

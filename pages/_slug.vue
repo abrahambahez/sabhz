@@ -1,6 +1,6 @@
 <template>
   <main>
-      <h1 class="container margin-auto align-left"> {{ content.title }} </h1>
+      <h1 class="container margin-auto"> {{ content.title }} </h1>
       <nuxt-content class="container margin-auto align-left" :document="content" />
   </main>
 </template>

@@ -1,6 +1,8 @@
 export default {
     messages: {
-        footer: 'diseño, código y 🧡 por Sergio'
+        footer: {
+            main: 'diseño + código + 🧡 por Sergio'
+        }
     },
     contentNavigation: {
         collectionsTitle: 'Colecciones',

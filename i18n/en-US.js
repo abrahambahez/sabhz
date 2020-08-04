@@ -1,6 +1,8 @@
 export default {
     messages: {
-        footer: 'design & code with 🧡 by Sergio'
+        footer: {
+            main: 'design & code with 🧡 by Sergio',
+        }
     },
     contentNavigation: {
         collectionsTitle: 'Collections',
