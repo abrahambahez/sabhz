@@ -19,19 +19,6 @@ export default {
             actualColor: this.$colorMode.value,
             availableColors: ['dark', 'light']
         }
-    },
-    computed: {
-        alternativeColor() {
-            return this.availableColors.filter(i => i == this.$colorMode.value )
-            
-        }
-    },
-    methods: {
-        switchColor(colorToSwitch) {
-            
-            return this.$colorMode.preference = colorToSwitch               
-
-        }
     }
 }
 </script>

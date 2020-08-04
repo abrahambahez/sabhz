@@ -1,7 +1,9 @@
 <template>
     <main id="main-section" class="container margin-left-auto margin-right-auto">
-        <color-switcher />
         <lang-switcher />
+        <a href="mailto:tacto@sabhz.com" 
+        class="sans-light size-08 primary decoration-none transition-color hover-color pointer">
+        tacto@sabhz.com</a>
     </main>
 </template>
 
