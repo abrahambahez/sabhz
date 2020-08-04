@@ -14,6 +14,7 @@
     "nuxt-i18n": "^6.13.2"
   },
   "devDependencies": {
-    "@nuxtjs/color-mode": "^1.0.2"
+    "@nuxtjs/color-mode": "^1.0.2",
+    "@nuxtjs/global-components": "^0.6.1"
   }
 }

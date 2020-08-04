@@ -47,7 +47,8 @@ export default {
   ** Nuxt.js dev-modules
   */
   buildModules: [
-    '@nuxtjs/color-mode'
+    '@nuxtjs/color-mode',
+    '@nuxtjs/global-components'
   ],
   colorMode: {
     preference: 'dark', // default value of $colorMode.preference

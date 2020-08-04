@@ -2,16 +2,19 @@
   <div>
     <top-menu />
     <Nuxt />
+    <main-footer />
   </div>
 </template>
 
 <script>
 import TopMenu from '@/components/top-menu'
+import MainFooter from '@/components/main-footer'
 
 
 export default {
   components: {
-    TopMenu
+    TopMenu,
+    MainFooter
   }
 }
 </script>

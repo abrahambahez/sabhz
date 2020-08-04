@@ -1,6 +1,8 @@
 export default {
-    homePage: {
-        title: 'sabhz.',
-        aboutMe: 'I\'m Sergio A. '
+    messages: {
+        footer: 'design & code with 🧡 by Sergio'
+    },
+    contentNavigation: {
+        collections: ['Projects', 'Life Philosophy', 'Digital Curation']
     }
 }

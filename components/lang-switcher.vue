@@ -1,10 +1,10 @@
 <template>
   <div>
     <nuxt-link
-
-      :to="switchLocalePath(switchLang)"
-      class="margin-0 uppercase sans-light size-08 primary">{{ langToSwitch }}
-
+      :to="switchLang"
+      class="margin-0 uppercase sans-light size-08 primary decoration-none"
+      >{{ langToSwitch }}
+      
     </nuxt-link>
   </div>
 </template>
@@ -14,18 +14,18 @@ export default {
   name: 'LangSwitcher',
   data() {
     return {
-      langToSwitch: 'English'
+      langToSwitch: 'English',
     }
   },
   computed: {
     switchLang() {
         if( this.$i18n.locale == 'es' ) {
             this.langToSwitch = 'English';
-            return 'en'
+            return '/en'
             
         } else {
             this.langToSwitch = 'Español';
-            return 'es'
+            return '/'
             
         }
     }

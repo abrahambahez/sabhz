@@ -1,8 +1,8 @@
 <template>
-    <section class="container margin-left-auto margin-right-auto">
-      <lang-switcher />
-      <color-switcher />
-    </section>
+    <main id="main-section" class="container margin-left-auto margin-right-auto">
+        <color-switcher />
+        <lang-switcher />
+    </main>
 </template>
 
 <script>
@@ -17,8 +17,8 @@ export default {
     }
 }
 </script>
-<style scoped>
-section {
+<style>
+#main-section {
     padding-top: 1.5rem;
     display: flex; 
     justify-content: space-between;
