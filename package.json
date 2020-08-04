@@ -6,8 +6,7 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate",
-    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
+    "generate": "nuxt generate"
   },
   "dependencies": {
     "@nuxt/content": "^1.5.3",
@@ -16,7 +15,6 @@
   },
   "devDependencies": {
     "@nuxtjs/color-mode": "^1.0.2",
-    "@nuxtjs/global-components": "^0.6.1",
-    "push-dir": "^0.4.1"
+    "@nuxtjs/global-components": "^0.6.1"
   }
 }
