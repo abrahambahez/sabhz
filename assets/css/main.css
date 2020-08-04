@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,400;0,700;1,400&family=Public+Sans:wght@300;400;700&display=swap');
 :root {
     --color: white;
-    --color-primary: #a4a3a1; /* accent blue*/
+    --color-primary: #a4a3a1;
     --color-secondary: silver;
     --bg: black;
     --bg-secondary: #1e1e1e;
@@ -13,11 +13,11 @@
 
 .light-mode {
     --color: black;
-    --color-primary:  #747474; /* accent blue*/
+    --color-primary:  #747474;
     --color-secondary: silver;
     --bg: #f8f8f9;
     --bg-secondary: #fff;
-    --border-color: #ddd;
+    --border-color: #d8d8d8;
 }
 html {
     font-size: var(--base-font);
@@ -42,6 +42,34 @@ a:hover {
     transition: color .25s ease;
 }
 
+h1, .nuxt-content h1 {
+    font-weight: 400;
+    font-size: 3rem;
+}
+h2, .nuxt-content h2 {
+    font-weight: 400;
+    text-align: center;
+    font-size: 2.25rem;
+}
+h3, .nuxt-content h3 {
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+h4, .nuxt-content h4 {
+    font-weight: 700;
+    font-size: 1.25rem;
+}
+h5, .nuxt-content h5 {
+    font-weight: 700;
+    font-size: 1.125rem;
+}
+h6, .nuxt-content h6 {
+    font-weight: 700;
+    font-size: 1rem;
+}
+
+/* responsive layouts*/
+
 .container{max-width: 90%;}
 
 @media screen and (min-width: 600px) {
@@ -52,6 +80,7 @@ a:hover {
 @media screen and (min-width: 1200px) {
 
     html {font-size: 1.25rem;}
+    h1 {font-size: 3rem;}
     .container{max-width: 60%;}
 }
 
@@ -104,6 +133,14 @@ a:hover {
 .sans-light{font-weight: 200;}
 .sans-bold{font-weight: 500;}
 
+/* --Transitions & animation helpers */
+.hover-color:hover {
+    color: var(--color);
+    transition: color .25s ease;
+}
+.transition-color{
+    transition: color .25s ease;
+}
 
 /* Layout */
 /*layout: display*/

@@ -14,17 +14,17 @@ export default {
   name: 'LangSwitcher',
   data() {
     return {
-      langToSwitch: 'English',
+      langToSwitch: 'Site in English',
     }
   },
   computed: {
     switchLang() {
         if( this.$i18n.locale == 'es' ) {
-            this.langToSwitch = 'English';
+            this.langToSwitch = 'Site in English';
             return '/en'
             
         } else {
-            this.langToSwitch = 'Español';
+            this.langToSwitch = 'Sitio en Español';
             return '/'
             
         }

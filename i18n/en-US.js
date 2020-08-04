@@ -3,6 +3,7 @@ export default {
         footer: 'design & code with 🧡 by Sergio'
     },
     contentNavigation: {
-        collections: ['Projects', 'Life Philosophy', 'Digital Curation']
+        collectionsTitle: 'Collections',
+        collections: ['Projects', 'Life Philosophy']
     }
 }

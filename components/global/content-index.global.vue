@@ -1,19 +1,17 @@
 <template>
     <section class="margin-left-auto margin-right-auto padding-top-3">
-       <!-- <collection-filter 
+        <h2>{{ $t('contentNavigation.collectionsTitle') }}</h2>
+        <collection-filter 
         :collections="$t('contentNavigation.collections')" 
         @selectedCollection="setCollection" />
-        <p>{{ selectedCollection }}</p>
-        <hr>-->
+        
         <div v-for="post in posts" :key="post.slug" class="margin-bottom-3 margin-top-3">
-            <h3>
+            <h3 class="margin-bottom-0">
                 <nuxt-link :to="lang == 'es' ? post.slug : post.path">
                     {{ post.title }}
                 </nuxt-link>
             </h3>
-            <p class="sans primary sans-light margin-top-0">{{ post.collection }}</p>
-            <p>{{ post.description }}</p>
-            
+            <p>{{ post.description }}</p>       
         </div>
 
     </section>
@@ -27,7 +25,7 @@ export default {
         return {
             posts: {},
             lang: this.$i18n.locale,
-            selectedCollection: ''
+            selectedCollection: this.$t('contentNavigation.collections')[0]
         }
     },
     components: {
@@ -36,6 +34,7 @@ export default {
     async fetch() {
         return this.posts = await this.$content(this.$i18n.locale)
         .where({ slug: { $ne: 'index'} }) // replace 'index' for slug.params
+        .where({ collection: { $contains: this.selectedCollection} })
         .fetch()
     },
     computed: {
@@ -48,7 +47,7 @@ export default {
             this.selectedCollection = selectedItem
             return this.posts = await this.$content(this.$i18n.locale)
             .where({ slug: { $ne: 'index'} })
-            .where({ collection: { $contains: selectedItem} }) // replace 'index' for slug.params
+            .where({ collection: { $contains: selectedItem} })
             .fetch()
         }
 

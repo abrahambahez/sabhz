@@ -3,6 +3,7 @@ export default {
         footer: 'diseño, código y 🧡 por Sergio'
     },
     contentNavigation: {
-        collections: ['Proyectos', 'Filosofía de vida', 'Curaduría digital']
+        collectionsTitle: 'Colecciones',
+        collections: ['Proyectos', 'Filosofía de vida']
     }
 }

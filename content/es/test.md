@@ -1,5 +1,5 @@
 ---
-collection: Curaduría digital
+collection: Filosofía de vida
 keywords: sabhz, sergio abraham barrera hernández, product manager, vue jamstack dev, writer
 images: ['']
 title: test
