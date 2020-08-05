@@ -1,17 +1,15 @@
 ---
 collection: ''
-keywords: sabhz, sergio abraham barrera hernández, product manager, vue jamstack dev, writer
+keywords: sabhz, sergio abraham barrera hernández, product manager, escritor
 images: ['']
 title: sabhz
-description: Soy un product manager y un desarrollador vue jamstack, escribo y estudio
+description: Un espacio individual sobre tecnología, diseño, filosofía, arte y escritura.
 pinned: false
 type: 'about'
 ---
 
-Soy Sergio A., *Product Manager* en [KarmaPulse](https://www.karmapulse.com/), diseño y desarrollo [sitios web](sitios-web) con JAMStack. Creo en la tecnología como una herramienta de liberación o sometimiento, según se use. Soy amante de la filosofía, la literatura y escribo en este sitio sobre algunos de esos temas a través de tres colecciones.
+Soy Sergio, un estratega y creador multidisciplinario. Soy *Product Manager* en [KarmaPulse](https://www.karmapulse.com/), de manera independiente diseño y desarrollo [sitios web](sitios-web). Según mi ánimo, escucho o hago música, colecciono libros, medito o escribo. Lector beligerante: de la filosofía y la literatura a los manuales de metodología o cursos de programación. Busco que mi aprendizaje tome siempre un cause práctico a través de proyectos; pero no dejo de pensar con insistencia crítica el presente.
 
-Siéntete libre de explorar las colecciones:
-
-
+En este sitio documento lo mejor que puedo mis proyectos e ideas accionables y escribo con más libertad creativa sobre por qué la filosofía debería ser echada de las aulas para salir a la calle y entrar a nuestras casas (idea que prefiero resumir como *filosofía de la vida cotidiana*).
 
 <content-index />
