@@ -21,7 +21,7 @@ export default {
   },
   head() {
     return {
-      title: this.content.title,
+      title: `${this.content.title} | sabhz `,
       meta: [
         {
           hid: 'description: ' + this.content.slug,

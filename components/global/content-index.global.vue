@@ -33,7 +33,6 @@ export default {
     },
     async fetch() {
         return this.posts = await this.$content(this.$i18n.locale)
-        .where({ slug: { $ne: 'index'} }) // replace 'index' for slug.params
         .where({ collection: { $contains: this.selectedCollection} })
         .fetch()
     },
@@ -46,7 +45,6 @@ export default {
         setCollection: async function(selectedItem) {
             this.selectedCollection = selectedItem
             return this.posts = await this.$content(this.$i18n.locale)
-            .where({ slug: { $ne: 'index'} })
             .where({ collection: { $contains: selectedItem} })
             .fetch()
         }
