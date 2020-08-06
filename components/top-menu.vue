@@ -1,10 +1,11 @@
 <template>
-    <main id="main-section" class="container margin-left-auto margin-right-auto">
+    <section id="top-menu" class="container margin-left-auto margin-right-auto padding-top-1-5 flex justify-content-space-between">
+        <nuxt-link :to="$i18n.locale === 'es' ? '/' : '/en' "
+        class="decoration-none sans-light size-08">
+            {{ $t('messages.home') }}
+        </nuxt-link>        
         <lang-switcher />
-        <a href="mailto:tacto@sabhz.com" 
-        class="sans-light size-08 primary decoration-none transition-color hover-color pointer">
-        tacto@sabhz.com</a>
-    </main>
+    </section>
 </template>
 
 <script>
@@ -19,10 +20,3 @@ export default {
     }
 }
 </script>
-<style>
-#main-section {
-    padding-top: 1.5rem;
-    display: flex; 
-    justify-content: space-between;
-}
-</style>

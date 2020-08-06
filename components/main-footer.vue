@@ -1,7 +1,10 @@
 <template>
-  <footer class="container margin-left-auto margin-right-auto margin-top-12 margin-bottom-2 align-center"> 
-      <p class="sans-light size-08 secondary">{{ $t('messages.footer.main') }}</p>
-      <color-switcher />   
+  <footer class="container margin-left-auto margin-right-auto flex justify-content-space-between margin-top-4 padding-bottom-1-5"> 
+    <color-switcher />
+    <nuxt-link :to="$i18n.locale === 'es' ? '/contacto' : '/en/contact' "
+    class="decoration-none sans-light size-08">
+        {{ $t('messages.contactPage') }}
+    </nuxt-link>
   </footer>
 </template>
 
@@ -15,8 +18,3 @@ export default {
 
 }
 </script>
-
-<style scoped>
-
-
-</style>>

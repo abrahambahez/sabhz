@@ -3,7 +3,7 @@
     --color: white;
     --color-primary: #a4a3a1;
     --color-secondary: silver;
-    --bg: black;
+    --bg: #020212;
     --bg-secondary: #1e1e1e;
     --border-color: #222;
     --sans: "Public Sans";
@@ -21,7 +21,7 @@
 }
 html {
     font-size: var(--base-font);
-    line-height: 1.5;
+    line-height: 1.875;
 }
 
 html,body{  height: 100%; width: 100%;}
@@ -67,29 +67,29 @@ h6, .nuxt-content h6 {
     font-weight: 700;
     font-size: 1rem;
 }
-
+p, .nuxt-content p {
+    font-family: var(--serif);
+    font-size: 1rem;
+    padding-bottom: 1rem;
+}
+p + p {
+    text-indent: 1rem;
+}
 /* responsive layouts*/
 
-.container{max-width: 90%;}
+.container{max-width: 85%;}
 
 @media screen and (min-width: 600px) {
 
     html {font-size: 1.125rem;}
-    .container{max-width: 70%;}
+    .container{max-width: 60%;}
 }
 @media screen and (min-width: 1200px) {
 
     html {font-size: 1.25rem;}
     h1 {font-size: 3rem;}
-    .container{max-width: 60%;}
+    .container{max-width: 50%;}
 }
-
-.nuxt-content p {
-    font-family: var(--serif);
-    font-size: 1rem;
-}
-
-
 
 /* --- LITTERAE CSS ---*/
 
