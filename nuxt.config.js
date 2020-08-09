@@ -51,7 +51,7 @@ export default {
     '@nuxtjs/global-components'
   ],
   colorMode: {
-    preference: 'dark',
+    preference: 'system',
     fallback: 'dark' // fallback value if not system preference found
   },
   /*

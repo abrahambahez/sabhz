@@ -2,7 +2,7 @@
 collection: Proyectos
 keywords: jamstack, vue, nuxt, web development, web design
 images: ['']
-title: ¿Por qué tendría un portafolio web?
+title: Portafolio de sitios web
 description: Los sitios web como herramientas para crear comunidad.
 pinned: false
 type: 'about'
@@ -18,7 +18,7 @@ Estos son los sitios que actualmente son mi responsabilidad:
 * [All About Greece](https://itsallaboutgreece.com/en), un blog que informa todo sobre Grecia. Mi primer proyecto completamente JAMStack.
 * Este sitio web. Que es completamiente abierto y puedes usar si quieres, clonando el [repositorio de Github](https://github.com/abrahambahez/sabhz)
 
-De estos y otros proyectos, que no pongo porque ya no corren con mis diseños ni código, así como de mi experiencia definiendo aplicaciones web más complejas, aprendí que internet es principalemte sobre *compartir, conversar y el largo plazo*.
+De estos y otros proyectos, que no pongo porque ya no corren con mis diseños ni código, así como de mi experiencia definiendo aplicaciones web más complejas, aprendí que internet es mejor si se piensa como espacio para *compartir, conversar y el largo plazo*. 
 
 
 ## Los sitios web independientes vencerán a Facebook

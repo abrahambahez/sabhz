@@ -8,7 +8,7 @@ pinned: false
 type: 'about'
 ---
 
-Este sitio fue diseñado para poder hacer públicas mis ideas y proyectos pero no exclusivamente para hablar de eso. En realidad podríamos hablar de lo que sea (aquí es donde dejo mi correo):
+Este sitio fue diseñado para poder hacer públicas mis ideas y proyectos pero no exclusivamente para hablar de eso. En realidad podríamos hablar de lo que sea:
 
 <a href="mailto:tacto@sabhz.com">tacto@sabhz.com</a>
 

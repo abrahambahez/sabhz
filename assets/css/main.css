@@ -81,13 +81,12 @@ p, .nuxt-content p {
     padding-bottom: 1rem;
 }
 ul {
-    list-style: disc outside;
+    list-style: circle outside;
 }
 
 li {
     font-family: var(--serif);    
-    line-height: 2.25rem;
-
+    margin-bottom: 1.5rem;
 }
 
 /* responsive layouts*/

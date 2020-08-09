@@ -8,6 +8,4 @@ pinned: false
 type: 'about'
 ---
 
-Aquí está concentrado todo el contenido del sitio. 
-
 <posts-archive />

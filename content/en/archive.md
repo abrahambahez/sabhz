@@ -8,6 +8,6 @@ pinned: false
 type: 'about'
 ---
 
-Here are all the posts in this website.
+Welcome to the archive. Here are all the posts in this website.
 
 <posts-archive />
