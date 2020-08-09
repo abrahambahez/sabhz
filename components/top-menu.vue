@@ -4,18 +4,19 @@
         class="decoration-none sans-light size-08">
             {{ $t('messages.home') }}
         </nuxt-link>        
-        <lang-switcher />
+        <nuxt-link :to="$i18n.locale === 'es' ? '/archivo' : '/en/archive' "
+        class="decoration-none sans-light size-08">
+            {{ $t('messages.archive') }}
+        </nuxt-link>
     </section>
 </template>
 
 <script>
-import LangSwitcher from '@/components/lang-switcher'
 import ColorSwitcher from '@/components/color-switcher'
 
 export default {
     name: 'TopMenu',
     components: {
-        LangSwitcher,
         ColorSwitcher
     }
 }

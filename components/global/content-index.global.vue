@@ -1,5 +1,5 @@
 <template>
-    <section class="margin-left-auto margin-right-auto padding-top-3">
+    <section class="margin-left-auto margin-right-auto padding-top-3 padding-bottom-3">
         <h2 class="align-center">{{ $t('contentNavigation.collectionsTitle') }}</h2>
         <collection-filter 
         :collections="$t('contentNavigation.collections')" 
@@ -7,11 +7,11 @@
         
         <div v-for="post in posts" :key="post.slug" class="margin-bottom-3 margin-top-3">
             <h3 class="margin-bottom-0">
-                <nuxt-link :to="lang == 'es' ? post.slug : post.path">
+                <nuxt-link :to="lang == 'es' ? post.slug : post.path" class="decoration-none">
                     {{ post.title }}
                 </nuxt-link>
             </h3>
-            <p>{{ post.description }}</p>       
+            <p class="margin-0">{{ post.description }}</p>       
         </div>
 
     </section>

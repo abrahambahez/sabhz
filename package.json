@@ -9,12 +9,12 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "@nuxt/content": "^1.5.3",
-    "nuxt": "^2.14.0",
-    "nuxt-i18n": "^6.13.2"
+    "@nuxt/content": "^1.6.0",
+    "nuxt": "^2.14.1",
+    "nuxt-i18n": "^6.13.7"
   },
   "devDependencies": {
-    "@nuxtjs/color-mode": "^1.0.2",
+    "@nuxtjs/color-mode": "^1.0.3",
     "@nuxtjs/global-components": "^0.6.1"
   }
 }
