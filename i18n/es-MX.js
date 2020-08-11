@@ -9,6 +9,6 @@ export default {
     },
     contentNavigation: {
         collectionsTitle: 'Colecciones',
-        collections: ['Proyectos', 'Filosofía de vida']
+        collections: ['Proyectos', 'Jardín mental']
     }
 }

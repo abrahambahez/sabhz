@@ -9,6 +9,6 @@ export default {
     },
     contentNavigation: {
         collectionsTitle: 'Collections',
-        collections: ['Projects', 'Life Philosophy']
+        collections: ['Projects']
     }
 }
