@@ -1,6 +1,5 @@
 <template>
   <footer class="container margin-left-auto margin-right-auto flex justify-content-space-between margin-top-4 padding-bottom-1-5"> 
-    <color-switcher />
     <lang-switcher />
     
     <nuxt-link :to="$i18n.locale === 'es' ? '/contacto' : '/en/contact' "
