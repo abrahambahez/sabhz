@@ -3,7 +3,7 @@
     <lang-switcher />
     
     <nuxt-link :to="$i18n.locale === 'es' ? '/contacto' : '/en/contact' "
-    class="decoration-none sans-light size-08">
+    class="decoration-none secondary sans-light size-08">
         {{ $t('messages.contactPage') }}
     </nuxt-link>
   </footer>

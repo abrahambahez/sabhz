@@ -1,7 +1,7 @@
 <template>
     <nuxt-link
       :to="switchLang"
-      class="sans-light size-08 primary decoration-none"
+      class="sans-light size-08 secondary decoration-none"
       >{{ langToSwitch }}
       
     </nuxt-link>

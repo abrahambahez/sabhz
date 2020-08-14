@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;700&family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 :root {
     --color: #f8f8f9;
-    --color-primary: #a4a3a1;
-    --color-secondary: silver;
+    --color-primary: #bbaea8;
+    --color-secondary: #b1b3b2;
     --bg: #020202;
-    --bg-secondary: #1e1e1e;
+    --bg-secondary: black;
     --border-color: #222;
     --sans: "Public Sans";
     --serif: "Tinos";
@@ -13,11 +13,11 @@
 
 .light-mode {
     --color: #020202;
-    --color-primary:  #747474;
-    --color-secondary: silver;
+    --color-primary:  #868e83;
+    --color-secondary: #9c9ca4;
     --bg: #f8f8f9;
     --bg-secondary: #fff;
-    --border-color: #d8d8d8;
+    --border-color: silver;
 }
 html {
     font-size: var(--base-font);
@@ -36,12 +36,17 @@ body {
 }
 a {
     color: var(--color-primary);
-    transition: color .25s ease;
+    transition: all .25s ease;
+    text-decoration: none;
 }
+
 a:hover {
     color: var(--color);
-    transition: color .25s ease;
+    text-decoration: underline;
+    transition: all .25s ease;
 }
+
+
 
 h1, .nuxt-content h1 {
     text-align: center;

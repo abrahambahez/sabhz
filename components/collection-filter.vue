@@ -41,6 +41,6 @@ export default {
     text-decoration: underline;
 }
 .inactive-collection {
-    color: var(--color-primary);
+    color: var(--color-secondary);
 }
 </style>

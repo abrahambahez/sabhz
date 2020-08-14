@@ -7,7 +7,7 @@
                     {{ post.title }}
                 </nuxt-link>
             </h6>
-            <p class="margin-0 primary sans size-08">{{ post.collection }}</p>    
+            <p class="margin-0 secondary sans size-08">{{ post.collection }}</p>    
         </div>
 
     </section>

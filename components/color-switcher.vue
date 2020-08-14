@@ -39,7 +39,7 @@ export default {
 
 <style>
 .color-switch-icon {
-    fill: var(--color-primary);
+    fill: var(--color-secondary);
     transition: all 0.25s ease-out;
 }
 .color-switch-icon:hover {
