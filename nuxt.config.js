@@ -98,6 +98,7 @@ export default {
     yaml: {},
     csv: {}
   },
+  ignore: ['content/.obsidian/', 'content/templates/' ],
   /*
   ** Build configuration
   ** See https://nuxtjs.org/api/configuration-build/

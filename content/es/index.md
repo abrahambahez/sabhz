@@ -3,9 +3,7 @@ title: Bienvenida,o  a mi jardín mental
 description: Un espacio individual sobre tecnología, diseño, filosofía, arte y escritura.
 type: index
 node: ''
-tags: 
-- jardín-mental
-- sabhz
+tags: []
 ---
 
 

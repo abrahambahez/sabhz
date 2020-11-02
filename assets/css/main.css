@@ -21,14 +21,17 @@
     --border-color: silver;
 }
 
+html { height: 100%; }
 html,body{  
-    height: 100%; 
     width: 100%; 
     font-size: var(--base-font);
     line-height: 1.75;
 }
 
 body {
+    min-height: 90%;
+    padding-bottom: 4rem;
+    position: relative;
     font-family: var(--sans), -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
         Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-seriff;
     background-color: var(--bg);
@@ -175,6 +178,7 @@ li {
 }
 
 /* Layout */
+.width-100 {width: 100%;}
 /*layout: display*/
 .block{display:block;}
 .inline{display:inline;}

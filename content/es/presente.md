@@ -3,7 +3,7 @@ title: Qué estoy haciendo
 description: Lista de proyectos activos en los que estoy trabajando actualmente
 type: index
 node: ''
-tags: 
+tags: []
 
 ---
 
