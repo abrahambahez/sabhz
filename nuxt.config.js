@@ -51,7 +51,7 @@ export default {
     '@nuxtjs/global-components'
   ],
   colorMode: {
-    preference: 'system',
+    preference: 'dark',
     fallback: 'dark' // fallback value if not system preference found
   },
   /*
@@ -83,6 +83,15 @@ export default {
     lazy: true
   },
   content: {
+    markdown: {
+      remarkPlugins: () => [
+        ['remark-wiki-link', {
+          pageResolver: (name) => [name.replace(/ /g, '%20')],
+          hrefTemplate: (permalink) => `/${permalink}`,
+          aliasDivider: ' | '
+        }]
+      ]
+    },
     apiPrefix: '_content',
     dir: 'content',
     fullTextSearchFields: ['title', 'description', 'slug', 'text'],

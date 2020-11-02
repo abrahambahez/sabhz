@@ -88,3 +88,8 @@ sw.*
 
 # Vim swap files
 *.swp
+
+# Obsidian related stuff
+
+content/.obsidian/
+content/templates/

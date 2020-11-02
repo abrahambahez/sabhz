@@ -10,13 +10,14 @@ export default {
 
   async asyncData({ $content, params, app, error }) {
     const slug = params.slug || "index";
-  
-    const content = await $content(app.i18n.locale, slug)
+    const locale = app.i18n.locale
+
+    const content = await $content(locale, slug)
       .fetch()
       .catch(err => {
         error({ statusCode: 404, message: "Page not found" });
       });
-
+    console.log(params)
     return { content };
   },
   head() {
