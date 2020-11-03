@@ -14,9 +14,9 @@
 
 .light-mode {
     --color: #020202;
-    --color-primary:  #879383;
-    --color-secondary: #9c9ca4;
-    --bg: #d8d8d9;
+    --color-primary:  #99a47c; /* 879383 */
+    --color-secondary: #879383;
+    --bg: #e8e8e9;
     --bg-secondary: #fff;
     --border-color: silver;
 }

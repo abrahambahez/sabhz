@@ -1,10 +1,12 @@
 <template>
-  <footer class="container flex justify-content-space-between"> 
+  <footer> 
+    <div class="container margin-auto flex justify-content-space-between">
+      <color-switcher />
+      <a href="mailto:tacto@sabhz.com" class="decoration-none secondary sans-light size-08">
+          tacto@sabhz.com
+      </a>
+    </div>
     
-    <color-switcher />
-    <a href="mailto:tacto@sabhz.com" class="decoration-none secondary sans-light size-08">
-        tacto@sabhz.com
-    </a>
 
   </footer>
 </template>
@@ -26,8 +28,7 @@ footer {
   right: 0;
   bottom: 0;
   left: 0;
-  height: 2rem;
+  height: 2.5rem;
   width:100%;
-  margin-left: 25%;
 }
 </style>
