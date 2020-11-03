@@ -3,7 +3,7 @@ title: modos de escritura
 description: 'Escritura como un proceso de construcción de conocimiento'
 type: 'colección'
 node: 'Gestión del conocimiento'
-tags: []
+tags: ['en-construcción']
 ---
 
 La escritura es una forma de ejercicio cognitivo analítico y creativo, de construcción y aprendizaje así como de limpieza y ordenamiento y ordenar la mente. Es una práctica compleja, rigurosa, llema de matices.
@@ -13,38 +13,38 @@ La escritura es una forma de ejercicio cognitivo analítico y creativo, de const
 Estas son algunas téncnicas para escribir como forma de meditación, gestión del trabajo e higiene mental
 
 - métodos de escritura para ordenar la mente:
-	- [[bullet journal]] o BuJo: un método analógico que funge como agenda, diario de pensamientos, creatividad y productividad
+	- **bullet journal** o BuJo: un método analógico que funge como agenda, diario de pensamientos, creatividad y productividad
 	- Strikethru Journal: una alternativa al BuJo enfocada en productividad y no en estética
 - técnicas para ordenar y calmar la mente
-	- [[brain dump]]: una manera de liberar carga cognitiva 
-	- [[escritura contemplativa]]: meditación con escritura
-	- [[gratitude journal]]: Aumentar motivación y sentido del propósito
-	-  [[morning pages]]: Limpiar y ordenar tu cabeza en las mañanas
+	- **brain dump**: una manera de liberar carga cognitiva 
+	- **escritura contemplativa**: meditación con escritura
+	- **gratitude journal**: Aumentar motivación y sentido del propósito
+	-  **morning pages**: Limpiar y ordenar tu cabeza en las mañanas
 
 ## Escribir para pensar
 
-De acuerdo con los [[argumentos sobre toma de notas]], tomar notas constituye la práctica nuclear de generación de conocimiento, creatividad y productividad.
+De acuerdo con los **argumentos sobre toma de notas**, tomar notas constituye la práctica nuclear de generación de conocimiento, creatividad y productividad.
 
-Las notas son las unidades básicas de la práctica escritural, como se ha reconocido desde hace tiempo (sobre todo desde el libro de [[Ahrens (2017) How to Take Smart Notes]]).
+Las notas son las unidades básicas de la práctica escritural, como se ha reconocido desde hace tiempo (sobre todo desde el libro de **Ahrens (2017) How to Take Smart Notes**).
 
 Algunos métodos para organizar la toma de notas como forma de pensamiento son:
 
-- [[zettlekasten]] - escribir y pensar
-- [[LYT framework]] - desarrollado desde Obsidian
+- **zettlekasten** - escribir y pensar
+- **LYT framework** - desarrollado desde Obsidian
 
 Entre las técnicas usadas para eso están:
 
-- [[inbox writing]] - mente
-- [[consilium]] (*Strategic notetaking*) - sirve para desbloquearte de un problema que tengas usando una forma de pensamiento estratégico
+- **inbox writing** - mente
+- **consilium** (*Strategic notetaking*) - sirve para desbloquearte de un problema que tengas usando una forma de pensamiento estratégico
 
 Cuando se consume un medio externo pueden usarse:
 
-- [[Cornell notes]] - escribir
-- [[outline notes]] - escribir
+- **Cornell notes** - escribir
+- **outline notes** - escribir
 
 ## Escritura creativa: narrativas y relatos
 
-#agenda Necesitan desarrollo:
+Necesitan desarrollo:
 
 - Trama mnemotécnica de Annie Lamott: A B C D E - Action, Background, Conflict, Development (chatacter's journey internal-external), End (crisis, climax, consequences).
 - Arco narrativo: inicio, medio y final de una historia - normality, inciting incident, rising action, climax, falling action, resolution.

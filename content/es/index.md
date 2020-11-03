@@ -10,7 +10,7 @@ tags: []
 
 Soy Sergio, *Product Manager* en [KarmaPulse](https://karmapulse.com), estudiante del Doctorado en Ciencias Antropológicas en la [UADY](https://www.uady.mx/) y diseñador web. 
 
-Este es mi jardín mental digital, donde hago público mi trabajo de lectura, investigación y producción alrededor de diversos temas. Puedes ver [[Qué estoy haciendo]] ahora o puedes explorar los índices que elaboro según mis temas o intereses.
+Este es mi jardín mental digital, donde hago público mi trabajo de lectura, investigación y producción alrededor de diversos temas. Puedes ver [[Qué estoy haciendo | qué estoy haciendo]] ahora o puedes explorar los índices que elaboro según mis temas o intereses.
 
 ## Índices destacados
 
