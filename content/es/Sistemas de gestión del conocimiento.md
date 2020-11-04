@@ -1,5 +1,5 @@
 ---
-title: Sistemas de gestión de conocimiento
+title: sistemas de gestión de conocimiento
 description: 'Formas de organización de producción de conocimiento'
 type: 'índice'
 node: 'Gestión del conocimiento'

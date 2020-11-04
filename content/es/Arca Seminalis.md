@@ -13,4 +13,4 @@ Inspirado en la idea del [*seedbox*](https://forum.obsidian.md/t/what-a-seedbox-
 - [[modos de escritura]]
 - [[modos de lectura]]
 - [[praxis disciplinaria]]
-- [[sistema de distribución de opresión y privilegios]]
+- [[sistemas de distribución de opresión y privilegios]]

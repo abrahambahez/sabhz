@@ -1,6 +1,6 @@
 ---
-title: Qué estoy haciendo
-description: Lista de proyectos activos en los que estoy trabajando actualmente
+title: 'qué estoy haciendo'
+description: 'Lista de proyectos activos en los que estoy trabajando actualmente'
 type: ''
 node: ''
 tags: []
@@ -9,7 +9,7 @@ tags: []
 
 Trabajo en mi sistema de gestión de conocimiento personal, que incluye este jardín mental.
 
-Estudio un Doctorado en Ciencias Antropológicas en la [Universidad Autónoma de Yucatán](https://www.uady.mx/). Ahí preparo una tesis sobre Organizaciones de la Sociedad Civil y la dinámica de los [[sistema de distribución de opresión y privilegios]].
+Estudio un Doctorado en Ciencias Antropológicas en la [Universidad Autónoma de Yucatán](https://www.uady.mx/). Ahí preparo una tesis sobre Organizaciones de la Sociedad Civil y la dinámica de los [[sistemas de distribución de opresión y privilegios]].
 
 Trabajo en un propuesta de gestión del conocimiento para [KarmaPulse](https://karmapulse.com).
 
