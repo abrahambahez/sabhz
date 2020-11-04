@@ -3,7 +3,7 @@ title: praxis
 description: ''
 type: 'término'
 node: 'Filosofía'
-tags: []
+tags: ['permanente']
 ---
 
 Toda práctica humana que es guiada por cierto principio estructurante: social-histórico-cultural.

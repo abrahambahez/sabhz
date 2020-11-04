@@ -6,11 +6,11 @@ node: 'Gestión del conocimiento'
 tags: ['en-construcción']
 ---
 
-La escritura es una forma de ejercicio cognitivo analítico y creativo, de construcción y aprendizaje así como de limpieza y ordenamiento y ordenar la mente. Es una práctica compleja, rigurosa, llema de matices.
+La escritura es una forma de ejercicio cognitivo analítico y creativo, de construcción y aprendizaje así como de limpieza y ordenamiento mental. Es una práctica compleja, rigurosa, llena de matices.
 
 ## Escribir para ordenar la mente
 
-Estas son algunas téncnicas para escribir como forma de meditación, gestión del trabajo e higiene mental
+Estas son algunas téncnicas para escribir como forma de meditación, gestión del trabajo e higiene mental.
 
 - métodos de escritura para ordenar la mente:
 	- **bullet journal** o BuJo: un método analógico que funge como agenda, diario de pensamientos, creatividad y productividad

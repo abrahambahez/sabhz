@@ -1,7 +1,14 @@
 <template>
-  <main>
+  <main >
+    <div style="padding-top:25vh;">
+      <p class="container margin-auto serif secondary align-center">{{content.type}}</p>
       <h1 class="container margin-auto"> {{ content.title }} </h1>
-      <nuxt-content class="container margin-auto align-left" :document="content" />
+      <p 
+      class="container margin-auto serif italic secondary align-center"> 
+      <span v-for="tag in content.tags" class="tag-separation"> #{{tag}} </span>
+      </p>
+    </div>
+    <nuxt-content class="container margin-auto align-left" :document="content" />
   </main>
 </template>
 
@@ -35,8 +42,6 @@ export default {
 }
 </script>
 <style >
-main > h1 {
-  padding-top: 25vh;
-}
+
 </style>
 

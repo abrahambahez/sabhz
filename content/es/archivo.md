@@ -1,11 +1,11 @@
 ---
 title: archivo
 description: Listado de todo el contenido del sitio
-type: index
+type: ''
 node: ''
 tags: []
 ---
 
 Bienvenida,o al archivo. Aquí están todas las publicaciones.
 
-<posts-archive>
+<posts-archive>t

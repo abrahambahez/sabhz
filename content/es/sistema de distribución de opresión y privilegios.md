@@ -1,29 +1,50 @@
 ---
 title: sistema de distribución de opresión y privilegios
 description: 'Propuesta de una base de los sistemas verticales de organización social'
-type: 'proposición'
+type: 'argumento'
 node: 'Filosofía'
 tags: ['en-construcción']
 ---
 
-Forma la base de los sistemas verticales de organización social a través de un mecanismo que consiste en lo siguiente:
+## Argumento general
 
-Tiene como centro un **constructo identitario** (¿sólo identitario?) ...
-- Basado en una diferencia *actual*-*positiva*-*fáctica en términos sartre-beauvoirianos* (explorar facticidad)
-	- sexual, hereditaria -fenotípica como la pigmentación de la piel, o social como la familia proletaria-)
-	- vertical: individual y socialmente percibida como inferior ante otra superior
+Forma la base de los *sistemas verticales de organización social* a través de un mecanismo que consiste en lo siguiente:
+
+1. Tiene como centro un **constructo identitario** (¿sólo identitario?) basado en una diferencia *actual*, *positiva* y *fáctica* (en términos sartre-beauvoirianos), que puede ser:
+	- *Biológica o material*: sexual, hereditaria (fenotípica como la pigmentación de la piel), o social, como la familia proletaria o los sistemas de castas
+	- *Vertical*: individual y socialmente percibida como inferior ante otra superior
 	- *Contingente* en términos reales, es decir, insostenible como criterio necesario de marginación o trato diferente
-	- Cargada de interpretaciones sobre el estatus de [[personhood]] de sus miembros, y por lo tant también de [[agencia]]
+	- Cargada de interpretaciones sobre el estatus de [[personhood]] (decidir quiénes pueden ser personas) de sus miembros, y por lo tanto también de [[agencia]] (quienes tienen capacidad o derecho de actuar)
+2. ... a partir del cual *se clasifica* a las personas (se las agrupa en una clase), y 
+3. ... se organiza la vida social, estructurándose desigualmente.
+4. Está históricamente construida de forma *ego-centrista* (donde ego es un prefijo intercambiable: *etno-, andro-, albo-, antropo-, ...* ) orientado a dotar de [[personhood]]  a unos y quitarles el *yo-ego* a los otros.
+5. Los valores considerados privilegiados de estos constructos identitarios suelen intersectarse, históricamente, en una misma clase de personas: Un hombre blanco, heterosexual, capitalista, etcétera.
 
-... a partir del cual *se clasifica* a las personas (se las agrupa en una clase)
+## Ejemplos
 
-y se organiza la actividad social, estructurándose desigualmente
+Un esquema muy burdo puede dar una idea de la fórmula anterior. Según veo es la forma general que comparten todos estos ejemplos independientemente de su desarrollo histórico particular:
 
-Está históricamente construida de forma *ego-centrista* (donde ego es un prefijo intercambiable: *etno-, falo-, albo-, especie-, ...* ) orientado a dotar de [[personhood]] a unos y quitarles el *yo-ego* a los otros.
+- El patriarcado
+	- El androcentrismo y sus derivados
+- El racismo
+	- El etnocentrismo
+- El especismo
+	- El antropocentrismo
+- El clasismo
+	- El elitismo hegemónico (tecnocracias, *gnoseocentrismo*)
+
+A cada uno le corresponde una especie de resistencia o *lucha social* que también se transforma históricamente y que implica distintos postulados desde formas muy diversas de ver el mundo y sus valores centrales, como la justicia y la equidad, etcétera.
 
 ## Mecanismos de operación
 
-- La destrucción histórica es uno de los mecanismos con los que un sistema de distribución de opresión y privilegios opera como **negación**
+Se suele dar por hecho que estos sistemas dependen de algún tipo de *coacción* por parte de la clase privilegiada, porque en el fondo se cree que cualquier grupo humano que resulte oprimido por alguno de esos valores *no quiere, a priori, pertenecer a un sistema que lo considere inferior*.
+
+- La violencia directa es un mecanismo muy evidente que puede reflejar una capa histórica y establecida más directa: la violencia estructural
+- La violencia estructural
+	- La destrucción histórica es uno de los mecanismos con los que un sistema de distribución de opresión y privilegios opera como **negación**
+
+Sin embargo también se ha admitido que existen otros mecanismos *no coaccionantes*, sino más bien *persuasivos*, en los que cualquier grupo humano que resulta oprimido por alguno de esos valores *sí quiere pertenecer a ese sistema*, y eso no significa que *quiera ser oprimido*, sino que *vive alienado o falsamente convencido de que puede acceder al segmento privilegiado* de alguna forma. En cualquier caso, la idea *apriorística* de que nadie quiere vivir oprimido se conserva.
+
 
 ## Exploración futura
 

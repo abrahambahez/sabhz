@@ -19,11 +19,11 @@ Pero la atribución implica al *atribuyente*, que es a su vez considerado un suj
 Existen casos de atribución de agencia:
 
 - En los seres vivos
-	- A veces sólo del reino *animalia*, a veces sólo del *homo sapiens*, a veces sólo de algunos con ciertas características particulares
+	- A veces sólo del reino *animalia*, a veces sólo del *homo sapiens*, a veces sólo de algunos *homo sapiens* con ciertas características particulares
 - En los objetos
 - En los rituales
 
-Explorar este problema implica un trabajo histórico y antropológico más que filosófico. Por eso existe la arqueología de la agencia
+Explorar este problema implica un trabajo histórico y antropológico más que filosófico. Por eso existe la arqueología de la agencia.
 
 ## Hipótesis
 

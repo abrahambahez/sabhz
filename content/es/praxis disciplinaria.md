@@ -3,7 +3,7 @@ title: praxis disciplinaria
 description: ''
 type: 'término'
 node: 'Arca Seminalis'
-tags: []
+tags: ['en-construcción']
 ---
 
 Un tipo de [[praxis]] particular, derivada de la formación académica de un *investigador*, (productor de conocimiento o *knowledge worker*), implica que hay diferencias en varias dimensiones de procedimiento, mirada, teoría y metodología.

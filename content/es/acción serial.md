@@ -3,7 +3,7 @@ title: acción serial
 description: 'Forma de actuación no relacionada con la estructura, sino más bien con el azar, la facticidad o la contingencia'
 type: 'término'
 node: 'Filosofía'
-tags: []
+tags: ['en-construcción']
 ---
 
 Muchos de los colectivos socialmente constituidos pueden ser mejor entendidos como series, es decir, como el efecto inamovible de acciones separadas, en lugar de grupos sociales o categorías como tal.

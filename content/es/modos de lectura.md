@@ -2,7 +2,7 @@
 title: modos de lectura
 description: 'Lectura como una estrategia de construcción de conocimiento'
 type: 'colección'
-node: 'Gestión de conocimiento'
+node: 'Gestión del conocimiento'
 tags: ['en-construcción']
 ---
 
