@@ -18,10 +18,10 @@ Este es mi [jardín digital](https://www.technologyreview.es/s/12606/jardines-di
 
 Aquí destaco y retrabajo varios de los índices y referencias más inmediatos. 
 
-1. [[Arca Seminalis]]:  Semillas - pensamientos que deben pasar la prueba del tiempo y la maduración adecuada para convertirse en ideas sólidaz y nutridas.
+1. [[Arca Seminalis]]:  Semillas - pensamientos que deben pasar la prueba del tiempo y la maduración adecuada para convertirse en ideas sólidas y nutridas.
 2. [[Codex Vitalis]]: Creencias personales sobre el mundo para entender mejor cómo el nuevo conocimiento que adquiero se integra o entra en conflicto con mi conocimiento anterior
-3. [[Sistemas de gestión del conocimiento]]: Investigaciones alrededor de las prácticas de producción de conocimiento en el contexto del [[capitalismo cognitivo]]
-4. [[Sistema de distribución de opresión y privilegios]]: Parte de mi intenso interés personal en entender las formas de desigualdad social. Es una semilla a la que le veo mucho potencial
+3. [[sistemas de gestión del conocimiento]]: Investigaciones alrededor de las prácticas de producción de conocimiento en el contexto del [[capitalismo cognitivo]]
+4. [[sistema de distribución de opresión y privilegios]]: Parte de mi intenso interés personal en entender las formas de desigualdad social. Es una semilla a la que le veo mucho potencial
 
 
 ## Nodos
