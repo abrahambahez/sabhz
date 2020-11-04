@@ -23,7 +23,6 @@ export default {
     methods: {
         getQuery: function(query) {
             this.$emit('getQuery', query);
-            console.log('child ' + query)
         }
     }
 }

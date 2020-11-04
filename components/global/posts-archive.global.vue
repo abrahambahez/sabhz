@@ -34,11 +34,19 @@ export default {
         }
     },
     async fetch() {
-        return this.posts = await this.$content(this.$i18n.locale)
-        .where({ node: { $ne: ''} })
-        .sortBy(this.sorting)
-        .search(this.query)
-        .fetch()
+        if( this.query == '' ) {
+            return this.posts = await this.$content(this.$i18n.locale)
+            .where({ type: { $ne: ''} })
+            .sortBy(this.sorting)
+            .fetch()
+        } else {
+            return this.posts = await this.$content(this.$i18n.locale)
+            .where({ type: { $ne: ''} })
+            .sortBy(this.sorting)
+            .search(this.query)
+            .fetch()
+        }
+        
     }
 }
 </script>
