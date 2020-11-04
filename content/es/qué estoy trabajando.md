@@ -1,5 +1,5 @@
 ---
-title: 'qué estoy haciendo'
+title: 'Qué estoy haciendo'
 description: 'Lista de proyectos activos en los que estoy trabajando actualmente'
 type: ''
 node: ''
