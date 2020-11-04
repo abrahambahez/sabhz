@@ -14,3 +14,5 @@ Las unidades básicas del trabajo intelectual bien podrían ser el *aprendizaje*
 
 - [[modos de lectura]]
 - [[modos de escritura]]
+
+A través de mi [[sistema personal de toma de notas]] trato de desarrollar una teoría y una práctica de la producción de conocimiento.
