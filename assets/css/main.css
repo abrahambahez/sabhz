@@ -20,7 +20,7 @@
     --color-primary:  #99a47c;
     --color-secondary: #879383;
     --link-color: #8f8079;
-    --bg: #d8d8d9;
+    --bg: #e8e8e9;
     --bg-secondary: #fff;
     --border-color: silver;
 }
@@ -57,12 +57,11 @@ a:hover {
 a[target="_blank"]:after {
     content: "\00a0" "open_in_new";
     font-family: 'Material Icons';
-    font-size: .75rem;
     color: var(--color-secondary);
     text-decoration: none !important;
 }
 
-a[target="_blank"]:hover:after {
+a[target="_blank"]:hover::after {
     text-decoration: none !important;
 }
 
@@ -72,21 +71,23 @@ h1, .nuxt-content h1 {
     text-align: center;
     font-weight: 400;
     font-size: 3rem;
-    line-height: 3.5rem;
+    line-height: 3.25rem;
     padding-bottom: 1.5rem;
 }
 h2, .nuxt-content h2 {
     color: var(--color-primary);
     font-family: var(--serif);
     font-weight: 700;
-    font-size: 2.125rem;
-    line-height: 3rem;
+    font-size: 2rem;
+    line-height: 2.5rem;
     padding-bottom: 1.5rem;
 }
 h3, .nuxt-content h3 {
     font-family: var(--serif);
     color: var(--color-primary);
-    font-weight: 400;
+    font-weight: 700;
+    font-variant: small-caps;
+    text-transform: lowercase;
     font-size: 1.5rem;
     line-height: 2.125rem;
     padding-bottom: 1.25rem;
@@ -94,8 +95,6 @@ h3, .nuxt-content h3 {
 h4, .nuxt-content h4 {
     font-family: var(--serif);
     color: var(--color-primary);
-    font-variant: small-caps;
-    text-transform: lowercase;
     font-weight: 700;
     font-size: 1.25rem;
     line-height: 2.25rem;
@@ -104,13 +103,13 @@ h4, .nuxt-content h4 {
 h5, .nuxt-content h5 {
     font-family: var(--serif);
     color: var(--color-primary);
-    font-weight: 400;
+    font-weight: 700;
     font-size: 1.125rem;
 }
 h6, .nuxt-content h6 {
     font-family: var(--serif);
     color: var(--color-primary);
-    font-weight: 400;
+    font-weight: 700;
     font-size: 1rem;
 }
 p, .nuxt-content p {
