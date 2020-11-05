@@ -12,5 +12,5 @@ Este pretende ser mi sistema personal de notas, orientado a la [[gestión del co
  
 - **Filosofía de la emergencia ontológica** (ver [[propiedades emergentes]]): Las ontologías deben surgir, no prescribirse *a priori*
 - **Máxima horizontalidad**: no crear carpetas, basar todo en enlaces y en índices
-- notas de cimentación ( ver la [[taxonomía general de notas]])
+- Desarrollar una [[taxonomía general de notas]] que permita evaluar el desarrollo de las ideas a lo largo del tiempo
 - [[una buena nota explota todos sus componentes para facilitar el trabajo cognitivo y la vinculación]]

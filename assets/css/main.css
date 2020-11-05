@@ -6,7 +6,7 @@
     --color-secondary: #b1b3b2;
     --link-color: #99a47c;
     --bg: #202020;
-    --bg-secondary: black;
+    --bg-secondary: #121212;
     --border-color: #666;
     --sans: "Public Sans";
     --serif: "Crimson Text";
@@ -52,6 +52,18 @@ a:hover {
     color: var(--color);
     text-decoration: underline;
     transition: all .25s ease;
+}
+
+a[target="_blank"]:after {
+    content: "\00a0" "open_in_new";
+    font-family: 'Material Icons';
+    font-size: .75rem;
+    color: var(--color-secondary);
+    text-decoration: none !important;
+}
+
+a[target="_blank"]:hover:after {
+    text-decoration: none !important;
 }
 
 h1, .nuxt-content h1 {
@@ -108,6 +120,16 @@ ul {
     list-style: disc outside;
 }
 
+.nuxt-content img {
+    width:100%;
+}
+code, pre .nuxt-content code, .nuxt-content pre {
+    color: var(--color-primary);
+    background-color: var(--bg-secondary);
+    border: solid .025rem var(--border-color);
+    padding: 0 .25rem;
+    border-radius: .25rem;
+}
 /*
 li:last-of-type {   
     margin-bottom: 1.5rem;
