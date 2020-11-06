@@ -1,6 +1,6 @@
 <template>
   <footer> 
-    <div class="container margin-auto flex justify-content-space-between">
+    <div class="container flex justify-content-space-between">
       <color-switcher />
       <a href="mailto:tacto@sabhz.com" class="decoration-none secondary sans-light size-08">
           tacto@sabhz.com
@@ -30,5 +30,8 @@ footer {
   left: 0;
   height: 2.5rem;
   width:100%;
+}
+footer > div {
+  margin: 4rem auto 1.5rem auto;
 }
 </style>

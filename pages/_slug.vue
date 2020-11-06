@@ -5,10 +5,12 @@
       <h1 class="container margin-auto"> {{ content.title }} </h1>
       <p 
       class="container margin-auto serif italic secondary align-center"> 
-      <span v-for="tag in content.tags" class="tag-separation"> #{{tag}} </span>
+      <span v-for="tag in content.tags" class="tag-separation" :key="tag"> #{{tag}} </span>
       </p>
     </div>
     <nuxt-content class="container margin-auto align-left" :document="content" />
+    <backlinks-view v-show="content.type != '' " :filterTerm="content.node"/>
+
   </main>
 </template>
 

@@ -87,12 +87,14 @@ export default {
     markdown: {
       remarkPlugins: () => [
         ['remark-wiki-link', {
-          pageResolver: (name) => [name.replace(/ /g, '%20')],
+          pageResolver: (name) => [name.replace(/ /g, '%20').toLowerCase()],
           hrefTemplate: (permalink) => `/${permalink}`,
           aliasDivider: ' | '
         }]
       ]
     },
+    liveEdit: false,
+    //nestedProperties: ['toc[].id'],
     apiPrefix: '_content',
     dir: 'content',
     fullTextSearchFields: ['title', 'description', 'slug', 'text'],

@@ -6,8 +6,6 @@ node: ''
 tags: []
 ---
 
-
-
 ¡Hola 👋🏽! Soy Sergio, *Product Manager* en [KarmaPulse](https://karmapulse.com), estudiante del doctorado en Ciencias Antropológicas en la [UADY](https://www.uady.mx/) y diseñador web.
 
 ## ¿Qué es esto?
@@ -32,5 +30,5 @@ Aquí destaco y retrabajo varios de los índices y referencias más inmediatos.
 2. [[Codex Vitalis]]: Creencias personales sobre el mundo para entender mejor cómo el nuevo conocimiento que adquiero se integra o entra en conflicto con mi conocimiento anterior
 3. [[gestión del conocimiento]]: Investigaciones alrededor de las prácticas de producción de conocimiento en el contexto del [[capitalismo cognitivo]]. De esas destaco
 5. [[sistemas de distribución de opresión y privilegios]]: Parte de mi intenso interés personal en entender las formas de desigualdad social. Es una semilla a la que le veo mucho potencial
-6. La idea de los [[modos de vida]]me interesa mucho , pues me pienso como una persona que, en general, está inconforme con los modos de vida que se ofrecen como *'alternativas'* al propio y quiero entender por qué.
+6. La idea de los [[modos de vida]] me interesa mucho, pues me pienso como una persona que, en general, está inconforme con los modos de vida que se ofrecen como *'alternativas'* al propio y quiero entender por qué.
 

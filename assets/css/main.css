@@ -21,7 +21,7 @@
     --color-secondary: #a0aa9c;
     --link-color: #8f8079;
     --bg: #e8e8e9;
-    --bg-secondary: #f8f8f9;
+    --bg-secondary: #dededf;
     --border-color: silver;
 }
 
@@ -87,8 +87,6 @@ h3, .nuxt-content h3 {
     font-family: var(--serif);
     color: var(--color-primary);
     font-weight: 700;
-    font-variant: small-caps;
-    text-transform: lowercase;
     font-size: 1.5rem;
     line-height: 2.125rem;
     padding-bottom: 1.25rem;
@@ -119,6 +117,8 @@ p, .nuxt-content p {
 ul {
     list-style: disc outside;
 }
+
+
 li {
     margin-left: 0;
 }
@@ -129,7 +129,7 @@ code, pre .nuxt-content code, .nuxt-content pre {
     color: var(--color-primary);
     background-color: var(--bg-secondary);
     border: solid .025rem var(--border-color);
-    padding: 0 .25rem;
+    padding: 0 .3rem;
     border-radius: .25rem;
 }
 
@@ -141,6 +141,10 @@ blockquote {
 	padding-left: 2rem;
 }
 
+hr {
+    margin: 4rem 0;
+    border: .025rem solid var(--border-color);
+}
 /*
 li:last-of-type {   
     margin-bottom: 1.5rem;
