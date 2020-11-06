@@ -2,7 +2,7 @@
 title: capitalismo cognitivo
 description: 'Fase del capitalismo basada en el conocimiento especializado globalizador'
 type: 'término'
-node: 'Gestión del conocimiento'
+node: 'gestión del conocimiento'
 tags: ['en-construcción']
 ---
 

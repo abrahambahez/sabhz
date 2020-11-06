@@ -2,7 +2,7 @@
 title: sistemas de gestión de conocimiento
 description: 'Formas de organización de producción de conocimiento'
 type: 'índice'
-node: 'Gestión del conocimiento'
+node: 'gestión del conocimiento'
 tags: ['permanente-actualización']
 ---
 

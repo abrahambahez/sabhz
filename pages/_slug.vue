@@ -9,7 +9,7 @@
       </p>
     </div>
     <nuxt-content class="container margin-auto align-left" :document="content" />
-    <backlinks-view v-show="content.type != '' " :filterTerm="content.node"/>
+    <backlinks-view v-show="content.type != '' " :filterTerm="content.node" :selfPath="content.path" />
 
   </main>
 </template>

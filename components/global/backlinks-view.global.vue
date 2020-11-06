@@ -27,17 +27,21 @@ export default {
     props: {
         filterTerm: {
             type: String
+        },
+        selfPath: {
+            type: String
         }
     },
     async fetch() {
 
         return this.backlinkPosts = await this.$content(this.$i18n.locale)
-        .only(['title', 'description', 'slug'])
-        .where({ 'node' : { $eq: this.filterTerm} })
-        .sortBy(this.sorting)
+        .only(['title', 'description', 'slug', 'path'])
+        .where( { 
+            'node' : { $eq: this.filterTerm },
+            'path' : { $ne: this.selfPath }
+        })
+        .sortBy('title')
         .fetch()
-
-        
     }
 }
 </script>

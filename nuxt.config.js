@@ -87,7 +87,7 @@ export default {
     markdown: {
       remarkPlugins: () => [
         ['remark-wiki-link', {
-          pageResolver: (name) => [name.replace(/ /g, '%20').toLowerCase()],
+          pageResolver: (name) => [name.replace(/ /g, '%20')],
           hrefTemplate: (permalink) => `/${permalink}`,
           aliasDivider: ' | '
         }]
