@@ -14,7 +14,6 @@ Los modos de vida son estructuras conceptuales que contienen un **mundo conceptu
 
 ## Lectura posterior
 
-*#agenda*
 - [La cultura de los "trabajadores" autónomos](https://recyt.fecyt.es/index.php/sociologiatrabajo/article/view/59503)
 - [Small Facts and Large Issues: The Anthropology of Contemporary Scandinavian Society](https://www.jstor.org/stable/2155886?seq=1)
 - [Transformation & modes of production](https://www.researchgate.net/publication/312835836_Transformation_and_Modes_of_Production)

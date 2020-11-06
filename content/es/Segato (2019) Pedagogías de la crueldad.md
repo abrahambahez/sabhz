@@ -1,5 +1,5 @@
 ---
-title: Pedagogías de la crueldad
+title: 'Segato (2019) Pedagogías de la crueldad'
 description: 'Enfoque teórico de la feinista Rita Laura Segato'
 type: 'nota de referencia'
 node: 'Feminismo'

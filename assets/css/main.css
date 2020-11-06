@@ -18,10 +18,10 @@
 .light-mode {
     --color: #202020;
     --color-primary:  #99a47c;
-    --color-secondary: #879383;
+    --color-secondary: #a0aa9c;
     --link-color: #8f8079;
     --bg: #e8e8e9;
-    --bg-secondary: #fff;
+    --bg-secondary: #f8f8f9;
     --border-color: silver;
 }
 
@@ -58,6 +58,7 @@ a[target="_blank"]:after {
     content: "\00a0" "open_in_new";
     font-family: 'Material Icons';
     color: var(--color-secondary);
+    vertical-align: bottom;
     text-decoration: none !important;
 }
 
@@ -118,7 +119,9 @@ p, .nuxt-content p {
 ul {
     list-style: disc outside;
 }
-
+li {
+    margin-left: 0;
+}
 .nuxt-content img {
     width:100%;
 }
@@ -129,6 +132,15 @@ code, pre .nuxt-content code, .nuxt-content pre {
     padding: 0 .25rem;
     border-radius: .25rem;
 }
+
+blockquote {
+    margin: 1rem 1.25rem;
+    font-size: 1rem;
+	opacity: .8;
+	border-left: 2px solid var(--border-color);
+	padding-left: 2rem;
+}
+
 /*
 li:last-of-type {   
     margin-bottom: 1.5rem;
