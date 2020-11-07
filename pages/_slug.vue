@@ -9,25 +9,29 @@
       </p>
     </div>
     <nuxt-content class="container margin-auto align-left" :document="content" />
-    <backlinks-view v-show="content.type != '' " :filterTerm="content.node" :selfPath="content.path" />
+    <backlinks-view v-if="showBacklinks" :filterTerm="content.node" :selfPath="content.path" />
 
   </main>
 </template>
 
 <script>
 export default {
-
+  data () {
+    return {
+      content: {},
+      showBacklinks: true
+    }
+  },
   async asyncData({ $content, params, app, error }) {
     const slug = params.slug || "index";
     const locale = app.i18n.locale
-
     const content = await $content(locale, slug)
       .fetch()
       .catch(err => {
         error({ statusCode: 404, message: "Page not found" });
       });
-    console.log(params)
-    return { content };
+    const showBacklinks = content.type === '' || content.type === 'índice' ? false : true;
+    return { content, showBacklinks};
   },
   head() {
     return {

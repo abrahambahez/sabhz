@@ -2,7 +2,7 @@
 title: agencia
 description: 'Capacidad de acción atribuible a un sujeto'
 type: 'término'
-node: 'Filosofía'
+node: 'antropología'
 tags: ['en-construcción']
 ---
 

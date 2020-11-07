@@ -6,7 +6,7 @@
     --color-secondary: #b1b3b2;
     --link-color: #99a47c;
     --bg: #202020;
-    --bg-secondary: #232323;
+    --bg-secondary: #333;
     --border-color: #666;
     --sans: "Public Sans";
     --serif: "Crimson Text";
@@ -50,7 +50,7 @@ a {
 
 a:hover {
     color: var(--color);
-    text-decoration: underline;
+    background-color: var(--bg-secondary);
     transition: all .25s ease;
 }
 
@@ -148,17 +148,17 @@ li:last-of-type {
 
 /* responsive layouts*/
 
-.container{max-width: 85%;}
+.container{max-width: 90%;}
 
 @media screen and (min-width: 600px) {
 
     html,body {font-size: 1.1rem;}
-    .container{max-width: 60%;}
+    .container{max-width: 80%;}
 }
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 900px) {
 
     h1 {font-size: 3rem;}
-    .container{max-width: 50%;}
+    .container{max-width: 650px;}
 }
 
 /*--UTILITIES--*/

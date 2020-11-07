@@ -2,7 +2,7 @@
 title: 'Segato: Las estructuras elementales de la violencia'
 description: 'Dinámica de interacción violenta emanada de las pedagogías de la crueldad'
 type: 'nota de referencia'
-node: 'Feminismo'
+node: 'feminismo'
 tags: ['procesar-notas-permanentes']
 ---
 

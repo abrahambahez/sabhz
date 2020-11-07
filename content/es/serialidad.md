@@ -2,7 +2,7 @@
 title: serialidad
 description: 'Concepto sartreano de grupos determinados alienantemente'
 type: 'término'
-node: 'Filosofía'
+node: 'filosofía'
 tags: ['agenda']
 ---
 

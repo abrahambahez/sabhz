@@ -2,7 +2,7 @@
 title: Højrup (2017) State, Culture and Life-Modes
 description: 'El concepto antropológico de modo de vida para explicar la heterogeneidad cultural incluso en grupos afines ideológicamente'
 type: 'nota de referencia'
-node: 'Antropología'
+node: 'antropología'
 tags: ['procesamiento-inicial', 'agenda']
 ---
 

@@ -2,7 +2,7 @@
 title: sistema de distribución de opresión y privilegios
 description: 'Propuesta de una base de los sistemas verticales de organización social'
 type: 'argumento'
-node: 'Filosofía'
+node: 'filosofía'
 tags: ['en-construcción']
 ---
 

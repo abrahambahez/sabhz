@@ -3,7 +3,7 @@ title: 'taxonomía general de notas'
 description: 'taxonomía personal de toma de notas'
 type: 'colección'
 node: 'gestión del conocimiento'
-tags: ['en-maduración']
+tags: ['permanente']
 ---
 
 Existen tres clases de metadatos asociados a una nota: 

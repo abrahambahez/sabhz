@@ -2,7 +2,7 @@
 title: 'tensión entre el feminismo y las luchas de género'
 description: 'Por qué algunas corrientes feministas chocan con las luchas de género'
 type: 'argumento'
-node: 'Feminismo'
+node: 'feminismo'
 tags: ['en-construcción']
 ---
 

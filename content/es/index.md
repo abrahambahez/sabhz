@@ -1,26 +1,24 @@
 ---
-title: 'Bienvenida,o a mi jardín digital'
+title: 'Jardín digital de Sergio'
 description: 'Un espacio individual sobre tecnología, diseño, filosofía, arte y escritura.'
 type: ''
 node: ''
 tags: []
 ---
 
-¡Hola 👋🏽! Soy Sergio, *Product Manager* en [KarmaPulse](https://karmapulse.com), estudiante del doctorado en Ciencias Antropológicas en la [UADY](https://www.uady.mx/) y diseñador web.
+¡Bienvenida,o 👋🏽! Soy Sergio, me considero a mí mismo un [[trabajador cognitivo]]. En la práctica, trabajo en [KarmaPulse](https://karmapulse.com) definiendo productos digitales, estudio un doctorado en Ciencias Antropológicas en la [Universidad Autónoma de Yucatán](https://www.uady.mx/), diseño páginas web y escribo aquí sobre investigaciones personales.
 
 ## ¿Qué es esto?
 
 Este es mi [jardín digital](https://www.technologyreview.es/s/12606/jardines-digitales-la-respuesta-espiritual-la-futilidad-de-las-redes-sociales), donde hago público mi trabajo de lectura, investigación y producción alrededor de diversos temas, que elijo libremente. 
 
-Puedes ver [[qué estoy trabajando]] ahora o puedes explorar el contenido abajo.
+## ¿Cómo explorarlo?
 
-### ¿Cómo explorarlo?
+Esto no es un blog. No hay una forma predeterminada de navegar en el sitio, porque está diseñado según mi [[sistema personal de toma de notas]], que busca dos cosas:
 
-Esto no es un blog. No hay una navegación jerárquica, este sitio está diseñado según ciertos principios:
+1. Reflejar una [[esbozos para una teoría del trabajo cognitivo]]
+2. Concretar una práctica que busca mejorar la construcción de mi conocimiento individual
 
-- Mira mi [[sistema personal de toma de notas]], que cumpe al menos dos funciones
-- De él se desprende la idea de una filosofía del trabajo cognitivo (ver [[argumentos sobre la toma de notas]])
-- Y también una práctica que busca mejorar la construcción de mi conocimiento individual (ver [[taxonomía general de notas]]).
 
 ## Nodos
 

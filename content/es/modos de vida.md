@@ -2,7 +2,7 @@
 title: modos de vida
 description: ''
 type: 'término'
-node: 'Antropología'
+node: 'antropología'
 tags: ['en-construcción']
 ---
 

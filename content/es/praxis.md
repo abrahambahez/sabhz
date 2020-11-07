@@ -2,7 +2,7 @@
 title: praxis
 description: ''
 type: 'término'
-node: 'Filosofía'
+node: 'filosofía'
 tags: ['permanente']
 ---
 

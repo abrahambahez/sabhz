@@ -2,7 +2,7 @@
 title: 'propiedades emergentes'
 description: 'Cualidades de los sistemas complejos que emergen de ciertos estados de organización'
 type: 'término'
-node: 'Filosofía'
+node: 'filosofía'
 tags: ['en-construcción']
 ---
 

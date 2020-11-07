@@ -2,7 +2,7 @@
 title: praxis disciplinaria
 description: ''
 type: 'término'
-node: 'Arca Seminalis'
+node: 'gestión del conocimiento'
 tags: ['en-construcción']
 ---
 
