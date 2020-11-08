@@ -1,6 +1,6 @@
 ---
 title: praxis
-description: ''
+description: 'Las prácticas de los sujetos que implican la reproducción de principios estructurantes'
 type: 'término'
 node: 'filosofía'
 tags: ['permanente']

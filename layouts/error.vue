@@ -6,7 +6,7 @@
     </div>
      <div v-else>
         <h1>Ocurrió un error inesperado 🐱‍💻</h1>
-        <p>Lo siento, parece que ocurrió un error con el enlace</p>
+        <p class="container margin-auto align-center">Lo siento, parece que ocurrió un error con el enlace</p>
     </div>   
     <div class="container margin-auto align-center">
         <NuxtLink to="/">vuelve al inicio</NuxtLink>

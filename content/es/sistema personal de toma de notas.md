@@ -1,5 +1,5 @@
 ---
-title: 'sitema personal de toma de notas'
+title: 'sistema personal de toma de notas'
 description: 'Cómo gestiono mi trabajo cognitivo'
 type: 'índice'
 node: 'gestión del conocimiento'
