@@ -5,7 +5,7 @@
         <p class="container margin-auto align-center">Lo siento, parece que ocurrió un error con el enlace</p>
     </div>
      <div v-else>
-        <h1>Ocurrió un error inesperado 🐱‍💻</h1>
+        <h1>Ocurrió un error 🐱‍💻</h1>
         <p class="container margin-auto align-center">Lo siento, parece que ocurrió un error con el enlace</p>
     </div>   
     <div class="container margin-auto align-center">

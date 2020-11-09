@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,700;1,400&family=Public+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-
 :root {
-    --color: #f8f8f9;
+    --color: #f2f2f3;
     --color-primary: #bbaea8;
     --color-secondary: #b1b3b2;
     --link-color: #99a47c;
@@ -20,8 +19,8 @@
     --color-primary:  #99a47c;
     --color-secondary: #9ba398;
     --link-color: #8f856e;
-    --bg: #e8e8e9;
-    --bg-secondary: #dededf;
+    --bg: #f2f2f3; 
+    --bg-secondary: #e8e8e9;
     --border-color: silver;
 }
 
@@ -30,6 +29,7 @@ html,body{
     width: 100%; 
     font-size: var(--base-font);
     line-height: 1.75;
+    font-weight: var(--regular);
 }
 
 body {
