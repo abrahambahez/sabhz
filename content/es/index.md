@@ -23,6 +23,6 @@ Además de eso tengo dos colecciones de pensamientos, a manera de experimento pe
 1. [[Arca Seminalis]], también lo llamo *cofre de semillas*, aquí colecciono ideas propias que están siendo evaluadas ante la prueba del tiempo y mi interés personal
 2. [[Codex Vitalis]], es una especie de *mapa* de creencias, que contiene mis opiniones sobre diversos temas, con el fin de reflexionar y entender mejor cuando un nuevo conocimiento entra en conflicto o comunión con ellas.
 
----
+
 
 > Parte importante de este experimento es recibir retroalimentación de cualquier persona. Escríbeme con libertad a [tacto@sabhz.com](mailto:tacto@sabhz.com)

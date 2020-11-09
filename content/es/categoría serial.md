@@ -6,10 +6,10 @@ node: 'filosofía'
 tags: ['incipiente']
 ---
 
-Una [[acción serial]] se convierte en una cateogoría serial cuando es constantemente repetida, por ejemplo, un estudiante que toma el autobús todos los días a las 8am.
+Una [[acción serial]] se convierte en una cateogoría serial cuando es constantemente repetida, por ejemplo, un estudiante que toma el autobús todos los días a las 8am para estudiar arquitectura en la universidad.
 
-- La repetición no tiene impacto en las dimensiones estructurales más complejas del individuo, por ejemplo, su identidad: Un estudiante querría definirse a sí mismo como un *futuro arquitecto* más que como una *persona públicamente transportada a las 8am*
-- A pesar del punto anterior, una categoría seríal sí podría reflejar indirectamente una condición estructural: Suele haber *más mujeres adultas* esperando el autobús porque *son los varones quienes usan* el automóvil familiar.
+- La repetición no tiene impacto en las dimensiones estructurales más complejas del individuo, por ejemplo, su identidad: el estudiante querría definirse a sí mismo como un *futuro arquitecto* más que como una *persona públicamente transportada diariamente a las 8am*
+- A pesar del punto anterior, una categoría seríal sí podría reflejar indirectamente una condición estructural: puede haber *más mujeres adultas* esperando el autobús porque *son los varones adultos* quienes usan el automóvil familiar.
 
 Hay un desarrollo de este concepto en Johannesen (2004) pero su origen es la idea de [[serialidad]] sartreana.
 

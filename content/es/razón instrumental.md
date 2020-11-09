@@ -1,6 +1,6 @@
 ---
 title: 'razón instrumental'
-description: 'Uso técnico de la racionalidad para alcanzar fines '
+description: 'Uso técnico de la racionalidad para alcanzar fines definidos segun criterios utilitarios'
 type: 'término'
 node: 'capitalismo cognitivo'
 tags: ['incipiente']
