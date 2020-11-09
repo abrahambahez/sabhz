@@ -6,7 +6,8 @@ node: ''
 tags: []
 ---
 
-- Mi nombre completo es Sergio Abraham Barrera Hernández, nací en la Ciudad de México en 1990
+- Mi nombre completo es Sergio Abraham Barrera Hernández, de ahí el nombre del sitio (sabhz), lo suficientemente feo para garantizar que nadie lo tomará
+- Nací en la Ciudad de México en 1990
 - Soy licenciado en Comunicación por la Universidad Nacional Autónoma de México
 - Creo en la [[polimatía]] como proyecto personal de vida y como proyecto eductativo del futuro, por eso:
 - Soy aficionado a la filosofía y las humanidades, pero también, últimamente, a la programación e incluso espero en el mediano plazo estudiar con más seriedad algunos campos de las matemáticas
