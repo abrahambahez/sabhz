@@ -2,7 +2,7 @@
 title: 'una buena nota explota todos sus componentes para facilitar el trabajo cognitivo y la vinculación'
 description: 'Cómo resolver el problema de la estructuración cuantittiva y la finura cualitativa de una nota'
 type: 'proposición'
-node: 'gestión del conocimiento'
+node: 'sistema de toma de notas'
 tags: ['en-construcción', 'agenda']
 ---
 

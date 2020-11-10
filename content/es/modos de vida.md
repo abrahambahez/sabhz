@@ -1,6 +1,6 @@
 ---
 title: modos de vida
-description: ''
+description: 'formas en que las condiciones de existencia individual y social están organizadas y buscan autorreproducirse'
 type: 'término'
 node: 'antropología'
 tags: ['en-construcción']

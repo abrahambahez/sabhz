@@ -55,10 +55,9 @@ a:hover {
 }
 
 a[target="_blank"]:after {
-    content: "\00a0" "open_in_new";
+    content: "\00a0" "\1F865";
     font-family: 'Material Icons';
-    color: var(--color-secondary);
-    vertical-align: bottom;
+    
 }
 
 h1, .nuxt-content h1 {

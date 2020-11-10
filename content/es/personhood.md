@@ -1,6 +1,6 @@
 ---
 title: personhood
-description: ''
+description: 'el atributo que se le puede dar a personas, cosas o entidades de *ser una persona*'
 type: 'término'
 node: 'antropología'
 tags: ['en-construcción']

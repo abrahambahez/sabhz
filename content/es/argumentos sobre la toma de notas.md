@@ -2,7 +2,7 @@
 title: 'argumentos sobre la toma de notas'
 description: 'A partir de la aplicación Obsidian esbozo algunos argumentos sobre la toma de notas'
 type: 'argumento'
-node: 'gestión del conocimiento'
+node: 'sistema de toma de notas'
 tags: ['nota-permanente']
 ---
 

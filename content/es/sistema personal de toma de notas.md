@@ -2,7 +2,7 @@
 title: 'sistema personal de toma de notas'
 description: 'Cómo gestiono mi trabajo cognitivo'
 type: 'índice'
-node: 'gestión del conocimiento'
+node: 'sistema de toma de notas'
 tags: ['en-construcción']
 ---
 
