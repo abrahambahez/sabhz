@@ -55,7 +55,7 @@ a:hover {
 }
 
 a[target="_blank"]:after {
-    content: "\00a0" "\1F865";
+    content: "\00a0" "↗";
     font-family: 'Material Icons';
     
 }
