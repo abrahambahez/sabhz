@@ -3,7 +3,7 @@ title: 'Segato: Las estructuras elementales de la violencia'
 description: 'Dinámica de interacción violenta emanada de las pedagogías de la crueldad'
 type: 'nota de referencia'
 node: 'feminismo'
-tags: ['procesar-notas-permanentes']
+tags: ['artículo', 'procesar-notas-permanentes']
 ---
 
 Como consecuenca de las [[Segato (2019) Pedagogías de la crueldad | Pedagogías de la crueldad]], se desprende este planteamiento donde se describe la inserción del agresor en el cruce de dos ejes de interlocución:

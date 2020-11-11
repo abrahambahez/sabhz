@@ -1,0 +1,14 @@
+---
+title: 'Una estructura social es una forma estable de relaciones entre los miembros del grupo'
+description: 'La estructura social es la forma estable de modos de relación'
+type: 'proposición'
+node: 'filosofía'
+tags: ['en-construcción']
+---
+
+Dentro de un [[sistema de organización social]], las relaciones entre personas tienden a hacerse muy complejas, pero en el momento en que el grupo *se ordena* de cierta manera de manera consistente en el tiempo, se convierte en estructura social.
+
+La estructura social es una forma de *relacionamiento fuerte* entre los miembros del grupo. Sea cual sea la razón por la que tiene cierta configuración:
+
+- Es muy difícil para los miembros abandonarla
+- Es la base de su [[modos de vida | modo de vida]] y por lo tanto de su identidad

@@ -55,9 +55,7 @@ a:hover {
 }
 
 a[target="_blank"]:after {
-    content: "\00a0" "🡥"; /*↗*/
-    font-family: 'Material Icons';
-    
+    content: "\00a0" "↗"; /*↗*/  
 }
 
 h1, .nuxt-content h1 {
@@ -119,12 +117,12 @@ li {
 .nuxt-content img {
     width:100%;
 }
-code, pre .nuxt-content code, .nuxt-content pre {
+code, .nuxt-content code {
     color: var(--color-primary);
     background-color: var(--bg-secondary);
-    border: solid .025rem var(--border-color);
+    /* border: solid .025rem var(--border-color); 
+    border-radius: .25rem; */
     padding: 0 .3rem;
-    border-radius: .25rem;
 }
 
 blockquote {

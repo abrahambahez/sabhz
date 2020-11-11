@@ -6,11 +6,16 @@ node: 'filosofía'
 tags: ['en-construcción']
 ---
 
-## Argumento general
+Todo comienza con un [[sistema de organización social]]. De los diferentes modos en que *podemos relacionarnos unos con otros* uno es organizar el mundo a partir de la distribución de dos criterios:
 
-Forma la base de los *sistemas verticales de organización social* a través de un mecanismo que consiste en lo siguiente:
+1. Los privilegios
+2. La opresión
 
-1. Tiene como centro un **constructo identitario** (¿sólo identitario?) basado en una diferencia *actual*, *positiva* y *fáctica* (en términos sartre-beauvoirianos), que puede ser:
+Esto lo convierte en un sistema inherentemente [[jerarquía | jerárquico]].
+
+## ¿Qué forma tienen los sistemas de distribución de opresión y privilegios?
+
+1. Tiene como centro un **constructo identitario** (¿sólo identitario?) basado en una diferencia *actual*, *positiva* y *fáctica*, que puede ser:
 	- *Biológica o material*: sexual, hereditaria (fenotípica como la pigmentación de la piel), o social, como la familia proletaria o los sistemas de castas
 	- *Vertical*: individual y socialmente percibida como inferior ante otra superior
 	- *Contingente* en términos reales, es decir, insostenible como criterio necesario de marginación o trato diferente

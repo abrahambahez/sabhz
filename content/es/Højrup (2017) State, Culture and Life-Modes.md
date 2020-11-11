@@ -3,7 +3,7 @@ title: Højrup (2017) State, Culture and Life-Modes
 description: 'El concepto antropológico de modo de vida para explicar la heterogeneidad cultural incluso en grupos afines ideológicamente'
 type: 'nota de referencia'
 node: 'antropología'
-tags: ['procesamiento-inicial', 'agenda']
+tags: ['libro', 'procesamiento-inicial', 'agenda']
 ---
 
 Los modos de vida son estructuras conceptuales que contienen un **mundo conceptual** y una [[praxis]] que deriva de un modo de producción. Contrastan entre sí culturalmente, pero tomados unos con otros, en realidad conforman las condiciones de posibilidad dentro de un modo de existencia social que se autorreproduce.

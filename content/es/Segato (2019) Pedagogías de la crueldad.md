@@ -3,7 +3,7 @@ title: 'Segato (2019) Pedagogías de la crueldad'
 description: 'Enfoque teórico de la feinista Rita Laura Segato'
 type: 'nota de referencia'
 node: 'feminismo'
-tags: ['procesar-notas-permanentes']
+tags: ['artículo', 'procesar-notas-permanentes']
 ---
 
 Con este término Rita Segato hace referencia a las prácticas que consisten en la cosificación de lo vivo y la vitalidad. Sus expresiones históricas más importantes son el patriarcado (con dos ejes: vertical contra las mujeres, y horizontal como corporación contra los hombres) y las relaciones de explotación y colonización.
