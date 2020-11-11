@@ -10,7 +10,7 @@ tags: ['en-construcción']
 
 Un conocimiento suele traer consigo formas de innovación tecnológica que mejoran la capacidad productiva de un grupo social.
 
-> Las puntas de proyectil o lanza paleolíticas permitieron a los antiguos homínidos pasar de *carroñeros* a *cazadores*. Su evolución ténica, de la cultura de los [cantos tallados](https://es.wikipedia.org/wiki/Canto_tallado) al [modo técnico 4](http://roble.pntic.mec.es/fpef0013/prehistoriaparaprincipiantes/Modo%204.html) del paleolítico superior, implica la reproducción de ese saber entre individuos del grupo y la capacidad de innovar para optimizarlo.
+> Las puntas de proyectil o lanza paleolíticas permitieron a los antiguos homínidos pasar de *carroñeros* a *cazadores*. Su evolución técnica, de la cultura de los [cantos tallados](https://es.wikipedia.org/wiki/Canto_tallado) al [modo técnico 4](http://roble.pntic.mec.es/fpef0013/prehistoriaparaprincipiantes/Modo%204.html) del paleolítico superior, implica la reproducción de ese saber entre individuos del grupo y la capacidad de innovar para optimizarlo.
 
 De modo que [[el conocimiento se incorpora en pautas conductuales, operacionales o expresivas]].
 

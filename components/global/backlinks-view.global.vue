@@ -5,9 +5,10 @@
         <div class="flex flex-wrap ">
             <div class="post-container" v-for="backlinkPost in backlinkPosts" :key="backlinkPost.title" >
                 <nuxt-link :to="backlinkPost.slug">
-                    <p class="margin-0 padding-top-1">{{ backlinkPost.title }}</p>           
+                    <p class="margin-0 padding-top-1">{{ backlinkPost.title }}</p>
+                    <p class="margin-0 color">{{ backlinkPost.description }}</p>          
                 </nuxt-link> 
-                <p class="margin-0">{{ backlinkPost.description }}</p>            
+                            
             </div>            
         </div>
 

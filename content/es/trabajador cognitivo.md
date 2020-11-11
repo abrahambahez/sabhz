@@ -27,9 +27,9 @@ En el mundo globalizado contemporáneo:
 
 El término *"knowledge worker"* fue popularizado por Peter Drucker en su libro [The Age of Discontinuity](http://www.amazon.com/exec/obidos/tg/detail/-/1560006188/bigdogsbowlofbis/) y desarrollado por él mismo a lo largo de su teoría de la gestión corporativa.
 
-La traducción que suele hacerse de este concepto es "trabajador del conocimiento", que por su afinidad a la visión de una [[economía del conocimiento]] (menos crítica), es tecnicamente un sinónimo del *[[trabajador cognitivo]]* pero con una connotación política capitalista.
+La traducción que suele hacerse de este concepto es "trabajador del conocimiento", que por su afinidad a la visión de una [[economía del conocimiento]] (menos crítica), es tecnicamente un sinónimo del *trabajador cognitivo* pero con una connotación política capitalista.
 
-En el capitalismo el conocimiento más valorado de un [[trabajador cognitivo]] tiene que ver con la [[razón instrumental]], pero eso no implica que otros conocimientos no puedan ser incorporados en las dinámicas de producción centradas en el conocimiento.
+En el capitalismo el conocimiento más valorado de un trabajador cognitivo tiene que ver con la [[razón instrumental]], pero eso no implica que otros conocimientos no puedan ser incorporados en las dinámicas de producción centradas en el conocimiento.
 
 ## Para leer en el futuro
 
