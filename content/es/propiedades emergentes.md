@@ -8,7 +8,7 @@ tags: ['en-construcción']
 
 Concepto filosófico que quiero estudiar más a profunidad para desarrollar varios argumentos:
 
-- El principio de emergencia en un sistema de[[gestión del conocimiento]]
+- El principio de emergencia en un sistema de [[gestión del conocimiento]]
 - Una solución a los dualismos excluyentes del tipo emocional - racional, mente - cuerpo, idealismo - materialismo
 	- Permitirían hacer declaraciones como:
 		- La conciencia es una propiedad emergente de algunos sistemas nerviosos

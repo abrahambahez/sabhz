@@ -6,11 +6,14 @@ node: 'index'
 tags: ['permanente']
 ---
 
-Inspirado en la idea del [*seedbox*](https://forum.obsidian.md/t/what-a-seedbox-is-and-why-it-has-been-valuable-to-me/4344). Se trata de un *inbox* o nota índice para depositar ideas propias y ver su madurez.
+Inspirado en la idea del [*seedbox*](https://forum.obsidian.md/t/what-a-seedbox-is-and-why-it-has-been-valuable-to-me/4344). Se trata de un *inbox* o nota índice para depositar ideas propias y ver su madurez. Para distinguirlas mejor uso el signo *fleuron* al final de cada una, y se lo quito
 
 ## Ideas en evaluación
 
-- [[modos de escritura]]
-- [[modos de lectura]]
-- [[praxis disciplinaria]]
-- [[sistemas de distribución de opresión y privilegios]]
+- [[modos de escritura ❦]] en sentido amplio; sólo hay un primer acercamiento, falta *ampliar más*
+- [[modos de lectura ❦]] en sentido amplio; sólo hay un primer acercamiento, falta *ampliar más*
+- [[praxis disciplinaria ❦]] como una consecuencia de las políticas de formación académica, de Jociles Rubio (*nota pendiente*) creo que es una especie de *habitus* disciplinar
+- [[verdad totalizadora y verdad específica ❦]] Como una diferencia actitudinal en la aproximación investigativa
+
+## Ideas en desarrollo
+- [[sistemas de distribución de opresión y privilegios]] 

@@ -36,7 +36,7 @@ Tienen múltiples formas de categorizarse, según el énfasis que se haga en car
 
 ### Según análisis contextuales 
 
-- etnografía como lectura
+- [[etnografía como lectura]]
 
 ### Referencias
 

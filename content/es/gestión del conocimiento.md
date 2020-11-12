@@ -10,6 +10,6 @@ La gestión del conocimiento engloba distintas estrategias con las que un [[trab
 
 En un sentido afín al de la economía del conocimiento (ver [[capitalismo cognitivo]])
 
-- Una colección que explora los [[modos de lectura]] como prácticas de auto-aprendizaje
-- Una colección que explora los [[modos de escritura]] como técnicas de construcción de conocimiento
+- Una colección que explora los [[modos de lectura ❦]] como prácticas de auto-aprendizaje
+- Una colección que explora los [[modos de escritura ❦]] como técnicas de construcción de conocimiento
 - Un [[sistema personal de toma de notas]] que refleja mi versión particular de uno de esos modos de escritura

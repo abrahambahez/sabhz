@@ -12,7 +12,7 @@ El trabajo intelectual ha sido tomado con menos rigor práctico que otras práct
 
 Las unidades básicas del trabajo intelectual bien podrían ser el *aprendizaje* y la *creación de conocimiento*. Sus unidades operativas serían, consecuentemente, leer y escribir; yo entiendo ambos verbos de una manera más extensa de su sentido normal y la exploro en estas dos colecciones:
 
-- [[modos de lectura]]
-- [[modos de escritura]]
+- [[modos de lectura ❦]]
+- [[modos de escritura ❦]]
 
 Estas prácticas entran en lo que se conoce como [[gestión del conocimiento]]

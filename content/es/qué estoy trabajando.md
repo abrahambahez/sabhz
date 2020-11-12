@@ -14,3 +14,5 @@ Escribo los [[esbozos de una teoría del trabajo cognitivo]] porque quiero compr
 
 También investigo sobre [[gestión del conocimiento]]; y con eso desarrollo mi [[sistema personal de toma de notas]] como un experimento digital. Este sitio forma parte de él.
 
+Preparo a mediano plazo un [[índice de métodos de investigación]].
+

@@ -6,11 +6,11 @@ node: 'sistema de toma de notas'
 tags: ['en-construcción', 'agenda']
 ---
 
-La toma de notas no es importante si no tiene como fin el desarrollo de conocimiento personal ([ejemplo de Matuschak](https://notes.andymatuschak.org/z7kEFe6NfUSgtaDuUjST1oczKKzQQeQWk4Dbc)).
+La toma de notas no es importante si no tiene como fin el desarrollo de conocimiento personal ([Matuschak: *"The goal is not to take notes—the goal is to think effectively"*](https://notes.andymatuschak.org/z7kEFe6NfUSgtaDuUjST1oczKKzQQeQWk4Dbc)).
 
-El conocimiento es crear *vínculos significativos*, especialmente entre ideas nucleares (ver [[argumentos sobre la toma de notas]]).
+Esa es la importancia de una [[operacionalización del conocimiento en la toma de notas]] que permita guiar la práctica adecuadamente. El conocimiento es crear *vínculos significativos*, especialmente entre ideas nucleares.
 
-Pero cada tipo de vinculación que puede hacerse genera tensiones, una nota hecha sólo de vínculos (una lista de *links*) sin contenido es más un caso de uso para una base de datos, pero una serie de notas poco estructuradas hace muy difícil encontrarlas en contextos donde pueden ser *relevantes* mientras se escribe. Se trata de encontrar un equilibrio entre la dimensión cuantitativa (ordinalidad, cardinalidad, nominalidad), y cualitativa (descripción libre, abierta, densa). Aquí está el paso de la información al conocimiento, por ejemplo, en la [[pirámide de conocimiento]].
+Pero cada tipo de vinculación que puede hacerse genera tensiones, una nota hecha sólo de vínculos (una lista de *links*) sin contenido es más un caso de uso para una base de datos, pero una serie de notas poco estructuradas hace muy difícil encontrarlas en contextos donde pueden ser *relevantes* mientras se escribe. Se trata de encontrar un equilibrio entre la dimensión cuantitativa (ordinalidad, cardinalidad, nominalidad), y cualitativa (descripción libre, abierta, densa). Aquí está el paso de la información al conocimiento, si lo viéramos como en la [[pirámide de conocimiento]].
 
 Por eso una buena nota debe disminuir la tensión entre la generalización y la particularización, así como la existente entre el puro relacionamiento (donde las bases de datos son mejores) y la información cualitativa que realmente puede expander el conocimiento y no sólo la información.
 

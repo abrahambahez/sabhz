@@ -1,5 +1,5 @@
 ---
-title: 'Una estructura social es una forma estable de relaciones entre los miembros del grupo'
+title: 'una estructura social es una forma estable de relaciones entre los miembros del grupo'
 description: 'La estructura social es la forma estable de modos de relación'
 type: 'proposición'
 node: 'filosofía'

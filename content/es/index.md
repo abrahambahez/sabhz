@@ -1,6 +1,6 @@
 ---
 title: 'Jardín digital de Sergio'
-description: 'Un espacio individual sobre tecnología, diseño, filosofía, arte y escritura.'
+description: 'Espacio de gestión del conocimiento personal publicado como jardín digital o jardín mental'
 type: ''
 node: ''
 tags: []

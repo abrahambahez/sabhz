@@ -158,6 +158,20 @@ li:last-of-type {
     .container{max-width: 650px;}
 }
 
+/* to embed iframes, specially youtube for make them responsive */
+.embed-wrapper {
+    overflow: hidden;
+    padding-top: 56.25%;
+    position: relative;
+}
+.embed-wrapper iframe {
+     border: 0;
+     height: 100%;
+     left: 0;
+     position: absolute;
+     top: 0;
+     width: 100%;
+}
 /*--UTILITIES--*/
 
 .tag-separation:not(:last-child):after {

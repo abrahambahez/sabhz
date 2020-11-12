@@ -30,6 +30,8 @@ Esto da pie a conceptos como el de *"empresas de servicios de conocimiento inten
 
 En sentido economicista el término cobró importancia por trabajos que buscaban medir la producción de conocimiento innovador a través de patentes, como el libro de Fritz Maschlup, *[The Production and Distribution of Knowledge in the United States ](https://press.princeton.edu/books/paperback/9780691003566/the-production-and-distribution-of-knowledge-in-the-united-states)*. Esto llevó a la creción de una serie de índices usados por el [Banco Mundial](http://www.observatorioabaco.es/post_conocimiento/banco_mundial).
 
+El reconocimiento en el contexto capitalista actual del valor productivo que tiene el conocimiento ha llevado a esfuerzos por su explotación y optimización en cntextos empresariales, por ejemplo, a través de la [[gestión del conocimiento]].
+
 La versión crítica de este término en el contexto capitalista es la de [[capitalismo cognitivo]]
 
 ## Referencias

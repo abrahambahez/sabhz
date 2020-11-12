@@ -48,6 +48,7 @@ Respecto a las notas de referencia
 
 - `#procesamiento-inicial`: Para las notas de referencia, es el estado inicial en el que las leo y extraigo ideas e información esquemática sin ningún orden especial
 - `#procesar-notas-permanentes`: cuando una nota de referencia ya ha sido procesada en cuanto a su contenido interno pero hay pocas o ninguna nota permanente de ideas propias
+- `TIPO DE REFERENCIA`: es variable sobre el tipo de fuente de información que es la nota: artículo, libro, podcast, etc.
 
 Respecto a las notas índice:
 
