@@ -3,7 +3,7 @@ title: 'índice de métodos de investigación'
 description: 'Agrupación multidisciplinaria de métodos de investigación'
 type: 'índice'
 node: 'estrategias de investigación'
-tags: ['en-construcción']
+tags: ['incipiente']
 ---
 
 Etnografía:
@@ -21,8 +21,6 @@ Investigación social inductiva
 - [teoría fundamentada](https://www.researchgate.net/publication/294424440_What_is_grounded_theory#pf2)
 - estudio de casos
 - [método de casos comparativo](https://www.unicef-irc.org/publications/754-comparative-case-studies-methodological-briefs-impact-evaluation-no-9.html)
-
-Investigación 
 
 Investigación estadística
 
