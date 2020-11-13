@@ -137,6 +137,9 @@ blockquote {
 hr {
     margin: 4rem 0;
     border: .025rem solid var(--border-color);
+    width: 35%;
+    margin: 6rem auto;
+
 }
 /*
 li:last-of-type {   
@@ -150,7 +153,7 @@ li:last-of-type {
 
 @media screen and (min-width: 600px) {
 
-    html,body {font-size: 1.1rem;}
+    html,body {font-size: 1.07rem;}
     .container{max-width: 80%;}
 }
 @media screen and (min-width: 900px) {

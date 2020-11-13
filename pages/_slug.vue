@@ -1,7 +1,7 @@
 <template>
   <main >
     <div style="padding-top:25vh;">
-      <p class="container margin-auto serif secondary align-center">{{content.type}}</p>
+      <p class="container margin-auto serif secondary align-center" v-if="content.type != 'noindex'">{{content.type}}</p>
       <h1 class="container margin-auto"> {{ content.title }} </h1>
       <p 
       class="container margin-auto serif italic secondary align-center"> 
@@ -15,6 +15,7 @@
 </template>
 
 <script>
+
 export default {
   data () {
     return {
@@ -30,7 +31,7 @@ export default {
       .catch(err => {
         error({ statusCode: 404, message: "Page not found" });
       });
-    const showBacklinks = content.type === '' || content.type === 'índice' ? false : true;
+    const showBacklinks = content.type === 'noindex' || content.type === 'índice' ? false : true;
     return { content, showBacklinks};
   },
   head() {

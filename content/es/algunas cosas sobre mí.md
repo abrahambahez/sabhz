@@ -1,7 +1,7 @@
 ---
 title: 'algunas cosas sobre mí'
 description: 'Una lista de cosas curiosas sobre mí'
-type: ''
+type: 'noindex'
 node: ''
 tags: []
 ---

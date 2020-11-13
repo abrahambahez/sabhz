@@ -3,7 +3,7 @@ title: 'verdad totalizadora y verdad específica'
 description: 'Dos actitudes intelectuales de investigación'
 type: 'proposición'
 node: 'epistemología'
-tags: ['en-construcción']
+tags: ['semilla❦']
 ---
 
 Cuando investigamos un problema, hay dos actitudes intelectuales que nos motivan y dirigen. A una le llamo *verdad totalizadora* y a otra *verdad específica*
@@ -11,6 +11,7 @@ Cuando investigamos un problema, hay dos actitudes intelectuales que nos motivan
 La verdad totalizadora es propia de muchos ámbitos de la filosofía, de la ciencia teórica y también de la teología y el esoterismo.
 
 - Siempre busca la generalización, enfatizando la regla y no los casos; esto la lleva a una actitud de menosprecio de lo contingente y lo temporal
+- Su proceder quiere ser *'totalmente'* deductivo, es decir, indiferente al contexto particular donde el fenómeno o el hecho se enmacra
 - Su mirada va de la abstracción, la metafísica o la poética
 
 La verdad específica es propia de las disciplinas que estudian el detalle, la especificidad y la contingencia, como la historia, la arqueología y la etnografía, la ciencia aplicada

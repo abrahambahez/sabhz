@@ -1,8 +1,8 @@
 ---
 title: Arca Seminalis
 description: Aquí registro mis creencias, o al menos las que considero más firmes, para entender mejor cómo el nuevo conocimiento que adquiero se integra o entra en conflicto con mi conocimiento anterior
-type: índice
-node: 'index'
+type: 'noindex'
+node: ''
 tags: ['permanente']
 ---
 
@@ -13,7 +13,14 @@ Inspirado en la idea del [*seedbox*](https://forum.obsidian.md/t/what-a-seedbox-
 - [[modos de escritura ❦]] en sentido amplio; sólo hay un primer acercamiento, falta *ampliar más*
 - [[modos de lectura ❦]] en sentido amplio; sólo hay un primer acercamiento, falta *ampliar más*
 - [[praxis disciplinaria ❦]] como una consecuencia de las políticas de formación académica, de Jociles Rubio (*nota pendiente*) creo que es una especie de *habitus* disciplinar
-- [[verdad totalizadora & verdad específica ❦]]
+- [[verdad totalizadora y verdad específica ❦]]
+- [[una hipótesis sobre la marginalidad ❦]]
+- [[el problema de la clasificación ❦]]
+
 
 ## Ideas en desarrollo
 - [[sistemas de distribución de opresión y privilegios]] 
+
+## Notas sueltas
+
+- [[2020-11-12]]

@@ -3,7 +3,7 @@ title: praxis disciplinaria
 description: 'Un tipo de praxis que me permitiría entender las barreras multidisciplinarias que dificultan el diálogo entre investigadores aún estudiando el mismo fenómeno'
 type: 'término'
 node: 'gestión del conocimiento'
-tags: ['en-construcción']
+tags: ['semilla❦']
 ---
 
 Un tipo de [[praxis]] particular, derivada de la formación académica de un *investigador*, (productor de conocimiento o *knowledge worker*), implica que hay diferencias en varias dimensiones de procedimiento, mirada, teoría y metodología.

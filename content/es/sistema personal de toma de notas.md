@@ -8,7 +8,7 @@ tags: ['nota-permanente']
 
 Este pretende ser mi sistema personal de notas, una visión práctica de [[gestión del conocimiento]] personal.
 
-Puedes comenzar por ver la [[taxonomía general de notas]], donde defino la organización del contenido de cada una.
+Mira la [[taxonomía general de notas]], donde defino la organización del contenido de cada una.
 
 ## Principios del sistema de toma de notas
 
@@ -22,3 +22,14 @@ La toma de notas es una unidad básica de construcción de conocimiento, así co
 - Si creo que la toma de notas es una unidad básica de la construcción de conocimiento, puedo pensar que [[una buena nota explota todos sus componentes para facilitar el trabajo cognitivo y la vinculación]]
 - Pero siempre debo considerar que [[la forma de escribir y relacionar notas tiene una tensión cualitativa-cuantitativa]]
 - Para no perderme en la mala práctica de tomar notas por tomarlas, es útil la [[operacionalización del conocimiento en la toma de notas]]
+
+## Flujos de trabajo
+
+Para libros y artículos en pdf, o referencias
+
+- Gestión de referencias: [Zotero | Downloads](https://www.zotero.org/download/)
+- Gestionar los pdf en Zotero: [ZotFile - Advanced PDF management for Zotero](http://zotfile.com/)
+
+Extraer anotaciones de pdf independientemente de Zotero:
+
+- [Sumnotes - Summarize PDF Annotations](https://www.sumnotes.net/)

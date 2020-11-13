@@ -3,7 +3,7 @@ title: modos de lectura
 description: 'Lectura como una estrategia de construcción de conocimiento'
 type: 'colección'
 node: 'gestión del conocimiento'
-tags: ['en-construcción']
+tags: ['semilla❦']
 ---
 
 Son las maneras en que un sujeto con capacidad de interpretación de un texto puede abordarlo.

@@ -1,7 +1,7 @@
 <template>
     <div class="container margin-auto" >
-        <hr>
-        <h2>Notas relacionadas</h2>
+        <hr class="width-100 margin-bottom-0">
+        <h2 class="margin-top-2 padding-left-1-2">Notas relacionadas</h2>
         <div class="flex flex-wrap ">
             <div class="post-container" v-for="backlinkPost in backlinkPosts" :key="backlinkPost.title" >
                 <nuxt-link :to="backlinkPost.slug">

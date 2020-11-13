@@ -19,7 +19,7 @@ Pero la atribución implica al *atribuyente*, que es a su vez considerado un suj
 Existen casos de atribución de agencia:
 
 - En los seres vivos
-	- A veces sólo del reino *animalia*, a veces sólo del *homo sapiens*, a veces sólo de algunos *homo sapiens* con ciertas características particulares
+	- A veces sólo del reino *animalia*, a veces sólo del *homo sapiens*, a veces sólo de algunos *homo sapiens* con ciertas características particulares ( los *hombres blancos*)
 - En los objetos
 - En los rituales
 
@@ -27,5 +27,6 @@ Explorar este problema implica un trabajo histórico y antropológico más que f
 
 ## Hipótesis
 
-- La agencia se expresa desde las **prácticas estructurantes** hasta la **serialidad**
-	- Como sujeto, puedo *hacer lo que quiera* (tengo intencionalidad y volición), si decido hacer algo a la manera que me fue enseñada, estoy reproduciendo la estructura, pero puedo decidir variarlo o hacerlo de otra forma, ahí estoy innovando o dinamizando la estructura, y también puedo simplemente hacerlo como el entorno y las condiciones materiales me lo permitan, ahí estaría realizando una acción serial
+La agencia se expresa desde las **prácticas estructurantes** hasta la **serialidad**
+
+>Como sujeto, puedo *hacer lo que quiera* (tengo intencionalidad y volición), si decido hacer algo a la manera que me fue enseñada, estoy reproduciendo la estructura, pero puedo decidir variarlo o hacerlo de otra forma, ahí estoy innovando o dinamizando la estructura, y también puedo simplemente hacerlo como el entorno y las condiciones materiales me lo permitan, ahí estaría realizando una [[acción serial]]. Puedo actuar de una forma totalmente diferente a todo lo anterior, ahí estaría maximizándo mi agencia, y si lo hago deliberadamente, afirmando mi libertad.

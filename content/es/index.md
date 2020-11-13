@@ -1,7 +1,7 @@
 ---
 title: 'Jardín digital de Sergio'
 description: 'Espacio de gestión del conocimiento personal publicado como jardín digital o jardín mental'
-type: ''
+type: 'noindex'
 node: ''
 tags: []
 ---

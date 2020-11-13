@@ -1,7 +1,7 @@
 ---
 title: 'Qué estoy trabajando'
 description: 'Lista de proyectos activos en los que estoy trabajando actualmente'
-type: ''
+type: 'noindex'
 node: ''
 tags: []
 

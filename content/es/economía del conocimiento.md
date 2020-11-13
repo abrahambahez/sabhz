@@ -20,11 +20,11 @@ Sería posible afirmar que toda economía es de algún modo una economía depend
 
 ## ¿En qué se diferencia una economía del conocimiento de otros sistemas económicos?
 
-La diferencia no es de clase sino de grado: intensidad y velocidad en el uso de los saberes (especialmente los técnicos) y la [[razón instrumental]].
+La diferencia no es de clase sino de grado: intensidad y velocidad en el uso de los saberes (especialmente los técnicos) y la estandarización de [[razón instrumental]] como base en la definición de procesos productivos.
 
 La economía del conocimiento está fundada en una intervención intensiva y deliberada de trabajo cognitivo en los procesos de producción y distribución; lo que ha generado la existencia de unidades económicas especializadas en *saber* (bajo modelos de consultoría o similares).
 
-Esto da pie a conceptos como el de *"empresas de servicios de conocimiento intensivo"* (cfr. Miles et al., 2018),
+Esto da pie a conceptos como el de *"empresas de servicios de conocimiento intensivo"* (cfr. Miles et al., 2018).
 
 ## Durante el capitalismo conforma un objeto de interés especial
 

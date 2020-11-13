@@ -3,7 +3,7 @@ title: modos de escritura
 description: 'Escritura como un proceso de construcción de conocimiento'
 type: 'colección'
 node: 'gestión del conocimiento'
-tags: ['en-construcción']
+tags: ['semilla❦']
 ---
 
 La escritura es una forma de ejercicio cognitivo analítico y creativo, de construcción y aprendizaje así como de limpieza y ordenamiento mental. Es una práctica compleja, rigurosa, llena de matices.

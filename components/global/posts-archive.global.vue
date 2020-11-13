@@ -36,12 +36,12 @@ export default {
     async fetch() {
         if( this.query == '' ) {
             return this.posts = await this.$content(this.$i18n.locale)
-            .where({ type: { $ne: ''} })
+            .where({ type: { $ne: 'noindex'} })
             .sortBy(this.sorting)
             .fetch()
         } else {
             return this.posts = await this.$content(this.$i18n.locale)
-            .where({ type: { $ne: ''} })
+            .where({ type: { $ne: 'noindex'} })
             .sortBy(this.sorting)
             .search(this.query)
             .fetch()
