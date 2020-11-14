@@ -6,6 +6,8 @@ node: 'estrategias de investigación'
 tags: ['incipiente']
 ---
 
+Este es un proyecto a mediano plazo para documentar métodos y técnicas de investigación o análisis. Está totalmente determinado por mi trabajo del momento, por esa razón habrá más énfasis en temas antropológicos, pero la idea es expandirlo a lo largo del tiempo.
+
 Etnografía:
 
 - [[observación participante]]
@@ -14,6 +16,7 @@ Etnografía:
 - [[entrevista etnográfica]]
 - [[etnografía performativa]]
 - [[historia de vida]]
+- [[autoetnografía]]
 - [evaluación etnográfica rápida](https://www.researchgate.net/publication/339819170_Rapid_Ethnographic_Assessments_A_Practical_Approach_and_Toolkit_For_Collaborative_Community_Research)
 
 Investigación social inductiva

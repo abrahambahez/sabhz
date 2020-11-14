@@ -3,11 +3,19 @@
         <nuxt-link :to="$i18n.locale === 'es' ? '/' : '/en' "
         class="secondary sans-light size-08">
             /sabhz
-        </nuxt-link>   
-        <nuxt-link to="archivo"
-        class="secondary sans-light size-08">
-            archivo
         </nuxt-link>
+        <div>
+            <nuxt-link to="/diario"
+            class="secondary sans-light size-08">
+                diario
+            </nuxt-link>
+            <span class="secondary sans-light size-08"> | </span>
+            <nuxt-link to="archivo"
+            class="secondary sans-light size-08">
+                archivo
+            </nuxt-link>            
+        </div>  
+
     </section>
 </template>
 

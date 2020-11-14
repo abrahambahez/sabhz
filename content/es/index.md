@@ -16,7 +16,7 @@ Este es mi [jardín digital](https://www.technologyreview.es/s/12606/jardines-di
 
 Esto no es un blog. No hay una forma predeterminada de navegar en el sitio, en realidad está diseñado siguiendo mi [[sistema personal de toma de notas]].
 
-Puedes ver [[qué estoy trabajando]] ahora para tener una idea de los temas sobre los cuales escribo más activamente, y siempre puedes acceder al [[archivo]] desde la parte superior derecha, donde se encuentran todas las notas.
+Puedes ver [[qué estoy trabajando]] ahora para tener una idea de los temas sobre los cuales escribo más activamente, y siempre puedes acceder al [[archivo]] desde la parte superior derecha, donde se encuentran todas las notas. También puedes acceder a mis notas diarias desde esa zona.
 
 Además de eso tengo dos colecciones de pensamientos, a manera de experimento personal, que también sirven como punto de partida:
 
