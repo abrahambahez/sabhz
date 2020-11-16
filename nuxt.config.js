@@ -89,7 +89,8 @@ export default {
           pageResolver: (name) => [name.replace(/ /g, '%20')],
           hrefTemplate: (permalink) => `/${permalink}`,
           aliasDivider: ' | '
-        }]
+        }],
+        ['remark-mark-plus']
       ]
     },
     liveEdit: false,

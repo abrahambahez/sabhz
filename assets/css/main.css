@@ -5,6 +5,7 @@
     --color-primary: #bbaea8;
     --color-secondary: #b1b3b2;
     --link-color: #99a47c;
+    --color-highlight: #4d453b;
     --bg: #202020;
     --bg-secondary: #333;
     --border-color: #666;
@@ -20,6 +21,7 @@
     --color-primary:  #99a47c;
     --color-secondary: #9ba398;
     --link-color: #8f856e;
+    --color-highlight: #E2CA8E;
     --bg: #f2f2f3; 
     --bg-secondary: #e8e8e9;
     --border-color: silver;
@@ -141,6 +143,11 @@ hr {
     margin: 6rem auto;
 
 }
+.nuxt-content mark {
+    background-color: var(--color-highlight);
+    color: var(--color);
+
+  }
 /*
 li:last-of-type {   
     margin-bottom: 1.5rem;

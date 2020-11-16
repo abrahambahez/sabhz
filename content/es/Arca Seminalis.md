@@ -20,7 +20,3 @@ Inspirado en la idea del [*seedbox*](https://forum.obsidian.md/t/what-a-seedbox-
 
 ## Ideas en desarrollo
 - [[sistemas de distribución de opresión y privilegios]] 
-
-## Notas sueltas
-
-- [[2020-11-12]]

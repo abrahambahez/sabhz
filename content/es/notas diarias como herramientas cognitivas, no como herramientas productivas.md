@@ -6,7 +6,7 @@ node: 'etnografía'
 tags: ['en-construcción']
 ---
 
-Mira la nota de [[2020-11-13]]
+Mira la nota de [[diario/2020-11-13]]
 
 Tomarte en serio el trabajo cognitivo implica llevar más allá las prácticas tradicionales como los diarios personales.
 
