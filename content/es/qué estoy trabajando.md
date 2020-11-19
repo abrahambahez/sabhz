@@ -8,7 +8,7 @@ tags: []
 ---
 
 
-Desde el doctorado que curso en la [UADY](https://www.uady.mx/), preparo una tesis sobre Organizaciones de la Sociedad Civil en Yucatán y su dinámica con los [[sistemas de distribución de opresión y privilegios]].
+Desde el doctorado que curso en la [UADY](https://www.uady.mx/), preparo una tesis sobre Organizaciones de la Sociedad Civil en Yucatán y su dinámica con los [[sistemas de distribución de opresión y privilegios]]: *OSC, vivienda y territorio en Yucatán como ejes de negociación del cambio social*
 
 Escribo los [[esbozos de una teoría del trabajo cognitivo]] porque quiero comprender a profundidad el fenómeno del [[capitalismo cognitivo]].
 
