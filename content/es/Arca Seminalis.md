@@ -16,6 +16,7 @@ Inspirado en la idea del [*seedbox*](https://forum.obsidian.md/t/what-a-seedbox-
 - [[verdad totalizadora y verdad específica ❦]]
 - [[una hipótesis sobre la marginalidad ❦]]
 - [[el problema de la clasificación ❦]]
+- [[compartir una representación no significa tener una actitud proposicional o valorativa de la misma ❦]]
 
 
 ## Ideas en desarrollo

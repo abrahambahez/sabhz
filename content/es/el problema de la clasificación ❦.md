@@ -6,7 +6,7 @@ node: 'epistemología'
 tags: ['semilla❦']
 ---
 
-Si entendemos a la readlidad como el mundo independiente del sujeto, ¿podríamos decir que es una *totalidad*? Supongámos que sí.
+Si entendemos a la realidad como el mundo independiente del sujeto, ¿podríamos decir que es una *totalidad*? Supongámos que sí.
 
 En ese caso el problema de la clasificación no es un problema de la realidad, sino un problema de la *comprensión* de la realidad por parte de un sujeto que está limitado a conocer no la totalidad sino una parecela que se le aparece como el mundo.
 
