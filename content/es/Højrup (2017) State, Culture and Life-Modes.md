@@ -4,6 +4,7 @@ description: 'El concepto antropológico de modo de vida para explicar la hetero
 type: 'nota de referencia'
 node: 'antropología'
 tags: ['libro', 'procesamiento-inicial', 'agenda']
+authors: ['Højrup, Thomas']
 ---
 
 Los modos de vida son estructuras conceptuales que contienen un **mundo conceptual** y una [[praxis]] que deriva de un modo de producción. Contrastan entre sí culturalmente, pero tomados unos con otros, en realidad conforman las condiciones de posibilidad dentro de un modo de existencia social que se autorreproduce.

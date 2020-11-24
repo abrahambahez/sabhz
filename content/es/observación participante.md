@@ -18,7 +18,7 @@ Es una técnica de investigación que apela a la experiencia directa del investi
 
 ## Referencias
 
-- [[Restrepo (2016). Etnografía alcances, técnicas y éticas]]
+- [[Restrepo (2016) Etnografía alcances, técnicas y éticas]]
 
 ---
 #agenda definir matriz de observación

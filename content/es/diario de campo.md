@@ -6,7 +6,7 @@ node: 'etnografía'
 tags: ['incipiente']
 ---
 
-La  idea  es  registrar  cuidadosamente  día  a  día  todo  lo  que  se  ha observado, lo que le han contado o lo que uno ha pensado referente al estudio adelantado. (Desde [[Restrepo (2016). Etnografía alcances, técnicas y éticas]]) p. 46
+La  idea  es  registrar  cuidadosamente  día  a  día  todo  lo  que  se  ha observado, lo que le han contado o lo que uno ha pensado referente al estudio adelantado. (Desde [[Restrepo (2016) Etnografía alcances, técnicas y éticas]]) p. 46
 
 La idea es recrear con palabras lo observado. 
 

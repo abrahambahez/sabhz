@@ -4,6 +4,7 @@ description: 'El concepto de heterarquía en sentido político como alternativa 
 type: 'nota de referencia'
 node: 'sistemas de organización'
 tags: ['artículo']
+authors: ['Ogilvy, J.']
 ---
 
 El término *[[heterarquía]] (heterarchy)* fue acuñado por Warren McCulloch en 1945, titulado *"A heterarchy of values determined by the topology of nervous nets."*

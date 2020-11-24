@@ -4,6 +4,7 @@ description: 'Presenta el debate entablado hoy en el ámbito de la ﬁlosofía d
 type: 'nota de referencia'
 node: 'epistemología'
 tags: ['artículo','procesar-notas-permanentes']
+authors: ['Stigol, Nora']
 ---
 
 En el artículo, Nora Stigol presenta el debate entablado hoy en el ámbito de la ﬁlosofía de la mente entre conceptualistas y no conceptualistas en relación con el contenido de los estados mentales; aquí la distinción entre contenidos conceptuales y no conceptuales constituye el punto central del debate.

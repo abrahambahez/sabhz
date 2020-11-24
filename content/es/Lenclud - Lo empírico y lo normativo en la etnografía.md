@@ -1,12 +1,13 @@
 ---
-title: '«Lo empírico y lo normativo en la etnografía» ¿Derivan las diferencias culturales de la descripción?'
+title: 'Lenclud, G. «Lo empírico y lo normativo en la etnografía» ¿Derivan las diferencias culturales de la descripción?'
 description: ''
 type: 'nota de referencia'
 node: 'epistemología'
 tags: ['artículo','procesar-notas-permanentes']
+authors: ['Lenclud, Gérard']
 ---
 
-A diferencia de las ciencias naturales, en la Antropología la objetividad depende más del valor de un *hecho* que se proclama que de los hechos reconocidos: *«la regla en nuestra disciplina sostiene que las afirmaciones etnográficas son descriptivas y no valorativas»* (p. 179)
+A diferencia de las ciencias naturales, en la Antropología la objetividad depende más del valor de un *hecho proclamado* que de un *hecho reconocido*: *«la regla en nuestra disciplina sostiene que las afirmaciones etnográficas son descriptivas y no valorativas»* (p. 179)
 
 Un ejemplo:
 
@@ -30,12 +31,12 @@ Si es necesario reconocer una actitud de *veracidad* en lo que la otra persona d
 
 Cuando encontramos en el otro una creencia que suponemos falsa, por ejemplo, que el sol debe ser alimentado con sangre humana para salir al siguiente día, supone que quien la juzga:
 
-- Le está atribuyendo al otro una *creencia* —una actitud proposicional—(si no creyera que el sol necesita sabgre, no lo diría)
+- Le está atribuyendo al otro una *creencia* —una actitud proposicional—(si no creyera que el sol necesita sangre, no lo diría)
 - Ese proceso de atribución es el resultado de un *diagnóstico valorativo* del tipo *«"él está equivocado" (porque yo estoy en lo correcto)»* (p. 183)
 
 Si la antropología estudia las *diferencias culturales*, **las diferencias culturales sólo emergen con la comparación de una cultura de referencia, la del observador, y eso implica un juicio de valor**, pues lo difierente consiste simplemente en aquellas representaciones que *en mí cultura tienen un sentido distinto* se consideran falsas, feas, malas, incorrectas, inapropiadas, inusuales).
 
-Posiblemente **la reflexividad y las etnografías abiertas, participativas y performativas son algunas maneras en las que la posición de superioridad epistémica se pueden evadir.**
+Posiblemente **la reflexividad y las etnografías abiertas, participativas y performativas son algunas maneras en las que la posición de superioridad epistémica se puede evadir.**
 
 Así, *«decir que alguien que tiene intenciones o creencias, que prefiere esto o detesta aquello, que se somete a una norma, que tiene una o muchas ideas en su cabeza, no es describir sino valorizar. La diferencia entre él y yo no está fundada, está reconstruida con la ayuda de un juicio, a menudo subrepticio y, es valorativa»* (p. 184)
 

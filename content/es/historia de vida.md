@@ -23,4 +23,4 @@ Se realizan a través de sesiones de trabajo de entrevistas a profundidad. Pero 
 
 ## Referencias
 
-- [[Restrepo (2016). Etnografía alcances, técnicas y éticas]]
+- [[Restrepo (2016) Etnografía alcances, técnicas y éticas]]

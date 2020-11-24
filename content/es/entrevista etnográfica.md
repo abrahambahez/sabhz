@@ -21,4 +21,4 @@ La confianza es clave para el éxito del procedimiento. El conocimiento mutuo y 
 
 ## Referencias
 
-- [[Restrepo (2016). Etnografía alcances, técnicas y éticas]]
+- [[Restrepo (2016) Etnografía alcances, técnicas y éticas]]
