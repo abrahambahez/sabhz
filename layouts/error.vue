@@ -1,14 +1,14 @@
 <template>
-  <div style="padding-top:25vh;">
+  <div class="container margin-auto align-center" style="padding-top:25vh;" >
     <div v-if="error.statusCode === 404">
         <h1>Esta página no existe 🦔</h1>
-        <p class="container margin-auto align-center">Lo siento, parece que ocurrió un error con el enlace</p>
+        <p>Lo siento, parece que ocurrió un error con el enlace</p>
     </div>
      <div v-else>
         <h1>Ocurrió un error 🐱‍👤</h1>
-        <p class="container margin-auto align-center">Lo siento, parece que ocurrió un error con el enlace</p>
+        <p >Lo siento, parece que ocurrió un error con el enlace</p>
     </div>   
-    <div class="container margin-auto align-center">
+    <div>
         <NuxtLink to="/">vuelve al inicio</NuxtLink>
     </div>
   </div>

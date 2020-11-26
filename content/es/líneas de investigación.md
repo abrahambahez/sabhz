@@ -1,5 +1,5 @@
 ---
-title: 'Qué estoy trabajando'
+title: 'líneas de investigación'
 description: 'Lista de proyectos activos en los que estoy trabajando actualmente'
 type: 'noindex'
 node: ''
@@ -9,10 +9,11 @@ tags: []
 Preparo a mediano plazo un [[índice de métodos de investigación]] que atraviese estas líneas de investigación como soporte 
 
 ### Antropología y cambio social
-- [[sistemas de distribución de opresión y privilegios]], dentro del contexto de los [[sistema de organización social]]
-- [[modos de vida]] como proyectos 
 
-### Antropología, tecnología y diseño
+- Los [[sistemas de distribución de opresión y privilegios]], dentro del contexto de los [[sistema de organización social]]
+- Los [[modos de vida]] como núcleo de investigación para el co-diseño de proyectos sociales
+
+### Antropología digital y pensamiento de diseño
 
 - [[capitalismo cognitivo]] y algunos [[esbozos de una teoría del trabajo cognitivo]]
 
@@ -28,4 +29,4 @@ Preparo a mediano plazo un [[índice de métodos de investigación]] que atravie
 ---
 Proyectos laterales:
 
-- Trabajo en el diseño y el código del blog [It's All About Greece](https://itsallaboutgreece.com/es), donde un grupo de personas apasionadas por Grecia comparten experiencias para 
+- Trabajo en el diseño y el código del blog [It's All About Greece](https://itsallaboutgreece.com/es), donde un grupo de personas apasionadas por Grecia comparten experiencias para vivirla al máximo

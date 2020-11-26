@@ -6,7 +6,9 @@ node: ''
 tags: []
 ---
 
-¡Bienvenida,o 👋🏽! Soy [[algunas cosas sobre mí | Sergio]], me considero a mí mismo un [[trabajador cognitivo]]. En la práctica, defino productos digitales en [KarmaPulse](https://karmapulse.com), estudio un doctorado en Ciencias Antropológicas en la [Universidad Autónoma de Yucatán](https://www.uady.mx/), diseño páginas web y escribo aquí sobre investigaciones personales.
+¡Bienvenida,o 👋🏽! Soy [[algunas cosas sobre mí | Sergio]], me considero a mí mismo un [[trabajador cognitivo]].
+
+En la práctica, defino productos digitales en [KarmaPulse](https://karmapulse.com), estudio un doctorado en Ciencias Antropológicas en la [Universidad Autónoma de Yucatán](https://www.uady.mx/), diseño páginas web y escribo aquí sobre investigaciones personales.
 
 ## ¿Qué es esto?
 
@@ -16,7 +18,7 @@ Este es mi [jardín digital](https://www.technologyreview.es/s/12606/jardines-di
 
 Esto no es un blog. No hay una forma predeterminada de navegar en el sitio. En realidad está diseñado siguiendo mi [[sistema personal de toma de notas]], que es un experimento personal de *pensar en público*.
 
-Mira [[qué estoy trabajando]] ahora para tener una idea de los temas sobre los cuales escribo más activamente.
+Mira mis [[líneas de investigación]] para tener una idea de los temas sobre los cuales escribo más activamente.
 
 Siempre puedes acceder al [[archivo]] desde la parte superior derecha, donde se encuentran todas las notas. También puedes acceder a mi [[diario]] desde esa zona.
 

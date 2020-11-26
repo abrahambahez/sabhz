@@ -8,7 +8,7 @@ tags: ['en-construcción']
 
 Todo comienza con un [[sistema de organización social]]. De los diferentes modos en que *podemos relacionarnos unos con otros* uno es organizar el mundo a partir de la distribución de dos criterios:
 
-1. Los privilegios
+1. Los privilegios (ventajas )
 2. La opresión
 
 Esto lo convierte en un sistema inherentemente [[jerarquía | jerárquico]].

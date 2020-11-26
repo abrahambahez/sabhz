@@ -11,15 +11,14 @@ Est es una [[taxonomía]] de uso personal, con la cual ordeno mis notas para ace
 Existen tres clases de metadatos asociados a una nota: 
 
 1. `Tipo`: El tipo de nota define *qué clase de contenido tendrá* y potencialmente cómo puede combinarse con las demás.
-2. `Nodo`: Es una etiqueta más semántica, porque 
-por ejemplo, las notas relacionadas *principalemnte* con filosofía usan el nodo `Filosofía`
-3. `Tag` o etiqueta: Es un dato auxiliar del *estado de desarrollo* en el que se encuentra una nota. Algunas son simples borradores y otras son notas permententes densamente usadas, revisadas y enlazadas. Así es fácil saber cuáles notas requieren atención. Abajo están las etiquetas que uso.
+2. `Nodo`: Es una etiqueta más semántica, que utiliza dominios de conocimiento generales, por ejemplo, las notas relacionadas *principalemnte* con filosofía usan el nodo `Filosofía`
+3. `Tags` o etiquetas: Es un dato auxiliar del *estado de desarrollo* en el que se encuentra una nota. Algunas son simples borradores y otras son notas permententes densamente usadas, revisadas y enlazadas. Así es fácil saber cuáles notas requieren atención. Abajo están las etiquetas que uso.
 
 ## Tipos de notas
 
 - `término`: Es una nota destinada a explicar o comprender *una sola cosa*, un concepto teórico, un fenómeno o un hecho.
 - `índice`: Es una *metanota*, es decir, una nota cuya función es *referir a otras notas* (indexarlas) en un orden creativo, arbitrario, exploratorio o más estructurado. Madura con el tiempo. Es muy similar a la noción de [*Maps of Content*](https://forum.obsidian.md/t/on-the-process-of-making-mocs/1060) de Nick Milo.
-	- `colección`: Es un tipo de índice que no tiene una finalidad particular más que concentrar algunos términos útiles relacionados con un tema.
+	- `colección`: Es un tipo de índice cuyo valor consiste en la **curaduría** de elementos, ya sean externos, internos o mixtos
 - `nota de referencia`: Es una nota de literatura (como la llama Ahrens), tomada a partir de una fuente externa, un libro, una conferencia, un podcast, etcétera. 
 - `nota permanente`: Es una nota que desarrolla varias proposiciones o argumentos a partir de uno o más términos y que constantemente esta siendo usada, actualizada, revisada. Parecida a las [*evergreen notes*](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C) de A. Matuschak.
 

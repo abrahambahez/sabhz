@@ -37,7 +37,8 @@ export default {
       .catch(err => {
         error({ statusCode: 404, message: "Page not found" });
       });
-    const showBacklinks = content.type === 'noindex' || content.type === 'índice' ? false : true;
+    const showBacklinks = content.type === 'noindex' ? false : true;
+    
     return { content, showBacklinks};
   },
   head() {
