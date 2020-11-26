@@ -1,6 +1,6 @@
 ---
 title: 'Lenclud, G. «Lo empírico y lo normativo en la etnografía» ¿Derivan las diferencias culturales de la descripción?'
-description: ''
+description: 'No hay independencia de la observación empírica y los juicios valorativos en la etnografía'
 type: 'nota de referencia'
 node: 'epistemología'
 tags: ['artículo','procesar-notas-permanentes']
@@ -15,9 +15,7 @@ Un ejemplo:
 
 Lenclud afirma que el objeto de estudio de la antropología son las *diferencias culturales*, pero ¿las diferencias culturales a ser registradas por el etnógrafo pertenecen al dominio de los hechos?
 
-Ya hay discusiones filosóficas que defienden que *«es estrictamente imposible proteger las proposiciones empíricas de la contaminación normativa, y de manera más general, que la dicotomía hecho/valor es racionalmente indefendible»* y que *«las proposiciones empíricas y las prácticas de investigación en las cuales nos basamos para decidir qué es un hecho y qué no lo es, presuponen valores»* (p. 181).
-
-**Una proposición argumentativa es inseparable de algún un juicio de valor.**
+Ya hay discusiones filosóficas que defienden que *«es estrictamente imposible proteger las proposiciones empíricas de la contaminación normativa, y de manera más general, que la dicotomía hecho/valor es racionalmente indefendible»* y que *«las proposiciones empíricas y las prácticas de investigación en las cuales nos basamos para decidir qué es un hecho y qué no lo es, presuponen valores»* (p. 181). Por tanto [[la investigación basada en observación es inseparable de los juicios de valor]].
 
 Un ejemplo de esta discusión general es el uso del adjetivo *pertinente* para calificar un método, operación, proposición o similar en un trabajo científico. La pertinencia es un valor equivalente a la *belleza* o la *bondad* para calificar cosas dentro de dominios no científicos.
 
@@ -36,7 +34,7 @@ Cuando encontramos en el otro una creencia que suponemos falsa, por ejemplo, que
 
 Si la antropología estudia las *diferencias culturales*, **las diferencias culturales sólo emergen con la comparación de una cultura de referencia, la del observador, y eso implica un juicio de valor**, pues lo difierente consiste simplemente en aquellas representaciones que *en mí cultura tienen un sentido distinto* se consideran falsas, feas, malas, incorrectas, inapropiadas, inusuales).
 
-Posiblemente **la reflexividad y las etnografías abiertas, participativas y performativas son algunas maneras en las que la posición de superioridad epistémica se puede evadir.**
+Posiblemente **la [[reflexividad]] y las etnografías abiertas, participativas y performativas son algunas maneras en las que la posición de superioridad epistémica se puede evadir.**
 
 Así, *«decir que alguien que tiene intenciones o creencias, que prefiere esto o detesta aquello, que se somete a una norma, que tiene una o muchas ideas en su cabeza, no es describir sino valorizar. La diferencia entre él y yo no está fundada, está reconstruida con la ayuda de un juicio, a menudo subrepticio y, es valorativa»* (p. 184)
 

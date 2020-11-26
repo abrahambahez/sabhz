@@ -1,4 +1,3 @@
-
 ---
 title: Welcome
 description: An individual space about tech, design, philosphy and writing. 

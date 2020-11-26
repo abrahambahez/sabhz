@@ -28,7 +28,7 @@ Para el autor, algunos de los filósofos que reaccionaron con la defensa de la a
 - Robert D. Kaplan, *"The Coming Anarchy"*
 - Robert Paul Wolff, *"In Defense of Anarchism"*
 
-Un tercero, David Graeber es con quien discute más en el texto aunque no cita obras específicas de él; más bien lo refiere como uno de los *"líderes del movimiento Ocupy Wallstreet, "* 
+Un tercero, David Graeber es con quien discute más en el texto aunque no cita obras específicas de él; más bien lo refiere como uno de los *"líderes del movimiento  Ocupy Wallstreet, que supuestamente no tiene líderes"* 
 
 ## Referencias
 

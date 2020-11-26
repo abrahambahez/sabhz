@@ -2,16 +2,20 @@
 title: 'los sistemas de notas como una memoria aumentada'
 description: 'Mantener un sistema de toma de notas es una forma de extender la memoria como una prótesis, pero eso no implica que la memoria o el aprendizaje no estén siendo ejercitados'
 type: 'proposición'
-node: 'gestión del conocimiento'
+node: 'gestión del conocimiento personal'
 tags: ['en-construcción']
 ---
 
-El trabajo cognitivo *no se hace con la persona sentada meditando hasta que logra reproducir fielmente un producto de conocimiento*. 
+>*De los diversos instrumentos del hombre, el más asombroso es, sin duda, el libro. Los demás son extensiones de su cuerpo. El microscopio, el telescopio, son extensiones de su vista; el teléfono es extensión de la voz; luego tenemos el arado y la espada, extensiones de su brazo. Pero el libro es otra cosa: el libro es una extensión de la memoria y de la imaginación.*
+>
+>— Jorge Luis Borges, «El libro». En *Borges oral*. Alianza, 2006
 
-Incluso si hablo de un conocimento fundamentalmente oral, no se construye por sí mismo, tiene mucho de *dialógico*, de *mnemónico* (cuyo soporte más eficiente es siempre externo) y rara vez queda sin una forma de *ser reproducido*.
+Los repositorios de notas son un espacio para depositar trabajo cognitivo y usarlo cuando sea necesario, sin depender de la memoria personal.
 
-Los repositorios de notas son un espacio para depositar trabajo cognitivo y usarlo cuando sea necesario, sin depender de la memoria natural.
+Soportes externos como los libros o los sistemas computacionales son mejores para mantener la integridad de determinada información que creamos. Pero cuidado: [[el diseño de los sistemas y soportes de información influye directamente en el tipo de conocimiento producido a partir de ellos]].
 
-También es un ejercicio de memoria y aprendizaje similar a técnicas como la repetición por espacios ([*spaced repetition*](https://en.wikipedia.org/wiki/Spaced_repetition)) y la revisión activa ([*active recall*](https://en.wikipedia.org/wiki/Active_recall)). Un [proyecto de Matuschak](https://quantum.country/) es interesante al respecto, y desde su investiación surge la proposición siguiente:
+Una ventaja de tener en cuenta consiste en hacer un ejercicio de memoria y aprendizaje similar a técnicas como la repetición por espacios ([*spaced repetition*](https://en.wikipedia.org/wiki/Spaced_repetition)) y la revisión activa ([*active recall*](https://en.wikipedia.org/wiki/Active_recall)). Un [proyecto de Matuschak](https://quantum.country/) es interesante al respecto, y desde su investiación surge la proposición siguiente:
 
-- [Evergreen note maintenance approximates spaced repetition](https://notes.andymatuschak.org/z6yfTwYekzvBkVjeH7WBUrSAJhyGTMYDAyYW7)
+- [Evergreen note maintenance approximates spaced repetition](https://notes.andymatuschak.org/z6yfTwYekzvBkVjeH7WBUrSAJhyGTMYDAyYW7).
+
+Podemos combinar esta idea de la memoria aumentada con otra más: [[al hacer accesibles nuestras notas fortalecemos la memoria transactiva]].

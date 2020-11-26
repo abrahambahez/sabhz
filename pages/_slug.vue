@@ -1,10 +1,16 @@
 <template>
   <main >
     <div style="padding-top:25vh;">
-      <p class="container margin-auto serif secondary align-center" v-if="content.type != 'noindex'">{{content.type}}</p>
-      <h1 class="container margin-auto"> {{ content.title }} </h1>
+      
+      <h1 class="container margin-auto overflow-wrap-break-word">
+        {{ content.title }} 
+        <span v-if="content.type != 'noindex'"
+        class="secondary" style="opacity: .5;">
+         · {{content.type}}
+        </span>
+      </h1>
       <p 
-      class="container margin-auto serif italic secondary align-center"> 
+      class="container margin-auto size-08 italic secondary"> 
       <span v-for="tag in content.tags" class="tag-separation" :key="tag"> #{{tag}} </span>
       </p>
     </div>
