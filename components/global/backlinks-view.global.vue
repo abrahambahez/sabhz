@@ -1,7 +1,9 @@
 <template>
     <div class="container margin-auto" >
         <hr class="width-100 margin-bottom-0">
-        <h2 class="margin-top-2 padding-left-1-2">Notas relacionadas</h2>
+        <h2 class="margin-top-2 padding-left-1-2" v-if="backlinkPosts.length >= 1"> enlaces a esta nota</h2>
+        <p class="margin-top-2 padding-left-1-2 secondary" v-else><i>Aún no hay enlaces a esta nota</i></p>
+        
         <div class="flex flex-wrap ">
             <div class="post-container" v-for="backlinkPost in backlinkPosts" :key="backlinkPost.title" >
                 <nuxt-link :to="backlinkPost.slug">
@@ -37,7 +39,7 @@ export default {
         return this.backlinkPosts = await this.$content(this.$i18n.locale)
         .only(['title', 'description', 'slug', 'path'])
         .where( { 
-            'node' : { $eq: this.filterTerm },
+            'internalLinks' : { $contains: this.filterTerm },
             'path' : { $ne: this.selfPath }
         })
         .sortBy('title')

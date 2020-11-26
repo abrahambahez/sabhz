@@ -101,7 +101,22 @@ export default {
     yaml: {},
     csv: {}
   },
-  ignore: ['content/.obsidian/', 'content/templates/' ],
+  hooks: {
+    'content:file:beforeInsert': (document) => {
+      // Regex para encontrar wikilinks:
+      const wikilinkRegExp = /\[\[.+?\]\]/g
+      // valor para guardar:
+      document.internalLinks = []
+      //prueba sobre un caso
+      if (document.extension === '.md') {
+        const wikiLinks = (document.text.match(wikilinkRegExp) || [])
+          .map(link => { document.internalLinks.push(link
+            .slice(2,-2)
+            .split(" | ")[0]) })
+      }
+    }
+
+  },
   /*
   ** Build configuration
   ** See https://nuxtjs.org/api/configuration-build/

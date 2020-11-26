@@ -15,7 +15,7 @@
       </p>
     </div>
     <nuxt-content class="container margin-auto align-left" :document="content" />
-    <backlinks-view v-if="showBacklinks" :filterTerm="content.node" :selfPath="content.path" />
+    <backlinks-view v-if="showBacklinks" :filterTerm="content.title" :selfPath="content.path" />
 
   </main>
 </template>
