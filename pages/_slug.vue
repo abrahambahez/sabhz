@@ -6,7 +6,7 @@
         {{ content.title }} 
         <span v-if="content.type != 'noindex'"
         class="secondary" style="opacity: .5;">
-         · {{content.type}}
+         • {{content.type}}
         </span>
       </h1>
       <p 
@@ -15,7 +15,7 @@
       </p>
     </div>
     <nuxt-content class="container margin-auto align-left" :document="content" />
-    <backlinks-view v-if="showBacklinks" :filterTerm="content.title" :selfPath="content.path" />
+    <backlinks-view v-if="showBacklinks" :filterTerm="content.slug" />
 
   </main>
 </template>
