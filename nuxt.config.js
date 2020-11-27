@@ -94,7 +94,6 @@ export default {
       ]
     },
     liveEdit: false,
-    //nestedProperties: ['toc[].id'],
     apiPrefix: '_content',
     dir: 'content',
     fullTextSearchFields: ['title', 'description', 'slug', 'text'],
@@ -103,11 +102,11 @@ export default {
   },
   hooks: {
     'content:file:beforeInsert': (document) => {
-      // Regex para encontrar wikilinks:
+      // Regex to find wikilinks:
       const wikilinkRegExp = /\[\[.+?\]\]/g
-      // valor para guardar:
+      // array value to save
       document.internalLinks = []
-      //prueba sobre un caso
+      // get wikilinks values from the markdown files & append them to array
       if (document.extension === '.md') {
         const wikiLinks = (document.text.match(wikilinkRegExp) || [])
           .map(link => { document.internalLinks.push(link

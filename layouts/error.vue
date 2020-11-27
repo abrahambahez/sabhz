@@ -1,12 +1,12 @@
 <template>
   <div class="container margin-auto align-center" style="padding-top:25vh;" >
     <div v-if="error.statusCode === 404">
-        <h1>Esta página no existe 🦔</h1>
-        <p>Lo siento, parece que ocurrió un error con el enlace</p>
+        <h1>Mmm...🐱‍👤</h1>
+        <p>Lo siento, parece que esta nota no existe o cambió de nombre</p>
     </div>
      <div v-else>
-        <h1>Ocurrió un error 🐱‍👤</h1>
-        <p >Lo siento, parece que ocurrió un error con el enlace</p>
+        <h1>¡Uy! 🦔</h1>
+        <p>Parece que ocurrió un error con el enlace, posiblemente esta nota no existe, cambió de nombre o hay algo mal en el servidor</p>
     </div>   
     <div>
         <NuxtLink to="/">vuelve al inicio</NuxtLink>
