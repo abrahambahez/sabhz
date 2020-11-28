@@ -6,7 +6,7 @@ node: 'estrategias de investigación'
 tags: ['incipiente']
 ---
 
-Este es un proyecto a mediano plazo para documentar métodos y técnicas de investigación o análisis. Está totalmente determinado por mi trabajo del momento, por esa razón habrá más énfasis en temas antropológicos, pero la idea es expandirlo a lo largo del tiempo.
+Este es un proyecto a mediano plazo para documentar métodos y técnicas de investigación. Está totalmente determinado por mi trabajo del momento, por esa razón habrá más énfasis en temas antropológicos, pero la idea es expandirlo a lo largo del tiempo.
 
 Etnografía:
 
@@ -27,30 +27,15 @@ Investigación social inductiva
 
 Investigación estadística
 
-- [[operacionalización]]
-- categorización
 - métodos de estadística descriptiva
 - métodos de estadística inferencial
 - métodos de probabilidad
 
-Análisis lingüístico:
+Métodos de análisis:
 
-- análisis de lenguaje natural (NLP por sus siglas inglesas)
-- análisis morfosintáctico
-- análisis macroestructural de van Dijk
-
-Análisis comunicacional y narrativo
-
-- análisis de discurso
-- análisis narratológico
-
-Investigación semiótica
-
-- cuadrado semiótico
-- análisis actancial
-- análisis peirciano
+- [[operacionalización]]
+- [[categorización]]
 
 
----
 *Nota: las que no son vínculos están pendientes de creación*
 

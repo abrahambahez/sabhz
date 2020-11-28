@@ -3,7 +3,7 @@ title: praxis
 description: 'Las prácticas de los sujetos que implican la reproducción de principios estructurantes'
 type: 'término'
 node: 'filosofía'
-tags: ['permanente']
+tags: ['perenne🙕']
 ---
 
 Toda práctica humana que es guiada por cierto principio estructurante: social-histórico-cultural.

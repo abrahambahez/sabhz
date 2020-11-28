@@ -1,6 +1,6 @@
 <template>
     <div class="container margin-auto" >
-        <hr class="width-100 margin-bottom-0">
+        <br class="margin-top-2">
         <h2 class="margin-top-2 padding-left-1-2" v-if="backlinkPosts.length >= 1"> enlaces a esta nota</h2>
         <p class="margin-top-2 padding-left-1-2 secondary" v-else><i>Aún no hay enlaces a esta nota</i></p>
         <div class="flex flex-wrap ">

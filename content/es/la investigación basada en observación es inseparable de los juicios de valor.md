@@ -16,7 +16,7 @@ Esto implica que cualquier ciencia basada en observación no puede escapar a est
 
 También la noción de la interpretación *teóricamente orientada* o *teóricamente sesgada*, por ejemplo, en Alvesson y Sköldberg (2009, introducción del libro).
 
-Mira la nota de mi [[diario/2020-11-26]]
+Mira la nota de mi [[diario/2020-11-26]], <a href="/diario/2020-11-26#discusión-entre-datos---fenómenos-y-la-interdependencia-de-lo-empírico-y-lo-normativo">§2</a>.
 
 ## Referencias
 

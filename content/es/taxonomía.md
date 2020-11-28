@@ -28,8 +28,7 @@ Mi [[sistema personal de toma de notas]] y muchos otros sistemas de [[gestión d
 
 Las taxonomías informacionales pueden ser jerárquicas, por ejemplo, al definir el menú de un sitio web y decidir que *todo el contenido tendrá que caber en tres secciones: acerca del sitio, contacto y presentación*.
 
-### El trabajo taxonómico sobre información organizacional corresponde una de las prácticas más usuales en la [[gestión del conocimiento]] organizacional
+---
+El trabajo taxonómico sobre información organizacional corresponde una de las prácticas más usuales en la [[gestión del conocimiento]] organizacional.
 
-Una lista de estrategias y recursos taxonómicos en este sentido:
-
-- [Taxonomy Strategies - Bibliography of resources](http://www.taxonomystrategies.com/html/bibliography.htm)
+Una lista de estrategias y recursos taxonómicos en este sentido está en [Taxonomy Strategies - Bibliography of resources](http://www.taxonomystrategies.com/html/bibliography.htm).

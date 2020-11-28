@@ -6,7 +6,7 @@ node: ''
 tags: []
 ---
 
-Preparo a mediano plazo un [[índice de métodos de investigación]] que atraviese estas líneas de investigación como soporte 
+Preparo a mediano plazo un [[índice de herramientas cognitivas]] que atraviese estas líneas de investigación como soporte 
 
 ### Antropología y cambio social
 
@@ -23,8 +23,6 @@ Preparo a mediano plazo un [[índice de métodos de investigación]] que atravie
 - [[sistema personal de toma de notas]]
 
 ### Epistemología y semiótica de la comunicación
-
-
 
 ---
 Proyectos laterales:
