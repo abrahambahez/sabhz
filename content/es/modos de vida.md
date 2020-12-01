@@ -6,9 +6,10 @@ node: 'antropología'
 tags: ['en-construcción']
 ---
 
-Es la forma particular en la que las condiciones de existencia, las relaciones sociales vinculadas a esas condiciones y las prácticas e ideas que surgen de ellas se encarnan en el día a día de una persona.
+Adopto la noción del antropólogo Thomas [[Højrup (2017) State, Culture and Life-Modes]]:
 
-- Constriñen a capacidad de decisión del individuo a nivel estructural, y lo predisponen a ciertos patrones de preferencias a nivel superestructural
+Son las condiciones de posibilidad para que un modo de existencia y un mundo conceptual asociado a él se autorreproduzcan tomando como fundamento un modo de producción (que puede coexistir con otros dentro de una formación social, más amplia).
+
 
 ## Según el materialismo histórico
 
@@ -19,10 +20,3 @@ Según el proyecto español de [filosofia.org](http://www.filosofia.org/enc/ros/
 *El modo de vida permite estudiar integralmente las principales esferas de la actividad vital humana*:
 
 Su trabajo, vida cotidiana, incluyendo las relaciones familiares y matrimoniales, su instrucción y cultura, así como su vida social, comprendidas las relaciones nacionales, y aclarar las orientaciones axiológicas de los hombres y las causas de su conducta (estilo de vida), determinada por el régimen socio-económico, el nivel (bienestar material) y la calidad (bienestar espiritual) de la vida.
-
-## En Antropología
-
-Son las condiciones de posibilidad para que un modo de existencia se autorreproduzca tomando como fundamento un modo de producción (que puede coexistir con otros dentro de un conjunto social más amplio) 
-
-Un estudio más profundo se encuentra en [[Højrup (2017) State, Culture and Life-Modes]]
-

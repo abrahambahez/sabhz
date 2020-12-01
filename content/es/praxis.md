@@ -3,12 +3,10 @@ title: praxis
 description: 'Las prácticas de los sujetos que implican la reproducción de principios estructurantes'
 type: 'término'
 node: 'filosofía'
-tags: ['perenne🙕']
+tags: ['perenne❧']
 ---
 
-Toda práctica humana que es guiada por cierto principio estructurante: social-histórico-cultural.
-
-La praxis existe cuando la práctica del individo incorpora en su experiencia al mundo social, y al mundo conceptual al que pertenece, que de este modo reproduce sus condiciones de existencia
+La praxis existe cuando la práctica del individo incorpora en su experiencia al mundo social y al mundo conceptual al que pertenece, que de este modo reproduce sus condiciones de existencia, estructurándose
 
 En el [diccionario de materialismo filosófico](http://www.filosofia.org/filomat/df236.htm) se cita el par *principio-regulador* de la *praxis - phronesis* (lat. *agere -prudentia*) aristotélica, en oposición a la *poiesis - techné* (lat. *facere - ars*). Esto vincularía a la praxis con la [[agencia]]
 

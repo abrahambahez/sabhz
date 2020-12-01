@@ -3,8 +3,8 @@ title: 'Segato: Las estructuras elementales de la violencia'
 description: 'Dinámica de interacción violenta emanada de las pedagogías de la crueldad'
 type: 'nota de referencia'
 node: 'feminismo'
-tags: ['artículo', 'procesar-notas-permanentes
-authors: ['Segato, Rita Laura']
+tags: ['artículo', 'procesar-notas-permanentes']
+authors: ["Segato, Rita Laura"]
 ---
 
 Como consecuenca de las [[Segato (2019) Pedagogías de la crueldad | Pedagogías de la crueldad]], se desprende este planteamiento donde se describe la inserción del agresor en el cruce de dos ejes de interlocución:
@@ -35,7 +35,6 @@ En estas violencias hay una economía simbólica que se reproduce y se observa, 
 Si el patriarcado fuese de orden natural, no necesitaría narrar sus fundamentos.
 
 ### El eje horizontal de la estructura de la violencia forma a la clase masculina como una corporación basada en la fidelidad absoluta y la jerarquía rígida
-
 
 Segato: *"Responde a la relación entre pares miembros de la fratria masculina y la necesidad de dar cuentas al otro, al cofrade, al cómplice, de que se es potente"*, es decir, capaz de un acto de dominación, de desafío que llevan a un desarrollo de la personalidad psicopático (nula o limitada capacidad vincular), idela para la formación militar.
 

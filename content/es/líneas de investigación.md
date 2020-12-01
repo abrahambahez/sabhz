@@ -13,16 +13,17 @@ Preparo a mediano plazo un [[índice de herramientas cognitivas]] que atraviese 
 - Los [[sistemas de distribución de opresión y privilegios]], dentro del contexto de los [[sistema de organización social]]
 - Los [[modos de vida]] como núcleo de investigación para el co-diseño de proyectos sociales
 
-### Antropología digital y pensamiento de diseño
+### Antropología de la tecnología, epistemologías y comunicación
 
 - [[capitalismo cognitivo]] y algunos [[esbozos de una teoría del trabajo cognitivo]]
-
-### Epistemología, comunicación y sistemas de información
-
+- [[teorías de la cognición extendida]]
 - [[gestión del conocimiento]]
+
+### Gestión de conocimiento personal
+
 - [[sistema personal de toma de notas]]
 
-### Epistemología y semiótica de la comunicación
+### Semiótica de la comunicación y pensamiento de diseño
 
 ---
 Proyectos laterales:

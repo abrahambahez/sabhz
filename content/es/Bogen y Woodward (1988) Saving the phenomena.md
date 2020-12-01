@@ -3,7 +3,7 @@ title: 'Bogen y Woodward (1988) Saving the phenomena'
 description: 'La relación entre datos - fenómenos y teorías separa a las teorías de los datos y deja a los fenómenos como entidades privilegiadas por el esfuerzo explicativo'
 type: 'nota de referencia'
 node: 'epistemología'
-tags: ['procesamiento-inicial']
+tags: ['procesamiento-inicial', 'agenda']
 authors: ['Bogen, James', 'Woodward, James']
 ---
 

@@ -6,10 +6,14 @@
     </div>
      <div v-else>
         <h1>¡Uy! 🦔</h1>
-        <p>Parece que ocurrió un error con el enlace, posiblemente esta nota no existe, cambió de nombre o hay algo mal en el servidor</p>
+        <p>Ocurrió un error con el enlace, posiblemente esta nota no existe, cambió de nombre o hay algo mal en el servidor</p>
     </div>   
     <div>
-        <NuxtLink to="/">vuelve al inicio</NuxtLink>
+      <p>
+        Puedes <NuxtLink to="/">volver al inicio</NuxtLink>
+        o intentar <NuxtLink to="/archivo">buscarla en el archivo</NuxtLink>
+      </p>
+      
     </div>
   </div>
 </template>
