@@ -6,17 +6,14 @@ node: 'filosofía'
 tags: ['en-construcción']
 ---
 
-Concepto filosófico que quiero estudiar más a profunidad para desarrollar varios argumentos:
+Las propiedades emergentes
 
-- El principio de emergencia en un sistema de [[gestión del conocimiento]]
-- Una solución a los dualismos excluyentes del tipo emocional - racional, mente - cuerpo, idealismo - materialismo
-	- Permitirían hacer declaraciones como:
-		- La conciencia es una propiedad emergente de algunos sistemas nerviosos
+El principio de emergencia en un sistema de [[gestión del conocimiento]]
 
 ## Caracterización
 
-- Aunque emergen de un sistema que las precede, no pueden reducirse ni explicarse a los sistemas que las posibilitan (los estados mentales no pueden reducirse a estados cerebrales)
-	- Son más que la suma de sus partes: los conjuntos de estados neuronales no equivalen a un estado mental
+- Aunque emergen de un sistema que las precede, no pueden reducirse ni explicarse a los sistemas que las posibilitan (los estados mentales no pueden reducirse a estados neuronales)
+	- Esto es así poruqe son más que la suma de sus partes: los conjuntos de estados neuronales no equivalen a un estado mental
 
 ## Para revisar
 

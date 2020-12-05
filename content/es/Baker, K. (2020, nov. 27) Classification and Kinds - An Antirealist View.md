@@ -1,6 +1,6 @@
 ---
 title: 'Baker, K. Classification and Kinds - An Antirealist View'
-description: 'Problematización de la clasificación y la categorizzación como prácticas científicas realistas'
+description: 'Problematización de la clasificación y la categorización como prácticas científicas realistas'
 type: 'nota de referencia'
 node: 'filosofía de la mente'
 tags: ['procesar-notas-permanentes', 'agenda']
@@ -30,7 +30,7 @@ Por lo tanto, **el mundo es en cierto sentido socialmente construido**, pero eso
 Aquí es donde radica el verdadero problema, porque:
 
 - Los sistemas de clasificación se producen dentro de un *dominio de conocimiento*
-- El dominio de conociminento es construido por una *comunidad de conocimiento* que lo discute, en muchos casos, *racionalmente*
+- El dominio de conociminento es construido por una *comunidad de conocimiento* que lo discute, en muchos casos, *racionalmente*.
 - Una vez que la comunidad de conocimiento ha adoptado el sistema clasificatorio, éste adopta un *estatus cognitivo y epistémico* de veracidad, aunque no haya adoptado el *estaus ontológico* de *real*.
 - La utilización de algún sistema de clasificación aceptado por una comunidad de conocimiento puede ser útil desde la mirada de la [[razón instrumental]] o subjetiva y eso es suficiente para ser considerado, al menos temporalmente, un equivalente práctico desde el punto de vista de la *razón objetiva*.
 

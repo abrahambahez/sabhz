@@ -29,7 +29,7 @@ Las notas son las unidades básicas de la práctica escritural, como se ha recon
 
 Algunos métodos para organizar la toma de notas como forma de pensamiento son:
 
-- **zettlekasten** - escribir y pensar
+- **[[zettelkasten]]** - escribir y pensar
 - **LYT framework** - desarrollado desde Obsidian
 
 Entre las técnicas usadas para eso están:
@@ -55,3 +55,5 @@ Necesitan desarrollo:
 
 - [Unique Value Proposition frameworks](http://torgronsund.com/2011/11/29/7-proven-templates-for-creating-value-propositions-that-work/)
 - [Johanna Wiebe compilation](https://copyhackers.com/2015/10/copywriting-formula/)
+- [Content Strategy para redes sociales](https://alistapart.com/article/reclaiming-social-content-strategy-for-social-media/)
+- Baker(2018) Structured Writing

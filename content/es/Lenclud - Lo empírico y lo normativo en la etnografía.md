@@ -32,7 +32,7 @@ Cuando encontramos en el otro una creencia que suponemos falsa, por ejemplo, que
 - Le está atribuyendo al otro una *creencia* —una actitud proposicional—(si no creyera que el sol necesita sangre, no lo diría)
 - Ese proceso de atribución es el resultado de un *diagnóstico valorativo* del tipo *«"él está equivocado" (porque yo estoy en lo correcto)»* (p. 183)
 
-Si la antropología estudia las *diferencias culturales*, **las diferencias culturales sólo emergen con la comparación de una cultura de referencia, la del observador, y eso implica un juicio de valor**, pues lo difierente consiste simplemente en aquellas representaciones que *en mí cultura tienen un sentido distinto* se consideran falsas, feas, malas, incorrectas, inapropiadas, inusuales).
+Si la antropología estudia las *diferencias culturales*, **las diferencias culturales sólo emergen con la comparación de una cultura de referencia, la del observador, y eso implica un juicio de valor**, pues lo diferente consiste simplemente en aquellas [[representaciones]] que *en mí cultura tienen un sentido distinto* se consideran falsas, feas, malas, incorrectas, inapropiadas, inusuales).
 
 Posiblemente **la [[reflexividad]] y las etnografías abiertas, participativas y performativas son algunas maneras en las que la posición de superioridad epistémica se puede evadir.**
 

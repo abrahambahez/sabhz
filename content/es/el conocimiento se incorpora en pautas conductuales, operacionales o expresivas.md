@@ -6,9 +6,11 @@ node: 'capitalismo cognitivo'
 tags: ['incipiente']
 ---
 
-Es difícil entender el concepto de "conocimiento" de manera abstracta, especialmente porque, de hecho, es muy difícil conceptualizarlo definitivamente.
+Desde el punto de vista de la [[cognición encorporada]], es posible plantear la identificación del conocimiento en los comportamientos que los sujetos dejan en el mundo. 
 
-Es más sencillo ver los resultados que produce, cómo es *incorporado* (encarnado en las personas) y se refleja en rastros más objetivos. Tres ideas para entender la evidencia de la incorporación del conocimiento: 
+En este sentido, los 'rastros' conductuales de las pautas que propongo no tienen que verse necesariamente como *parte del sistema cognitivo* en el sentido de la [[hipótesis de la mente extendida]], sino como haciendo *énfasis* en la materialidad de esas entidades.
+
+Tres ideas para entender la evidencia de la incorporación del conocimiento: 
 
 ## 1. Pautas operacionales
 
@@ -28,7 +30,7 @@ También podrían relacionarse con teorías como el *condicionamiento operante*,
 
 ## 3. Pautas expresivas
 
-Las pautas expresivas son conductas que transforman la materialidad (o el entorno físico) con el fin de compartir *representaciones* entre los sujetos que son capaces de percibirlas e interpretarlas, usualmente a través de principios *semióticos*.
+Las pautas expresivas son conductas que transforman la materialidad (o el entorno físico) con el fin de compartir *[[representaciones]]* entre los sujetos que son capaces de percibirlas e interpretarlas, usualmente a través de principios *semióticos*.
 
 La noción de pauta expresiva que puede ser útil es la de Martín Serrano (2011) sobre la antropogénesis y una paleontología de la comunicación.
 

@@ -3,7 +3,7 @@ title: 'tratar de deducir hechos o comportamientos a partir de proposiciones cul
 description: 'Estudiar el comportamiento atendiendo a la cultura llevará tarde o temprano a una tendencia valorativa fuerte'
 type: 'proposición'
 node: 'antropología crítica'
-tags: ['en-construcción']
+tags: ['semilla❦']
 ---
 
 Dos puntos de partida a continuación.

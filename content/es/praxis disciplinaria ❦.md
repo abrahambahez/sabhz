@@ -8,7 +8,9 @@ tags: ['semilla❦']
 
 Un tipo de [[praxis]] particular, derivada de la formación académica de un *investigador*, (productor de conocimiento o *knowledge worker*), implica que hay diferencias en varias dimensiones de procedimiento, mirada, teoría y metodología.
 
-La praxis puede ser aprendida como un fenómeno sociocultural, a la manera de la [[etnografía performativa]] 
+La praxis puede ser aprendida como un fenómeno sociocultural, a la manera de la [[etnografía performativa]].
+
+Es un tema desarrollado en el [Homo Academicus de Bourdieu](https://www.traficantes.net/libros/homo-academicus-0)
 
 ## Ejemplos
 

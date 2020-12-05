@@ -1,45 +1,36 @@
 ---
 title: 'teorías de la cognición extendida'
 description: 'Los procesos cognitivos no se limitan al cerebro, sino que se extienden como relaciones con otras entidades que forman parte de su elaboración: objetos, el cuerpo, otros cuerpos, otras mentes'
-type: 'argumento'
+type: 'índice'
 node: 'filosofía de la mente'
-tags: ['incipiente']
+tags: ['en-construcción', 'agenda']
 ---
 
-Planteada por Clark y Chalmers (1998) propone que los procesos mentales no pueden reducirse simplemente a operaciones cerebrales, sino que existen entidades extra-cerebrales que *forman parte* de la cognición desde un punto de vista funcional (y posiblemente *sistémico*). 
+Todo acto mental se extiende hacia el mundo, raramente se construye, ejerce y funciona aisladamente.
 
-Por ejemplo, las diferencias entre *recordar* una información usando la memoria biológica y hacerlo usando una libreta *no son cognitivamente significativas* como para no considerarlas equivalentes (aunque claramente no pueden considerarse operacionalmente iguales).
+Es posible afirmar que [[el trabajo cognitivo no es privativo ni del individuo ni del cerebro]], esto es, **nuestro conocimiento, pensamiento y otras funciones cognitivas *no se dan exclusivamente dentro del cerebro***, sino que hay elementos que fuera de él, lo construyen parcialmente o lo posibilitan. Algunas de estas cosas son *nuestros propios cuerpos*, objetos que usamos con intenciones cognitivas ([[las notas como herramientas cognitivas]] y [[los sistemas de notas como una memoria aumentada]]), los elementos de nuestro medio ambiente e incluso otras personas ([[memoria transactiva]]).
 
-Los objetos exteriores, como una libreta, pueden formar con el sujeto que la usa un *sistema acoplado* que participa en actos cognitivos como *recordar*, *reflexionar*, *analizar*, *crear nuevas ideas*, etcétera. Y funcionan de esa forma **porque fueron *deliberadamente* llenados de contenido por el sujeto para poder ser accedidos en contextos donde podría ser relevante usarlos**, y esto es, cuando menos, funcionalmente equivalente a sólo usar el cerebro.[^1] Esta es una condición necesaria para que un objeto forme parte del proceso cognitivo, y así evitar el *inflamiento cognitivo* (*cognitive bloat*): «*si tengo acceso a internet, ¿quiere decir que toda esa información forma parte de mi sistema cognitivo?*
+Algunos núcleos argumentales para sostener esto son:
 
-A partir de esta idea se han desarrollado en diferentes grados, posturas que desarrollan estas tesis:
+- No hay diferencias *funcionales* que sean relevantes para realizar ciertos actos cognitivos si uso mis capacidades cognitivas *internas* o uso entidades externas, por ejemplo, *si recuerdo algo por mi memoria biológica o gracias a una nota o un gesto manual*, logro mi finalidad
+- Entender la cognición como parte de una red que relaciona lo cerebreal con lo no cerebral tiene ventajas potenciales para la comprensión de fenómenos psicológicos
+- Tanto el cerebro como el resto del cuerpo y otros objetos están en una relación que conforma un *sistema acoplado* donde la cognición se posibilita, por tanto los objetos extra-cerebrales pueden considerarse *parte del proceso cognitivo*.
 
-- **Epistemologías del cuerpo**: El cuerpo puede *jugar un rol* en el proceso cognitivo (gestos, memoria táctil, etcétera). Rowlands (2010) y Gallagher (2011)
-- **Extensión material de la cognición**. Clark y Chalmers (1998)
+El programa de investigación de las **4E** sobre la cognición consiste en cuatro ideas fundamentales, relacionadas pero distintas, que comparten algunos investigadores (Rowlands, 2010; Sprevak, 2019) o que recuperan de otros trabajos anteriores. Las 4E son:
+
+1. La [[cognición encorporada]] *(embodied)* — el conocimiento también se forma por procesos extra-neurológicos del cuerpo 
+2. La [[cognición situada]] *(embedded)* — siempre opera en relación con un enterno exterior
+3. Cognición como [[enactivismo]] *(enacted)* — siempre opera en una relación de *interacción dinámica* con el entorno 
+4. La [[hipótesis de la mente extendida]] *(extended)* de Clark y Chalmers (1998) — al menos en parte, opera por los procesos externos al sujeto
+
+Es posible extender a otros aspectos de la mente la *hipotesis de la cognición extendida*
+
 - **Extensión material de las emociones**. Colombetti et al. (2018)
 - **Extensión social de la cognición**. Gallagher (2011)
 
-Para Rowlands (2010), la cognición puede ser:
-
-1. *Encorporada* (*embodied*) — también se forma por procesos extra-neurológicos del cuerpo (mira [Embodied cognition](https://en.wikipedia.org/wiki/Embodied_cognition))
-2. *Situada* (*embedded*) — siempre opera en relación con un enterno exterior (mira [Situated cognition](https://en.wikipedia.org/wiki/Situated_cognition))
-3. *Enactiva* (*enacted*) — siempre opera en una relación de *interacción dinámica* con el entorno (mira [Enactivism](https://en.wikipedia.org/wiki/Enactivism))
-4. *Extendida* (*extended*) — al menos en parte, opera por los procesos externos al sujeto
-
-Para que un proceso *P* (y las entidades que los extienden) sean considerados *cognitivos*, deben cumplirse cuatro requisitos:
-
-1. *P* implica algún procesamiento de información
-2. Ese procesamiento debe hacer disponible al sujeto (u otro proceso subsecuente) información que antes no lo estaba, pues no había sido procesada
-3. Esta disponibilidad es posible por que *P* puede crear en el sujeto un *estado representacional*
-4. *P* es un proceso que pertenece al *sujeto* que posee ese *estado representacional*
-
----
-Esto hace viable pensar en [[las notas como herramientas cognitivas]] y en [[los sistemas de notas como una memoria aumentada]].
-
+Algunos (p.e. [Adams: *Why we still need a mark of the cognitive*](https://www.sciencedirect.com/science/article/abs/pii/S1389041710000331)) sostienen que es necesario definir *en qué consiste un proceso cognitivo* para poder determinar las condiciones de validación de estas tesis, eso da pie al debate sobre la [[caracterización del proceso cognitivo (mark of the cognitive)]].
 
 ## Lecturas posteriores
-
->Nota: la anterior fue una elaboración basada en [[Baker, K. (2015, dic. 21) Philosophy of Mind 6.1 - The Extended Mind]], hace falta produndizar y actualizar el debate
 
 - [Allen-Hermanson - Superdupersizing the mind: extended cognition and the persistence of cognitive bloat ](https://www.jstor.org/stable/41932759)
 - [Clark y Chalmers - The extended mind](http://scholar.google.com.mx/scholar_url?url=https://era.ed.ac.uk/bitstream/handle/1842/1312/TheExtendedMind.pdf%253Fsequence%253D1%2526isAllowed%253Dy&hl=es&sa=X&ei=LEXFX8iGD4rOmgGuq7GoAQ&scisig=AAGBfm3gV5YwXrLD9exuKENO6Hn1fGPRPQ&nossl=1&oi=scholarr)
@@ -50,7 +41,7 @@ Esto hace viable pensar en [[las notas como herramientas cognitivas]] y en [[los
 
 ## Referencias
 
-Baker, K. (2015, 21 de dic.) \[video\]. Philosophy of Mind 6.1 - The Extended Mind. https://youtu.be/VuNgjo-pdeU
+[[Baker, K. (2015, dic. 21) Philosophy of Mind 6.1 - The Extended Mind]]
 
 Colombetti, G., Krueger, J., & Roberts, T. (2018). Affectivity Beyond the Skin. Frontiers in psychology, 9, 1307. link: [(PDF) Enactive Affectivity, Extended - ResearchGate www.researchgate.net › publication](https://www.researchgate.net/publication/281546276_Enactive_Affectivity_Extended)
 
@@ -59,5 +50,5 @@ Clark, A., & Chalmers, D. (1998). The extended mind. analysis, 58(1), 7-19. [Enl
 Gallagher, S. (2011). Interpretations of embodied cognition. [\[PDF\] uow.edu.au](https://scholar.google.com/scholar_url?url=http://ro.uow.edu.au/cgi/viewcontent.cgi%253Farticle%253D2378%2526context%253Dlhapapers&hl=es&sa=T&oi=gsb-gga&ct=res&cd=0&d=3263484140916737857&ei=Ys3FX9ODPdG1mAHK6q_4Ag&scisig=AAGBfm33NECwo9ImCWnY0t5-zp6iJ1pB9g)
 
 Rowlands, M. J. (2010). The new science of the mind: From extended mind to embodied phenomenology. Mit Press.
- 
- [^1]: El sujeto puede ser, en teoría, cualquier organismo con capacidad de representaciones con contenido conceptual (mira a [[Stigol (2005) Estados mentales, contenidos y conceptos]]) o incluso un sistema artificial de procesamiento de información capaz de crear, cuando menos algún puente entre información y conocimiento desde la perspectiva operacional de la [[pirámide de conocimiento]]. Esta es posiblemente una de las principales razones por las cuales estas teorías son problemáticas, la fuerza con la que se acepte que la cognición *está separada* de lo propiamente humano abre la puerta a considerar otros organismos y sistemas como *inteligentes* en algún sentido, y por lo tanto amenaza el antropocentrismo epistemológico.
+
+Sprevak, M. (2019) Extended cognition. The Routledge Encyclopedia of Philosophy Online (edited by Tim Crane), Routledge: London. https://marksprevak.com/publications/extended-cognition/
