@@ -6,13 +6,20 @@ node: 'filosofía'
 tags: ['en-construcción']
 ---
 
-Las propiedades emergentes
+Las propiedades emergentes son fenómenos que pueden surgir a partir de la organización de un [[sistema]] como nuevas propiedades que existen en el sistema como un todo pero en los miembros individuales que lo componen:
 
-El principio de emergencia en un sistema de [[gestión del conocimiento]]
+Ejemplos:
+
+- neuronas mente
+- 
+
+Dónde puede ser usado:
+
+- En la [[gestión del conocimiento]]
 
 ## Caracterización
 
-- Aunque emergen de un sistema que las precede, no pueden reducirse ni explicarse a los sistemas que las posibilitan (los estados mentales no pueden reducirse a estados neuronales)
+- Aunque emergen de un [[sistema]] que las precede, no pueden reducirse ni explicarse a los sistemas que las posibilitan (los estados mentales no pueden reducirse a estados neuronales)
 	- Esto es así poruqe son más que la suma de sus partes: los conjuntos de estados neuronales no equivalen a un estado mental
 
 ## Para revisar

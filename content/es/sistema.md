@@ -6,6 +6,7 @@ node: 'metaconcepto'
 tags: ['concepto-terminal', 'agenda']
 ---
 
+
 Un sistema es una entidad abstracta que usamos para entender el funcionamiento de muchos fenómenos que comparten ciertos atributos:
 
 - Tienen un conjunto de miembros[^1]

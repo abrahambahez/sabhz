@@ -6,7 +6,7 @@ node: 'capitalismo cognitivo'
 tags: ['en-construcción']
 ---
 
-## En términos estrictos, *todo sistema económico está fundado en alguna clase de conocimiento productivo*
+## En términos estrictos, *todo [[sistema]] económico está fundado en alguna clase de conocimiento productivo*
 
 Un conocimiento suele traer consigo formas de innovación tecnológica que mejoran la capacidad productiva de un grupo social.
 

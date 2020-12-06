@@ -6,7 +6,7 @@ node: 'sistema de toma de notas'
 tags: ['perenne❧']
 ---
 
-Este pretende ser mi sistema personal de notas, una visión práctica de [[gestión del conocimiento]] personal. En la [[taxonomía general de notas]],  defino la organización del contenido de cada una.
+Este pretende ser mi [[sistema]] personal de notas, una visión práctica de [[gestión del conocimiento]] personal. En la [[taxonomía general de notas]],  defino la organización del contenido de cada una.
 
 **La toma de notas es una práctica básica de construcción de conocimiento** (mira [[teorías de la cognición extendida]]), esto es pensar [[las notas como herramientas cognitivas]].
 

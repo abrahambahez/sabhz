@@ -26,7 +26,7 @@ Un proceso cognitivo debe impicar:
 
 ### Rupert (2009)
 
-Un proceso cognitivo debe ser parte de un *sistema integrado y persistente*; además, debe contribuir causalmente a un amplio rango de fenómenos cognitivos
+Un proceso cognitivo debe ser parte de un *[[sistema]] integrado y persistente*; además, debe contribuir causalmente a un amplio rango de fenómenos cognitivos
 
 
 ## Bibliografía

@@ -6,7 +6,7 @@ node: 'sistemas de información'
 tags: ['incipiente']
 ---
 
-Las ontologías informacionales consisten en la identifiación particular de entidades y relaciones en un sistema de información que representan un dominio de conocimiento
+Las ontologías informacionales consisten en la identifiación particular de entidades y relaciones en un [[sistema]] de información que representan un dominio de conocimiento
 
 ## Para construir
 

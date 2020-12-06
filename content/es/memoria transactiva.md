@@ -10,7 +10,7 @@ tags: ['incipiente']
 
 Las personas que están relacionadas entre sí, que se conocen o que comparten algún vínculo, tienen acceso a un fenómeno muy particular: **pueden utilizarse mutuamente como extensiones o ayudas externas de memoria**.
 
-Al hacerlo desarrollan *«un sistema compartido para adquirir, codificar, almacenar y recuperar información»*. A esta forma particular de *memoria*, Wegner (1986) le llamó *memoria transactiva*.
+Al hacerlo desarrollan *«un [[sistema]] compartido para adquirir, codificar, almacenar y recuperar información»*. A esta forma particular de *memoria*, Wegner (1986) le llamó *memoria transactiva*.
 
 Esta es una memoria porque:
 
@@ -24,7 +24,7 @@ Por eso no hay memoria transactiva sin conocimiento del otro, sin algún tipo de
 
 ## Sistemas de memoria transactiva
 
-De acuerdo con Sánchez-Manzanares et al. (2006), los miembros de grupos con algún grado de estructuración tienden a distribuirse tareas y responsabilidades, especializándose en diferentes roles y dominios de conocimiento. Así configuran un sistema de interdependencia cognitiva (que los autores llaman *Sistema de Memoria Transactiva*).
+De acuerdo con Sánchez-Manzanares et al. (2006), los miembros de grupos con algún grado de estructuración tienden a distribuirse tareas y responsabilidades, especializándose en diferentes roles y dominios de conocimiento. Así configuran un [[sistema]] de interdependencia cognitiva (que los autores llaman *Sistema de Memoria Transactiva*).
 
 Como sistema, requiere la capacidad de intercambiar y actualizar continuamente información de lo que los demás saben o pueden resolver. Esto se puede ver adectado positivamente si:
 

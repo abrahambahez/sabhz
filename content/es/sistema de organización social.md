@@ -15,4 +15,4 @@ Hay muchas combinaciones posibles, por ejemplo, aquí hay [[un modo de entender 
 
 El criterio central sobre el que se establecen las relaciones permite categorizarlas un poco más específicamente, por ejemplo, en relación con la *autoridad* o *el poder* que unos miembros pueden tener sobre otros, lo que convierte a esa forma en una forma [[jerarquía | jerárquica]] de organización social.
 
-Cualquier sistema basado en criterios que distribuyen desigualmente las oportunidades forma parte de los [[sistemas de distribución de opresión y privilegios]].
+Cualquier [[sistema]] basado en criterios que distribuyen desigualmente las oportunidades forma parte de los [[sistemas de distribución de opresión y privilegios]].
