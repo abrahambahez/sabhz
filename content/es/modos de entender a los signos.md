@@ -24,7 +24,7 @@ Parece que la antropología desarrolló esfuerzos interpretativos independientes
 
 ## En semiótica
 
-### La semiótica de tradición peiciana
+### La semiótica de tradición periciana
 
 - Charles S. Peirce
 - Charles Morris
