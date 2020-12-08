@@ -3,7 +3,7 @@ title: 'economía del conocimiento'
 description: 'Uso especializado e intensivo del conocimiento para intervenir los procesos de producción y distribución de bienes y servicios'
 type: 'término'
 node: 'capitalismo cognitivo'
-tags: ['en-construcción']
+tags: ['incipiente']
 ---
 
 ## En términos estrictos, *todo [[sistema]] económico está fundado en alguna clase de conocimiento productivo*

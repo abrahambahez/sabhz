@@ -3,7 +3,7 @@ title: 'las notas como herramientas cognitivas'
 description: 'Reconocer que el trabajo intelectual se beneficia de un soporte exterior por parte de la persona que lo trabaja'
 type: 'proposición'
 node: 'gestión del conocimiento personal'
-tags: ['en-construcción']
+tags: ['incipiente']
 ---
 
 Si se acepta en cualquier grado alguna versión de las [[teorías de la cognición extendida]], es consecuente pensar que [[el trabajo cognitivo no es privativo ni del individuo ni del cerebro]], y que de hecho, los soportes externos son altamente efectivos si se integran como parte crítica del sistema de producción de conocimiento personal.

@@ -3,7 +3,7 @@ title: 'notas diarias como herramientas cognitivas, no como herramientas product
 description: 'Cómo llevar un diario puede enfocarse a pensar mejor, en lugar de sentirse mejor o trabajar mejor'
 type: 'proposición'
 node: 'etnografía'
-tags: ['en-construcción']
+tags: ['incipiente']
 ---
 
 Mira la nota de [[diario/2020-11-13]]

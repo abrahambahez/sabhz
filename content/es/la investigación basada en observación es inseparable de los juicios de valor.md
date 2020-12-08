@@ -3,7 +3,7 @@ title: 'la investigación basada en observación es inseparable de los juicios d
 description: 'La dicotomía hecho/valor es racionalmente indefendible'
 type: 'proposición'
 node: 'epistemología'
-tags: ['en-construcción']
+tags: ['incipiente']
 ---
 
 La tradición occidental suele separar nuestras expresiones verbales en dos clases: aquellas que dicen cosas sobre el mundo y que pueden ser verdaderas o falsas (juicios proposicionales) y aquellas que expresan juicios de valor (juicios morales).

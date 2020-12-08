@@ -3,7 +3,7 @@ title: 'historia de vida'
 description: 'Reconstrucción de historias personales para facilitar la lectura cultural desde dentro'
 type: 'término'
 node: 'etnografía'
-tags: ['en-construcción']
+tags: ['incipiente']
 ---
 
 Se realizan a través de sesiones de trabajo de entrevistas a profundidad. Pero hace énfasis en la exploración  de la trayectoria vital de una persona.

@@ -3,7 +3,7 @@ title: 'entrevista etnográfica'
 description: 'Diálogo formal orientado por el problema de investigación'
 type: 'término'
 node: 'etnografía'
-tags: ['en-construcción']
+tags: ['incipiente']
 ---
 
 Diáologo formal orientado por el problema de investigación. Debe ser *densa*.

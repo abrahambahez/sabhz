@@ -3,7 +3,7 @@ title: 'teorías de la cognición extendida'
 description: 'Los procesos cognitivos no se limitan al cerebro, sino que se extienden como relaciones con otras entidades que forman parte de su elaboración: objetos, el cuerpo, otros cuerpos, otras mentes'
 type: 'índice'
 node: 'filosofía de la mente'
-tags: ['en-construcción', 'agenda']
+tags: ['incipiente', 'agenda']
 ---
 
 Todo acto mental se extiende hacia el mundo, raramente se construye, ejerce y funciona aisladamente.

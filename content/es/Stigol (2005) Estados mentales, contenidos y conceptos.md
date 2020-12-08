@@ -3,7 +3,7 @@ title: 'Stigol (2005) Estados mentales, contenidos y conceptos'
 description: 'Presenta el debate entablado hoy en el ámbito de la ﬁlosofía de la mente entre conceptualistas y no conceptualistas en relación con el contenido de los estados mentales'
 type: 'nota de referencia'
 node: 'epistemología'
-tags: ['artículo','procesar-notas-permanentes']
+tags: ['artículo','refactorizar']
 authors: ['Stigol, Nora']
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: 'taxonomía general de notas'
 description: 'taxonomía personal de toma de notas'
-type: 'colección'
+type: 'índice'
 node: 'sistema de toma de notas'
-tags: ['permanente-actualización']
+tags: ['fluida']
 ---
 
 Est es una [[taxonomía]] de uso personal, con la cual ordeno mis notas para acercarlas a mi [[sistema personal de toma de notas]].
@@ -12,7 +12,7 @@ Existen tres clases de metadatos asociados a una nota:
 
 1. `Tipo`: El tipo de nota define *qué clase de contenido tendrá* y potencialmente cómo puede combinarse con las demás.
 2. `Nodo`: Es una etiqueta más semántica, que utiliza dominios de conocimiento generales, por ejemplo, las notas relacionadas *principalemnte* con filosofía usan el nodo `Filosofía`
-3. `Tags` o etiquetas: Es un dato auxiliar del *estado de desarrollo* en el que se encuentra una nota. Algunas son simples borradores y otras son notas permententes densamente usadas, revisadas y enlazadas. Así es fácil saber cuáles notas requieren atención. Abajo están las etiquetas que uso.
+3. `Tags` o etiquetas: Por lo general califican el *estado de desarrollo* en el que se encuentra una nota. Algunas son simples borradores y otras son notas permententes densamente usadas, revisadas y enlazadas. Así es fácil saber cuáles notas requieren atención. También pueden aportar información sobre estados futuros de la información o información extra para contextualizar el contenido
 
 ## Tipos de notas
 
@@ -29,31 +29,4 @@ Existen tres clases de metadatos asociados a una nota:
 
 ## Etiquetas
 
-Cada nota tiene una o más etiquetas, que se usan con fines taxonómicos, no semánticos.
-- Toda la semántica debe gestionarse a través de los nodos
-	- Una posible excepción es la etiqueta `#agenda`, que indica cosas por hacer dentro de notas específicas.
-
-### Tipos de etiquetas
-
-Por ahora no son interactivas, sólo indicativas. 
-
-Respecto a las notas permanentes:
-
-- `#incipiente`:  La nota sólo tiene una idea vaga y posiblemente algunos enlaces externos para comenzar a construirse
-- `#en-construcción`: La nota tiene cosas incompletas y detalles sin revisar, pero ya ha sido esbozada con más cuidado
-- `#nota-permanente`: La idea tiene suficiente completud y cierto número de interreferencias que la vuelven.
-
-Respecto a las notas de referencia
-
-- `#procesamiento-inicial`: Para las notas de referencia, es el estado inicial en el que las leo y extraigo ideas e información esquemática sin ningún orden especial
-- `#procesar-notas-permanentes`: cuando una nota de referencia ya ha sido procesada en cuanto a su contenido interno pero hay pocas o ninguna nota permanente de ideas propias
-- `TIPO DE REFERENCIA`: es variable sobre el tipo de fuente de información que es la nota: artículo, libro, podcast, etc.
-
-Respecto a las notas índice:
-
-- `#permanente-actualización`: Para las notas índice, indica aquellas que están siendo usadas intensivamente
-
-Respecto a la atención que debe ponerse:
-
-- `#agenda`: indica que la nota tiene algo que en ese momento considero importante revisar antes que otras cosas
-
+Las etiquetas son muy cambiantes, por eso he dejado de documentarlas

@@ -3,7 +3,7 @@ title: personhood
 description: 'el atributo que se le puede dar a personas, cosas o entidades de *ser una persona*'
 type: 'término'
 node: 'antropología'
-tags: ['en-construcción']
+tags: ['incipiente']
 ---
 
 La cualidad de *ser* una persona o *tener* personalidad. Su traducción suele ser *personidad*. Algunos elementos nucleares de una entidad con esta característica son:

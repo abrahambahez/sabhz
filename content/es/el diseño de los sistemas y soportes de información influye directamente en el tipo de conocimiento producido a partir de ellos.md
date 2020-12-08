@@ -3,7 +3,7 @@ title: 'el diseño de los sistemas de información influye directamente en el ti
 description: 'En la relación entre información y conocimiento, la forma y el fondo son interdependientes'
 type: 'proposición'
 node: 'sistemas de información'
-tags: ['en-construcción']
+tags: ['incipiente']
 ---
 
 La forma en la que se puede producir información, así como la forma en que se almacena, se gestiona, se relaciona y se consulta ayuda o impide que se construya conocimiento bajo ciertas operaciones cognitivas.

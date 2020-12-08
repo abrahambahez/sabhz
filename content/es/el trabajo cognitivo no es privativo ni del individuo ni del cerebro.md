@@ -3,7 +3,7 @@ title: 'el trabajo cognitivo no es privativo ni del individuo ni del cerebro'
 description: 'Es la consecuencia natural de aceptar alguna tesis de la mente extendida'
 type: 'proposición'
 node: 'filosofía de la mente'
-tags: ['en-construcción']
+tags: ['incipiente']
 ---
 
 Esto es evidente si se acepta en algún grado alguna de las [[teorías de la cognición extendida]], pero especialmente aquellas que extienden socialmente los procesos cognitivos. En este sentido, fenómenos como la [[memoria transactiva]] pueden formar sistemas intersubjetivos de cognición que forman redes de conocimiento multidireccionales.

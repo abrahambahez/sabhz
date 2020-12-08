@@ -3,7 +3,7 @@ title: 'gestión ágil'
 description: 'Referencias de métodos y técnicas de gestión ágil'
 type: 'índice'
 node: 'gestión de trabajo'
-tags: ['en-construcción', 'notas-sueltas']
+tags: ['incipiente', 'notas-sueltas']
 ---
 
 Primero, los valores básicos:

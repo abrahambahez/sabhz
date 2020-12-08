@@ -3,7 +3,7 @@ title: 'propiedades emergentes'
 description: 'Cualidades de los sistemas complejos que emergen de ciertos estados de organización'
 type: 'término'
 node: 'filosofía'
-tags: ['en-construcción']
+tags: ['incipiente']
 ---
 
 Las propiedades emergentes son fenómenos que pueden surgir a partir de la organización de un [[sistema]] como nuevas propiedades que existen en el sistema como un todo pero en los miembros individuales que lo componen:

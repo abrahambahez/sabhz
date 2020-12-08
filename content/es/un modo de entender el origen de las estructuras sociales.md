@@ -3,7 +3,7 @@ title: 'un modo de entender el origen de las estructuras sociales'
 description: 'un ejemplo visual para explicar la estructura social'
 type: 'proposición'
 node: 'filosofía'
-tags: ['en-construcción']
+tags: ['incipiente']
 ---
 
 Imagina que eres un dios capaz de crear individuos cada que dibujas un punto en una hoja de papel:

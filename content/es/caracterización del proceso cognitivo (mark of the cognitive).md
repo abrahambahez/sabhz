@@ -3,7 +3,7 @@ title: 'caracterización del proceso cognitivo'
 description: 'Definir condiciones para un proceso cognitivo'
 type: 'índice'
 node: 'filosofía de la mente'
-tags: ['en-construcción']
+tags: ['incipiente']
 ---
 
 Definir las condiciones necesarias y suficientes para que un proceso sea considerado un *proceso cognitivo* es considerado por algunos autores como esencial para justificar las [[teorías de la cognición extendida]].

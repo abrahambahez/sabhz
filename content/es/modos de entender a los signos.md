@@ -3,7 +3,7 @@ title: 'modos de entender a los signos'
 description: 'Modos de definir la naturaleza y el uso de los signos'
 type: 'colección'
 node: 'semiótica'
-tags: ['en-construcción']
+tags: ['incipiente']
 ---
 
 En esta colección iré concentrando definiciones y aplicaciones de estudios de los signos: semiótica, semiología, antropología simbólica, filosofía y otras disciplinas. 

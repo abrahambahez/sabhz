@@ -3,7 +3,7 @@ title: agencia
 description: 'Capacidad de acción atribuible a un sujeto'
 type: 'término'
 node: 'antropología'
-tags: ['en-construcción']
+tags: ['incipiente']
 ---
 
 Es la capacidad de los sujetos para actuar, por sí mismos, en el mundo que los rodea. Se le vincula con la libertad de acción del sujeto en relación con las constricciones contextuales y estructurales que le rodean. Se usa para estudiar fenómenos sociales y culturales humanos.

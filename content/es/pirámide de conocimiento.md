@@ -3,7 +3,7 @@ title: 'pirámide de conocimiento'
 description: 'Concepto operativo usado en la teoría de la información y la computación'
 type: 'término'
 node: 'gestión del conocimiento'
-tags: ['en-construcción']
+tags: ['incipiente']
 ---
 Tambien llamada *Jerarquía DIKW* (acrónimo para *data, information, knowledge, wisdom*). Es la visión de que existe una relación de creciente complejidad en ese orden de conceptos:
 

@@ -3,7 +3,7 @@ title: 'los sistemas de notas como una memoria aumentada'
 description: 'Mantener un sistema de toma de notas es una forma de extender la memoria como una prótesis, pero eso no implica que la memoria o el aprendizaje no estén siendo ejercitados'
 type: 'proposición'
 node: 'gestión del conocimiento personal'
-tags: ['en-construcción']
+tags: ['incipiente']
 ---
 
 >*«De los diversos instrumentos del hombre, el más asombroso es, sin duda, el libro. Los demás son extensiones de su cuerpo. El microscopio, el telescopio, son extensiones de su vista; el teléfono es extensión de la voz; luego tenemos el arado y la espada, extensiones de su brazo. Pero el libro es otra cosa: el libro es una extensión de la memoria y de la imaginación.»*

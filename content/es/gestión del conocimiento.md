@@ -3,7 +3,7 @@ title: sistemas de gestión de conocimiento
 description: 'Prácticas de producción de conocimiento'
 type: 'índice'
 node: 'gestión del conocimiento'
-tags: ['permanente-actualización']
+tags: ['fluida']
 ---
 
 La gestión del conocimiento engloba distintas estrategias con las que un [[trabajador cognitivo]] construye productos de su trabajo intelectual.

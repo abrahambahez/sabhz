@@ -3,7 +3,7 @@ title: 'trabajador cognitivo'
 description: 'Los productores especializados usan su conocimiento para operar cambios en el mundo o en sus representaciones'
 type: 'término'
 node: 'capitalismo cognitivo'
-tags: ['en-construcción']
+tags: ['incipiente']
 ---
 
 Cualquier persona cuyo *valor productivo socialmente percibido* se estima en términos de los conocimientos que posee y el impacto que esos conocimientos tienen en la reproducción de la vida social.

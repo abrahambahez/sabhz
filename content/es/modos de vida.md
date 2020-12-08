@@ -3,7 +3,7 @@ title: modos de vida
 description: 'formas en que las condiciones de existencia individual y social están organizadas y buscan autorreproducirse'
 type: 'término'
 node: 'antropología'
-tags: ['en-construcción']
+tags: ['incipiente']
 ---
 
 Adopto la noción del antropólogo Thomas [[Højrup (2017) State, Culture and Life-Modes]]:

@@ -3,7 +3,7 @@ title: 'la forma de escribir y relacionar notas tiene una tensión cualitativa-c
 description: 'estructurar o escribir libremente una nota tiene pros y contras que hay que equilibrar'
 type: 'proposición'
 node: 'sistema de toma de notas'
-tags: ['en-construcción']
+tags: ['incipiente']
 ---
 
 Las relaciones entre notas suelen basarse en dos criterios:

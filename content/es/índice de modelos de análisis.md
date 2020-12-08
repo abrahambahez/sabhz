@@ -3,7 +3,7 @@ title: 'índice de modelos de análisis'
 description: 'Modelos de análisis desde formal hasta interpretativo'
 type: 'índice'
 node: 'estrategias de investigación'
-tags: ['en-construcción']
+tags: ['incipiente']
 ---
 
 Modelos de análisis básicos:

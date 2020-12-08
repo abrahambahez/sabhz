@@ -3,7 +3,7 @@ title: 'epistemologías latinoamericanas'
 description: 'Mapa de las epistemologías latinoamericanas'
 type: 'índice'
 node: 'teorías del conocimiento'
-tags: ['en-construcción', 'doctorado']
+tags: ['incipiente', 'doctorado']
 ---
 
 Las antropologías del sur son antropologías *desde* el sur, y no siempre ni necesariamente *sobre* el sur.

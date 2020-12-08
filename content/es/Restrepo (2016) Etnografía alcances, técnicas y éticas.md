@@ -3,7 +3,7 @@ title: 'Restrepo (2016) Etnografía alcances, técnicas y éticas'
 description: 'Obra intriductoria al trabajo etnográfico'
 type: 'nota de referencia'
 node: 'etnografía'
-tags: ['libro', 'procesamiento-inicial']
+tags: ['libro', 'incipiente']
 authors: ['Restrepo, Eduardo']
 ---
 

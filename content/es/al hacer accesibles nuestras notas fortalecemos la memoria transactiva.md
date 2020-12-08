@@ -3,7 +3,7 @@ title: 'al hacer accesibles nuestras notas fortalecemos la memoria transactiva'
 description: 'Las notas abiertas comunican lo que sabemos a otras personas, que pueden aprovecharlo y fortalecer los sistemas de memoria transactiva en los que participamos'
 type: 'proposición'
 node: 'gestión del conocimiento personal'
-tags: ['en-construcción']
+tags: ['incipiente']
 ---
 
 Escribimos notas porque ellas extienden de manera artificial nuestra memoria individual ([[los sistemas de notas como una memoria aumentada]]), expresada mayormente en un lenguaje que compartimos con otras personas, característica que **hace accesibles nuestras notas a esas otras personas**, aunque si no tienen suficiente contexto serán oscuras.
