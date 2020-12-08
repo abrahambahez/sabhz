@@ -33,6 +33,7 @@ Un esquema muy burdo puede dar una idea de la fórmula anterior. Según veo es l
 	- El androcentrismo y sus derivados
 - El racismo
 	- El etnocentrismo
+	- La [[blanquitud y blancura]]
 - El especismo
 	- El antropocentrismo
 - El clasismo
