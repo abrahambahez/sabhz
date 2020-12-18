@@ -3,7 +3,7 @@ title: 'Lenclud, G. «Lo empírico y lo normativo en la etnografía» ¿Derivan 
 description: 'No hay independencia de la observación empírica y los juicios valorativos en la etnografía'
 type: 'nota de referencia'
 node: 'epistemología'
-tags: ['artículo','procesar-notas-permanentes']
+tags: ['artículo','potenciales']
 authors: ['Lenclud, Gérard']
 ---
 

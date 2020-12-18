@@ -3,11 +3,11 @@ title: 'Baker, K. Classification and Kinds - An Antirealist View'
 description: 'Problematización de la clasificación y la categorización como prácticas científicas realistas'
 type: 'nota de referencia'
 node: 'filosofía de la mente'
-tags: ['procesar-notas-permanentes', 'agenda']
+tags: ['potenciales', 'agenda']
 authors: ['Baker, Kane']
 ---
 
-Desde el punto de vista del [realismo filosófico](https://es.wikipedia.org/wiki/Realismo_filos%C3%B3fico), la ciencia debería producir  esquemas «naturales» de clasificación, es decir, que reflejen la estructura del mundo objetivo. Las categorías deberían reflejar *categorías naturales*, que en teoría son *descubiertas* y no inventadas. Al asignarle a una entidad una categoría deberíamos poder acceder a otras de sus propiedades basadas en esa categoría.
+Desde el punto de vista del [realismo filosófico](https://es.wikipedia.org/wiki/Realismo_filos%C3%B3fico), la ciencia debería producir  esquemas «naturales» de clasificación, es decir, que reflejen la estructura del mundo objetivo. Las categorías usadas por esos esquemas deberían reflejar *categorías naturales*, que en teoría son *descubiertas* y no inventadas. Al asignarle a una entidad una categoría deberíamos poder acceder a otras de sus propiedades basadas en esa categoría.
 
 Pero, según la teoría de los *tipos teóricos* (*theoretical kinds*) de Giere (2004), es mejor pensar el [[análisis clasificatorio]] en términos de *tipos teóricos* y no en *tipos naturales*.
 

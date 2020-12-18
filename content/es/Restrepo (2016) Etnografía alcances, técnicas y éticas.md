@@ -1,5 +1,5 @@
 ---
-title: 'Restrepo (2016) Etnografía alcances, técnicas y éticas'
+title: 'Restrepo (2016) Etnografía: alcances, técnicas y éticas'
 description: 'Obra intriductoria al trabajo etnográfico'
 type: 'nota de referencia'
 node: 'etnografía'
@@ -44,7 +44,6 @@ Habilidades del etnógrfo
 - Ser un buen escritor
 - Capacidad de asombro: El extrañamiento podría vincularse con el no asumir que se sabe
 - Evitar sociocentrismo (preferencia de clase o estrato) y etnocentrismo (preferencia de identidad étnica), derivados de la condición situada del etnógrafo
-
 
 Perspectivas *emic* (interpretación *desde dentro*, hacia el primer orden conlos miembros de la comunidad) y *etic* (interpretación *desde fuera*, en segundo orden)
 

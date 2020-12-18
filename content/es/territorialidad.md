@@ -3,7 +3,7 @@ title: 'territorialidad'
 description: 'Las relaciones entre los grupos sociales y la tierra que comparten, sobre todo para el trabajo agrícola, pero también para el habitacional, el común y lo privado'
 type: 'término'
 node: 'antropología'
-tags: ['incipiente']
+tags: ['incipiente','agenda']
 ---
 
 Definición nominal (escolar y reducida, desde la [RAE](https://dle.rae.es/territorialidad?m=form)): *1. f. Criterio en virtud del cual la jurisdicción y la ley aplicable a las personas y a los hechos jurídicos son las propias del territorio del Estado en que aquellas se encuentran o estos tienen lugar.*

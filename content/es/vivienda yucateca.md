@@ -3,7 +3,7 @@ title: 'vivienda yucateca'
 description: 'Hechos sobre la vivienda yucateca'
 type: 'nota permanente'
 node: 'vivienda y territorio'
-tags: ['doctorado', 'potencial']
+tags: ['doctorado', 'potenciales', 'refactorizar']
 ---
 
 ## La casa maya

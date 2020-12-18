@@ -6,7 +6,7 @@ node: 'etnografía'
 tags: ['incipiente']
 ---
 
-Diáologo formal orientado por el problema de investigación. Debe ser *densa*.
+Diálogo formal orientado por el problema de investigación. Debe ser *densa*.
 
 Tiene las virtudes del dialogismo y la oralidad, permite el acceso a un registro expresivo más amplio y recupera varias dimensiones del contexto: la lengua, la cosmovisión, la memoria histórica, la identidad, la descripción en primer nivel de procesos, artes y saberes
 

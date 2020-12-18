@@ -3,7 +3,7 @@ title: 'Baker, K. Philosophy of Mind 6.1 - The Extended Mind'
 description: 'Propuesta que entiende a la mente como entidad más allá del cerebro'
 type: 'nota de referencia'
 node: 'filosofía de la mente'
-tags: ['procesar-notas-permanentes', 'agenda']
+tags: ['potenciales', 'agenda']
 authors: ['Baker, Kane']
 ---
 

@@ -3,18 +3,20 @@ title: 'teorías de la cognición extendida'
 description: 'Los procesos cognitivos no se limitan al cerebro, sino que se extienden como relaciones con otras entidades que forman parte de su elaboración: objetos, el cuerpo, otros cuerpos, otras mentes'
 type: 'índice'
 node: 'filosofía de la mente'
-tags: ['incipiente', 'agenda']
+tags: ['perenne❧']
 ---
 
 Todo acto mental se extiende hacia el mundo, raramente se construye, ejerce y funciona aisladamente.
 
 Es posible afirmar que [[el trabajo cognitivo no es privativo ni del individuo ni del cerebro]], esto es, **nuestro conocimiento, pensamiento y otras funciones cognitivas *no se dan exclusivamente dentro del cerebro***, sino que hay elementos que fuera de él, lo construyen parcialmente o lo posibilitan. Algunas de estas cosas son *nuestros propios cuerpos*, objetos que usamos con intenciones cognitivas ([[las notas como herramientas cognitivas]] y [[los sistemas de notas como una memoria aumentada]]), los elementos de nuestro medio ambiente e incluso otras personas ([[memoria transactiva]]).
 
-Algunos núcleos argumentales para sostener esto son:
+## Argumentos principales
 
 - No hay diferencias *funcionales* que sean relevantes para realizar ciertos actos cognitivos si uso mis capacidades cognitivas *internas* o uso entidades externas, por ejemplo, *si recuerdo algo por mi memoria biológica o gracias a una nota o un gesto manual*, logro mi finalidad
 - Entender la cognición como parte de una red que relaciona lo cerebreal con lo no cerebral tiene ventajas potenciales para la comprensión de fenómenos psicológicos
 - Tanto el cerebro como el resto del cuerpo y otros objetos están en una relación que conforma un *sistema acoplado* donde la cognición se posibilita, por tanto los objetos extra-cerebrales pueden considerarse *parte del proceso cognitivo*.
+
+## Programa de investigación 4E
 
 El programa de investigación de las **4E** sobre la cognición consiste en cuatro ideas fundamentales, relacionadas pero distintas, que comparten algunos investigadores (Rowlands, 2010; Sprevak, 2019) o que recuperan de otros trabajos anteriores. Las 4E son:
 
@@ -23,12 +25,18 @@ El programa de investigación de las **4E** sobre la cognición consiste en cuat
 3. Cognición como [[enactivismo]] *(enacted)* — siempre opera en una relación de *interacción dinámica* con el entorno 
 4. La [[hipótesis de la mente extendida]] *(extended)* de Clark y Chalmers (1998) — al menos en parte, opera por los procesos externos al sujeto
 
+## Otras extensiones de la hipótesis
+
 Es posible extender a otros aspectos de la mente la *hipotesis de la cognición extendida*
 
 - **Extensión material de las emociones**. Colombetti et al. (2018)
 - **Extensión social de la cognición**. Gallagher (2011)
 
 Algunos (p.e. [Adams: *Why we still need a mark of the cognitive*](https://www.sciencedirect.com/science/article/abs/pii/S1389041710000331)) sostienen que es necesario definir *en qué consiste un proceso cognitivo* para poder determinar las condiciones de validación de estas tesis, eso da pie al debate sobre la [[caracterización del proceso cognitivo (mark of the cognitive)]].
+
+## El [[exocerebro]]
+
+Básicamente es afirmar que lo que se extiende no es algún *sistema cognitivo* en abstracto, sino el propio *cerebro*.
 
 ## Lecturas posteriores
 

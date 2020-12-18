@@ -8,7 +8,7 @@ tags: ['doctorado']
 
 Las personas, al vivir en la Tierra, lo hacen en un suelo específico dentro de su área. Al asentarse de forma más o menos permanente, lo transforman a través de su trabajo.
 
-Por lo tanto, los paisajes culturales son aquellos que resultan del crecimiento natural de lugar combinado con las modificaciones humanas. Este es un [término usado por la UNESCO](https://whc.unesco.org/en/culturallandscape/#1), que incluso maneja una lista
+Por lo tanto, los paisajes culturales son aquellos que resultan del crecimiento natural del lugar combinado con las modificaciones humanas. Este es un [término usado por la UNESCO](https://whc.unesco.org/en/culturallandscape/#1), que incluso maneja una lista de diferentes casos.
 
 Se reconocen al menos tres tipos:
 
@@ -20,7 +20,7 @@ Se reconocen al menos tres tipos:
 
 De acuerdo con Sánchez Suárez (2020), se reconoce que la etnología y la antropología son relevantes en el estudio de los *asociativos*; la arqueología y la historia lo son a su vez para los *relictos/fósiles* y la economía o los estudios de patrones de actividad lo son para los paisajes continuos.
 
-Además deberían considerarse como parte del elemento humano las percepeciones sensoriales (no sólo visuales sino olfativas, auditivas, etcétera) que esos paisajes provocan
+Además deberían considerarse como parte del elemento humano las percepciones sensoriales (no sólo visuales sino olfativas, auditivas, etcétera) que esos paisajes provocan.
 
 ## Referencias
 

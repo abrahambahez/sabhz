@@ -6,14 +6,11 @@ node: 'capitalismo cognitivo'
 tags: ['incipiente']
 ---
 
-Vivimos en una fase del capitalismo llamada [[capitalismo cognitivo]], y muchos de nosotros somos [[trabajador cognitivo | trabajadores cognitivos]] es decir, agentes productivos cuyo valor de mercado depende de *aquello que sabemos*: *saber qué*, *saber cómo*, *saber para qué*.
+Vivimos en una fase del capitalismo llamada [[capitalismo cognitivo]] (algunos la llaman [[economía del conocimiento]], pero no es exactamente los mismo), y muchos de nosotros somos [[trabajador cognitivo | trabajadores cognitivos]] es decir, agentes productivos cuyo valor de mercado depende de *aquello que sabemos* y cómo eso que sabemos produce utilidad dentro de una red de conocimiento socialmente distribuido.
 
-El trabajo intelectual, o [[trabajo cognitivo]] ha sido tomado con menos rigor práctico que otras prácticas productivas (ve, por ejemplo: [Taking knowledge work seriously de A. Matuschak](https://notes.andymatuschak.org/z5opHsGrNmCib7YQfLv6XbYURzZgZmx4Mrh5y)); sería difícil explicar por qué.
+El trabajo intelectual, o [[trabajo cognitivo]] ha sido tomado con menos rigor práctico que otras prácticas productivas (ve, por ejemplo: [Taking knowledge work seriously de A. Matuschak](https://notes.andymatuschak.org/z5opHsGrNmCib7YQfLv6XbYURzZgZmx4Mrh5y)).
 
-Desde el punto de vista de la [[economía del conocimiento]]:
+El ámbito social de esta teoría requiere aceptar en cierto grado alguna de las [[teorías de la cognición extendida]], es decir, aceptar que [[el trabajo cognitivo no es privativo ni del individuo ni del cerebro]].
 
-- La [[gestión del conocimiento]] ha puesto atención en el valor comercial que aporta organizacionalmente
+Tiene relación con diferentes concepciones no sólo mentales, sino también de [[sistema | sistemas]], como la [[ontología informacional]].
 
-Desde el punto de vista crítico del [[capitalismo cognitivo]]:
-
-- La fuerza de trabajo especializada en *saber* se ha individualizado como activo y se ha convertido en un amplio catálogo motivado a venderse a sí mismo asumiendo el rol de mercancía (consultores, *freelance* y afines)

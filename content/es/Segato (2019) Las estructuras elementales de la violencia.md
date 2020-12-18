@@ -3,7 +3,7 @@ title: 'Segato: Las estructuras elementales de la violencia'
 description: 'Dinámica de interacción violenta emanada de las pedagogías de la crueldad'
 type: 'nota de referencia'
 node: 'feminismo'
-tags: ['artículo', 'procesar-notas-permanentes']
+tags: ['artículo', 'potenciales']
 authors: ["Segato, Rita Laura"]
 ---
 

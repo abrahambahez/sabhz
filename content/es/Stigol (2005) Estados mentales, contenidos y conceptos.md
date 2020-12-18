@@ -43,7 +43,7 @@ Dado que un contenido implica una representación y una adecuada respuesta al me
 
 Los filósofos no discuten que sean representacionales, sino la forma en que los contenidos representan al mundo: si es conceptual o no conceptual
 
-La teoría de los datos sensoriales trata a la percepción como fundada en la capacidad de percibir sensiblemente los datos exteriores con independencia de cómo sea realmente el mundo
+La ** teoría de los datos sensoriales** trata a la percepción como fundada en la capacidad de percibir sensiblemente los datos exteriores con independencia de cómo sea realmente el mundo
 
 >"A diferencia de la teoría de los datos sensoriales, la teoría intencional de la percepción sostiene que los objetos de conocimiento no son datos de los sentidos sino los objetos mismos del mundo externo que conocemos en virtud del contenido representacional de nuestra experiencia." (Stigol 2005:60)
 
@@ -130,6 +130,7 @@ Para Stich, un "estado subdoxástico" es
 ## Lecturas posteriores
 
 - Peacocke (1992) A Study of Concepts
+- Crane, Tim (1992) “The Nonconceptual Content of Experience”, en Tim Crane (comp.), The Content of Experience: Essays on Perception, Cambridge University Press, Cambridge, pp. 136–157.
 
 ## Referencias
 

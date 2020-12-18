@@ -22,6 +22,7 @@ Preparo a mediano plazo un [[índice de herramientas cognitivas]] que atraviese 
 
 - [[capitalismo cognitivo]] y algunos [[esbozos de una teoría del trabajo cognitivo]]
 - [[teorías de la cognición extendida]]
+- [[epistemologías latinoamericanas]]
 
 ## Capitalismo cognitivo y tecnologías digitales
 

@@ -8,6 +8,8 @@ tags: ['doctorado']
 
 ## Territorio
 
+- [[territorialidad]]
+
 Para comenzar en este bastísimo tema en la antropología mexicana
 
 - Aportaciones desde Gabriela Torres-Mazuera
@@ -35,7 +37,7 @@ Para comenzar:
 ### Terminología relevante
 
 - El [[paisaje cultural]]
-- El **patrimonio biocultural**
+- El [[patrimonio biocultural]]
 
 
 ## OSC

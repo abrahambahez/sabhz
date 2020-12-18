@@ -3,7 +3,7 @@ title: 'sistema'
 description: 'entidad compleja de componentes, relaciones y reglas'
 type: 'término'
 node: 'metaconcepto'
-tags: ['concepto-terminal', 'agenda']
+tags: ['concepto-terminal', 'refactorizar']
 ---
 
 

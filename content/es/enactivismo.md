@@ -12,7 +12,7 @@ La enacción implica *la actuación* que produce el conocimiento. Sin la acción
 
 Si mi conocimiento *está construido en función de mi acción en el entorno*, se abre la posibilidad a incluir en esta construcción los elementos cognitivos más básicos, como la autopercepción o *idea de mí mismo*. La identidad es un proceso que surge de mi interacción con el entorno, desde las experiencias hasta las ideas.
 
-Entonces hay una [[praxis]] cognitiva, de la cual una derivación social puede ser la [[praxis disciplinaria ❦]]. Aunque aquí praxis está más relacionado con el sentido propuesto por Maturana y Varela (2009)
+Entonces hay una [[praxis]] cognitiva, de la cual una derivación social puede ser la [[praxis disciplinaria]]. Aunque aquí praxis está más relacionado con el sentido propuesto por Maturana y Varela (2009)
 
 ## Referencias
 
