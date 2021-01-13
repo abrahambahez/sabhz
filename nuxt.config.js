@@ -47,8 +47,7 @@ export default {
   ** Nuxt.js dev-modules
   */
   buildModules: [
-    '@nuxtjs/color-mode',
-    '@nuxtjs/global-components'
+    '@nuxtjs/color-mode'
   ],
   colorMode: {
     preference: 'dark',
@@ -58,30 +57,8 @@ export default {
   ** Nuxt.js modules
   */
   modules: [
-    '@nuxt/content',
-    'nuxt-i18n'
+    '@nuxt/content'
   ],
-  i18n: {
-    detectBrowserLanguage: false,
-    strategy: 'prefix_except_default',
-    defaultLocale: 'es',
-    locales: [
-      {
-        code: 'en',
-        iso: 'en-US',
-        file: 'en-US.js',
-        name: 'English'
-      },
-      {
-        code: 'es',
-        iso: 'es-MX',
-        file: 'es-MX.js',
-        name: 'Español'
-      }
-    ],
-    langDir: 'i18n/',
-    lazy: true
-  },
   content: {
     markdown: {
       remarkPlugins: () => [
@@ -111,7 +88,7 @@ export default {
         const wikiLinks = (document.text.match(wikilinkRegExp) || [])
           .map(link => { document.internalLinks.push(link
             .slice(2,-2)
-            .split(" | ")[0]) })
+            .split(' | ')[0]) })
       }
     }
 

@@ -3,14 +3,14 @@
     <div id="list-notes">
       <daily-notes />
     </div>
-    <div style="padding-top:25vh;">
+    <div class="padding-top-25vh">
       <h1 class="container margin-auto overflow-wrap-break-word">{{ dateTitle }}</h1>
       <p 
       class="container margin-auto size-08 secondary"> 
       <span v-for="tag in content.tags" class="tag-separation" :key="tag"> #{{tag}} </span>
       </p>
       <nuxt-content class="container margin-auto align-left padding-05" :document="content" />
-      <!-- <backlinks-view :filterTerm="content.path.slice(1)" /> -->
+      <backlinks-view :filterTerm="`diario/${content.slug}`" />
     </div>
    
   </main>
@@ -35,9 +35,7 @@ export default {
     
     const dailyNotes = await $content('diario').sortBy('createdAt', 'desc').limit(1).fetch()
     const lastNote = dailyNotes[0]
-
     const slug = params.slug || lastNote.slug;
-    const locale = app.i18n.locale
     const content = await $content('diario', slug)
       .fetch()
       .catch(err => {
@@ -66,7 +64,7 @@ export default {
   margin-top: 25vh;
 }
 @media screen and (max-width: 1001px) {
-  #list-notes{
+  #list-notes {
     order:2;
     margin-top: 6rem;
   }

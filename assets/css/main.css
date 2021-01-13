@@ -201,7 +201,7 @@ hr {
 /*--UTILITIES--*/
 
 .tag-separation:not(:last-child):after {
-    content:' · ';
+    content:', ';
 }
 /* --- LITTERAE CSS ---*/
 

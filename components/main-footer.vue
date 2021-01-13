@@ -2,12 +2,11 @@
   <footer> 
     <div class="container flex justify-content-space-between">
       <color-switcher />
-      <a href="mailto:tacto@sabhz.com" class="decoration-none secondary sans-light size-08">
+      <a href="mailto:tacto@sabhz.com" class="decoration-none secondary sans-light size-08 margin-bottom-1">
           tacto@sabhz.com
       </a>
     </div>
     
-
   </footer>
 </template>
 

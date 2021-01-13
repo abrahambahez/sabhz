@@ -11,12 +11,10 @@
   "dependencies": {
     "@nuxt/content": "^1.6.0",
     "nuxt": "^2.14.1",
-    "nuxt-i18n": "^6.13.7",
     "remark-mark-plus": "^1.0.21",
     "remark-wiki-link": "0.0.4"
   },
   "devDependencies": {
-    "@nuxtjs/color-mode": "^1.0.3",
-    "@nuxtjs/global-components": "^0.6.1"
+    "@nuxtjs/color-mode": "^1.0.3"
   }
 }
