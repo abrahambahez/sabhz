@@ -24,11 +24,12 @@ Preparo a mediano plazo un [[índice de herramientas cognitivas]] que atraviese 
 - [[teorías de la cognición extendida]]
 - [[epistemologías latinoamericanas]]
 
-## Capitalismo cognitivo y tecnologías digitales
+## Capitalismo cognitivo y prácticas digitales
 
 - [[gestión del conocimiento]]
 - [[sistema personal de toma de notas]]
 - [[gestión de proyectos y productos digitales]]
+- [[tecnologías web, recursos]]
 
 ## Semiótica de la comunicación y antropología simbólica
 

@@ -13,3 +13,4 @@ A menos que se diga lo contrario, la siguiente lista debería ser gratuita y de 
 - [Observable](https://observablehq.com/) — *Notebooks* para Javascript | no es *open source*
 - [Obsidian notes](https://obsidian.md/) — Sistema de toma de notas basado en Markdown | no es *open source*
 - [Left](https://hundredrabbits.itch.io/left) — Editor de *Markdown* minimalista muy simple
+- [P2 — The New Working](https://wordpress.com/p2/) — Herramienta de trabajo colaborativo basado en textos
