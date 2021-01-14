@@ -1,6 +1,7 @@
 ---
 title: 'Eduardo Restrepo - Etnografía alcances, técnicas y éticas'
 aliases: ['Eduardo Restrepo - Etnografía alcances, técnicas y éticas']
+initial_read: 2021-01-13
 description: 'Obra intriductoria al trabajo etnográfico'
 source_type: libro
 authors: ['Restrepo, Eduardo']

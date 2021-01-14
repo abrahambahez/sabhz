@@ -12,7 +12,9 @@
     "@nuxt/content": "^1.6.0",
     "nuxt": "^2.14.1",
     "remark-mark-plus": "^1.0.21",
-    "remark-wiki-link": "0.0.4"
+    "remark-wiki-link": "0.0.4",
+    "vue": "^2.6.12",
+    "vue-template-compiler": "^2.6.12"
   },
   "devDependencies": {
     "@nuxtjs/color-mode": "^1.0.3"

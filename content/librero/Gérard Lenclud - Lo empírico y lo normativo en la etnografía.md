@@ -1,6 +1,7 @@
 ---
 title: 'Gérard Lenclud - Lo empírico y lo normativo en la etnografía ¿Derivan las diferencias culturales de la descripción?'
 aliases: ['Gérard Lenclud - Lo empírico y lo normativo en la etnografía']
+initial_read: 2020-11-19
 description: 'No hay independencia de la observación empírica y los juicios valorativos en la etnografía'
 source_type: artículo
 authors: ['Lenclud, Gérard']
@@ -25,7 +26,7 @@ La Antropología no es la excepción. Uno *no registra* (en el sentido de una de
 
 Siguiendo a Davidson, plantea el principio (epistémico) de caridad interpretativa, o principio de coherencia, de racionalidad, o a gusto de Lenclud, *de humanidad*:
 
->El principio de caridad interpretativa sostiene que para interpretar a otras personas se requiere, *a priori*, considerarlas como pares cognitivos, criaturas racionales. Cómo puedo tener acceso al lenguaje de otra persona sin asumir que él quiere decir algo tanto como yo; y hasta cierto punto acredita como verdaderas a algunas proposiciones y otras no; y que, como uno, trata de ser lo más coherente posible en sus afirmaciones. El principio de caridad posee tres características principales. En primer lugar como hemos visto, su adopción es inicialmente necesaria para proceder a la interpretación porque *"La caridad se nos impone guste o no, si queremos comprender a los otros debemos considerarlos correctamente en la mayoría de los asuntos"* \[cita de Davidson, 1990, *Inquiries into truth and interpretation*\](p. 182).
+>El principio de caridad interpretativa sostiene que para interpretar a otras personas se requiere, *a priori*, considerarlas como pares cognitivos, criaturas racionales. Cómo puedo tener acceso al lenguaje de otra persona sin asumir que él quiere decir algo tanto como yo; y hasta cierto punto acredita como verdaderas a algunas proposiciones y otras no; y que, como uno, trata de ser lo más coherente posible en sus afirmaciones. El principio de caridad posee tres características principales. En primer lugar como hemos visto, su adopción es inicialmente necesaria para proceder a la interpretación porque *"La caridad se nos impone guste o no, si queremos comprender a los otros debemos considerarlos correctamente en la mayoría de los asuntos"* \[cita de Davidson, 1990, *Inquiries into truth and interpretation*\] (p. 182).
 
 Si es necesario reconocer una actitud de *veracidad* en lo que la otra persona dice, entonces la interpretación *es* la delimitación de esa verdad.
 

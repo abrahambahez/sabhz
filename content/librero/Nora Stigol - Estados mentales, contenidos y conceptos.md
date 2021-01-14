@@ -1,6 +1,7 @@
 ---
 title: 'Nora Stigol - Estados mentales, contenidos y conceptos'
 aliases: ['Nora Stigol - Estados mentales, contenidos y conceptos']
+initial_read: 2020-11-10
 description: 'Presenta el debate entablado hoy en el ámbito de la ﬁlosofía de la mente entre conceptualistas y no conceptualistas en relación con el contenido de los estados mentales'
 source_type: artículo
 authors: ['Stigol, Nora']

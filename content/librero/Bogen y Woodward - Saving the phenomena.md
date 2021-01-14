@@ -1,6 +1,7 @@
 ---
 title: 'Bogen y Woodward - Saving the phenomena'
 aliases: ['Bogen y Woodward - Saving the phenomena']
+initial_read: 2020-11-06
 description: 'La relación entre datos - fenómenos y teorías separa a las teorías de los datos y deja a los fenómenos como entidades privilegiadas por el esfuerzo explicativo'
 source_type: artículo
 authors: ['Bogen, James', 'Woodward, James']

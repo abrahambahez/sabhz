@@ -1,8 +1,8 @@
 <template>
-  <main >
+  <main>
     <div class="padding-top-25vh">
       <p class="container margin-auto size-08 secondary"> 
-        <span v-for="tag in content.tags" class="tag-separation" :key="tag"> #{{tag}} </span>
+        <span v-for="tag in content.tags" class="tag-separation" :key="tag">#{{tag}}</span>
       </p>
       <h1 class="container margin-auto overflow-wrap-break-word">
         {{ content.title }} 
@@ -12,7 +12,7 @@
         </span>
       </h1>
       <p class="container margin-left-auto margin-right-auto padding-bottom-0 padding-top-0 secondary">
-        <span class="author-separation" v-for="author in content.authors" :key="author"> {{ author }} </span>
+        <span class="author-separation" v-for="author in content.authors" :key="author">{{author}}</span>
       </p>
     </div>
     <nuxt-content class="container margin-auto align-left" :document="content" />
@@ -30,10 +30,8 @@ export default {
       showBacklinks: true
     }
   },
-  async asyncData({ $content, params, app, error }) {
-    const slug = params.slug;
-    const content = await $content('librero', slug)
-      .fetch()
+  async asyncData({ $content, params, error }) {
+    const content = await $content('librero', params.slug).fetch()
       .catch(err => {
         error({ statusCode: 404, message: "Page not found" });
         console.log(err);

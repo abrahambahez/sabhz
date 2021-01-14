@@ -11,7 +11,7 @@
       </h1>
       <p 
       class="container margin-auto size-08 secondary"> 
-      <span v-for="tag in content.tags" class="tag-separation" :key="tag"> #{{tag}} </span>
+      <span v-for="tag in content.tags" class="tag-separation" :key="tag">#{{tag}}</span>
       </p>
     </div>
     <nuxt-content class="container margin-auto align-left" :document="content" />

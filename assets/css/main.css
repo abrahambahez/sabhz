@@ -125,7 +125,6 @@ blockquote {
     margin: 1rem 1.25rem;
     font-size: 1rem;
 	opacity: .8;
-    border-left: 2px solid var(--border-color);
     padding-left: 1.5rem;
 }
 

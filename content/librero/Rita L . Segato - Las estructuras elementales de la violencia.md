@@ -1,6 +1,7 @@
 ---
 title: 'Rita L . Segato - Las estructuras elementales de la violencia'
 aliases: ['Rita L . Segato - Las estructuras elementales de la violencia']
+initial_read: 2020-10-25
 description: 'Dinámica de interacción violenta emanada de las pedagogías de la crueldad'
 source_type: artículo
 authors: ["Segato, Rita Laura"]
