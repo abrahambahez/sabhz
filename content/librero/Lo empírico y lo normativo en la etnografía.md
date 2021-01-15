@@ -1,12 +1,13 @@
 ---
-title: 'Gérard Lenclud - Lo empírico y lo normativo en la etnografía ¿Derivan las diferencias culturales de la descripción?'
-aliases: ['Gérard Lenclud - Lo empírico y lo normativo en la etnografía']
+title: 'Lo empírico y lo normativo en la etnografía ¿Derivan las diferencias culturales de la descripción?'
+aliases: ['Lo empírico y lo normativo en la etnografía']
 initial_read: 2020-11-19
 description: 'No hay independencia de la observación empírica y los juicios valorativos en la etnografía'
 source_type: artículo
 authors: ['Lenclud, Gérard']
 year: 2004
 apa: 'Lenclud, G. «Lo empírico y lo normativo en la etnografía» ¿Derivan las diferencias culturales de la descripción?. En  Boivin, M., Rosato, A., & Arribas, V. (2004). Constructores de otredad. Antropofagia.(pp. 179-185)'
+type: 'nota de referencia'
 tags: ['potenciales']
 ---
 

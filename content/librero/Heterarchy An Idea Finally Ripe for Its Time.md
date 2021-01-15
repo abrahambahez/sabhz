@@ -1,13 +1,14 @@
 ---
-title: 'Jay Ogilvy - Heterarchy An Idea Finally Ripe for Its Time'
-aliases: ['Jay Ogilvy - Heterarchy An Idea Finally Ripe for Its Time']
+title: 'Heterarchy An Idea Finally Ripe for Its Time'
+aliases: ['Heterarchy An Idea Finally Ripe for Its Time']
 description: 'El concepto de heterarquía en sentido político como alternativa a la anarquía ante los sistemas jerárquicos'
-initial_read: 2021-01-13
+initial_read: 2020-10-13
 source_type: artículo
 authors: ['Ogilvy, Jay']
 year: 2016
 apa: 'Ogilvy, J. (2016, febrero 4). Heterarchy: An Idea Finally Ripe for Its Time. Forbes. https://www.forbes.com/sites/stratfor/2016/02/04/heterarchy-an-idea-finally-ripe-for-its-time/'
-tags: ['']
+type: 'nota de referencia'
+tags: []
 ---
 
 El término *[[heterarquía]] (heterarchy)* fue acuñado por Warren McCulloch en 1945, titulado *"A heterarchy of values determined by the topology of nervous nets."*

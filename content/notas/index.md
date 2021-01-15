@@ -20,7 +20,7 @@ Esto no es un blog. No hay una forma predeterminada de navegar en el sitio. En r
 
 Mira mis [[líneas de investigación]] para tener una idea de los temas sobre los cuales escribo más activamente.
 
-Siempre puedes acceder al [[archivo]] desde la parte superior derecha, donde se encuentran todas las notas. También puedes acceder a mi <nuxt-link to="/diario">diario</nuxt-link> desde esa zona.
+Puedes acceder al [[archivo]] desde la parte superior derecha, donde se encuentran mis notas permanentes. Desde ahí también puedes acceder a mi <nuxt-link to="/diario">diario</nuxt-link> o explorar mi <nuxt-link to="/librero">librero</nuxt-link>, donde registro todas mis lecturas y notas de referencia.
 
 ---
 *Parte importante de este experimento es recibir retroalimentación de cualquier persona*. Escríbeme con libertad, sobre cualquier cosa, a [tacto@sabhz.com](mailto:tacto@sabhz.com)

@@ -12,7 +12,7 @@ La herencia cientificista en investigación trata siempre de separar ambas cosas
 
 Pero esta separación es mayromente artificial: *toda observación implica el punto de vista del observador y por lo tanto es, en mayor o menor medida, una visión subjetiva*. 
 
-Esto implica que cualquier ciencia basada en observación no puede escapar a esta condición. Lee [[librero/Gérard Lenclud - Lo empírico y lo normativo en la etnografía]].
+Esto implica que cualquier ciencia basada en observación no puede escapar a esta condición: [[librero/Lo empírico y lo normativo en la etnografía]].
 
 También la noción de la interpretación *teóricamente orientada* o *teóricamente sesgada*, por ejemplo, en Alvesson y Sköldberg (2009, introducción del libro).
 

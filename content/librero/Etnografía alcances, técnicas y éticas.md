@@ -1,13 +1,14 @@
 ---
-title: 'Eduardo Restrepo - Etnografía alcances, técnicas y éticas'
-aliases: ['Eduardo Restrepo - Etnografía alcances, técnicas y éticas']
-initial_read: 2021-01-13
+title: 'Etnografía alcances, técnicas y éticas'
+aliases: ['Etnografía alcances, técnicas y éticas']
+initial_read: 2020-10-01
 description: 'Obra intriductoria al trabajo etnográfico'
 source_type: libro
 authors: ['Restrepo, Eduardo']
 year: 2016
 apa: ''
-tags: ['incipiente']
+type: 'nota de referencia'
+tags: []
 ---
 
 Etnografía es una *descripción* que busca con fuerza una mirada de primer orden (un ver el mundo desde la perpectiva de las personas que se quieren leer)

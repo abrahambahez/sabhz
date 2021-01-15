@@ -7,7 +7,7 @@
             </nuxt-link>           
             <p class="margin-0 size-08 secondary">
                 {{ post.type }}
-                <span v-for="tag in post.tags" class="tag-separation" style="opacity:.5;">
+                <span v-for="tag in post.tags" class="tag-separation opacity-05" :key="tag">
                      #{{tag}} 
                 </span>
             </p>

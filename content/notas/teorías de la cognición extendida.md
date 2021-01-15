@@ -49,7 +49,7 @@ Básicamente es afirmar que lo que se extiende no es algún *sistema cognitivo* 
 
 ## Referencias
 
-[[librero/Kane Baker - The Extended Mind]]
+[[librero/The Extended Mind]]
 
 Colombetti, G., Krueger, J., & Roberts, T. (2018). Affectivity Beyond the Skin. Frontiers in psychology, 9, 1307. link: [(PDF) Enactive Affectivity, Extended - ResearchGate www.researchgate.net › publication](https://www.researchgate.net/publication/281546276_Enactive_Affectivity_Extended)
 

@@ -12,7 +12,7 @@ Satoshi Miura la define en la enciclopedia [*Britannica*](https://www.britannica
 
 >Una forma de gestión o gobierno en la cual cada miembro puede gobernar o ser gobernado por otros miembros, según las circunstancias, y por lo tanto, ninguna unidad, domina al resto. La autoridad dentro de una heterarquía está distribuida. *(traducción mía)*
 
-Según [[librero/Jay Ogilvy -  Heterarchy An Idea Finally Ripe for Its Time | Jay Ogilvy - Heterarchy An Idea Finally Ripe for Its Time]], la heterarquía se propone como una alternativa política a la **anarquía** cuando se enfrenta con los sistemas políticos jerárquicos, que se consideran indeseables.
+Según [[librero/Heterarchy An Idea Finally Ripe for Its Time | Jay Ogilvy - Heterarchy An Idea Finally Ripe for Its Time]], la heterarquía se propone como una alternativa política a la **anarquía** cuando se enfrenta con los sistemas políticos jerárquicos, que se consideran indeseables.
 
 La definición formal de Ogilvy es:
 

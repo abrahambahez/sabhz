@@ -1,12 +1,13 @@
 ---
-title: Kane Baker - Classification and Kinds - An Antirealist View
-aliases: ['Kane Baker - Classification and Kinds - An Antirealist View']
+title: Classification and Kinds - An Antirealist View
+aliases: ['Classification and Kinds - An Antirealist View']
 description: 'Problematización de la clasificación y la categorización como prácticas científicas realistas'
 initial_read: 2020-12-02
 source_type: video-blog
 authors: ['Baker, Kane']
 year: 2020
 apa: 'Baker, K. (2020, nov. 27) [video]. Classification and Kinds - An Antirealist View. https://youtu.be/VuNgjo-pdeU'
+type: 'nota de referencia'
 tags: []
 ---
 

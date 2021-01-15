@@ -12,7 +12,7 @@ Podemos suponer que las representaciones existen porque hay muchos sujetos (incl
 
 ## Relacionado:
 
-[[librero/Nora Stigol - Estados mentales, contenidos y conceptos]]
+[[librero/Estados mentales, contenidos y conceptos]]
 
 Piñuel Raigada, J. L. (2013). Precedentes, Objeto y Propuesta Resumida del Modelo Dialectico de la Comunicación. [Enlace](https://www.ucm.es/data/cont/docs/268-2013-08-19-Pinuel_Expresion_PrecedentesObjetoPropuesta.pdf)
 

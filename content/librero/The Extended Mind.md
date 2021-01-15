@@ -1,12 +1,13 @@
 ---
-title: Kane Baker - The Extended Mind
-aliases: ['Kane Baker - The Extended Mind']
+title: The Extended Mind
+aliases: ['The Extended Mind']
 initial_read: 2020-12-02
 description: 'Propuesta que entiende a la mente como entidad más allá del cerebro'
 source_type: video-blog
 authors: ['Baker, Kane']
 year: 2015
 apa: 'Baker, K. (2015, 21 de dic.) [video]. Philosophy of Mind 6.1 - The Extended Mind. https://youtu.be/VuNgjo-pdeU'
+type: 'nota de referencia'
 tags: ['potenciales', 'agenda']
 ---
 

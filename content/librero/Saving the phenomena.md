@@ -1,13 +1,14 @@
 ---
-title: 'Bogen y Woodward - Saving the phenomena'
-aliases: ['Bogen y Woodward - Saving the phenomena']
-initial_read: 2020-11-06
+title: 'Saving the phenomena'
+aliases: ['Saving the phenomena']
+initial_read: 2020-12-06
 description: 'La relación entre datos - fenómenos y teorías separa a las teorías de los datos y deja a los fenómenos como entidades privilegiadas por el esfuerzo explicativo'
 source_type: artículo
 authors: ['Bogen, James', 'Woodward, James']
 year: 1988
 apa: 'Bogen, J., & Woodward, J. (1988). Saving the phenomena. The philosophical review, 97(3), 303-352. [Enlace](http://www.pitt.edu/~rtjbog/bogen/saving.pdf)'
-tags: []
+type: 'nota de referencia'
+tags: ['leyendo']
 ---
 
 Los autores diferencian las dos clases de proposiciones: 

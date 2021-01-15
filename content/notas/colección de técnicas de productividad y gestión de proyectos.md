@@ -6,7 +6,7 @@ node: 'gestión de trabajo'
 tags: ['notas-sueltas']
 ---
 
-Revisa también los [[modos de lectura ❦]] y [[modos de escritura ❦]] para un enfoque puramente cognitivo.
+Revisa también los [[modos de lectura]] y [[modos de escritura ❦]] para un enfoque puramente cognitivo.
 
 - checklist - productividad y pensamiento estratégico
 - focus sprint - productividad y mente

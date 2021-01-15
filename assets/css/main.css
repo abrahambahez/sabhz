@@ -124,7 +124,7 @@ code, .nuxt-content code {
 blockquote {
     margin: 1rem 1.25rem;
     font-size: 1rem;
-	opacity: .8;
+	opacity: .85;
     padding-left: 1.5rem;
 }
 
@@ -230,6 +230,7 @@ hr {
 .primary {color: var(--color-primary);}
 .secondary {color: var(--color-secondary);}
 .background-secondary {background-color: var(--color-secondary);}
+.opacity-05{opacity: .55;}
 /*.text-container {
     max-width:calc(75*((var(--base-font)*1.125)/1.96));
 }*/

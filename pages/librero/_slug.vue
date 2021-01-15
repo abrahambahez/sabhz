@@ -1,22 +1,22 @@
 <template>
   <main>
     <div class="padding-top-25vh">
-      <p class="container margin-auto size-08 secondary"> 
-        <span v-for="tag in content.tags" class="tag-separation" :key="tag">#{{tag}}</span>
-      </p>
       <h1 class="container margin-auto overflow-wrap-break-word">
         {{ content.title }} 
         <span v-if="content.type != 'noindex'"
-        class="secondary" style="opacity: .5;">
+        class="secondary opacity-05">
          • {{content.source_type}}
         </span>
       </h1>
       <p class="container margin-left-auto margin-right-auto padding-bottom-0 padding-top-0 secondary">
         <span class="author-separation" v-for="author in content.authors" :key="author">{{setAuthor(author)}}</span>
       </p>
+      <p class="container margin-auto opacity-05 size-08"> 
+        <span v-for="tag in content.tags" class="tag-separation" :key="tag">#{{tag}}</span>
+      </p>
     </div>
     <nuxt-content class="container margin-auto align-left" :document="content" />
-    <backlinks-view v-if="showBacklinks"  :filterTerm="`librero/${content.slug}`" />
+    <backlinks-view  :filterTerm="`librero/${content.slug}`"/>
 
   </main>
 </template>
@@ -26,8 +26,7 @@
 export default {
   data () {
     return {
-      content: {},
-      showBacklinks: true
+      content: {}
     }
   },
   async asyncData({ $content, params, error }) {

@@ -1,18 +1,19 @@
 ---
-title: 'Rita L . Segato - Las estructuras elementales de la violencia'
-aliases: ['Rita L . Segato - Las estructuras elementales de la violencia', 'pedagogías de la crueldad']
+title: 'Pedagogías de la crueldad'
+aliases: ['Pedagogías de la crueldad']
 initial_read: 2020-10-25
 description: 'Formas de reproducción de ideas que alienan la vida y enseñan a despreciarla y violentarla'
 source_type: artículo
 authors: ["Segato, Rita Laura"]
 year: 2019
 apa: 'Segato, R. L. (2019, noviembre). Pedagogías de la crueldad. Revista de la Universidad de México. https://www.revistadelauniversidad.mx/articles/9517d5d3-4f92-4790-ad46-81064bf00a62/pedagogias-de-la-crueldad'
+type: 'nota de referencia'
 tags: ['potenciales']
 ---
 
 Con este término Rita Segato hace referencia a las prácticas que consisten en la cosificación de lo vivo y la vitalidad. Sus expresiones históricas más importantes son el patriarcado (con dos ejes: vertical contra las mujeres, y horizontal como corporación contra los hombres) y las relaciones de explotación y colonización.
 
-A partir de este concepto la autora elabora la noción de [[librero/Rita L . Segato - Las estructuras elementales de la violencia | Rita L . Segato - Las estructuras elementales de la violencia]].
+A partir de este concepto la autora elabora la noción de [[librero/Las estructuras elementales de la violencia (Pedagogías de la crueldad) | Rita L . Segato - Las estructuras elementales de la violencia]].
 
 ## Esquema
 

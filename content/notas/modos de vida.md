@@ -6,7 +6,7 @@ node: 'antropología'
 tags: ['incipiente']
 ---
 
-Adopto la noción del antropólogo [[librero/Thomas Højrup - State, Culture and Life-Modes | Thomas Højrup - State, Culture and Life-Modes]]:
+Adopto la noción del antropólogo [[librero/State, Culture and Life-Modes | Thomas Højrup - State, Culture and Life-Modes]]:
 
 Son las condiciones de posibilidad para que un modo de existencia y un mundo conceptual asociado a él se autorreproduzcan tomando como fundamento un modo de producción (que puede coexistir con otros dentro de una formación social, más amplia).
 

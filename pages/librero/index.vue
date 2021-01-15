@@ -15,10 +15,11 @@
         <p class="margin-0 padding-bottom-0">
           <nuxt-link :to="read.path">{{ read.title }}</nuxt-link>
         </p>
-        <p class="margin-0 secondary">{{ read.source_type }} de 
+        <p class="margin-0 secondary padding-bottom-2">{{ read.source_type }} de 
           <span v-for="author in read.authors" :key="author + read.createdAt"
             class="natural-author-separation color">{{setAuthor(author)}}</span>
         </p>
+
       </div>
     </div>
   </main>
