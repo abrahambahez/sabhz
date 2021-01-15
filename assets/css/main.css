@@ -166,12 +166,14 @@ hr {
 
 /* responsive layouts*/
 
-.container{max-width: 90%;}
+.container,
+.wide-container {max-width: 90%;}
 
 @media screen and (min-width: 600px) {
 
     html,body {font-size: 1.07rem;}
     .container{max-width: 80%;}
+    .wide-container{max-width: 90%;}
 }
 @media screen and (min-width: 900px) {
 
@@ -181,6 +183,7 @@ hr {
     }
     h2 {font-size: 2rem;}
     .container{max-width: 650px;}
+    .wide-container{max-width: 93%;}
 }
 
 /* to embed iframes, specially youtube for make them responsive */

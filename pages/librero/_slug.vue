@@ -12,11 +12,11 @@
         </span>
       </h1>
       <p class="container margin-left-auto margin-right-auto padding-bottom-0 padding-top-0 secondary">
-        <span class="author-separation" v-for="author in content.authors" :key="author">{{author}}</span>
+        <span class="author-separation" v-for="author in content.authors" :key="author">{{setAuthor(author)}}</span>
       </p>
     </div>
     <nuxt-content class="container margin-auto align-left" :document="content" />
-    <backlinks-view v-if="showBacklinks"   />
+    <backlinks-view v-if="showBacklinks"  :filterTerm="`librero/${content.slug}`" />
 
   </main>
 </template>
@@ -37,6 +37,12 @@ export default {
         console.log(err);
       });
     return { content };
+  },
+  methods: {
+    setAuthor: function(author) {
+      let a = author.split(',');
+      return a[1] + ' ' + a[0]
+    }
   },
   head() {
     return {

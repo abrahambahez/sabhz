@@ -1,38 +1,40 @@
 <template>
   <main class="container margin-auto padding-top-25vh">
-    <h1>Lecturas</h1>
-    <div v-for="(year, key) in content" :key="key">
-      <h2 class="align-right">{{ key }}</h2>
-      <div v-for="(month, key, index) in year" :key="index">
-        <h3 class="align-right">{{ setMonth(key) }}</h3>
-        <div v-for="i in month" :key="i.slug">
-          <p class="margin-0 padding-bottom-0">
-            <nuxt-link :to="i.path">{{ i.title }}</nuxt-link>
-          </p>
-          <p class="margin-0 secondary size-08">
-            {{ i.source_type }}
-          </p>
+    <h1 class="">Lecturas</h1>
+    <div class="flex">
 
-        </div>
+      <h2 v-for="y in availableYears" :key="y" 
+        class="inline-block min-width-120px pointer"
+        :class="y == activeYear ? 'active-year' : 'primary' "
+        @click="getYearReadings(y)">{{ y }}</h2>
+
+    </div>
+    <div v-for="(v, k) in content" :key="k">
+      <h3 class="align-center">Lecturas de {{ setMonth(k)}}</h3>
+      <div v-for="read in v" :key="read.slug">
+        <p class="margin-0 padding-bottom-0">
+          <nuxt-link :to="read.path">{{ read.title }}</nuxt-link>
+        </p>
+        <p class="margin-0 secondary">{{ read.source_type }} de 
+          <span v-for="author in read.authors" :key="author + read.createdAt"
+            class="natural-author-separation color">{{setAuthor(author)}}</span>
+        </p>
       </div>
     </div>
-    <!--
-    <div v-for="item in content" :key="item.slug" class="padding-top-08">       
-        <nuxt-link :to="`${item.path}`">
-            {{ item.title }}
-        </nuxt-link>           
-        <p class="margin-0 size-08 secondary">
-            <span class="padding-right-08">{{ item.source_type }} </span>
-            <span v-for="tag in item.tags" class="tag-separation" style="opacity:.5;" 
-            :key="tag">#{{tag}}</span>
-        </p>
-    </div>
-    -->
   </main>
 </template>
 
 <script>
 export default {
+  data() {
+    return{
+      activeYear: new Date().getFullYear(),
+      availableYears: [],
+      data: {},
+      content: {},
+      isActive: false
+    }
+  },
   async asyncData({ $content, params, app, error }) {
     const literatureNotes = await $content('librero')
       .sortBy('initial_read', 'asc')
@@ -42,9 +44,9 @@ export default {
         console.log(err);
       });
 
+    // --- Function groupByYearMonth
     // from: https://stackoverflow.com/questions/43701245/javascript-array-of-objects-group-by-year-month-and-date/43701321
     function groupByYearMonth(arr) {
-      let year, month
       return arr.reduce((acc, obj) => {
       
       // get the parts: year, month
@@ -52,25 +54,37 @@ export default {
       
       // Add year if not already present
       if (!acc[yearmonth[0]]) acc[yearmonth[0]] = {};
-      year = acc[yearmonth[0]];
+      let year = acc[yearmonth[0]];
       
       // Add month if not already present
       if (!year[yearmonth[1]]) year[yearmonth[1]] = [];
-      month = year[yearmonth[1]];
-      month.push(obj)
+      year[yearmonth[1]].push(obj);
 
       return acc
       }, {});
     }
-    const content = groupByYearMonth(literatureNotes)
-    console.log(content)
-    return {content};
+    const data = groupByYearMonth(literatureNotes)
+    // set active year
+    let activeYear = new Date().getFullYear()
+    let content = data[activeYear]
+
+    // set available years 
+    let availableYears = Object.keys(data).reverse()
+    return {data, content, availableYears};
   },
   methods: {
     setMonth: function (mm) {
       const meses = ['Enero','Febrero','Marzo','Abril','Mayo','Junio','Julio','Agosto','Septiembre','Octubre','Noviembre','Diciembre']
       let mIndex = Number(mm - 1)
       return meses[mIndex]
+    },
+    getYearReadings: function(year) {
+      this.activeYear = year
+      return this.content = this.data[year]
+    },
+    setAuthor: function(author) {
+      let a = author.split(',');
+      return a[1] + ' ' + a[0]
     }
   },
   head() {
@@ -80,7 +94,7 @@ export default {
         {
           hid: 'description: ' + this.content.slug,
           name: 'description',
-          content: this.content.description
+          content: 'Notas de referencia sobre libros y lecturas'
         }
       ]
     }
@@ -89,5 +103,14 @@ export default {
 </script>
 
 <style>
-
+.min-width-120px{
+  min-width: 100px;
+}
+.active-year{
+  color: var(--color);
+  cursor: default;
+}
+.natural-author-separation:not(:last-child):after {
+    content: ' y ';
+}
 </style>
