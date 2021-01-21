@@ -12,7 +12,7 @@ La famosa definición [antropológica de cultura](http://www.filosofia.org/filom
 
 La cultura no existe en el mismo sentido en que pensamos, por ejemplo, que *«la luz existe»*. Es razonable pensar que es uno de los casos más relevantes de [[creación artificial de fenómenos en el mundo]].
 
-**La cultura es, antes que un código de conducta para los individuos, una serie de modelos que comparten entre sí**, esos modelos son [[representaciones]]. Pero [[compartir una representación no significa tener una actitud proposicional o valorativa de la misma ❦]]. Por tanto, **[[tratar de deducir hechos o comportamientos a partir de proposiciones culturales no es la empresa más efectiva]]**.
+**La cultura es, antes que un código de conducta para los individuos, una serie de modelos que comparten entre sí**, esos modelos son [[representaciones]]. Pero [[compartir una representación no significa tener una actitud proposicional o valorativa de la misma ❦]]. Por tanto, **[[tratar de deducir hechos o comportamientos a partir de proposiciones culturales es problemático]]**.
 
 Una persona puede *decidir* actuar conforme una norma cultural, pero al hacerlo hace uso de su [[agencia]]. Sí, reproduce así la cultura, pero de ahí no se sigue que esté en una actitud apologética, que la esté defendiendo, que crea en ella... bien podríamos estar ante una [[categoría serial]].
 

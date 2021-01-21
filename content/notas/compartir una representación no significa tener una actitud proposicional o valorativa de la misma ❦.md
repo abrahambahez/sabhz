@@ -5,7 +5,7 @@ type: 'proposición'
 node: 'epistemología'
 tags: ['semilla❦']
 ---
-
+ 
 Cuando una comunidad comparte una [[representaciones | representación]], eso no implica necesariamente que cada miembro tenga la misma actitud epistémica, axiológica, emotiva o estética hacia esa representación.
 
 - Juan puede portar un collar con un crucifijo sin ser cristiano, creer en Dios, incluso si es capaz de explicar esa religión con detalle

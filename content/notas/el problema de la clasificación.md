@@ -39,7 +39,7 @@ Pero ha caído en la trampa de la invisibilización de lo particular:
 
 Este es sin duda un ejemplo genérico, pero piensa en otros:
 
-- [[tratar de deducir hechos o comportamientos a partir de proposiciones culturales no es la empresa más efectiva]].
+- [[tratar de deducir hechos o comportamientos a partir de proposiciones culturales es problemático]].
 
 ## Referencias
 

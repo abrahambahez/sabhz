@@ -5,7 +5,7 @@
       <h1 class="container margin-auto overflow-wrap-break-word">
         {{ content.title }} 
         <span v-if="content.type != 'noindex'"
-        class="secondary" style="opacity: .5;">
+        class="secondary opacity-05">
          • {{content.type}}
         </span>
       </h1>

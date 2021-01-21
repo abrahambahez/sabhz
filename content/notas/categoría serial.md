@@ -3,7 +3,7 @@ title: 'categoría serial'
 description: 'Un conjunto de acciones seriales que reflejan una estructura social'
 type: 'término'
 node: 'filosofía'
-tags: ['incipiente']
+tags: []
 ---
 
 Una [[acción serial]] se convierte en una cateogoría serial cuando es constantemente repetida, por ejemplo, un estudiante que toma el autobús todos los días a las 8am para estudiar arquitectura en la universidad.

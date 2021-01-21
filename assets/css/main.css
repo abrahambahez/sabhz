@@ -115,10 +115,16 @@ li {
 .nuxt-content img {
     width:100%;
 }
-code, .nuxt-content code {
+
+.nuxt-content code {
     color: var(--color-primary);
     background-color: var(--bg-secondary);
     padding: 0 .3rem;
+}
+.nuxt-content pre > code {
+    background-color: initial;
+    color: inherit;
+    padding: initial;
 }
 
 blockquote {

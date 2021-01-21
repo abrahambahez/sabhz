@@ -25,6 +25,7 @@ Tienen múltiples formas de categorizarse, según el énfasis que se haga en car
 
 - Lectura sintópica o lectura paralela
 - [[resumen progresivo]]
+- [[lectura como método de comprensión]]
 - Traducción como práctica creativa - formal de profundización en el sentido de un texto
 - Deconstrucción derridiana
 - Círculo hermenéutico de Gadamer
@@ -42,4 +43,4 @@ Tienen múltiples formas de categorizarse, según el énfasis que se haga en car
 ### Referencias
 
 - Adler y Van Doren(1997). [[librero/How to Read a Book | How to Read a Book]]
-- Ahrens (2017) [[librero/How to take Smart Notes | How to take Smart Notes]]
+- Ahrens (2017) [[librero/How to take smart notes | How to take smart notes]]

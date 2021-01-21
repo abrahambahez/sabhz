@@ -3,10 +3,10 @@ title: 'una buena nota explota todos sus componentes para facilitar el trabajo c
 description: 'Cómo resolver el problema de la estructuración cuantittiva y la finura cualitativa de una nota'
 type: 'proposición'
 node: 'sistema de toma de notas'
-tags: ['incipiente', 'agenda']
+tags: []
 ---
 
-La toma de notas no es importante si no tiene como fin el desarrollo de conocimiento personal ([Matuschak: *"The goal is not to take notes—the goal is to think effectively"*](https://notes.andymatuschak.org/z7kEFe6NfUSgtaDuUjST1oczKKzQQeQWk4Dbc)). Un [[sistema personal de toma de notas]] debe representar lo mejor posible el [[trabajo cognitivo]] individual a través de una red de [[teorías de la cognición extendida | cognición extendida]].
+La toma de notas no es importante si no tiene como fin el desarrollo de conocimiento personal (por ejemplo, [Matuschak: *"The goal is not to take notes—the goal is to think effectively"*](https://notes.andymatuschak.org/z7kEFe6NfUSgtaDuUjST1oczKKzQQeQWk4Dbc)). Un [[sistema personal de toma de notas]] debe representar lo mejor posible el [[trabajo cognitivo]] individual a través de una red de [[teorías de la cognición extendida | cognición extendida]].
 
 Esa es la importancia de una [[operacionalización del conocimiento en la toma de notas]] que permita guiar la práctica adecuadamente. El conocimiento, operacionalmente, es crear *vínculos significativos* entre ideas nucleares para facilitar el paso de la información al conocimiento (mira la [[pirámide de conocimiento]]).
 
@@ -23,6 +23,10 @@ Al ser lo primero que se ve en contextos de relacionamiento, hay que condensar a
 
 - Cuando se trata de una nota de referencia, las prácticas de citación son un estándar al que se está ya habituado. En este caso, nombrarlas como autor, año, título corto
 - Cuando se trata de una nota permanente (aquí llamada nota semiótica), el título debe indicar claramente el contenido esencial, las notas de términos incluyen el término como más comunmente es conocido, las d eproposición contienen la proposición condensada, las de argumento la conclusión, etcétera.
+
+De Ahrens (2017, [[librero/How to take smart notes]]):
+
+La idea o al menos su núcleo será el título de la nota. El cuerpo tendrá por lo menos su explicación limpia y la importancia de la misma parra varios contextos  (Posición 1773)
 
 ### Enlaces a otras notas
 

@@ -68,7 +68,10 @@ export default {
           aliasDivider: ' | '
         }],
         ['remark-mark-plus']
-      ]
+      ],
+      prism: {
+        theme:  'prism-themes/themes/prism-vsc-dark-plus.css'
+      }
     },
     liveEdit: false,
     apiPrefix: '_content',

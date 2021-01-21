@@ -8,7 +8,7 @@ authors: ['Stigol, Nora']
 year: 2005
 apa: 'Stigol, N. (2005). Estados mentales, contenidos y conceptos. Revista de Filosofía DIÁNOIA, 50(54), 55-73. https://doi.org/10.21898/dia.v50i54.366'
 type: 'nota de referencia'
-tags: ['artículo','refactorizar']
+tags: ['refactorizar']
 ---
 
 En el artículo, Nora Stigol presenta el debate entablado hoy en el ámbito de la ﬁlosofía de la mente entre conceptualistas y no conceptualistas en relación con el contenido de los estados mentales; aquí la distinción entre contenidos conceptuales y no conceptuales constituye el punto central del debate.
@@ -47,7 +47,7 @@ Dado que un contenido implica una representación y una adecuada respuesta al me
 
 Los filósofos no discuten que sean representacionales, sino la forma en que los contenidos representan al mundo: si es conceptual o no conceptual
 
-La ** teoría de los datos sensoriales** trata a la percepción como fundada en la capacidad de percibir sensiblemente los datos exteriores con independencia de cómo sea realmente el mundo
+La **teoría de los datos sensoriales** trata a la percepción como fundada en la capacidad de percibir sensiblemente los datos exteriores con independencia de cómo sea realmente el mundo
 
 >"A diferencia de la teoría de los datos sensoriales, la teoría intencional de la percepción sostiene que los objetos de conocimiento no son datos de los sentidos sino los objetos mismos del mundo externo que conocemos en virtud del contenido representacional de nuestra experiencia." (Stigol 2005:60)
 
