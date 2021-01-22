@@ -1,6 +1,5 @@
 ---
 title: 'categorización'
-description: 'Método de análisis inductivo que resulta en un grupo de términos relevantes'
 type: 'término'
 node: estrategias de investigación''
 tags: ['incipiente']

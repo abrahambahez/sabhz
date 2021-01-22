@@ -1,6 +1,5 @@
 ---
 title: 'método de acción (diseño)'
-description: 'Estrategia de trabajo para proyectos creativos basada en la acción'
 type: 'método'
 node: 'diseño'
 tags: []

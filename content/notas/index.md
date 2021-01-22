@@ -1,12 +1,11 @@
 ---
 title: 'Jardín digital de Sergio'
-description: 'Espacio de gestión del conocimiento personal publicado como jardín digital o jardín mental'
 type: 'noindex'
 node: ''
 tags: []
 ---
 
-¡Bienvenida:o 👋🏽! Soy [[algunas cosas sobre mí | Sergio]], me considero a mí mismo un [[trabajador cognitivo]].
+¡Bienvenida:o 👋🏽! Soy [[algunas cosas sobre mí|Sergio]], me considero a mí mismo un [[trabajador cognitivo]].
 
 En la práctica, defino productos digitales en [KarmaPulse](https://karmapulse.com), estudio un doctorado en Ciencias Antropológicas en la [Universidad Autónoma de Yucatán](https://www.uady.mx/), diseño páginas web y escribo aquí sobre investigaciones personales.
 

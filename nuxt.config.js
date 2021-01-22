@@ -65,7 +65,7 @@ export default {
         ['remark-wiki-link', {
           pageResolver: (name) => [name.replace(/ /g, '%20')],
           hrefTemplate: (permalink) => `/${permalink}`,
-          aliasDivider: ' | '
+          aliasDivider: '|'
         }],
         ['remark-mark-plus']
       ],
@@ -84,6 +84,8 @@ export default {
     'content:file:beforeInsert': (document) => {
       // Regex to find wikilinks:
       const wikilinkRegExp = /\[\[.+?\]\]/g
+      const wikilinkAlias = /\[\[.+?\|/g
+      const cleanMarkdown = /^\s|#|\*+|>+|_+|\]+|\[+|^\-\s/g
       // array value to save
       document.internalLinks = []
       // get wikilinks values from the markdown files & append them to array
@@ -91,8 +93,12 @@ export default {
         const wikiLinks = (document.text.match(wikilinkRegExp) || [])
           .map(link => { document.internalLinks.push(link
             .slice(2,-2)
-            .split(' | ')[0]) })
+            .split('|')[0]) })
+        // set excerpt
+        document.excerpt = document.text.substring(0,180).replace(wikilinkAlias,'').replace(cleanMarkdown,'') + '...'
       }
+      
+
     }
 
   },

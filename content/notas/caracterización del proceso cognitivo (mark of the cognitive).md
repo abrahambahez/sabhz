@@ -1,6 +1,5 @@
 ---
 title: 'caracterización del proceso cognitivo'
-description: 'Definir condiciones para un proceso cognitivo'
 type: 'índice'
 node: 'filosofía de la mente'
 tags: ['incipiente']

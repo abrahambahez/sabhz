@@ -1,6 +1,5 @@
 ---
 title: 'OSC, vivienda y territorio en Yucatán'
-description: 'Referencias generales de mi trabajo de investigación inicial'
 type: 'índice'
 node: 'doctorado'
 tags: ['doctorado']

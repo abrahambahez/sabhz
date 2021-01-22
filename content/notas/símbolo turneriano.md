@@ -1,6 +1,5 @@
 ---
 title: 'símbolo turneriano'
-description: 'Definición de símbolo según Victor Turner'
 type: 'término'
 node: 'antropología'
 tags: ['refactorizar']

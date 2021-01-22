@@ -1,6 +1,5 @@
 ---
 title: 'agotamiento del ego'
-description: 'Nuestra capacidad mental para autocontrolarnos o ser resilientes es limitada, y por tanto, capaz de *agotarse*.'
 type: 'término'
 tags: []
 ---

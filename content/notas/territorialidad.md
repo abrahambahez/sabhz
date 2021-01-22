@@ -1,6 +1,5 @@
 ---
 title: 'territorialidad'
-description: 'Las relaciones entre los grupos sociales y la tierra que comparten, sobre todo para el trabajo agrícola, pero también para el habitacional, el común y lo privado'
 type: 'término'
 node: 'antropología'
 tags: ['incipiente','agenda']

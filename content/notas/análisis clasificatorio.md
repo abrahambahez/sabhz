@@ -1,6 +1,5 @@
 ---
 title: 'análisis clasificatorio'
-description: 'Analizar cosas creando clases o categorías a partir de sus propiedades en común'
 type: 'nota permanente'
 node: 'estrategias de investigación'
 tags: ['incipiente']

@@ -1,6 +1,5 @@
 ---
 title: 'entrevista etnográfica'
-description: 'Diálogo formal orientado por el problema de investigación'
 type: 'término'
 node: 'etnografía'
 tags: ['incipiente']

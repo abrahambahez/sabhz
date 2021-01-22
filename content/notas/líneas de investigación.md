@@ -1,6 +1,5 @@
 ---
 title: 'líneas de investigación'
-description: 'Lista de proyectos activos en los que estoy trabajando actualmente'
 type: 'noindex'
 node: ''
 tags: []

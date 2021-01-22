@@ -1,6 +1,5 @@
 ---
 title: 'efecto Zeigarnik'
-description: 'Las tareas actuales tienden a ocupar nuestra memoria a corto plazo hasta que se terminan'
 type: 'término'
 tags: ['incipiente']
 ---

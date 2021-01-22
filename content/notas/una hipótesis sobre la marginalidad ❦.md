@@ -1,6 +1,5 @@
 ---
 title: 'una hipótesis sobre la marginalidad'
-description: 'La subalternidad como fuente de estudio de la estructura social'
 type: 'proposición'
 node: 'epistemología'
 tags: ['semilla❦']

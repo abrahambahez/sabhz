@@ -1,6 +1,5 @@
 ---
 title: 'blanquitud y blancura'
-description: 'Fundamentos históricos del racismo eurocéntrico'
 type: 'término'
 node: 'racismo'
 tags: ['incipiente']
@@ -25,4 +24,4 @@ Busca el 'blanqueamiento'
 
 ## Referencias 
 
-- [La blanquitud y la blancura, cumbre del racismo mexicano | Federico Navarrete](https://www.revistadelauniversidad.mx/articles/ca12bb18-2c40-40dc-add6-b0acd62fafbd/la-blanquitud-y-la-blancura-cumbre-del-racismo-mexicano)
+- [La blanquitud y la blancura, cumbre del racismo mexicano|Federico Navarrete](https://www.revistadelauniversidad.mx/articles/ca12bb18-2c40-40dc-add6-b0acd62fafbd/la-blanquitud-y-la-blancura-cumbre-del-racismo-mexicano)

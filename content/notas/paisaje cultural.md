@@ -1,6 +1,5 @@
 ---
 title: 'paisaje cultural'
-description: 'Concepto usado por la UNESCO para identificar lugares transformados por la relación humano-naturaleza'
 type: 'término'
 node: 'vivienda y territorio'
 tags: ['doctorado']

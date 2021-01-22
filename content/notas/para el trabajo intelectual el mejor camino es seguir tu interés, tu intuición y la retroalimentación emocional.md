@@ -1,13 +1,12 @@
 ---
 title: 'para el trabajo intelectual el mejor camino es seguir tu interés, tu intuición y la retroalimentación emocional'
-description: 'La planeación rigurosa no sirve, el conocimiento encorporado es más efectivo'
 type: 'nota permanente'
 tags: []
 ---
 
 Para cualquier proyecto de cierta complejidad, la planeación rigurosa no sirve. 
 
-Según Ahrens ([[librero/How to take smart notes | 2017, How to take smart notes]]):
+Según Ahrens ([[librero/How to take smart notes|2017, How to take smart notes]]):
 
 - Sólo cuando el trabajo es en sí mismo estimulante la dinámica de la motivación lo convierte en un ciclo autosostenible (Posición 997)
 - La búsqueda activa de retroalimentación (positiva o negativa) es uno d elos factores relevantes del éxito (y la felicidad) a largo plazo (Posición 1011)

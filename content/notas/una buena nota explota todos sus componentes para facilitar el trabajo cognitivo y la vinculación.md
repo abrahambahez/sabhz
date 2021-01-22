@@ -1,12 +1,11 @@
 ---
 title: 'una buena nota explota todos sus componentes para facilitar el trabajo cognitivo y la vinculación'
-description: 'Cómo resolver el problema de la estructuración cuantittiva y la finura cualitativa de una nota'
 type: 'proposición'
 node: 'sistema de toma de notas'
 tags: []
 ---
 
-La toma de notas no es importante si no tiene como fin el desarrollo de conocimiento personal (por ejemplo, [Matuschak: *"The goal is not to take notes—the goal is to think effectively"*](https://notes.andymatuschak.org/z7kEFe6NfUSgtaDuUjST1oczKKzQQeQWk4Dbc)). Un [[sistema personal de toma de notas]] debe representar lo mejor posible el [[trabajo cognitivo]] individual a través de una red de [[teorías de la cognición extendida | cognición extendida]].
+La toma de notas no es importante si no tiene como fin el desarrollo de conocimiento personal (por ejemplo, [Matuschak: *"The goal is not to take notes—the goal is to think effectively"*](https://notes.andymatuschak.org/z7kEFe6NfUSgtaDuUjST1oczKKzQQeQWk4Dbc)). Un [[sistema personal de toma de notas]] debe representar lo mejor posible el [[trabajo cognitivo]] individual a través de una red de [[teorías de la cognición extendida|cognición extendida]].
 
 Esa es la importancia de una [[operacionalización del conocimiento en la toma de notas]] que permita guiar la práctica adecuadamente. El conocimiento, operacionalmente, es crear *vínculos significativos* entre ideas nucleares para facilitar el paso de la información al conocimiento (mira la [[pirámide de conocimiento]]).
 

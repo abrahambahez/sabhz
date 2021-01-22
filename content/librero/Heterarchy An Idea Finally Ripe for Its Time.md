@@ -1,7 +1,6 @@
 ---
 title: 'Heterarchy An Idea Finally Ripe for Its Time'
 aliases: ['Heterarchy An Idea Finally Ripe for Its Time']
-description: 'El concepto de heterarquía en sentido político como alternativa a la anarquía ante los sistemas jerárquicos'
 initial_read: 2020-10-13
 source_type: artículo
 authors: ['Ogilvy, Jay']

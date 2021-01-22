@@ -1,6 +1,5 @@
 ---
 title: sistema de distribución de opresión y privilegios
-description: 'Propuesta de una base de los sistemas verticales de organización social'
 type: 'argumento'
 node: 'filosofía'
 tags: ['incipiente']
@@ -11,7 +10,7 @@ Todo comienza con un [[sistema de organización social]]. De los diferentes modo
 1. Los privilegios (ventajas asignadas a unos cuantos en virtud de alguna condición arbitraria, y a veces, meritoria o legítima)
 2. La opresión (relación de subordinación de unos a otros con diferentes formas históricas)
 
-Esto lo convierte en un sistema inherentemente [[jerarquía | jerárquico]].
+Esto lo convierte en un sistema inherentemente [[jerarquía|jerárquico]].
 
 ## ¿Qué forma tienen los sistemas de distribución de opresión y privilegios?
 

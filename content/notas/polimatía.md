@@ -1,6 +1,5 @@
 ---
 title: 'polimatía'
-description: 'Una visión que puede condensar lo mejor de la multidisciplina e interdisciplina en un perfil personal'
 type: 'término'
 node: 'gestión del conocimiento'
 tags: ['incipiente']

@@ -1,6 +1,5 @@
 ---
 title: praxis disciplinaria
-description: 'Un tipo de praxis que me permitiría entender las barreras multidisciplinarias que dificultan el diálogo entre investigadores aún estudiando el mismo fenómeno'
 type: 'término'
 node: 'gestión del conocimiento'
 tags: ['semilla❦']

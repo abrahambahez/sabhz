@@ -1,6 +1,5 @@
 ---
 title: 'separación de tareas en el trabajo cognitivo'
-description: 'Recomendaciones para el trabajo cognitivo como tarea'
 type: 'nota permanente'
 tags: []
 ---

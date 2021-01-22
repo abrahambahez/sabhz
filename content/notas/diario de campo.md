@@ -1,6 +1,5 @@
 ---
 title: 'diario de campo'
-description: 'Cuaderno de observación, principal instrumento etnográfico'
 type: 'término'
 node: 'etnografía'
 tags: ['incipiente']

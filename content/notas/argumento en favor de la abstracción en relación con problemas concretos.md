@@ -1,6 +1,5 @@
 ---
 title: 'argumento en favor de la abstracción en relación con problemas concretos'
-description: 'Para poder reusar las ideas en contextos diferentes, necesitamos separarla de sus contextos originales a través de la abstracción'
 type: 'nota permanente'
 tags: []
 ---

@@ -1,7 +1,6 @@
 ---
 title: Codex Vitalis
-description: Una colección de pensamientos que considero interesantes, pero no muy bien desarrollados, los guardo aquí para ver si pasan la prueba del tiempo y la maduración adecuada.
-type: noindex
+description: Una colección de pensamientos que considero interesantes, pero no muy bien desarrollados, los guardo aquí para ver si pasan la prueba del tiempo y la maduración adecuada.type: noindex
 node: ''
 tags: ['fluida']
 ---

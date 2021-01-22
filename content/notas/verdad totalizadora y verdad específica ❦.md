@@ -1,6 +1,5 @@
 ---
 title: 'verdad totalizadora y verdad específica'
-description: 'Dos actitudes intelectuales de investigación'
 type: 'proposición'
 node: 'epistemología'
 tags: ['semilla❦']

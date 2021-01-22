@@ -1,6 +1,5 @@
 ---
 title: 'creación artificial de fenómenos en el mundo'
-description: 'Hay fenómenos de los que se puede decir que no existían antes de que una o más personas la construyeran intelectualmente'
 type: 'término'
 node: 'epistemología'
 tags: ['incipiente']

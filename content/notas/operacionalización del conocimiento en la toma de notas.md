@@ -1,6 +1,5 @@
 ---
 title: 'toma de notas y operacionalización del conocimiento'
-description: 'operacionalización de términos para hacerlos usables en la práctica de la toma de notas'
 type: 'nota permanente'
 node: 'sistema de toma de notas'
 tags: ['perenne❧']

@@ -1,6 +1,5 @@
 ---
 title: 'zettelkasten de Ahrens'
-description: 'La interpretación de Ahrens sobre el zettelkasten de Luhmann.'
 type: 'nota permanente'
 tags: []
 ---

@@ -2,7 +2,6 @@
 title: 'Lo empírico y lo normativo en la etnografía ¿Derivan las diferencias culturales de la descripción?'
 aliases: ['Lo empírico y lo normativo en la etnografía']
 initial_read: 2020-11-19
-description: 'No hay independencia de la observación empírica y los juicios valorativos en la etnografía'
 source_type: artículo
 authors: ['Lenclud, Gérard']
 year: 2004

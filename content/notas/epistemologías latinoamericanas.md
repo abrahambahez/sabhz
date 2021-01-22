@@ -1,6 +1,5 @@
 ---
 title: 'epistemologías latinoamericanas'
-description: 'Mapa de las epistemologías latinoamericanas'
 type: 'índice'
 node: 'teorías del conocimiento'
 tags: ['incipiente', 'doctorado']

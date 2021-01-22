@@ -1,6 +1,5 @@
 ---
 title: sistemas de gestión de conocimiento
-description: 'Prácticas de producción de conocimiento'
 type: 'índice'
 node: 'gestión del conocimiento'
 tags: ['fluida']

@@ -1,6 +1,5 @@
 ---
 title: 'notas diarias como herramientas cognitivas, no como herramientas productivas'
-description: 'Cómo llevar un diario puede enfocarse a pensar mejor, en lugar de sentirse mejor o trabajar mejor'
 type: 'proposición'
 node: 'etnografía'
 tags: ['incipiente']

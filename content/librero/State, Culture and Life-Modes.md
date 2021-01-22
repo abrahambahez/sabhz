@@ -2,7 +2,6 @@
 title: 'State, Culture and Life-Modess'
 aliases: ['State, Culture and Life-Modes']
 initial_read: 2020-11-01
-description: 'El concepto antropológico de modo de vida para explicar la heterogeneidad cultural incluso en grupos afines ideológicamente'
 source_type: libro
 authors: ['Højrup, Thomas']
 year: 2017

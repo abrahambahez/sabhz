@@ -1,6 +1,5 @@
 ---
 title: 'el trabajo cognitivo no es privativo ni del individuo ni del cerebro'
-description: 'Es la consecuencia natural de aceptar alguna tesis de la mente extendida'
 type: 'proposición'
 node: 'filosofía de la mente'
 tags: ['incipiente']

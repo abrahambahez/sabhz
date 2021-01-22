@@ -1,6 +1,5 @@
 ---
 title: 'el trabajo de campo detona la reflexividad intersubjetiva'
-description: 'El trabajo de campo implica ya una especie de transformación dentro del espacio intervenido'
 type: 'proposición'
 node: 'trabajo de campo'
 tags: ['incipiente']

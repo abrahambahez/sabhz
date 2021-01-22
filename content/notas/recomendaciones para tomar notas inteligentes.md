@@ -1,6 +1,5 @@
 ---
 title: 'recomendaciones para tomar notas inteligentes'
-description: 'Cómo ir más allá de los textos que leemos, hacia nuestras propias ideas'
 type: 'nota permanente'
 tags: []
 ---

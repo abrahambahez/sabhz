@@ -1,6 +1,5 @@
 ---
 title: acción serial
-description: 'Forma de actuación no relacionada con la estructura, sino más bien con el azar, la facticidad o la contingencia'
 type: 'término'
 node: 'filosofía'
 tags: ['incipiente']

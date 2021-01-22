@@ -1,6 +1,5 @@
 ---
 title: 'exocerebro'
-description: 'Explicación que busca conectar las Neurociencias con la Antropología a partir de una hipótesis sobre la naturaleza cultural del cerebro humano (contraria a la clásica hipótesis de la naturaleza neurológica de la cultura)'
 type: 'término'
 node: 'antropología del conocimiento'
 tags: []

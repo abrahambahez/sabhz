@@ -2,7 +2,6 @@
 title: 'How to Read a Book'
 aliases: ['How to Read a Book']
 initial_read: 2020-11-24
-description: 'Cómo leer un libro'
 source_type: libro
 authors: ['Adler, Mortimer', 'Van Doren, Charles']
 year: 1997

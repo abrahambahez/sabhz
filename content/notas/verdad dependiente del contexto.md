@@ -1,6 +1,5 @@
 ---
 title: 'verdad dependiente del contexto'
-description: 'algunas verdades sólo pueden ser correctamente evaluadas si se considera el contexto de la evaluación'
 type: 'término'
 node: 'epistemología'
 tags: ['incipiente']

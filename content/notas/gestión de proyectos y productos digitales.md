@@ -1,6 +1,5 @@
 ---
 title: 'gestión de proyectos y productos digitales'
-description: 'Referencias de los principios más relevantes de la gestión de tecnología digital'
 type: 'índice'
 node: 'gestión digital'
 tags: ['incipiente']

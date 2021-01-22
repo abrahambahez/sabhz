@@ -1,6 +1,5 @@
 ---
 title: 'lectura como método de comprensión'
-description: 'Una forma de lectura para el aprendizaje es adoptar una actitud dialógica con el texto'
 type: 'nota permanente'
 tags: []
 ---

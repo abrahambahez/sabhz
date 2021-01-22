@@ -1,6 +1,5 @@
 ---
 title: 'metodología reflexiva - Alvesson y Sköldberg'
-description: 'Práctica de investigación metacrítica'
 type: 'argumento'
 node: 'metodología'
 tags: ['incipiente']

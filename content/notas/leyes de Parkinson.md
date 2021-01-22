@@ -1,6 +1,5 @@
 ---
 title: 'leyes de Parkinson'
-description: 'El trabajo se expande hasta llenar el tiempo disponible para que se termine'
 type: 'término'
 tags: ['incipiente']
 ---

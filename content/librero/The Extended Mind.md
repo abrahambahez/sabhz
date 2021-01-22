@@ -2,7 +2,6 @@
 title: The Extended Mind
 aliases: ['The Extended Mind']
 initial_read: 2020-12-02
-description: 'Propuesta que entiende a la mente como entidad más allá del cerebro'
 source_type: video-blog
 authors: ['Baker, Kane']
 year: 2015

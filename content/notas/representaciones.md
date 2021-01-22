@@ -1,6 +1,5 @@
 ---
 title: 'representaciones'
-description: 'Un modelo cognitivo capaz de ordenar para los sujetos individuales o colectivos un determinado estado de cosas'
 type: 'término'
 node: 'metaconcepto'
 tags: ['concepto-terminal']

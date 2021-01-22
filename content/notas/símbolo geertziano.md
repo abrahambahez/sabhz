@@ -1,6 +1,5 @@
 ---
 title: 'símbolo geertziano'
-description: 'Definición de símbolo según Clifford Geertz'
 type: 'término'
 node: 'antropología'
 tags: ['incipiente']

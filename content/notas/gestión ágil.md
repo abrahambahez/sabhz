@@ -1,6 +1,5 @@
 ---
 title: 'gestión ágil'
-description: 'Referencias de métodos y técnicas de gestión ágil'
 type: 'índice'
 node: 'gestión de trabajo'
 tags: ['incipiente', 'notas-sueltas']

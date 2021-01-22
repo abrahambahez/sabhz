@@ -1,6 +1,5 @@
 ---
 title: 'el problema de la clasificación'
-description: 'El análisis clasificatorio deja una brecha reduccionista en los objetos que estudia'
 type: 'nota permanente'
 node: 'epistemología'
 tags: ['perenne❧']

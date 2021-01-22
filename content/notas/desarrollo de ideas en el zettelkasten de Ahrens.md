@@ -1,6 +1,5 @@
 ---
 title: 'desarrollo de ideas en el zettelkasten de Ahrens'
-description: 'Cómo desarrollar ideas según el zettelkasten'
 type: 'nota permanente'
 tags: []
 ---

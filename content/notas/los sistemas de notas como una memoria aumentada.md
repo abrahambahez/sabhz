@@ -1,6 +1,5 @@
 ---
 title: 'los sistemas de notas como una memoria aumentada'
-description: 'Mantener un sistema de toma de notas es una forma de extender la memoria como una prótesis, pero eso no implica que la memoria o el aprendizaje no estén siendo ejercitados'
 type: 'proposición'
 node: 'gestión del conocimiento personal'
 tags: ['incipiente']

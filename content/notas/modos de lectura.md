@@ -1,6 +1,5 @@
 ---
 title: modos de lectura
-description: 'Lectura como una estrategia de construcción de conocimiento'
 type: 'colección'
 node: 'gestión del conocimiento'
 tags: ['semilla❦']
@@ -42,5 +41,5 @@ Tienen múltiples formas de categorizarse, según el énfasis que se haga en car
 
 ### Referencias
 
-- Adler y Van Doren(1997). [[librero/How to Read a Book | How to Read a Book]]
-- Ahrens (2017) [[librero/How to take smart notes | How to take smart notes]]
+- Adler y Van Doren(1997). [[librero/How to Read a Book|How to Read a Book]]
+- Ahrens (2017) [[librero/How to take smart notes|How to take smart notes]]

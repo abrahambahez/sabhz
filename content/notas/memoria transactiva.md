@@ -1,6 +1,5 @@
 ---
 title: 'memoria transactiva'
-description: 'memoria que funciona a partir del conocimiento intersubjetivo de lo que otra persona sabe y que está disponible para mí cuando necesito acceder a él'
 type: 'término'
 node: 'gestión del conocimiento'
 tags: ['incipiente']

@@ -1,6 +1,5 @@
 ---
 title: 'sistema personal de toma de notas'
-description: 'Cómo gestiono mi trabajo cognitivo'
 type: 'índice'
 node: 'sistema de toma de notas'
 tags: ['perenne❧']

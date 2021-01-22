@@ -1,6 +1,5 @@
 ---
 title: 'resumen progresivo'
-description: 'Técnica de procesamiento de lectura usando capas no destructuvas'
 type: 'término'
 node: 'modos de lectura'
 tags: ['incipiente']

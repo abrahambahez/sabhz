@@ -1,6 +1,5 @@
 ---
 title: 'colección de técnicas de productividad y gestión de proyectos'
-description: 'Lista curada de recursos para '
 type: 'colección'
 node: 'gestión de trabajo'
 tags: ['notas-sueltas']

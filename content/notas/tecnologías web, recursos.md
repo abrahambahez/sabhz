@@ -1,6 +1,5 @@
 ---
 title: 'tecnologías web, recursos'
-description: 'Colección de recursos interesantes de desarrollo erb'
 type: 'colección'
 node: 'tecnología web'
 tags: []

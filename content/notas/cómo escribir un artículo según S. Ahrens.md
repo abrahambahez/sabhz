@@ -1,6 +1,5 @@
 ---
 title: 'guía para escribir un artículo, por Ahrens'
-description: 'El objetivo no es hacer colecciones de notas, sino desarrollar ideas, argumentos y discusiones'
 type: 'nota permanente'
 tags: []
 ---

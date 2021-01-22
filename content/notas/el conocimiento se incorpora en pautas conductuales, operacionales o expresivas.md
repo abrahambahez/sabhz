@@ -1,6 +1,5 @@
 ---
 title: 'el conocimiento se incorpora en pautas conductuales, operacionales o expresivas'
-description: 'Las formas de hacer y las formas de comunicar son dos tipos de evidencias del conocimiento social'
 type: 'proposición'
 node: 'capitalismo cognitivo'
 tags: ['incipiente']
@@ -18,7 +17,7 @@ Las *secuencias de acciones que producen los objetos materiales* que podemos enc
 
 Una exploración interesante está en Joyce y Lopiparo (2005, pp. 368-370).
 
-Otro ejemplo de pauta operativa es la [[categoría serial]], es decir, la realización repetida (no aparecida por única vez) de [[acción serial | acciones seriales]] que se explican mejor como repeticiones condicionadas por el ambiente contextual de una persona que como reflejo determinante de una estructura (aunque de hecho sí pueda reflejarla indirectamente).
+Otro ejemplo de pauta operativa es la [[categoría serial]], es decir, la realización repetida (no aparecida por única vez) de [[acción serial|acciones seriales]] que se explican mejor como repeticiones condicionadas por el ambiente contextual de una persona que como reflejo determinante de una estructura (aunque de hecho sí pueda reflejarla indirectamente).
 
 ## 2. Pautas conductuales
 

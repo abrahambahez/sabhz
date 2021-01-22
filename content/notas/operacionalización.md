@@ -1,6 +1,5 @@
 ---
 title: 'operacionalización'
-description: 'Proceso de transformación de un concepto a variables cuantitativas'
 type: 'término'
 node: 'estrategias de investigación'
 tags: ['incipiente']

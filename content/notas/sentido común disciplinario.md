@@ -1,6 +1,5 @@
 ---
 title: 'sentido común disciplinario'
-description: 'Cómo las prácticas hegemónicas de una disciplina determinan las condiciones legítimas de producción de conocimiento'
 type: 'término'
 node: 'antropología'
 tags: ['incipiente', 'potenciales']

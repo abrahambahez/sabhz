@@ -1,6 +1,5 @@
 ---
 title: 'relaciones entre historia digital y trabajo cognitivo'
-description: 'el trabajo cognitivo puede enriquecerse de la historia de la computación'
 type: 'índice'
 node: 'tecnología'
 tags: ['semilla❦']

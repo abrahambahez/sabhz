@@ -2,7 +2,6 @@
 title: 'Las estructuras elementales de la violencia (Pedagogías de la crueldad)'
 aliases: ['Las estructuras elementales de la violencia (Pedagogías de la crueldad)']
 initial_read: 2020-10-25
-description: 'Dinámica de interacción violenta emanada de las pedagogías de la crueldad'
 source_type: artículo
 authors: ["Segato, Rita Laura"]
 year: 2019
@@ -11,7 +10,7 @@ type: 'nota de referencia'
 tags: ['potenciales']
 ---
 
-Como consecuenca de las [[librero/Pedagogías de la crueldad | Pedagogías de la crueldad]], se desprende este planteamiento donde se describe la inserción del agresor en el cruce de dos ejes de interlocución:
+Como consecuenca de las [[librero/Pedagogías de la crueldad|Pedagogías de la crueldad]], se desprende este planteamiento donde se describe la inserción del agresor en el cruce de dos ejes de interlocución:
 
 1. Eje vertical: Cosificación y violencia sobre la mujer
 2. Eje horizontal: Integración del varón en una estructura corporativa basada en la fidelidad absoluta y la jerarquía rígida

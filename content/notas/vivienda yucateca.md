@@ -1,6 +1,5 @@
 ---
 title: 'vivienda yucateca'
-description: 'Hechos sobre la vivienda yucateca'
 type: 'nota permanente'
 node: 'vivienda y territorio'
 tags: ['doctorado', 'potenciales', 'refactorizar']

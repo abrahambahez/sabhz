@@ -1,6 +1,5 @@
 ---
 title: 'ontología informacional'
-description: 'Identifiación particular de entidades y relaciones en un sistema de información que representan un dominio de conocimiento'
 type: 'término'
 node: 'sistemas de información'
 tags: ['incipiente']

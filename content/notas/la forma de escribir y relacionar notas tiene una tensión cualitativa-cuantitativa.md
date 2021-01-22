@@ -1,6 +1,5 @@
 ---
 title: 'la forma de escribir y relacionar notas tiene una tensión cualitativa-cuantitativa'
-description: 'estructurar o escribir libremente una nota tiene pros y contras que hay que equilibrar'
 type: 'proposición'
 node: 'sistema de toma de notas'
 tags: ['incipiente']

@@ -1,6 +1,5 @@
 ---
 title: 'trabajo cognitivo'
-description: 'La acción básica de producción o reproducción de signos'
 type: 'término'
 node: 'epistemología'
 tags: ['incipiente']

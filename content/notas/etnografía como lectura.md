@@ -1,6 +1,5 @@
 ---
 title: 'etnografía como lectura'
-description: 'Etnografía como lectura contextual de la cultura'
 type: 'término'
 node: 'modos de lectura'
 tags: ['incipiente']

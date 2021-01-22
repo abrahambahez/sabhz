@@ -1,6 +1,5 @@
 ---
 title: 'patrimonio biocultural'
-description: 'Herencia que poseen los productos del trabajo humano sobre los recursos materiales que están fuertemente vinculados a la identidad local'
 type: 'término'
 node: 'vivienda y territorio'
 tags: ['incipiente']

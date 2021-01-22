@@ -6,8 +6,8 @@
         <div class="flex flex-wrap ">
             <div class="post-container" v-for="backlinkPost in backlinkPosts" :key="backlinkPost.title" >
                 <nuxt-link :to="backlinkPost.dir === '/notas' ? '/' + backlinkPost.slug : backlinkPost.path ">
-                    <p class="margin-0 padding-top-1">{{ backlinkPost.title }}</p>
-                    <p class="margin-0 color">{{ backlinkPost.description }}</p>       
+                    <p class="margin-0 padding-top-1">{{backlinkPost.title}}</p>
+                    <p class="margin-0 color size-08">{{ backlinkPost.excerpt }}</p>       
                 </nuxt-link> 
                             
             </div>            
@@ -32,7 +32,7 @@ export default {
     },
     async fetch() {
         return this.backlinkPosts = await this.$content({deep: true})
-        .only(['title', 'description', 'type', 'slug', 'path', 'dir'])
+        .only(['title', 'excerpt', 'type', 'slug', 'path', 'dir'])
         .where( { 
             'internalLinks' : { $contains: this.filterTerm }
         })
@@ -61,9 +61,7 @@ export default {
     border: solid .08rem rgba(0,0,0,0);
     box-sizing: border-box;
 }
-.post-container p {
-    font-size: .8rem;
-}
+
 .post-container:hover {
     background-color: var(--bg-secondary);
     border: solid .08rem var(--border-color);

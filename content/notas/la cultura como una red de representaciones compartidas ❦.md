@@ -1,6 +1,5 @@
 ---
 title: 'la cultura como una red de representaciones compartidas'
-description: 'No hay tal cosa como hechos culturales, una alternativa más eficiente es entenderla en función de represetaciones compartidas'
 type: 'proposición'
 node: 'antropología'
 tags: ['semilla❦']

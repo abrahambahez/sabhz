@@ -1,6 +1,5 @@
 ---
 title: 'la fábrica de ideas del zettelkasten'
-description: 'Cómo usar el sistema zettelkasten para generar una fuente constante de ideas y proyectos'
 type: 'nota permanente'
 tags: []
 ---

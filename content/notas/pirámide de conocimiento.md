@@ -1,6 +1,5 @@
 ---
 title: 'pirámide de conocimiento'
-description: 'Concepto operativo usado en la teoría de la información y la computación'
 type: 'término'
 node: 'gestión del conocimiento'
 tags: ['incipiente']

@@ -1,6 +1,5 @@
 ---
 title: 'observación participante'
-description: 'Observación humana con miras al entendimiento cultural desde dentro'
 type: 'término'
 node: 'etnografía'
 tags: ['incipiente']

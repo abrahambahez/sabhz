@@ -1,6 +1,5 @@
 ---
 title: 'trabajador cognitivo'
-description: 'Los productores especializados usan su conocimiento para operar cambios en el mundo o en sus representaciones'
 type: 'término'
 node: 'capitalismo cognitivo'
 tags: ['incipiente']

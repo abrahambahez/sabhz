@@ -1,6 +1,5 @@
 ---
 title: 'el diseño de los sistemas de información influye directamente en el tipo de conocimiento producido a partir de ellos'
-description: 'En la relación entre información y conocimiento, la forma y el fondo son interdependientes'
 type: 'proposición'
 node: 'sistemas de información'
 tags: ['incipiente']

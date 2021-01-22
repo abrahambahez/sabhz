@@ -1,6 +1,5 @@
 ---
 title: 'categoría serial'
-description: 'Un conjunto de acciones seriales que reflejan una estructura social'
 type: 'término'
 node: 'filosofía'
 tags: []

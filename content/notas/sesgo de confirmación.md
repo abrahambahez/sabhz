@@ -1,6 +1,5 @@
 ---
 title: 'sesgo de confirmación'
-description: 'Tendencia a favorecer en todo sentido la información que confirma nuestras ideas o creencias'
 type: 'término'
 tags: ['incipiente']
 ---

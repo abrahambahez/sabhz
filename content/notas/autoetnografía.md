@@ -1,6 +1,5 @@
 ---
 title: 'autoetnografía'
-description: 'Investigación sistemática sobre la vida para comprender la cultura'
 type: 'término'
 node: 'etnografía'
 tags: ['incipiente']

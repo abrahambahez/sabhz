@@ -1,6 +1,5 @@
 ---
 title: 'jerarquía'
-description: 'concepto sistémico de organización basado en las jerarquías estáticas'
 type: 'término'
 node: 'sistemas de organización'
 tags: ['incipiente']

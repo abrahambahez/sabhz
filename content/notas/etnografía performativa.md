@@ -1,6 +1,5 @@
 ---
 title: etnografía performativa
-description: 'La práctica etnográfica que consiste en realizar algo de una manera cultural especial hasta obtener la aprobación de la comunidad como "bien hecho", reflejando así su gusto cultural'
 type: 'término'
 node: 'etnografía'
 tags: ['agenda']

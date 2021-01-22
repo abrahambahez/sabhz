@@ -1,12 +1,11 @@
 ---
 title: 'compartir una representación no significa tener una actitud proposicional o valorativa de la misma'
-description: 'no hay una relación de necesidad entre una representación compartida y su naturaleza epistemológica o axiológica'
 type: 'proposición'
 node: 'epistemología'
 tags: ['semilla❦']
 ---
  
-Cuando una comunidad comparte una [[representaciones | representación]], eso no implica necesariamente que cada miembro tenga la misma actitud epistémica, axiológica, emotiva o estética hacia esa representación.
+Cuando una comunidad comparte una [[representaciones|representación]], eso no implica necesariamente que cada miembro tenga la misma actitud epistémica, axiológica, emotiva o estética hacia esa representación.
 
 - Juan puede portar un collar con un crucifijo sin ser cristiano, creer en Dios, incluso si es capaz de explicar esa religión con detalle
 

@@ -1,6 +1,5 @@
 ---
 title: 'cognición situada'
-description: 'La situación donde emerge el trabajo cognitivo es uno de sus componentes'
 type: 'término'
 node: 'filosofía de la mente'
 tags: ['incipiente']

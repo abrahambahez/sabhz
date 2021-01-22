@@ -1,6 +1,5 @@
 ---
 title: 'modos de entender a los signos'
-description: 'Modos de definir la naturaleza y el uso de los signos'
 type: 'colección'
 node: 'semiótica'
 tags: ['incipiente']

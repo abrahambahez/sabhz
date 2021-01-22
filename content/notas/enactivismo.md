@@ -1,6 +1,5 @@
 ---
 title: 'enactivismo'
-description: 'La acción del sujeto en el mundo construye el fundamento de su conocimiento en general y en particular'
 type: 'término'
 node: 'filosofía de la mente'
 tags: ['incipiente']

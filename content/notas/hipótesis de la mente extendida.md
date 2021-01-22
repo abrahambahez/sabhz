@@ -1,6 +1,5 @@
 ---
 title: 'hipótesis de la mente extendida'
-description: 'En ciertos casos una libreta forma parte funcional de un sistema cognitivo'
 type: 'nota de referencia'
 node: 'filosofía de la mente'
 tags: ['incipiente']

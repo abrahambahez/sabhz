@@ -1,6 +1,5 @@
 ---
 title: 'cognición encorporada'
-description: 'El cuerpo puede jugar un rol participante en el proceso cognitivo a través de gestos, memoria táctil'
 type: 'término'
 node: 'filosofía de la mente'
 tags: ['incipiente']

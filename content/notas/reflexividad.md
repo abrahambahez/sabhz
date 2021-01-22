@@ -1,6 +1,5 @@
 ---
 title: 'reflexividad'
-description: 'En investigación social, la consideración analítica de las condiciones de producción del conocimiento'
 type: 'término'
 node: 'etnografía'
 tags: ['incipiente']

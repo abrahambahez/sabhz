@@ -1,6 +1,5 @@
 ---
 title: 'taxonomía'
-description: 'Modo de clasificación para entidades de una colección, puede ser jerárquica o heterárquica'
 type: 'término'
 node: 'sistemas de información'
 tags: ['incipiente']

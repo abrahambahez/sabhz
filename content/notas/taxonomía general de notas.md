@@ -1,6 +1,5 @@
 ---
 title: 'taxonomía general de notas'
-description: 'taxonomía personal de toma de notas'
 type: 'índice'
 node: 'sistema de toma de notas'
 tags: ['fluida']

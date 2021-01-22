@@ -1,6 +1,5 @@
 ---
 title: 'sesgos cognitivos'
-description: 'Colección de notas sobre sesgos cognitivos'
 type: 'colección'
 tags: []
 ---

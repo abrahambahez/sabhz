@@ -1,6 +1,5 @@
 ---
 title: 'etnografía de archivos'
-description: 'Mirada etnográfica a la investigación de archivos'
 type: 'término'
 node: 'etnografía'
 tags: ['incipiente']

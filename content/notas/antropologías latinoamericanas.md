@@ -1,6 +1,5 @@
 ---
 title: 'antropologías latinoamericanas'
-description: ''
 type: 'índice'
 node: ''
 tags: ['incipiente']
@@ -27,7 +26,7 @@ De este modo vemos como las antropologías socioculturales latinoamericanas se v
 
 ## Para revisar
 
-- [Núm. 10 (2020): Revista Kogoró | Revista Kogoró revistas.udea.edu.co](https://revistas.udea.edu.co/index.php/kogoro/issue/current)
+- [Núm. 10 (2020): Revista Kogoró|Revista Kogoró revistas.udea.edu.co](https://revistas.udea.edu.co/index.php/kogoro/issue/current)
 
 ## Referencias
 

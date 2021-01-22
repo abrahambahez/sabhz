@@ -1,6 +1,5 @@
 ---
 title: modos de escritura
-description: 'Escritura como un proceso de construcción de conocimiento'
 type: 'colección'
 node: 'gestión del conocimiento'
 tags: ['semilla❦']

@@ -1,6 +1,5 @@
 ---
 title: 'historia de vida'
-description: 'Reconstrucción de historias personales para facilitar la lectura cultural desde dentro'
 type: 'término'
 node: 'etnografía'
 tags: ['incipiente']

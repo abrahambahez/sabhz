@@ -1,6 +1,5 @@
 ---
 title: 'capa de abstracción'
-description: 'Separar y encapsular las particularidades de un sistema de su contexto para reusarlas en contextos con diferentes formas de similitud'
 type: 'término'
 tags: []
 ---

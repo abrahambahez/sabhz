@@ -1,6 +1,5 @@
 ---
 title: 'las notas como herramientas cognitivas'
-description: 'Reconocer que el trabajo intelectual se beneficia de un soporte exterior por parte de la persona que lo trabaja'
 type: 'proposición'
 node: 'gestión del conocimiento personal'
 tags: ['incipiente']
@@ -21,7 +20,7 @@ En la tradición occidental no es poco común que *el intelectual* (académico o
 
 ## Referencias
 
-Ahrens, S. (2017). [[librero/How to take smart notes | How to take smart notes: one simple technique to boost writing, learning and thinking: for students, academics and nonfiction book writers]]. CreateSpace. 
+Ahrens, S. (2017). [[librero/How to take smart notes|How to take smart notes: one simple technique to boost writing, learning and thinking: for students, academics and nonfiction book writers]]. CreateSpace. 
 
 Bloch (1995) *Histoire et historiens*. Armand Colin
 
