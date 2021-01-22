@@ -4,7 +4,7 @@ type: 'nota permanente'
 tags: []
 ---
 
-Una de las ideas centrales del [[librero/How to Take Smart Notes]] es que lo más importante es ir más allá de los textos que leemos, hacia nuestras propias ideas:
+Una de las ideas centrales del [[librero/How to Take Smart Notes. One simple technique to boost writing, learning and thinking]] es que lo más importante es ir más allá de los textos que leemos, hacia nuestras propias ideas:
 
 > A common way to embed an idea into the context of the slip-box is by writing out the reasons of its importance for your own lines of thought. (Posición 1772)
 

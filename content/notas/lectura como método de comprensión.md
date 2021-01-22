@@ -6,7 +6,7 @@ tags: []
 
 Leer y resumir siguiendo la línea argumentativa de los textos no sirve para comprender. La lectura para la comprensión no se trata de copiar, sino de tener un diálogo profundo con el texto que leemos, y para eso sirven las **notas de literatura.**
 
-Ahrens (2017, [[librero/How to Take Smart Notes]]) citando a Luhmann:
+Ahrens (2017, [[librero/How to Take Smart Notes. One simple technique to boost writing, learning and thinking]]) citando a Luhmann:
 
 > On the backside I write down the bibliographic details. After finishing the book I go through my notes and think how these notes might be relevant for already written notes in the slip-box. It means that I always read with an eye towards possible connections in the slip-box.” (Luhmann et al., 1987, 150) (Posición 1404)
 

@@ -6,7 +6,7 @@ tags: ['incipiente']
 
 La versión más famosa de la *ley de Parkinson es:* El trabajo se expande hasta llenar el tiempo disponible para que se termine.
 
-Desde Ahrens (2017, [[librero/How to Take Smart Notes]]):
+Desde Ahrens (2017, [[librero/How to Take Smart Notes. One simple technique to boost writing, learning and thinking]]):
 
 > According to the famous law of Parkinson, every kind of work tends to fill the time we set aside for it, like air fills every corner of a room (Parkinson 1957). (Posición 2625)
 

@@ -64,7 +64,9 @@ export default {
       remarkPlugins: () => [
         ['remark-wiki-link', {
           pageResolver: (name) => [name.replace(/ /g, '%20')],
-          hrefTemplate: (permalink) => `/${permalink}`,
+          hrefTemplate: function(permalink) {
+            return `/${permalink}`
+          },
           aliasDivider: '|'
         }],
         ['remark-mark-plus']

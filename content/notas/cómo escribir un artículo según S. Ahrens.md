@@ -4,7 +4,7 @@ type: 'nota permanente'
 tags: []
 ---
 
-Viene de [[librero/How to Take Smart Notes]], *« Writing a paper step by step»* (Posición 509)
+Viene de [[librero/How to Take Smart Notes. One simple technique to boost writing, learning and thinking]], *« Writing a paper step by step»* (Posición 509)
 
 **El objetivo no es hacer colecciones de notas, sino desarrollar ideas, argumentos y discusiones.** Recuerda:
 

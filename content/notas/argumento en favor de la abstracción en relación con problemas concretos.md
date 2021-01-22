@@ -4,7 +4,7 @@ type: 'nota permanente'
 tags: []
 ---
 
-Desde Ahrens (2017, [[librero/How to Take Smart Notes]])
+Desde Ahrens (2017, [[librero/How to Take Smart Notes. One simple technique to boost writing, learning and thinking]])
 Para poder reusar las ideas en contextos diferentes, necesitamos separarla de sus contextos originales a través de la abstracción.
 
 Es posible que la habilidad para encontrar soluciones creativas y funcionales tenga que ver con nuestra habilidad para hacer abstracciones.

@@ -4,7 +4,7 @@ type: 'nota permanente'
 tags: []
 ---
 
-Una vez que el sistema del [[librero/How to Take Smart Notes]] ya está funcionando, el problema de no tener sufientes temas de investigación es irrelevante, pues de hecho se tienen varias líneas, en diversos grados de avance, pero ¿cuáles son los elementos más importantes para aprovechar esta situación?
+Una vez que el sistema del [[librero/How to Take Smart Notes. One simple technique to boost writing, learning and thinking]] ya está funcionando, el problema de no tener sufientes temas de investigación es irrelevante, pues de hecho se tienen varias líneas, en diversos grados de avance, pero ¿cuáles son los elementos más importantes para aprovechar esta situación?
 
 ## Desarrollar notas índices, mapas de contenido, esquemas y estructuras de contenido
 
