@@ -65,7 +65,13 @@ export default {
         ['remark-wiki-link', {
           pageResolver: (name) => [name.replace(/ /g, '%20')],
           hrefTemplate: function(permalink) {
-            return `/${permalink}`
+            const anchorText = /#.+/
+            if(permalink.search(anchorText) == -1){
+                return `/${permalink}`
+              } else {
+                  let fixedAnchor = permalink.match(anchorText)[0].toLowerCase()
+                  return `/${permalink.replace(anchorText,'')}${fixedAnchor.replace(/%20/g,'-')}`
+            }
           },
           aliasDivider: '|'
         }],
