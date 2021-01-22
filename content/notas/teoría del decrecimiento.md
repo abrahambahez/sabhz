@@ -8,7 +8,7 @@ tags: []
 
 La teoría del decrecimiento se enfrenta a estas nociones proponiendo que el crecimiento no es necesariamente lo más deseable.
 
-Algunos puntos destacados:
+Algunos puntos de discusión:
 
 - No es razonable que en la práctica usemos nuestros recursos como ilimitados cuando no lo son
 - El *productivismo* y el *desarrollismo* perpetúan la [extinción del antropoceno](https://en.wikipedia.org/wiki/Holocene_extinction) y el neo-colonialismo (desde genocidios, desterritorialización, [[antropologías latinoamericanas|epistemicidios]])
