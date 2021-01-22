@@ -1,7 +1,6 @@
 ---
 title: 'memoria transactiva'
 type: 'término'
-node: 'gestión del conocimiento'
 tags: ['incipiente']
 ---
 

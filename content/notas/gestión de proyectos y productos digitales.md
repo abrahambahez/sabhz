@@ -1,7 +1,6 @@
 ---
 title: 'gestión de proyectos y productos digitales'
 type: 'índice'
-node: 'gestión digital'
 tags: ['incipiente']
 ---
 

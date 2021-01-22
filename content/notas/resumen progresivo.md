@@ -1,7 +1,6 @@
 ---
 title: 'resumen progresivo'
 type: 'término'
-node: 'modos de lectura'
 tags: ['incipiente']
 ---
 

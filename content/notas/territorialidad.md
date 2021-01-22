@@ -1,7 +1,6 @@
 ---
 title: 'territorialidad'
 type: 'término'
-node: 'antropología'
 tags: ['incipiente','agenda']
 ---
 

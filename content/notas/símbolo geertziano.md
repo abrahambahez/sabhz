@@ -1,7 +1,6 @@
 ---
 title: 'símbolo geertziano'
 type: 'término'
-node: 'antropología'
 tags: ['incipiente']
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: 'reflexividad'
 type: 'término'
-node: 'etnografía'
 tags: ['incipiente']
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: praxis disciplinaria
 type: 'término'
-node: 'gestión del conocimiento'
 tags: ['semilla❦']
 ---
 

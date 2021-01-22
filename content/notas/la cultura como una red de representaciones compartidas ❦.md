@@ -1,7 +1,6 @@
 ---
 title: 'la cultura como una red de representaciones compartidas'
 type: 'proposición'
-node: 'antropología'
 tags: ['semilla❦']
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: 'patrimonio biocultural'
 type: 'término'
-node: 'vivienda y territorio'
 tags: ['incipiente']
 ---
 

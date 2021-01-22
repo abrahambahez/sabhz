@@ -1,7 +1,6 @@
 ---
 title: 'antropologías latinoamericanas'
 type: 'índice'
-node: ''
 tags: ['incipiente']
 ---
 

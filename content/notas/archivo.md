@@ -2,7 +2,6 @@
 title: Archivo
 description: Listado de todo el contenido del sitio
 type: 'noindex'
-node: ''
 tags: []
 ---
 

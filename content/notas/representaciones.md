@@ -1,7 +1,6 @@
 ---
 title: 'representaciones'
 type: 'término'
-node: 'metaconcepto'
 tags: ['concepto-terminal']
 ---
 

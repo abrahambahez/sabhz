@@ -1,7 +1,6 @@
 ---
 title: sistemas de gestión de conocimiento
 type: 'índice'
-node: 'gestión del conocimiento'
 tags: ['fluida']
 ---
 

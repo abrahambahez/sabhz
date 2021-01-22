@@ -1,7 +1,6 @@
 ---
 title: 'historia de vida'
 type: 'término'
-node: 'etnografía'
 tags: ['incipiente']
 ---
 

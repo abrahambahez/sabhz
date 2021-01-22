@@ -1,7 +1,6 @@
 ---
 title: 'cognición situada'
 type: 'término'
-node: 'filosofía de la mente'
 tags: ['incipiente']
 ---
 

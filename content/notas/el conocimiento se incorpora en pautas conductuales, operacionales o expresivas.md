@@ -1,7 +1,6 @@
 ---
 title: 'el conocimiento se incorpora en pautas conductuales, operacionales o expresivas'
 type: 'proposición'
-node: 'capitalismo cognitivo'
 tags: ['incipiente']
 ---
 

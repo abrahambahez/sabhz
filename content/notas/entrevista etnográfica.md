@@ -1,7 +1,6 @@
 ---
 title: 'entrevista etnográfica'
 type: 'término'
-node: 'etnografía'
 tags: ['incipiente']
 ---
 

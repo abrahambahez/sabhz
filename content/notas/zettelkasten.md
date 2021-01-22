@@ -1,7 +1,6 @@
 ---
 title: 'zettelkasten'
 type: 'término'
-node: 'gestión del conocimiento personal'
 tags: []
 ---
 

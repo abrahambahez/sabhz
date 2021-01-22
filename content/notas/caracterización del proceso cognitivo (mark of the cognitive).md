@@ -1,7 +1,6 @@
 ---
 title: 'caracterización del proceso cognitivo'
 type: 'índice'
-node: 'filosofía de la mente'
 tags: ['incipiente']
 ---
 

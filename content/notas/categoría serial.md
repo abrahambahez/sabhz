@@ -1,7 +1,6 @@
 ---
 title: 'categoría serial'
 type: 'término'
-node: 'filosofía'
 tags: []
 ---
 

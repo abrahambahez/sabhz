@@ -1,7 +1,6 @@
 ---
 title: 'cómo crear y validar prototipos de procesos y productos digitales'
 type: 'índice'
-node: 'gestión de trabajo'
 tags: ['incipiente', 'notas-sueltas']
 ---
 

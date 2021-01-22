@@ -1,7 +1,6 @@
 ---
 title: 'etnografía como lectura'
 type: 'término'
-node: 'modos de lectura'
 tags: ['incipiente']
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: praxis
 type: 'término'
-node: 'filosofía'
 tags: ['perenne❧']
 ---
 

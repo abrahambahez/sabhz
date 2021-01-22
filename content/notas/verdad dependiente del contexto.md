@@ -1,7 +1,6 @@
 ---
 title: 'verdad dependiente del contexto'
 type: 'término'
-node: 'epistemología'
 tags: ['incipiente']
 ---
 

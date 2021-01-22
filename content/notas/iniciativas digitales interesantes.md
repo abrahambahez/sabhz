@@ -1,7 +1,6 @@
 ---
 title: 'iniciativas digitales interesantes'
 type: 'colección'
-node: 'herramientas tecnológicas'
 tags: []
 ---
 

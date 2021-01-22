@@ -1,7 +1,6 @@
 ---
 title: 'índice de modelos de análisis'
 type: 'índice'
-node: 'estrategias de investigación'
 tags: ['incipiente']
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: 'razón instrumental'
 type: 'término'
-node: 'capitalismo cognitivo'
 tags: ['incipiente']
 ---
 

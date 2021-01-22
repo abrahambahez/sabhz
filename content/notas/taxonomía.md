@@ -1,7 +1,6 @@
 ---
 title: 'taxonomía'
 type: 'término'
-node: 'sistemas de información'
 tags: ['incipiente']
 ---
 

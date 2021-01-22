@@ -1,7 +1,6 @@
 ---
 title: modos de vida
 type: 'término'
-node: 'antropología'
 tags: ['incipiente']
 ---
 

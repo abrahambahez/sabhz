@@ -1,7 +1,6 @@
 ---
 title: 'sistema personal de toma de notas'
 type: 'índice'
-node: 'sistema de toma de notas'
 tags: ['perenne❧']
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: 'observación participante'
 type: 'término'
-node: 'etnografía'
 tags: ['incipiente']
 ---
 

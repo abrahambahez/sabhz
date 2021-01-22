@@ -1,7 +1,6 @@
 ---
 title: 'esbozos de una teoría del trabajo cognitivo'
 type: 'argumento'
-node: 'capitalismo cognitivo'
 tags: ['incipiente']
 ---
 

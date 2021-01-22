@@ -1,7 +1,6 @@
 ---
 title: 'el diseño de los sistemas de información influye directamente en el tipo de conocimiento producido a partir de ellos'
 type: 'proposición'
-node: 'sistemas de información'
 tags: ['incipiente']
 ---
 

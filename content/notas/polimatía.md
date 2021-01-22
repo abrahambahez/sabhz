@@ -1,7 +1,6 @@
 ---
 title: 'polimatía'
 type: 'término'
-node: 'gestión del conocimiento'
 tags: ['incipiente']
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: 'una hipótesis sobre la marginalidad'
 type: 'proposición'
-node: 'epistemología'
 tags: ['semilla❦']
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: 'índice de herramientas cognitivas'
 type: 'índice'
-node: 'estrategias de investigación'
 tags: ['incipiente']
 ---
 

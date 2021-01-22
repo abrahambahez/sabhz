@@ -1,7 +1,6 @@
 ---
 title: 'sistema'
 type: 'término'
-node: 'metaconcepto'
 tags: ['concepto-terminal', 'refactorizar']
 ---
 

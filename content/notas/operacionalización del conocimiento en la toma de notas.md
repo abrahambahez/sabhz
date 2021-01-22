@@ -1,7 +1,6 @@
 ---
 title: 'toma de notas y operacionalización del conocimiento'
 type: 'nota permanente'
-node: 'sistema de toma de notas'
 tags: ['perenne❧']
 ---
 

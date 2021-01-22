@@ -1,7 +1,6 @@
 ---
 title: agencia
 type: 'término'
-node: 'antropología'
 tags: ['incipiente']
 ---
 

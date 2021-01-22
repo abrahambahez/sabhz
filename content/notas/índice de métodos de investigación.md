@@ -1,7 +1,6 @@
 ---
 title: 'índice de métodos de investigación'
 type: 'índice'
-node: 'estrategias de investigación'
 tags: ['incipiente']
 ---
 

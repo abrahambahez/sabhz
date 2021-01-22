@@ -1,7 +1,6 @@
 ---
 title: 'paisaje cultural'
 type: 'término'
-node: 'vivienda y territorio'
 tags: ['doctorado']
 ---
 

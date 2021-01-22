@@ -1,7 +1,6 @@
 ---
 title: 'etnografía de archivos'
 type: 'término'
-node: 'etnografía'
 tags: ['incipiente']
 ---
 

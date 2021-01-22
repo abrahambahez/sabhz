@@ -1,7 +1,6 @@
 ---
 title: 'sentido común disciplinario'
 type: 'término'
-node: 'antropología'
 tags: ['incipiente', 'potenciales']
 ---
 

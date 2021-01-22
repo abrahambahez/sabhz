@@ -1,7 +1,6 @@
 ---
 title: 'verdad totalizadora y verdad específica'
 type: 'proposición'
-node: 'epistemología'
 tags: ['semilla❦']
 ---
 

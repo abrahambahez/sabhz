@@ -1,7 +1,6 @@
 ---
 title: 'relaciones entre historia digital y trabajo cognitivo'
 type: 'índice'
-node: 'tecnología'
 tags: ['semilla❦']
 ---
 

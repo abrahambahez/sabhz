@@ -1,7 +1,6 @@
 ---
 title: 'una buena nota explota todos sus componentes para facilitar el trabajo cognitivo y la vinculación'
 type: 'proposición'
-node: 'sistema de toma de notas'
 tags: []
 ---
 

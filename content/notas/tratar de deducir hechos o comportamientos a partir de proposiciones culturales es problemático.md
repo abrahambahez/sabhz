@@ -1,7 +1,6 @@
 ---
 title: 'tratar de deducir hechos o comportamientos a partir de proposiciones culturales no es la empresa más efectiva'
 type: 'proposición'
-node: 'antropología crítica'
 tags: ['semilla❦']
 ---
 

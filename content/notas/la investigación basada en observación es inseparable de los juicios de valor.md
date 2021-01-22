@@ -1,7 +1,6 @@
 ---
 title: 'la investigación basada en observación es inseparable de los juicios de valor'
 type: 'proposición'
-node: 'epistemología'
 tags: ['incipiente']
 ---
 

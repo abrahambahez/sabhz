@@ -1,7 +1,6 @@
 ---
 title: 'análisis clasificatorio'
 type: 'nota permanente'
-node: 'estrategias de investigación'
 tags: ['incipiente']
 ---
 

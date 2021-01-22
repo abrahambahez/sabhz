@@ -85,7 +85,7 @@ export default {
       // Regex to find wikilinks:
       const wikilinkRegExp = /\[\[.+?\]\]/g
       const wikilinkAlias = /\[\[.+?\|/g
-      const cleanMarkdown = /^\s|#|\*+|>+|_+|\]+|\[+|^\-\s/g
+      const cleanMarkdown = /^\s|#|\*+|>+|_+|\]+|\[+|\(http.+\)|^\-\s/g
       // array value to save
       document.internalLinks = []
       // get wikilinks values from the markdown files & append them to array

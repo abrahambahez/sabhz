@@ -1,7 +1,6 @@
 ---
 title: modos de lectura
 type: 'colección'
-node: 'gestión del conocimiento'
 tags: ['semilla❦']
 ---
 

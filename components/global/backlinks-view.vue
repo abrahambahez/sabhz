@@ -7,7 +7,8 @@
             <div class="post-container" v-for="backlinkPost in backlinkPosts" :key="backlinkPost.title" >
                 <nuxt-link :to="backlinkPost.dir === '/notas' ? '/' + backlinkPost.slug : backlinkPost.path ">
                     <p class="margin-0 padding-top-1">{{backlinkPost.title}}</p>
-                    <p class="margin-0 color size-08">{{ backlinkPost.excerpt }}</p>       
+                    <p class="margin-0 color size-08 overflow-wrap-break-word"
+                        >{{ backlinkPost.excerpt }}</p>       
                 </nuxt-link> 
                             
             </div>            

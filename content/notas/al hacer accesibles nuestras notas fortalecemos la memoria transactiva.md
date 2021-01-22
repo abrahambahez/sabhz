@@ -1,7 +1,6 @@
 ---
 title: 'al hacer accesibles nuestras notas fortalecemos la memoria transactiva'
 type: 'proposición'
-node: 'gestión del conocimiento personal'
 tags: ['incipiente']
 ---
 

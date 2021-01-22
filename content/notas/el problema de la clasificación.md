@@ -1,7 +1,6 @@
 ---
 title: 'el problema de la clasificación'
 type: 'nota permanente'
-node: 'epistemología'
 tags: ['perenne❧']
 ---
 
@@ -32,9 +31,7 @@ Aróstegui (2001, pp. 251-255) discute por ejemplo la tendencia de la historiogr
 
 >Los hombres hacen su propia historia, pero no la hacen a su libre arbitrio, bajo circunstancias elegidas por ellos mismos, sino bajo aquellas circunstancias con se encuentran directamente, que existen y que les han sido legadas por el pasado" (citado en Aróstegui, pp. 252-253)
 
-Pero ha caído en la trampa de la invisibilización de lo particular: 
-
->¿a quién hay que salvar transformando al mundo, a las personas o a una clase a la que pertenecen?
+Pero ha caído en la trampa de la invisibilización de lo particular: *¿a quién hay que salvar transformando al mundo, a las personas o a una clase a la que pertenecen?*
 
 Este es sin duda un ejemplo genérico, pero piensa en otros:
 

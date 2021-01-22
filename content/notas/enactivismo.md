@@ -1,7 +1,6 @@
 ---
 title: 'enactivismo'
 type: 'término'
-node: 'filosofía de la mente'
 tags: ['incipiente']
 ---
 

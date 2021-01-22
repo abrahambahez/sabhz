@@ -1,7 +1,6 @@
 ---
 title: 'pirámide de conocimiento'
 type: 'término'
-node: 'gestión del conocimiento'
 tags: ['incipiente']
 ---
 Tambien llamada *Jerarquía DIKW* (acrónimo para *data, information, knowledge, wisdom*). Es la visión de que existe una relación de creciente complejidad en ese orden de conceptos:

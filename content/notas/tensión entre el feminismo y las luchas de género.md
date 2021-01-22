@@ -1,7 +1,6 @@
 ---
 title: 'tensión entre el feminismo y las luchas de género'
 type: 'argumento'
-node: 'feminismo'
 tags: ['incipiente']
 ---
 

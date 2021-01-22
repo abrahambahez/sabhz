@@ -1,7 +1,6 @@
 ---
 title: 'categorización'
 type: 'término'
-node: estrategias de investigación''
 tags: ['incipiente']
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: 'Jardín digital de Sergio'
 type: 'noindex'
-node: ''
 tags: []
 ---
 

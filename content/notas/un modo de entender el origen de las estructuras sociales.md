@@ -1,7 +1,6 @@
 ---
 title: 'un modo de entender el origen de las estructuras sociales'
 type: 'proposición'
-node: 'filosofía'
 tags: ['incipiente']
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: 'operacionalización'
 type: 'término'
-node: 'estrategias de investigación'
 tags: ['incipiente']
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: acción serial
 type: 'término'
-node: 'filosofía'
 tags: ['incipiente']
 ---
 

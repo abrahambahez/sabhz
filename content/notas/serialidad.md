@@ -1,7 +1,6 @@
 ---
 title: serialidad
 type: 'término'
-node: 'filosofía'
 tags: ['agenda']
 ---
 

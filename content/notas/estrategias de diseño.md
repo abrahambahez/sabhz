@@ -1,7 +1,6 @@
 ---
 title: 'estrategias de diseño'
 type: 'índice'
-node: 'diseño'
 tags: []
 ---
 

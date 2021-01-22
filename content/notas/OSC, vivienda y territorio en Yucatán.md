@@ -1,7 +1,6 @@
 ---
 title: 'OSC, vivienda y territorio en Yucatán'
 type: 'índice'
-node: 'doctorado'
 tags: ['doctorado']
 ---
 

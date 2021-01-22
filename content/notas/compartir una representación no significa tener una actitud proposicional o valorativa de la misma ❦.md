@@ -1,7 +1,6 @@
 ---
 title: 'compartir una representación no significa tener una actitud proposicional o valorativa de la misma'
 type: 'proposición'
-node: 'epistemología'
 tags: ['semilla❦']
 ---
  

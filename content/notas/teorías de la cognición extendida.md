@@ -1,7 +1,6 @@
 ---
 title: 'teorías de la cognición extendida'
 type: 'índice'
-node: 'filosofía de la mente'
 tags: ['perenne❧']
 ---
 

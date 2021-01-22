@@ -1,7 +1,6 @@
 ---
 title: 'sistema de organización social'
 type: 'nota permanente'
-node: 'filosofía'
 tags: []
 ---
 

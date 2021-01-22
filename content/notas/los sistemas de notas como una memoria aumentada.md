@@ -1,7 +1,6 @@
 ---
 title: 'los sistemas de notas como una memoria aumentada'
 type: 'proposición'
-node: 'gestión del conocimiento personal'
 tags: ['incipiente']
 ---
 

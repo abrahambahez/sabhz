@@ -1,7 +1,6 @@
 ---
 title: 'gestión ágil'
 type: 'índice'
-node: 'gestión de trabajo'
 tags: ['incipiente', 'notas-sueltas']
 ---
 

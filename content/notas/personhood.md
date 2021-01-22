@@ -1,7 +1,6 @@
 ---
 title: personhood
 type: 'término'
-node: 'antropología'
 tags: ['incipiente']
 ---
 

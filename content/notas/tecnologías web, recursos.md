@@ -1,7 +1,6 @@
 ---
 title: 'tecnologías web, recursos'
 type: 'colección'
-node: 'tecnología web'
 tags: []
 ---
 

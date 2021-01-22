@@ -1,7 +1,6 @@
 ---
 title: 'trabajador cognitivo'
 type: 'término'
-node: 'capitalismo cognitivo'
 tags: ['incipiente']
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: 'creación artificial de fenómenos en el mundo'
 type: 'término'
-node: 'epistemología'
 tags: ['incipiente']
 ---
 

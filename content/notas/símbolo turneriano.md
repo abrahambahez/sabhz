@@ -1,7 +1,6 @@
 ---
 title: 'símbolo turneriano'
 type: 'término'
-node: 'antropología'
 tags: ['refactorizar']
 ---
 

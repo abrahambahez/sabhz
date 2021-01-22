@@ -1,7 +1,6 @@
 ---
 title: 'glosario maya de construcción'
 type: 'colección'
-node: 'vivienda y territorio'
 tags: ['doctorado']
 ---
 

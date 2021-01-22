@@ -1,7 +1,6 @@
 ---
 title: 'economía del conocimiento'
 type: 'término'
-node: 'capitalismo cognitivo'
 tags: ['incipiente']
 ---
 

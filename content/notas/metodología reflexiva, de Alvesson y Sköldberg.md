@@ -1,7 +1,6 @@
 ---
 title: 'metodología reflexiva - Alvesson y Sköldberg'
 type: 'argumento'
-node: 'metodología'
 tags: ['incipiente']
 ---
 

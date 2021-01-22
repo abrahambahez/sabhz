@@ -1,7 +1,6 @@
 ---
 title: 'método de acción (diseño)'
 type: 'método'
-node: 'diseño'
 tags: []
 ---
 

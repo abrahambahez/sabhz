@@ -1,7 +1,6 @@
 ---
 title: 'heterarquía'
 type: 'término'
-node: 'sistemas de organización'
 tags: ['incipiente']
 ---
 

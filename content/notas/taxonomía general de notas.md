@@ -1,7 +1,6 @@
 ---
 title: 'taxonomía general de notas'
 type: 'índice'
-node: 'sistema de toma de notas'
 tags: ['fluida']
 ---
 

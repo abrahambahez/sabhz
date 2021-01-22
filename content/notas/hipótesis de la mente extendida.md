@@ -1,7 +1,6 @@
 ---
 title: 'hipótesis de la mente extendida'
 type: 'nota de referencia'
-node: 'filosofía de la mente'
 tags: ['incipiente']
 authors: ['Clark, A.', 'Chalmers, D.']
 ---

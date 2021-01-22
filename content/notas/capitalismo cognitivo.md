@@ -1,7 +1,6 @@
 ---
 title: capitalismo cognitivo
 type: 'término'
-node: 'capitalismo cognitivo'
 tags: ['incipiente']
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: 'propiedades emergentes'
 type: 'término'
-node: 'filosofía'
 tags: ['incipiente']
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: 'notas diarias como herramientas cognitivas, no como herramientas productivas'
 type: 'proposición'
-node: 'etnografía'
 tags: ['incipiente']
 ---
 

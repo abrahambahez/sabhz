@@ -1,7 +1,6 @@
 ---
 title: 'las notas como herramientas cognitivas'
 type: 'proposición'
-node: 'gestión del conocimiento personal'
 tags: ['incipiente']
 ---
 

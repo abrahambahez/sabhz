@@ -1,7 +1,6 @@
 ---
 title: 'la forma de escribir y relacionar notas tiene una tensión cualitativa-cuantitativa'
 type: 'proposición'
-node: 'sistema de toma de notas'
 tags: ['incipiente']
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: 'autoetnografía'
 type: 'término'
-node: 'etnografía'
 tags: ['incipiente']
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: 'diario de campo'
 type: 'término'
-node: 'etnografía'
 tags: ['incipiente']
 ---
 

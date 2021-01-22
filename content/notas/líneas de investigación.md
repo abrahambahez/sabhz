@@ -1,7 +1,6 @@
 ---
 title: 'líneas de investigación'
 type: 'noindex'
-node: ''
 tags: []
 ---
 

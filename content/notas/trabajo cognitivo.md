@@ -1,7 +1,6 @@
 ---
 title: 'trabajo cognitivo'
 type: 'término'
-node: 'epistemología'
 tags: ['incipiente']
 ---
 

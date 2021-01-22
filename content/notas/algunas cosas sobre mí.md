@@ -1,7 +1,6 @@
 ---
 title: 'algunas cosas sobre mí'
 type: 'noindex'
-node: ''
 tags: []
 ---
 

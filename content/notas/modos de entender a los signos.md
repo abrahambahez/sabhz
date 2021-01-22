@@ -1,7 +1,6 @@
 ---
 title: 'modos de entender a los signos'
 type: 'colección'
-node: 'semiótica'
 tags: ['incipiente']
 ---
 

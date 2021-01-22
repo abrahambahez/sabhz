@@ -1,7 +1,6 @@
 ---
 title: 'exocerebro'
 type: 'término'
-node: 'antropología del conocimiento'
 tags: []
 ---
 

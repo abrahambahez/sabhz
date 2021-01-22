@@ -1,7 +1,6 @@
 ---
 title: 'configuración cultural'
 type: 'término'
-node: ''
 tags: ['incipiente']
 ---
 
