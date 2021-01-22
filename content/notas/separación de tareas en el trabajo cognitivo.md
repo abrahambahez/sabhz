@@ -15,4 +15,4 @@ Entonces, [[para el trabajo intelectual el mejor camino es seguir tu interés, t
 - Usar el [[efecto Zeigarnik]] a nuestro favor dejando deliberadamente preguntas abiertas en nuestra mente
 - Debido al [[agotamiento del ego]] la motivación es limitada y la concentración puede caer, es importante tomar descansos tras sesiones de trabajo continuas (no más de 90 minutos)
 
-Viene de [[librero/How to take smart notes]]
+Viene de [[librero/How to Take Smart Notes]]

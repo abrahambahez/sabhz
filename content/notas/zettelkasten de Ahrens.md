@@ -4,7 +4,7 @@ type: 'nota permanente'
 tags: []
 ---
 
-Viene de [[librero/How to take smart notes]]. Es la interpretación de Ahrens sobre el [[zettelkasten]] de Luhmann.
+Viene de [[librero/How to Take Smart Notes]]. Es la interpretación de Ahrens sobre el [[zettelkasten]] de Luhmann.
 
 ## Proceso
 

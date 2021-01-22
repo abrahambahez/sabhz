@@ -6,7 +6,7 @@ tags: ['incipiente']
 
 Interrumpir una tarea o dejarla pendiente puede aumentar nuestra atención hacia ella o hacer que persista en nuestra memoria hasta que sea terminada. Las causas de esto no han sido establecidas completamente.
 
-Sönke Ahrens ([[librero/How to take smart notes]]):
+Sönke Ahrens ([[librero/How to Take Smart Notes]]):
 
 > Las tareas actuales tienden a ocupar nuestra memoria a corto plazo hasta que se terminan (Posición 1297)
 

@@ -4,7 +4,7 @@ type: 'nota permanente'
 tags: []
 ---
 
-Las notas deben estar interconectadas entre sí. Pero sólo debemos escribir notas que nos ayuden a pensar. Según el [[librero/How to take smart notes]]
+Las notas deben estar interconectadas entre sí. Pero sólo debemos escribir notas que nos ayuden a pensar. Según el [[librero/How to Take Smart Notes]]
 
 - Partimos de fuentes escritas linealmente, las descomponemos y creamos redes con las ideas centrales para volver a recomponerlas en un texto lineal nuevo (Posición 1996)
 - Por eso el objetivo final no es sólo la conexión entre notas sino el producto de esa conexión (Posición 1997):

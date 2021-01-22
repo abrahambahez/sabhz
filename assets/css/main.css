@@ -253,7 +253,6 @@ hr {
 .size-08{font-size:.875rem;}
 .size-05{font-size:.5rem;}
 
-
 /* --Transitions & animation helpers */
 .hover-color:hover {
     color: var(--color);

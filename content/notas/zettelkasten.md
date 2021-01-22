@@ -4,7 +4,7 @@ type: 'término'
 tags: []
 ---
 
-El *zettelkasten* (en inglés, *slip-box*) es un *sistema personal de toma de notas* (cfr. mi [[sistema personal de toma de notas]]) analógico, desarrollado por el sociólogo Niklas Luhmann (1927-1998) y que hoy forma el *paradigma* de los muchos métodos digitales que rondan por ahí (muchos basados en el libro: [[librero/How to take smart notes|How to take smart notes]])
+El *zettelkasten* (en inglés, *slip-box*) es un *sistema personal de toma de notas* (cfr. mi [[sistema personal de toma de notas]]) analógico, desarrollado por el sociólogo Niklas Luhmann (1927-1998) y que hoy forma el *paradigma* de los muchos métodos digitales que rondan por ahí (muchos basados en el libro: [[librero/How to Take Smart Notes|How to take smart notes]])
 
 De acuerdo con su texto, *«Communicating with slip boxes»*, publicado en 2019, el sistema funciona como sigue:
 
