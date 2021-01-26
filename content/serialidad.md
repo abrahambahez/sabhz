@@ -1,7 +1,7 @@
 ---
 title: serialidad
 type: 'término'
-tags: ['agenda']
+tags: ['prioridad-2']
 ---
 
 Para empezar a definirlo:

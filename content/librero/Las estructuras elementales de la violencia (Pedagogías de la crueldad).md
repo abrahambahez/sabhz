@@ -48,3 +48,9 @@ Segato de nuevo: *"es por eso que tiendo a no utilizar la expresión sororidad p
 La *primera* víctima del mandato de masculinidad son los mismos hombres (una violencia *intra-género*, de la cual se desprende la violencia contra las mujeres
 
 Segato: *"Esto lleva a pensar que los hombres deben entrar en las luchas contra el patriarcado, pero que no deben hacerlo por nosotras y para protegernos del sufrimiento que la violencia de género nos inflige, sino por ellos mismos, para liberarse del mandato de la masculinidad"*.
+
+## Referencias
+
+Segato, R. L. (2019, noviembre). Pedagogías de la crueldad. Revista de la Universidad de México. https://www.revistadelauniversidad.mx/articles/9517d5d3-4f92-4790-ad46-81064bf00a62/pedagogias-de-la-crueldad
+
+nodo: [[Antropología y cambio social]]

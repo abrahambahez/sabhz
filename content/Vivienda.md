@@ -1,22 +1,8 @@
 ---
-title: 'OSC, vivienda y territorio en Yucatán'
+title: 'Vivienda'
 type: 'índice'
-tags: ['doctorado']
+tags: []
 ---
-
-## Territorio
-
-- [[territorialidad]]
-
-Para comenzar en este bastísimo tema en la antropología mexicana
-
-- Aportaciones desde Gabriela Torres-Mazuera
-- El trabajo de Arturo Warman
-- El trabajo de Elinor Ostrom (teorías sobre la propiedad común de la tierra)
-
-## Vivienda
-
-- [[vivienda yucateca]]
 
 Para comenzar:
 
@@ -32,11 +18,4 @@ Para comenzar:
 - [La arquitectura Neomaya en Yucatán](http://asri.eumed.net/4/arquitectura-neomaya.html)
 - [El uso y construcción del espacio en la vivienda popular](http://www.gazeta-antropologia.es/?p=3449)
 
-### Terminología relevante
-
-- El [[paisaje cultural]]
-- El [[patrimonio biocultural]]
-
-
-## OSC
-
+Referencias de [[OSC, vivienda y territorio en Yucatán]]

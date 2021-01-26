@@ -1,7 +1,7 @@
 ---
 title: etnografía performativa
 type: 'término'
-tags: ['agenda']
+tags: ['prioridad-3']
 ---
 
 ## Referencias

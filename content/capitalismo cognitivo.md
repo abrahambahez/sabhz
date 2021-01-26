@@ -16,6 +16,3 @@ Para construirlo:
 - [PDF The hypothesis of cognitive capitalism - HAL archive ouverte](https://halshs.archives-ouvertes.fr/file/index/docid/273641/filename/The_hypothesis_of_Cognitive_Capitalismhall.pdf)
 - [(PDF) Cognitive Capitalism , Education and Digital Labor](https://www.researchgate.net/publication/234669054_Cognitive_Capitalism_Education_and_Digital_Labor)
 
-### Implicaciones posteriores
-
-- [[trabajador cognitivo]]

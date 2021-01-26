@@ -16,7 +16,7 @@
       </p>
     </div>
     <nuxt-content class="container margin-auto align-left" :document="content" />
-    <backlinks-view  :filterTerm="`librero/${content.slug}`"/>
+    <backlinks-view  :filterTerm="content.path.slice(1)"/>
 
   </main>
 </template>

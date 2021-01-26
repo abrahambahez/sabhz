@@ -139,7 +139,7 @@ La etnografía es también una intromisión o al menos la implica en potencia se
 
 La indiferencia del investigador a la complejidad problemática de la comunidad es un peligro ético (¡sociología y antropología comprometidas!)
 
-Un reflejo de indiferencia consiste en la diferencia de interés entre el investigador y la población respecto al tema que el investigador decide abordar #agenda vuelve a esto: **¿Cómo encuentro una temática que sea reconocida como interesante por la comunidad?**
+Un reflejo de indiferencia consiste en la diferencia de interés entre el investigador y la población respecto al tema que el investigador decide abordar
 
 #### Diseño de investigación
 

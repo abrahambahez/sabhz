@@ -34,11 +34,11 @@ export default {
     },
     async fetch() {
         if( this.query == '' ) {
-            return this.posts = await this.$content('notas')
+            return this.posts = await this.$content()
             .where({ type: { $ne: 'noindex'} })
             .fetch()
         } else {
-            return this.posts = await this.$content('notas')
+            return this.posts = await this.$content()
             .where({ type: { $ne: 'noindex'} })
             .search(this.query)
             .fetch()

@@ -31,3 +31,5 @@ A partir de este concepto la autora elabora la noción de [[librero/Las estructu
 ## Referencias
 
 Segato, R. L. (2019, noviembre). Pedagogías de la crueldad. Revista de la Universidad de México. https://www.revistadelauniversidad.mx/articles/9517d5d3-4f92-4790-ad46-81064bf00a62/pedagogias-de-la-crueldad
+
+nodo: [[Antropología y cambio social]]

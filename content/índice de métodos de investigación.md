@@ -15,6 +15,7 @@ Etnografía:
 - [[etnografía performativa]]
 - [[historia de vida]]
 - [[autoetnografía]]
+- [[etnoarqueología]]
 - [evaluación etnográfica rápida](https://www.researchgate.net/publication/339819170_Rapid_Ethnographic_Assessments_A_Practical_Approach_and_Toolkit_For_Collaborative_Community_Research)
 - etnodrama
 

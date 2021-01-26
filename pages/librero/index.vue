@@ -52,7 +52,7 @@ export default {
       
       // get the parts: year, month
       const yearmonth = obj.initial_read.substr(0, 7).split("-");
-      
+
       // Add year if not already present
       if (!acc[yearmonth[0]]) acc[yearmonth[0]] = {};
       let year = acc[yearmonth[0]];
@@ -60,13 +60,15 @@ export default {
       // Add month if not already present
       if (!year[yearmonth[1]]) year[yearmonth[1]] = [];
       year[yearmonth[1]].push(obj);
-
+      console.log(year)
       return acc
       }, {});
     }
     const data = groupByYearMonth(literatureNotes)
+    console.log(  Object.keys(data['2020']).sort())
     // set active year
     let activeYear = new Date().getFullYear()
+    
     let content = data[activeYear]
 
     // set available years 
@@ -80,7 +82,7 @@ export default {
       return meses[mIndex]
     },
     getYearReadings: function(year) {
-      this.activeYear = year
+      this.activeYear = year;
       return this.content = this.data[year]
     },
     setAuthor: function(author) {

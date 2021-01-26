@@ -1,7 +1,7 @@
 ---
 title: 'teorías de la cognición extendida'
 type: 'índice'
-tags: ['perenne❧']
+tags: []
 ---
 
 Todo acto mental se extiende hacia el mundo, raramente se construye, ejerce y funciona aisladamente.

@@ -31,7 +31,7 @@ export default {
   },
   async asyncData({ $content, params, app, error }) {
     const slug = params.slug || "index";
-    const content = await $content('notas', slug)
+    const content = await $content(slug)
       .fetch()
       .catch(err => {
         error({ statusCode: 404, message: "Page not found" });

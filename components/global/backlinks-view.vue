@@ -5,7 +5,7 @@
         <p class="margin-top-2 padding-left-1-2 secondary" v-else><i>Aún no hay enlaces a esta nota</i></p>
         <div class="flex flex-wrap ">
             <div class="post-container" v-for="backlinkPost in backlinkPosts" :key="backlinkPost.title" >
-                <nuxt-link :to="backlinkPost.dir === '/notas' ? '/' + backlinkPost.slug : backlinkPost.path ">
+                <nuxt-link :to="backlinkPost.path ">
                     <p class="margin-0 padding-top-1">{{backlinkPost.title}}</p>
                     <p class="margin-0 color size-08 overflow-wrap-break-word"
                         >{{ backlinkPost.excerpt }}</p>       
@@ -39,17 +39,6 @@ export default {
         })
         .sortBy('title')
         .fetch()
-    },
-    methods: {
-        setPath: function(backlink) {
-            if(backlink.type === 'nota diaria') {
-                return backlink.path
-            } else if(backlink.type === 'nota de referencia') {
-                return backlink.path
-            } else {
-                return backlink.slug
-            }
-        }
     }
 }
 </script>

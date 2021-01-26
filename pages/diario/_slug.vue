@@ -10,7 +10,7 @@
       <span v-for="tag in content.tags" class="tag-separation" :key="tag">#{{tag}}</span>
       </p>
       <nuxt-content class="container margin-auto align-left padding-05" :document="content" />
-      <backlinks-view :filterTerm="`diario/${content.slug}`" />
+      <backlinks-view :filterTerm="content.path.slice(1)" />
     </div>
    
   </main>
