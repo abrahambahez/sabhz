@@ -1,6 +1,6 @@
 ---
 title: The Extended Mind
-aliases: ['The Extended Mind']
+aliases: ['The Extended Mind', '@baker2020extendedMind']
 initial_read: 2020-12-02
 source_type: video-blog
 authors: ['Baker, Kane']

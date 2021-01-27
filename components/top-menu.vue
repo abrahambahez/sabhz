@@ -4,20 +4,11 @@
         class="secondary sans-light size-08 weight-bold" style="padding-top:1.5px;">
             sabhz
         </nuxt-link>
-        <div class="margin-0 interpunct-separator">
-            <nuxt-link to="/diario"
-            class="secondary sans-light size-08">
-               diario
-            </nuxt-link>
-            <nuxt-link to="/librero"
-            class="secondary sans-light size-08">
-               librero
-            </nuxt-link>
-            <nuxt-link to="/archivo"
-            class="secondary sans-light size-08">
-               archivo
-            </nuxt-link>            
-        </div>  
+
+        <nuxt-link to="/archivo"
+        class="secondary sans-light size-08">
+            archivo
+        </nuxt-link>            
 
     </section>
 </template>

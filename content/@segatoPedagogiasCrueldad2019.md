@@ -1,6 +1,6 @@
 ---
 title: 'Pedagogías de la crueldad'
-aliases: ['Pedagogías de la crueldad']
+aliases: ['Pedagogías de la crueldad', '@segatoPedagogiasCrueldad2019']
 initial_read: 2020-10-25
 source_type: artículo
 authors: ["Segato, Rita Laura"]

@@ -1,6 +1,6 @@
 ---
 title: Classification and Kinds - An Antirealist View
-aliases: ['Classification and Kinds - An Antirealist View']
+aliases: ['Classification and Kinds - An Antirealist View', '@baker2020classificationAndKinds']
 initial_read: 2020-12-02
 source_type: video-blog
 authors: ['Baker, Kane']

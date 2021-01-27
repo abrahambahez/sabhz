@@ -1,6 +1,6 @@
 ---
 title: 'How to Read a Book'
-aliases: ['How to Read a Book']
+aliases: ['How to Read a Book', '@adler2014read']
 initial_read: 2020-11-24
 source_type: libro
 authors: ['Adler, Mortimer', 'Van Doren, Charles']

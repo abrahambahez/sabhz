@@ -1,6 +1,6 @@
 ---
 title: 'Estados mentales, contenidos y conceptos'
-aliases: ['Estados mentales, contenidos y conceptos']
+aliases: ['Estados mentales, contenidos y conceptos', '@stigolEstadosMentalesContenidos2005']
 initial_read: 2020-11-10
 source_type: artículo
 authors: ['Stigol, Nora']

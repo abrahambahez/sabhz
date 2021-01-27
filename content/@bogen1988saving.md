@@ -1,6 +1,6 @@
 ---
 title: 'Saving the phenomena'
-aliases: ['Saving the phenomena']
+aliases: ['Saving the phenomena', '@bogen1988saving']
 initial_read: 2020-12-06
 source_type: artículo
 authors: ['Bogen, James', 'Woodward, James']

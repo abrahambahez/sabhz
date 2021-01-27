@@ -1,6 +1,6 @@
 ---
 title: 'al hacer accesibles nuestras notas fortalecemos la memoria transactiva'
-type: 'proposición'
+type: 'nota permanente'
 tags: ['incipiente']
 ---
 

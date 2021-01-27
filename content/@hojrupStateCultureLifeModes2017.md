@@ -1,6 +1,6 @@
 ---
 title: 'State, Culture and Life-Modess'
-aliases: ['State, Culture and Life-Modes']
+aliases: ['State, Culture and Life-Modes', '@hojrupStateCultureLifeModes2017']
 initial_read: 2020-11-01
 source_type: libro
 authors: ['Højrup, Thomas']

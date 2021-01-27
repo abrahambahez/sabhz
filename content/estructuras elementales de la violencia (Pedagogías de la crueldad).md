@@ -1,12 +1,6 @@
 ---
-title: 'Las estructuras elementales de la violencia (Pedagogías de la crueldad)'
-aliases: ['Las estructuras elementales de la violencia (Pedagogías de la crueldad)']
-initial_read: 2020-10-25
-source_type: artículo
-authors: ["Segato, Rita Laura"]
-year: 2019
-apa: 'Segato, R. L. (2019, noviembre). Pedagogías de la crueldad. Revista de la Universidad de México. https://www.revistadelauniversidad.mx/articles/9517d5d3-4f92-4790-ad46-81064bf00a62/pedagogias-de-la-crueldad'
-type: 'nota de referencia'
+title: 'estructuras elementales de la violencia (Pedagogías de la crueldad)'
+type: 'nota permanente'
 tags: ['potenciales']
 ---
 

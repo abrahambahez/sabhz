@@ -1,6 +1,6 @@
 ---
 title: 'Etnografía alcances, técnicas y éticas'
-aliases: ['Etnografía alcances, técnicas y éticas']
+aliases: ['Etnografía alcances, técnicas y éticas', '@restrepoEtnografiaAlcancesTecnicas2016']
 initial_read: 2020-10-01
 source_type: libro
 authors: ['Restrepo, Eduardo']
