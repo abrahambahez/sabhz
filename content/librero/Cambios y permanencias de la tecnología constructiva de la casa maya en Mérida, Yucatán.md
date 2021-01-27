@@ -9,8 +9,12 @@ authors:
 year: 2019
 apa: ''
 type: 'nota de referencia'
-tags: ['leyendo', 'prioridad-1']
+tags: []
 ---
+
+Una investigación sobre la presencia y naturaleza de casas mayas en las comisarías del municipio de Mérida.
+
+![zona de estudio](https://www.redalyc.org/jatsRepo/4779/477958274014/477958274014_gf2.png "Piñón Jiménez (2017: 79).")
 
 El solar maya es considerado como una unidad autosuficiente por las actividades realizadas en él, como las domésticas, agrícolas y de habitación.
 
@@ -25,37 +29,40 @@ El abandono de estas formas construcivas tienen que ver con:
 - La inseguridad (afectaciones estructurales) que representan ante fenómenos hidrometeorológicos
 - Las acciones de apoyo social de organismos públicos
 - Una creciente tendencia de los pobladores mayas a incorporarse a la globalidad cultural
+- Las [[interacciones urbano-rurales que impactan en la casa maya]] en detrimiento de la cultura rural
+- La pérdida paulatina de conocimientos sobre el [[sistema estructural de la casa maya]], sus técnicas constructivas y la [[materialidad de la casa maya]] como reflejo de sus modelos culturales.
 
-[[interacciones urbano-rurales que impactan en la casa maya]]
+Qué permanece en las casas mayas actuales:
 
-[[sistema estructural de la casa maya]]
+- La permanencia constructiva está en los rodapiés, muros de bajareque y de mampostería, así como la estructura portante, con ciertos faltantes y diferencias que la caracterizan.
+- La utilización en los muros de materiales naturales como el bajareque representa un 54% y los de mampostería representan el 38%. 
+- La permanencia del empleo de la palma de huano únicamente es del 30%
 
-[[materialidad de la casa maya]]
+Qué cambia:
 
-Conclusiones:
+- Los materiales industrializados como el block de concreto sólo representan el 8% del total de viviendas que hay actualmente en las comisarías de Mérida ([Piñón, 2017: 100](https://www.redalyc.org/jatsRepo/4779/477958274014/html/index.html#redalyc_477958274014_ref12)).
+- Esto incluye el uso de láminas de cartón asfáltico y la de zinc, que representa el 51% del total de las viviendas analizadas. 
+- La utilización de cubiertas combinadas con materiales vegetales y los materiales industrializados, representa el 16% 
+    - [5, citado en Román-Kalisch & Piñón-Jiménez](https://www.redalyc.org/jatsRepo/4779/477958274014/html/index.html#fn5), [Piñón Jiménez, 2017, p.112](https://www.redalyc.org/jatsRepo/4779/477958274014/html/index.html#redalyc_477958274014_ref12)
 
-- La permanencia constructiva se manifiesta en los rodapiés, muros de bahareque y de mampostería, así como la estructura portante, con ciertos faltantes y diferencias que la caracterizan.
-- La permanencia de la utilización en los muros de materiales naturales como el bahareque representa un 54% y los de mampostería representan el 38%. Mientras que, en lo relativo al cambio tecnológico, los materiales industrializados como el block de concreto sólo representan el 8% del total de viviendas que hay actualmente en las comisarías de Mérida ([Piñón, 2017: 100](https://www.redalyc.org/jatsRepo/4779/477958274014/html/index.html#redalyc_477958274014_ref12)).
-- Esta situación trae consigo afectaciones al paisaje arquitectónico y urbano de las poblaciones estudiadas, la contaminación ambiental por el fomento en el uso de los materiales industrializados, la diminución de la práctica constructiva ancestral de los saberes constructivos y la pérdida del confort climático al interior de estas viviendas.
+Consecuencias:
 
+- Afectaciones al paisaje arquitectónico y urbano de las poblaciones estudiadas
+- La contaminación ambiental por el fomento en el uso de los materiales industrializados
+- La disminución de la práctica constructiva ancestral de los saberes constructivos
+- La pérdida del *confort climático* al interior de estas viviendas.
 
+## Bibliografía citada
 
----
-# CONCLUSIONES
-
-La escasez y progresiva desaparición de las palmas de huano y el zacate, aunado a la continua práctica de las instancias gubernamentales y privadas de dotar, a los habitantes de las poblaciones en el estado de Yucatán, de materiales industrializados (Cocom, 2016: 13), propician el cambio y sustitución de las cubiertas con materiales vegetales, cuando lo deseable sería la promoción de la reforestación de los solares y los terrenos aledaños a las poblaciones con plantas de huano, con el fin de recuperar, para su explotación, estas especies y contribuir a reforzar la economía familiar.
-
-A pesar de que hay una pérdida gradual de conocimiento y práctica constructiva de la casa maya, las viviendas existentes reflejan el dominio técnico y los saberes constructivos de las personas que las edificaron, y que les permiten prevalecer a pesar de la falta de algunos elementos de la parte superior de la estructura portante.
-
-La tipología constructiva actual es el resultado del proceso de cambio y permanencia de sistemas, procedimientos y materiales utilizados en la edificación de las casas mayas. ==La permanencia constructiva se manifiesta en los rodapiés, muros de bahareque y de mampostería, así como la estructura portante, con ciertos faltantes y diferencias que la caracterizan.==
-
-==La permanencia de la utilización en los muros de materiales naturales como el bahareque representa un 54% y los de mampostería representan el 38%. Mientras que, en lo relativo al cambio tecnológico, los materiales industrializados como el block de concreto sólo representan el 8% del total de viviendas que hay actualmente en las comisarías de Mérida ([Piñón, 2017: 100]([[Referencias]]#redalyc_477958274014_ref12)).==
-
-El proceso de cambio y permanencia se manifiesta más en los materiales utilizados en las cubiertas de las viviendas. Existe el predominio del uso de materiales industrializados como las láminas de cartón asfáltico y la de zinc, que representa el 51% del total de las viviendas analizadas. La permanencia del empleo de la palma de huano únicamente es del 30%, y por último, la utilización de cubiertas combinadas con materiales vegetales y los materiales industrializados, representa el 16%\[[5](https://www.redalyc.org/jatsRepo/4779/477958274014/html/index.html#fn5)\] ([Piñón, 2017:112](https://www.redalyc.org/jatsRepo/4779/477958274014/html/index.html#redalyc_477958274014_ref12)).
-
-==Esta situación trae consigo afectaciones al paisaje arquitectónico y urbano de las poblaciones estudiadas, la contaminación ambiental por el fomento en el uso de los materiales industrializados, la diminución de la práctica constructiva ancestral de los saberes constructivos y la pérdida del confort climático al interior de estas viviendas. ==Tal problemática pone en situación de alto riesgo a la vivienda maya y a su permanencia como patrimonio vernáculo, situación que se debe de revertir con acciones de concientización y de reforzamiento social y económico tanto a nivel de pobladores como a nivel de instituciones públicas y privadas.
-
-
-## Referencias
-
-https://www.redalyc.org/jatsRepo/4779/477958274014/html/index.html
+- Barrera, A., López Franco, R. M. y Villers, L. (1981), “La unidad de habitación tradicional campesina y el manejo de recursos bióticos en el área maya yucatanense”, Biótica, vol. 6, núm. 3, pp. 293-- - Bolio Osés, J. (2016), En unas cuantas manos. Urbanización neoliberal en la periferia metropolitana de Mérida, Yucatán, 2000-2014, Universidad Autónoma de Yucatán, Mérida.
+- Canto Cetina, R., Contreras A. y Ruiz R. (2014), “Sistemas constructivos y comportamiento térmico en el medio rural en Yucatán”, Memorias XXXVIII Semana Nacional de Energía Solar, Asociación Nacional de Energía Solar, Querétaro.
+- Cocom, L. (2016), “Apoyan a familias que carecen de vivienda digna”, Por Esto, 23 de septiembre de 2016, p. - - Eastmond, A., García Quintanilla A. y Sánchez Suárez A. (2014), “La casa maya y sus aportaciones hacia la sustentabilidad en Yucatán” en A. Sánchez Suárez y A. García Quintanilla (eds.), Las casa de los mayas de la península de Yucatán: historias de la maya naj, Universidad Autónoma de Yucatán, Plaza y Valdés, México.
+- López Morales, F. J. (1993), Arquitectura vernácula en México, 3ª ed., Trillas, México.
+- Manual para la construcción de la vivienda rural (1981), Secretaría de Asentamientos Humanos y Obras Públicas, México.
+- Moya Rubio, V. J. (1988), La vivienda indígena de México y del mundo, 3ª ed., Universidad Nacional Autónoma de México, México.
+- Ordaz Tamayo, M., Rodríguez Pérez, I. y Centeno Lara, R. (2014), “La casa maya en la zona costera del estado de Yucatán: técnica tradicional de construcción y factores de riesgo” en Sánchez Suárez. A. y A. García Quintanilla (eds.), Las casa de los mayas de la península de Yucatán: historias de la maya naj, Universidad Autónoma de Yucatán, Plaza y Valdés, México.
+- Pérez Medina, S. (1993), “Transformación de la vivienda rural en Yucatán: estudios de caso”, Cuadernos de arquitectura de Yucatán, núm. 6, pp. 38-- - Piñón Jiménez, A. (2017), El proceso de adecuación tecnológica de la casa maya en las comisarías del municipio de Mérida, Yucatán. Tesis de maestría. Facultad de Arquitectura de la Universidad Autónoma de Yucatán, Mérida.
+- Quiroz Carranza, J., Cantú Gutiérrez C., Flores Quiroz F. y Herrera Vázquez M. (2011), “Vivienda tradicional maya, una arquitectura tradicional, apropiada y apropiable”, Palapa, vol. VI, núm. 1(12), pp. 31-- - Rangel, A. (1980), “El hábitat maya”, Arquitectura vernácula. Cuadernos de Arquitectura y Conservación del Patrimonio Artístico, núm. 10, pp. 50-- - Rivas Gutiérrez, D. (2012). La choza maya. Cuna y custodia de los grandes misterios y de la sabiduría de una cultura que sigue viva, Universidad Autónoma de Yucatán, México.
+- Sánchez Suárez, A., García Quintanilla, A. y Eastmond Spencer, A. (2014), “La construcción simbólica, formal y material de la casa maya”, en Sánchez Suárez. A. y. García Quintanilla, A. (eds.), Las casa de los mayas de la península de Yucatán: historias de la maya naj, Universidad Autónoma de Yucatán, Plaza y Valdés, México.
+- Villers Ruíz, L., López Franco, R. M. y Barrera, A. (2014), “La unidad de habitación tradicional campesina y el manejo de recursos bióticos en el área maya yucatanense: materiales vegetales en la habitación rural tradicional Cobá, Quintana Roo” en Sánchez Suárez. A. y García Quintanilla, A. (eds.), Las casa de los mayas de la península de Yucatán: historias de la maya naj, Universidad Autónoma de Yucatán, Plaza y Valdés, México.
+- Wauchope, R. (1939), Modern Maya house. A study of their archaeological significance, Carnegie Institution of Washington, Washington.

@@ -14,7 +14,7 @@ tags: []
 
 - Tradicionalmente la casa maya no se construye, *"se amarra"* , ya que su estructura está amarrada en su totalidad
 - La casa maya es [[patrimonio biocultural]]: "involucra diversos escenarios de aprendizaje; escenarios en los que se aprenden saberes diversos vinculados con la milpa, así como del patrimonio material del patrón de asentamiento de pueblos mayas" (p. 81)
-- **El saber maya se transmite a través de dos escenarios: el espacio de trabajo monte-milpa y el espacio abierto del solar-plaza del pueblo**, ambos están sometidos a transformaciones abruptas por los cambios en las **relaciones de propiedad de la tierra** (cfr. [[derechos de propiedad agraria]])
+- **El saber maya se transmite a través de dos escenarios: el espacio de trabajo monte-milpa y el espacio abierto del solar-plaza del pueblo** (cfr. [[interacciones urbano-rurales que impactan en la casa maya#condiciones económicas que influyen en el cambio tecnológico de la casa maya]]), ambos están sometidos a transformaciones abruptas por los cambios en las **relaciones de propiedad de la tierra** (cfr. [[derechos de propiedad agraria]])
 - El amarre de las casas es muy escaso por el costo que conlleva la construcción de una casa nueva
 - Amarrar una casa *requiere la intervención técnica de un especialista*, que en la comunidad de Nunkiní se llama *"Maestro k'aax naj"*, es decir "Maestro que amarra casa"
 - Las casas nacen (se amarran) y mueren (porque sus materiales son perecederos) cuando sus habitantes dejan de habitarlas, este es un proceso tan natural como la vida de las personas
