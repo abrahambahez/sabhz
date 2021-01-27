@@ -1,12 +1,14 @@
 ---
-title: 'guía para escribir un artículo, por Ahrens'
+title: 'cómo escribir un artículo según S. Ahrens'
 type: 'nota permanente'
 tags: []
 ---
 
 Viene de [[librero/How to Take Smart Notes. One simple technique to boost writing, learning and thinking]], *« Writing a paper step by step»* (Posición 509)
 
-**El objetivo no es hacer colecciones de notas, sino desarrollar ideas, argumentos y discusiones.** Recuerda:
+### El objetivo no es hacer colecciones de notas, sino desarrollar ideas, argumentos y discusiones
+
+Recuerda:
 
 > *Siempre es más fácil comenzar revisando un borrador casi terminado que llenar 100 páginas de la nada; y es más fácil hacer un borrador si tienes un índice o línea argumental clara y específica; y siempre es más fácil tener un buen índice si tienes 50 notas con ideas interesantes y puntuales que puedes combinar de distintas formas*
 

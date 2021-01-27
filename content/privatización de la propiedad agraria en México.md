@@ -3,6 +3,7 @@ title: 'privatización de la propiedad agraria en México'
 type: 'nota permanente'
 tags: []
 ---
+
 Desde [[librero/La regulación imposible. (I)legalidad e (i)legitimidad en los mercados de tierra en México al inicio del siglo xxi]]:
 
 >«Las etnografías que componen este libro revelan que la legalización de las transferencias de tierras ejidales y comunales fue una misión imposible.» (p. 37)
@@ -11,7 +12,7 @@ Si por privatización de la propiedad social se entiende la conversión de la ti
 
 Pero si la entendemos como un proceso en marcha, y consideramos la forma en que las *relaciones de propiedad* en la mayoría de los núcleos agrarios del país han cambiado desde el 92, tampoco es posible negar su fuerza (p. 37)
 
-La privatización de la tierra se realizó como una formalización de los derechos de propiedad, atentando consecuentemente contra el bien común del ==núcleo agrario== y **contra la seguridad en la subsistencia y [[modos de vida]] de habitantes de núcleos agrarios sin derechos agrarios formales.**  La economía agrícola entró en crisis y no ha despegado (p. 38)
+La privatización de la tierra se realizó como una formalización de los derechos de propiedad, atentando consecuentemente contra el bien común del **núcleo agrario** y **contra la seguridad en la subsistencia y [[modos de vida]] de habitantes de núcleos agrarios sin derechos agrarios formales.**  La economía agrícola entró en crisis y no ha despegado (p. 38)
 
 ## La visión del estado en el contexto de la reforma del 92
 

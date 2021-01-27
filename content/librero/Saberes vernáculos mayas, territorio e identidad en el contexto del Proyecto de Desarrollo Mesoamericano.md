@@ -10,7 +10,7 @@ authors:
 year: 2016
 apa: 'Duarte Duarte, A. R., Sánchez Suárez, A., & Weber, B. W. (2016). Saberes vernáculos mayas, territorio e identidad en el contexto del Proyecto de Desarrollo Mesoamericano. En Memorias del 5 Congreso Nacional de Ciencias Sociales. 8. Las ciencias sociales: Entre el conocimiento, la crítica social y las políticas públicas (1.ª ed., Vol. 8). Consejo Mexicano de las Ciencias Sociales.'
 type: 'nota de referencia'
-tags: []
+tags: ['prioridad-2']
 ---
 
 - Las prácticas territoriales mayas conforman también una estrategia de resistencia (p. 385) ante las diferentes estrategias directas (despojo) e indirectas (repoblamientos, proyectos de infraestructura, de políticas educativas)
