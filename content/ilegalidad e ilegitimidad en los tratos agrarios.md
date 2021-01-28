@@ -4,7 +4,7 @@ type: 'nota permanente'
 tags: []
 ---
 
-Desde [[privatización de la propiedad agraria en México]] y [[librero/La regulación imposible. (I)legalidad e (i)legitimidad en los mercados de tierra en México al inicio del siglo xxi]], p. 54.
+Desde [[privatización de la propiedad agraria en México]] y [[@torres-mazueraRegulacionImposibleLegalidad2020|La regulación imposible]], p. 54.
 
 ## hay tres órdenes jurisdiccionales que regulan la tenencia de tierra ejidal/comunal
 

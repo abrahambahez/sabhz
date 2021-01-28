@@ -1,0 +1,122 @@
+@import url('https://rsms.me/inter/inter.css');
+:root {
+    --color: #f2f2f3;
+    --color-primary: #d1d5da;
+    --color-secondary: #757a80;
+    --link-color: #a276ff;
+    --color-highlight: #ffd66de0;
+    --bg: #242420;
+    --bg-secondary: #333;
+    --border-color: #666;
+    --font: 'Inter',-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    --base-font: 18px;
+    --bold: 700;
+    --regular: 400;
+}
+html { height: 100%; }
+html,body{
+    background-color: var(--bg);
+    color: var(--color);
+    width: 100%; 
+    font-size: var(--base-font);
+    line-height: 1.75;
+    font-weight: var(--regular);
+    font-family: var(--font);
+}
+a {
+    color: var(--link-color);
+    transition: all .25s ease;
+    text-decoration: none;
+}
+a:hover {
+    color: var(--color);
+    background-color: var(--bg-secondary);
+    transition: all .25s ease;
+}
+a[target="_blank"]:after {
+    content: "\00a0" "↗";
+    vertical-align: sub;
+}
+h1 {
+    color: var(--color-primary);
+    font-weight: 700;
+    line-height: 1.25;
+    font-size: 3rem;
+    overflow-wrap: break-word;
+}
+h2,h3,h4,h5,h6 {
+    color: var(--color-primary);
+    line-height: 1.25;
+    font-weight: 500;
+}
+hr {
+    width:25vw;
+    border: solid 1px var(--color-secondary);
+    margin: 4rem auto;
+}
+mark {
+    background-color: var(--color-highlight);
+}
+/*--- Main Content classes ---*/
+
+#footer {
+    text-align: right;
+    margin: 0;
+    overflow: hidden;
+}
+.footer-link{
+    color: var(--color-secondary);
+    font-size: 2rem;
+    font-weight: var(--bold);
+}
+.footer-link:hover {
+    color: var(--color);
+    background-color: initial;
+}
+.brand-name {
+    color: var(--color-secondary);
+    font-size: 3rem;/*calc(40.5px + (120 - 40.5) * ((100vw - 280px) / (1920 - 280)));*/
+    font-weight: var(--bold);
+    margin: 0;
+}
+#top-menu {
+    margin: 0;
+}
+.brand-name:hover {
+    color: var(--color);
+    background-color: initial;
+}
+
+/*-- --*/
+.title {
+    padding-top:20vh;
+}
+.type, .tags, .excerpt  {
+    color: var(--color-secondary);
+}
+.backlink-link {
+    color: var(--color-primary);
+    display: inline-block;
+}
+.backlink-link:hover{
+    background-color: var(--bg-secondary);
+}
+/*--- ---*/
+
+.container,
+.wide-container {
+    max-width: 90%;
+    margin: 0 auto
+}
+
+@media screen and (min-width: 600px) {
+
+    html,body {font-size: 1.07rem;}
+    .container{max-width: 80%;}
+    .wide-container{max-width: 90%;}
+}
+@media screen and (min-width: 900px) {
+
+    .container{max-width: 650px;}
+    .wide-container{max-width: 93%;}
+}

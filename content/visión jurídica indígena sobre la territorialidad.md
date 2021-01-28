@@ -4,7 +4,7 @@ type: 'nota permanente'
 tags: []
 ---
 
-Viene de [[librero/La regulación imposible. (I)legalidad e (i)legitimidad en los mercados de tierra en México al inicio del siglo xxi]].
+Viene de [[@torres-mazueraRegulacionImposibleLegalidad2020|La regulación imposible]].
 
 La visión jurítica indígena es un órden jurisdiccional (cfr. [[ilegalidad e ilegitimidad en los tratos agrarios]]) que se da dentro de las comunidades indígenas.
 

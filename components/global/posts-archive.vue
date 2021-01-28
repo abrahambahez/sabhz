@@ -1,13 +1,13 @@
 <template>
-    <section class="margin-left-auto margin-right-auto padding-top-3 padding-bottom-3 align-left">
+    <section >
         <global-search @getQuery="setQuery"/>
-        <div v-for="post in posts" :key="post.slug" class="padding-top-08">       
+        <div v-for="post in posts" :key="post.slug">       
             <nuxt-link :to="post.slug">
                 {{ post.title }}
             </nuxt-link>           
-            <p class="margin-0 size-08 secondary">
+            <p >
                 {{ post.type }}
-                <span v-for="tag in post.tags" class="tag-separation opacity-05" :key="tag">
+                <span v-for="tag in post.tags" :key="tag">
                      #{{tag}} 
                 </span>
             </p>

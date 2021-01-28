@@ -4,7 +4,7 @@ type: 'nota permanente'
 tags: []
 ---
 
-Desde [[librero/La regulación imposible. (I)legalidad e (i)legitimidad en los mercados de tierra en México al inicio del siglo xxi]]:
+Desde [[@torres-mazueraRegulacionImposibleLegalidad2020|La regulación imposible]]:
 
 Se refiere al peligro de expropiación para los propietarios privados de las tierras. El gobierno salinista mexicano creía que la solución a la inseguridad de la tierra debía ser de carácter técnico (p. 43):
 

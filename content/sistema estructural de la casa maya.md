@@ -4,7 +4,7 @@ type: 'nota permanente'
 tags: []
 ---
 
-Desde [[librero/Cambios y permanencias de la tecnología constructiva de la casa maya en Mérida, Yucatán]]
+Desde [[@roman2019cambios|Cambios y permanencias de la tecnología constructiva de la casa maya en Mérida, Yucatán]]
 
 El sistema constructivo, así como las técnicas y materiales utilizados tradicionalmente, conforman un conocimiento debilitado pues su transmisión se pierde paulatinamente a distintas velocidades según la zona, aunque aquellas zonas periféricas a los centros urbanos tienden a perderlo más rápido.
 

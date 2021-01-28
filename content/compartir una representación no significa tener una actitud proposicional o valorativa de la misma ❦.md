@@ -14,7 +14,7 @@ Hacer uso correctamente de la representación en contextos específicos tampoco 
 
 Por otro lado, cuando una niña maya afirma que que si los niños tienen un piojo el pib no se cocerá bien, y por tanto la madre o abuela debe revisarlos, es una idea que no necesariamente se inscribe en una afirmación gnoseológica e incluso doxástica (puede creerlo o no) sino que puede ser lúdica, poética, etcétera.
 
-Las [[representaciones]] socioculturales son apenas vagos modelos generales de los que cada individuo comparte ciertos atributos, nunca son reproducidas fielmente por cada individuo más allá de sus formas más genéricas o sus comportamientos pautados. Al hacer un juicio de interpretación de otra cultura es inevitable no implicar un juicio de valor (mira [[librero/Lo empírico y lo normativo en la etnografía]])
+Las [[representaciones]] socioculturales son apenas vagos modelos generales de los que cada individuo comparte ciertos atributos, nunca son reproducidas fielmente por cada individuo más allá de sus formas más genéricas o sus comportamientos pautados. Al hacer un juicio de interpretación de otra cultura es inevitable no implicar un juicio de valor (mira [[@lenclud2004empirico|Lo empírico y lo normativo en la etnografía]])
 
 **Hay un grado de independencia entre la representación y el contenido particular que cada individuo le otorga, que puede ser inaccesible para otros, y por lo tanto es sólo interpretable.**
 

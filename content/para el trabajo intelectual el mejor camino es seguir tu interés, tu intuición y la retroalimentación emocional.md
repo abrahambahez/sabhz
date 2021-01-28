@@ -6,7 +6,7 @@ tags: []
 
 Para cualquier proyecto de cierta complejidad, la planeación rigurosa no sirve. 
 
-Según Ahrens ([[librero/How to Take Smart Notes. One simple technique to boost writing, learning and thinking|2017, How to take smart notes]]):
+Según Ahrens ([[@ahrensHowTakeSmart2017|2017, How to take smart notes]]):
 
 - Sólo cuando el trabajo es en sí mismo estimulante la dinámica de la motivación lo convierte en un ciclo autosostenible (Posición 997)
 - La búsqueda activa de retroalimentación (positiva o negativa) es uno d elos factores relevantes del éxito (y la felicidad) a largo plazo (Posición 1011)

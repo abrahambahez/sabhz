@@ -4,7 +4,7 @@ type: 'nota permanente'
 tags: []
 ---
 
-Desde [[librero/Cambios y permanencias de la tecnología constructiva de la casa maya en Mérida, Yucatán|Román-Kalisch & Piñón-Jiménez, 2019, Cambios y permanencias de la tecnología constructiva de la casa maya en Mérida, Yucatán]]
+Desde [[@roman2019cambios|Román-Kalisch & Piñón-Jiménez, 2019, Cambios y permanencias de la tecnología constructiva de la casa maya en Mérida, Yucatán]]
 
 La permanencia de la casa maya está inmersa en una compleja red de interacciones entre la cultura urbana y la rural.
 
@@ -22,7 +22,7 @@ Pero también están los factores políticos en la construcción de este tipo de
 
 - Falta de una normatividad oficial en la que se establezcan reglamentos que propicien la construcción y reparación de las techumbres de las casas mayas con materiales perecederos tradicionales y desalienten el uso de los materiales industrializados.
 - Desinterés gubernamental por promover la recuperación de los saberes constructivos, con sus técnicas y materiales 
-- Pérdida paulatina del conocimiento constructivo originario, los materiales (cfr. [[librero/Saberes del pak’lu’um. La tierra y la casa en el área maya]]) y la instrucción que permita la reproducción del conocimiento ([Piñón, 2017, p.116; citado en Román-Kalisch & Piñón-Jiménez](https://www.redalyc.org/jatsRepo/4779/477958274014/html/index.html#redalyc_477958274014_ref12))
+- Pérdida paulatina del conocimiento constructivo originario, los materiales (cfr. [[@sanchezsuarezSaberesPakLu2020]]) y la instrucción que permita la reproducción del conocimiento ([Piñón, 2017, p.116; citado en Román-Kalisch & Piñón-Jiménez](https://www.redalyc.org/jatsRepo/4779/477958274014/html/index.html#redalyc_477958274014_ref12))
 
 ## urbanización y crecimiento demográfico
 

@@ -22,7 +22,7 @@ Al ser lo primero que se ve en contextos de relacionamiento, hay que condensar a
 - Cuando se trata de una nota de referencia, las prácticas de citación son un estándar al que se está ya habituado. En este caso, nombrarlas como autor, año, título corto
 - Cuando se trata de una nota permanente (aquí llamada nota semiótica), el título debe indicar claramente el contenido esencial, las notas de términos incluyen el término como más comunmente es conocido, las d eproposición contienen la proposición condensada, las de argumento la conclusión, etcétera.
 
-De Ahrens (2017, [[librero/How to Take Smart Notes. One simple technique to boost writing, learning and thinking]]):
+De Ahrens (2017, [[@ahrensHowTakeSmart2017|How to Take Smart Notes]]):
 
 La idea o al menos su núcleo será el título de la nota. El cuerpo tendrá por lo menos su explicación limpia y la importancia de la misma parra varios contextos  (Posición 1773)
 

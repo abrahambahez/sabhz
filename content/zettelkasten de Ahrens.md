@@ -4,7 +4,7 @@ type: 'nota permanente'
 tags: []
 ---
 
-Viene de [[librero/How to Take Smart Notes. One simple technique to boost writing, learning and thinking]]. Es la interpretación de Ahrens sobre el [[zettelkasten]] de Luhmann.
+Viene de [[@ahrensHowTakeSmart2017|How to Take Smart Notes]]. Es la interpretación de Ahrens sobre el [[zettelkasten]] de Luhmann.
 
 ## Proceso
 

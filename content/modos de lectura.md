@@ -40,5 +40,5 @@ Tienen múltiples formas de categorizarse, según el énfasis que se haga en car
 
 ### Referencias
 
-- Adler y Van Doren(1997). [[librero/How to Read a Book|How to Read a Book]]
-- Ahrens (2017) [[librero/How to Take Smart Notes. One simple technique to boost writing, learning and thinking|How to take smart notes]]
+- Adler y Van Doren(1997). [[@adler2014read|How to Read a Book]]
+- Ahrens (2017) [[@ahrensHowTakeSmart2017|How to take smart notes]]

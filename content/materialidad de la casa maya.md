@@ -4,7 +4,7 @@ type: 'índice'
 tags: []
 ---
 
-Desde [[librero/Cambios y permanencias de la tecnología constructiva de la casa maya en Mérida, Yucatán]]
+Desde [[@roman2019cambios|Cambios y permanencias de la tecnología constructiva de la casa maya en Mérida, Yucatán]]
 
 ## estrategias de utilización de materiales
 
@@ -29,7 +29,9 @@ La estructura portante mantiene sus elementos constitutivos sin cambios fundamen
 - Para la vertical: La cubierta con recubrimientos vegetales y materiales industrializados;
 
 Y hay variantes sobre los componentes:
+
 #prioridad-1 
+
 - ![[rodapié (casa maya)]]
 - ![[estructura portante (casa maya)]]
 - ![[muro de bajareque (casa maya)]]

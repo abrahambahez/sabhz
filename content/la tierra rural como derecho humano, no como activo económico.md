@@ -22,4 +22,4 @@ tags: []
 
 "o que era necesario legalizar en los años de 1990 era el aparato estatal mismo" (p. 43)
 
-Revisa [[librero/La regulación imposible. (I)legalidad e (i)legitimidad en los mercados de tierra en México al inicio del siglo xxi]].
+Revisa [[@torres-mazueraRegulacionImposibleLegalidad2020|La regulación imposible]].

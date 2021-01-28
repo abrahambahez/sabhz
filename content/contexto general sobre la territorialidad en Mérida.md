@@ -18,4 +18,4 @@ tags: []
 
 "oca capacidad de registro, control y sanción sobre las transacciones que se desarrollan en los núcleos agrarios por parte de las asambleas ejidales y comunales. Procede debilitó dichos órganos colegiados al individualizar los derechos sobre las tierras más provechosas de los núcleos agrarios, también les quitó poder de decisión en la medida en que las transacciones ya no deben pasar por las asambleas." (p. 49)
 
-Revisa [[librero/La regulación imposible. (I)legalidad e (i)legitimidad en los mercados de tierra en México al inicio del siglo XXI]].
+Revisa [[@torres-mazueraRegulacionImposibleLegalidad2020|La regulación imposible]].

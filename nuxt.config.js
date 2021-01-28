@@ -29,8 +29,8 @@ export default {
   ** Global CSS
   */
   css: [
-    '@/assets/css/main.css',
-    '@/assets/css/normalize.css'
+    '@/assets/css/normalize.css',
+    '@/assets/css/standard.css'
   ],
   /*
   ** Plugins to load before mounting the App
@@ -47,12 +47,7 @@ export default {
   ** Nuxt.js dev-modules
   */
   buildModules: [
-    '@nuxtjs/color-mode'
   ],
-  colorMode: {
-    preference: 'dark',
-    fallback: 'dark' // fallback value if not system preference found
-  },
   /*
   ** Nuxt.js modules
   */
@@ -84,7 +79,7 @@ export default {
     liveEdit: false,
     apiPrefix: '_content',
     dir: 'content',
-    fullTextSearchFields: ['title', 'description', 'slug', 'text'],
+    fullTextSearchFields: ['title', 'slug', 'text'],
     yaml: {},
     csv: {}
   },
@@ -105,7 +100,6 @@ export default {
         // set excerpt
         document.excerpt = document.text.substring(0,180).replace(wikilinkAlias,'').replace(cleanMarkdown,'') + '...'
       }
-      
 
     }
 

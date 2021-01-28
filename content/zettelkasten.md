@@ -4,7 +4,7 @@ type: 'término'
 tags: []
 ---
 
-El *zettelkasten* (en inglés, *slip-box*) es un *sistema personal de toma de notas* (cfr. mi [[sistema personal de toma de notas]]) analógico, desarrollado por el sociólogo Niklas Luhmann (1927-1998) y que hoy forma el *paradigma* de los muchos métodos digitales que rondan por ahí (muchos basados en el libro: [[librero/How to Take Smart Notes. One simple technique to boost writing, learning and thinking|How to take smart notes]])
+El *zettelkasten* (en inglés, *slip-box*) es un *sistema personal de toma de notas* (cfr. mi [[sistema personal de toma de notas]]) analógico, desarrollado por el sociólogo Niklas Luhmann (1927-1998) y que hoy forma el *paradigma* de los muchos métodos digitales que rondan por ahí (muchos basados en el libro: [[@ahrensHowTakeSmart2017|How to take smart notes]])
 
 De acuerdo con su texto, *«Communicating with slip boxes»*, publicado en 2019, el sistema funciona como sigue:
 
@@ -37,7 +37,7 @@ De acuerdo con su texto, *«Communicating with slip boxes»*, publicado en 2019,
 - En cuanto a la caja con notas de literatura, se debe escribir la referencia bibliográfica (que funciona como *id* incluso en las convenciones académicas dentro de los textos) y debajo una síntesis, con tus propias palabras (sólo citas textuales que consideres realmente relevantes) del contenido del texto, pero siempre pensando en cómo ese libro, artículo, podcast o video va a enriquecer tu caja de ideas propias
 	- La función de la caja de notas de referencia es más la de centralizar y facilitar la recuperación de información de otras fuentes en relación con su importancia para discutir tus propias ideas
 	- Esto no quiere decir que esta caja no sea importante, es tan importante que el *zettelkasten* debe tenerla como una segunda caja y también contiene notas propias, *pero funcionan de forma dialógica con la caja de ideas propias*, mientras que el autor del *zettelkasten* dialoga con su caja de ideas propias más que con su caja de referencias
-	- También es importante referir las notas de ideas propias que están basadas o surgieron a partir de esa referencia. Esto tiene una consecuencia epistémica importante, pues indica que hay una relación entre un tema, una idea tuya y una idea de otro autor (así el nombre del autor es también una parte importante de tu propio argumento o desarrollo intelectual) (el conocimiento es dialógico, mira mi [[diario/2020-11-24]])
+	- También es importante referir las notas de ideas propias que están basadas o surgieron a partir de esa referencia. Esto tiene una consecuencia epistémica importante, pues indica que hay una relación entre un tema, una idea tuya y una idea de otro autor (así el nombre del autor es también una parte importante de tu propio argumento o desarrollo intelectual) (el conocimiento es dialógico, mira mi [[2020-11-24]])
 
 Las notas de Luhmann han sido digitalizadas y [publicadas en línea](https://niklas-luhmann-archiv.de/bestand/zettelkasten/suche) (en alemán, por supuesto)
 

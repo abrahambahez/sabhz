@@ -12,7 +12,7 @@ La utilización del  [[análisis clasificatorio]] tiene un par de consecuencias:
 - **La clasificación pierde de vista los detalles de las entidades que agrupa porque en realidad trabaja con cosas abstractas y no concretas**.
 	- En un sentido ontológico, no trabaja con *casos* (*tokens*, las entidades concretas que existen), sino con tipos (*types*, las propiedades comunes con las que se pueden identificar esas entidades), que son objetos *ontológicamente* diferentes. [^1] 
 	- En un sentido semántico, sólo trabaja de forma *intensional* (*definiendo* los atributos que le dan sentido) y no *extensional* (señalando una por una qué cosas pretende *designar*) [^2]
-	- Una crítica más formal en sentido epistemológico está en el [[librero/Classification and Kinds - An Antirealist View]]
+	- Una crítica más formal en sentido epistemológico está en el [[@baker2020classificationAndKinds|Classification and Kinds - An Antirealist View]]
 
 Por lo tanto, cuando operamos de forma clasificatoria tendemos a *homogeneizar*, a hacer invisibles los detalles, lo cual nos posibilita *negarlos*.
 

@@ -12,4 +12,4 @@ En cierto sentido, **todo conocimiento es en algún grado social**, y los sistem
 
 Gallagher, S. (2011). Interpretations of embodied cognition. [\[PDF\] uow.edu.au](https://scholar.google.com/scholar_url?url=http://ro.uow.edu.au/cgi/viewcontent.cgi%253Farticle%253D2378%2526context%253Dlhapapers&hl=es&sa=T&oi=gsb-gga&ct=res&cd=0&d=3263484140916737857&ei=Ys3FX9ODPdG1mAHK6q_4Ag&scisig=AAGBfm33NECwo9ImCWnY0t5-zp6iJ1pB9g)
 
-Mira una discusión en mi [[librero/The Extended Mind]]
+Mira una discusión en [[@baker2020extendedMind|Baker(2020) The Extended Mind]]

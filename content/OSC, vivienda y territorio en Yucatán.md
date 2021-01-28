@@ -10,6 +10,7 @@ tags: ['doctorado']
 
 - Aportaciones desde Gabriela Torres-Mazuera
 - El trabajo de Arturo Warman
+
 Para definir:
 
 - Güemez, M. A. D. (2014). La tercera modernización urbana de Mérida, Yucatán: La ampliación territorial de una agrociudad (1914-1951). Revista de la Universidad Autónoma de Yucatán, 264, 50-65.

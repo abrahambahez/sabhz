@@ -4,7 +4,7 @@ type: 'nota permanente'
 tags: []
 ---
 
-Desde [[librero/La regulación imposible. (I)legalidad e (i)legitimidad en los mercados de tierra en México al inicio del siglo xxi]]
+Desde [[@torres-mazueraRegulacionImposibleLegalidad2020|La regulación imposible]]
 
 ## Las discusión sobre la propiedad social agraria 
 
@@ -32,4 +32,4 @@ Para Azuela es importante evidenciar dicha confusión porque ha conllevado a neg
 
 "ejidatarios, comuneros y demás actores involucrados en los mercados de tierras, así como las valoraciones y normas sociales o usos y costumbres locales asociados a la tierra de los núcleos agrarios." (p. 36)
 
-Revisa [[librero/La regulación imposible. (I)legalidad e (i)legitimidad en los mercados de tierra en México al inicio del siglo xxi]].
+Revisa [[@torres-mazueraRegulacionImposibleLegalidad2020|La regulación imposible]].

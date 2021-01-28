@@ -4,7 +4,7 @@ type: 'nota permanente'
 tags: []
 ---
 
-Desde [[librero/La regulación imposible. (I)legalidad e (i)legitimidad en los mercados de tierra en México al inicio del siglo xxi]]:
+Desde [[@torres-mazueraRegulacionImposibleLegalidad2020|La regulación imposible]]:
 
 >«Las etnografías que componen este libro revelan que la legalización de las transferencias de tierras ejidales y comunales fue una misión imposible.» (p. 37)
 
