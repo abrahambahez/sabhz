@@ -12,4 +12,4 @@ tags: []
 - Diseñé y desarrollé este sitio usando Vue (específicamente [Nuxt JS](https://nuxtjs.org/))
 - Para escribir el contenido del sitio uso una bóveda de [Obsidian](https://obsidian.md/) a manera de CMS
 - El repositorio es [público](https://github.com/abrahambahez/sabhz).
-- Adempas, ahora trabajo en el diseño y el código del blog [It's All About Greece](https://itsallaboutgreece.com/es), donde un grupo de personas apasionadas por Grecia comparten experiencias para vivirla al máximo
+- Además, ahora trabajo en el diseño y el código del blog [It's All About Greece](https://itsallaboutgreece.com/es), donde un grupo de personas apasionadas por Grecia comparten experiencias para vivirla al máximo

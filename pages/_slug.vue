@@ -1,26 +1,29 @@
 <template>
-  <main >
+  <main>
     <section class="container">  
       <h1 class="title">
         {{ content.title.match(/[0-9]{4}-[0-9]{2}-[0-9]{2}/) ? formatDate(content.title) : content.title}} 
         <span v-if="content.type != 'noindex'"
-        class="type">
-         • {{content.type}}
+        class="type"
+        @click="getPostList({type: content.type })">
+        • {{content.type}}
         </span>
       </h1>
-      <p class="tags"
-      > 
-      <span v-for="tag in content.tags"  :key="tag">#{{tag}}</span>
+      <p v-if="content.type === 'nota de referencia' " class="authors-reference"
+        :class="content.authors.length == 2 ? 'two-authors' : 'several-authors'">
+        {{content.source_type}} de
+        <span v-for="author in content.authors" :key="author">{{formatAuthor(author)}}</span>
+      </p>
+      <p class="tags"> 
+        <span v-for="tag in content.tags" :key="tag">#{{tag}}</span>
       </p>
     </section>
     <nuxt-content class="content container" :document="content" />
     <backlinks-view v-if="content.slug !== 'index' " class="backlinks container" :filterTerm="content.slug" />
-
-  </main>
+  </main>    
 </template>
 
 <script>
-
 export default {
   data () {
     return {
@@ -39,7 +42,13 @@ export default {
   methods: {
     formatDate(str) {
         let date = new Date(str);
-        return date.toLocaleString('es-MX', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })
+        return date.toLocaleString('es-MX', 
+          { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' 
+        })
+    },
+    formatAuthor(author){
+      let [lastName, name] = author.split(', ');
+      return name + ' ' + lastName;
     }
   },
   head() {

@@ -7,7 +7,7 @@
 
         <nuxt-link v-for="backlinkPost in backlinkPosts" :key="backlinkPost.title" 
             :to="backlinkPost.slug" class="backlink-link">
-            <p >{{backlinkPost.title.match(/[0-9]{4}-[0-9]{2}-[0-9]{2}/) ? formatDate(backlinkPost.title) : backlinkPost.title}}</p>
+            <h4>{{backlinkPost.title.match(/[0-9]{4}-[0-9]{2}-[0-9]{2}/) ? formatDate(backlinkPost.title) : backlinkPost.title}}</h4>
             <p class="excerpt">{{ backlinkPost.excerpt }}</p>
         </nuxt-link> 
                 

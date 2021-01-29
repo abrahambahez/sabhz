@@ -1,10 +1,11 @@
 @import url('https://rsms.me/inter/inter.css');
 :root {
     --color: #f2f2f3;
-    --color-primary: #d1d5da;
-    --color-secondary: #757a80;
+    --color-primary: #afafb8;
+    --color-secondary: #b2b4bd;
+    --color-tertiary: #828185;
     --link-color: #a276ff;
-    --color-highlight: #ffd66de0;
+    --color-highlight: #a06dffea;
     --bg: #242420;
     --bg-secondary: #333;
     --border-color: #666;
@@ -23,6 +24,7 @@ html,body{
     font-weight: var(--regular);
     font-family: var(--font);
 }
+/*--- Elements---*/
 a {
     color: var(--link-color);
     transition: all .25s ease;
@@ -37,14 +39,38 @@ a[target="_blank"]:after {
     content: "\00a0" "↗";
     vertical-align: sub;
 }
+iframe {
+    max-width: 100%;
+}
+img {
+    max-width: 100%;
+}
 h1 {
     color: var(--color-primary);
     font-weight: 700;
     line-height: 1.25;
-    font-size: 3rem;
+    font-size: 2.125rem;
     overflow-wrap: break-word;
+    margin-bottom: 1rem;
 }
-h2,h3,h4,h5,h6 {
+h2 {
+    font-size: 1.5rem;
+    color: var(--color-primary);
+    line-height: 1.25;
+    font-weight: 700;
+    margin: 2.5rem auto;
+}
+h3 {
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+h4, h5, h6 {
+   font-variant: small-caps;
+   text-transform: lowercase;
+   letter-spacing: 2px;
+   font-size: 1.25rem;
+}
+h3,h4,h5,h6 {
     color: var(--color-primary);
     line-height: 1.25;
     font-weight: 500;
@@ -56,12 +82,25 @@ hr {
 }
 mark {
     background-color: var(--color-highlight);
+    font-weight: 500;
+    color: #222;
 }
+blockquote {
+    color: var(--color-secondary);
+}
+
+ul li {
+   list-style-type: none; 
+}
+li::before {
+    content: "• ";
+    color: var(--color-tertiary); /* or whatever color you prefer */
+  }
 /*--- Main Content classes ---*/
 
 #footer {
     text-align: right;
-    margin: 0;
+    margin: 3rem 0 0 0;
     overflow: hidden;
 }
 .footer-link{
@@ -74,49 +113,84 @@ mark {
     background-color: initial;
 }
 .brand-name {
-    color: var(--color-secondary);
+    color: var(--color-tertiary);
     font-size: 3rem;/*calc(40.5px + (120 - 40.5) * ((100vw - 280px) / (1920 - 280)));*/
     font-weight: var(--bold);
     margin: 0;
+    overflow: hidden;
 }
+
 #top-menu {
     margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .brand-name:hover {
     color: var(--color);
     background-color: initial;
 }
 
-/*-- --*/
+/*-- Note classes --*/
 .title {
     padding-top:20vh;
 }
-.type, .tags, .excerpt  {
+.authors-reference {
+    color: var(--color-primary);
+    margin: 0;
+}
+.authors-reference > * {
+    font-weight: 600;
+}
+.two-authors > *:not(:last-child):after {
+    content: ' y '
+}
+.several-authors > *:not(:last-child):after {
+    content: '; '
+}
+.type, .tags  {
+    color: var(--color-tertiary);
+}
+.excerpt {
     color: var(--color-secondary);
+    font-size: 1rem;
+}
+.tags {
+    margin-top:0;
+}
+.tags > * {
+    padding-right: 1rem;
+}
+.content {
+    padding-top:1rem;
 }
 .backlink-link {
-    color: var(--color-primary);
     display: inline-block;
 }
 .backlink-link:hover{
     background-color: var(--bg-secondary);
 }
-/*--- ---*/
+.backlink-link h4 {
+    color: var(--color);
+}
+/*--- Layout ---*/
 
 .container,
 .wide-container {
     max-width: 90%;
-    margin: 0 auto
+    margin: 0 auto;
 }
 
 @media screen and (min-width: 600px) {
-
     html,body {font-size: 1.07rem;}
+    h1{font-size: 3rem;}
+    h2{font-size: 1.875rem;}
+    h3{font-size: 1.5rem;}
     .container{max-width: 80%;}
     .wide-container{max-width: 90%;}
 }
 @media screen and (min-width: 900px) {
-
+    html,body {font-size: 1.125rem;}
     .container{max-width: 650px;}
     .wide-container{max-width: 93%;}
 }

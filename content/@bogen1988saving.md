@@ -5,7 +5,7 @@ initial_read: 2020-12-06
 source_type: artículo
 authors: ['Bogen, James', 'Woodward, James']
 year: 1988
-apa: 'Bogen, J., & Woodward, J. (1988). Saving the phenomena. The philosophical review, 97(3), 303-352. [Enlace](http://www.pitt.edu/~rtjbog/bogen/saving.pdf)'
+apa: 'Bogen, J., & Woodward, J. (1988). Saving the phenomena. The philosophical review, 97(3), 303-352. http://www.pitt.edu/~rtjbog/bogen/saving.pdf'
 type: 'nota de referencia'
 tags: ['leyendo']
 ---

@@ -1,7 +1,7 @@
 <template>
-  <div class="container">
+  <div class="container error-container">
     <div v-if="error.statusCode === 404">
-      <h1>Mmm...🐱‍👤</h1>
+      <h1>Mmm...🍃</h1>
       <p>Lo siento, parece que esta nota no existe o cambió de nombre</p>
     </div>
 
@@ -19,3 +19,8 @@
     props: ['error'],
   }
 </script>
+<style >
+.error-container {
+  min-height: 70vh;
+}
+</style>

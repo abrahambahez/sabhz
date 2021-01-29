@@ -1,7 +1,7 @@
 ---
 title: 'símbolo geertziano'
 type: 'término'
-tags: ['incipiente']
+tags: []
 ---
 
 Para Clifford Geertz (2000), los símbolos tienen una importancia fundamental: los integra como las entidades portadoras de significado que componen el sistema o la red por la cual la cultura se expresa. Su noción se delimita como sigue:
