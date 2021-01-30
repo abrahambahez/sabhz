@@ -78,7 +78,7 @@ h3,h4,h5,h6 {
 hr {
     width:25vw;
     border: solid 1px var(--color-secondary);
-    margin: 4rem auto;
+    margin: 4rem 0;
 }
 mark {
     background-color: var(--color-highlight);
@@ -90,12 +90,9 @@ blockquote {
 }
 
 ul li {
-   list-style-type: none; 
+   list-style-type: disc; 
 }
-li::before {
-    content: "• ";
-    color: var(--color-tertiary); /* or whatever color you prefer */
-  }
+
 /*--- Main Content classes ---*/
 
 #footer {
@@ -132,9 +129,7 @@ li::before {
 }
 
 /*-- Note classes --*/
-.title {
-    padding-top:20vh;
-}
+
 .authors-reference {
     color: var(--color-primary);
     margin: 0;
@@ -160,6 +155,10 @@ li::before {
 }
 .tags > * {
     padding-right: 1rem;
+    cursor: pointer;
+}
+.tags > *:hover {
+    color: var(--color);
 }
 .content {
     padding-top:1rem;
@@ -174,8 +173,12 @@ li::before {
     color: var(--color);
 }
 /*--- Layout ---*/
-
+.main-container {
+    padding-top:20vh;
+    position: relative;
+}
 .container,
+.main-container,
 .wide-container {
     max-width: 90%;
     margin: 0 auto;
@@ -186,11 +189,11 @@ li::before {
     h1{font-size: 3rem;}
     h2{font-size: 1.875rem;}
     h3{font-size: 1.5rem;}
-    .container{max-width: 80%;}
+    .container, .main-container{max-width: 80%;}
     .wide-container{max-width: 90%;}
 }
 @media screen and (min-width: 900px) {
     html,body {font-size: 1.125rem;}
-    .container{max-width: 650px;}
+    .container, .main-container{max-width: 650px;}
     .wide-container{max-width: 93%;}
 }

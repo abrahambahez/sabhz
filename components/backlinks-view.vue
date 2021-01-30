@@ -19,7 +19,9 @@
 </template>
 
 <script>
+import formatDate from '@/methods/formatDate.js';
 export default {
+    mixins: [formatDate],
     name: 'BacklinksView',
     data () {
         return {
@@ -39,12 +41,6 @@ export default {
         })
         .sortBy('title')
         .fetch()
-    },
-    methods: {
-        formatDate(str) {
-        let date = new Date(str);
-        return date.toLocaleString('es-MX', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })
-        }
     }
 }
 </script>

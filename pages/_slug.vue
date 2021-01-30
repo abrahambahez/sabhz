@@ -1,11 +1,10 @@
 <template>
-  <main>
-    <section class="container">  
+  <main style="display: flex;">
+    <section class="main-container" :class="{ 'fix-container': openResults}">  
       <h1 class="title">
         {{ content.title.match(/[0-9]{4}-[0-9]{2}-[0-9]{2}/) ? formatDate(content.title) : content.title}} 
         <span v-if="content.type != 'noindex'"
-        class="type"
-        @click="getPostList({type: content.type })">
+        class="type">
         • {{content.type}}
         </span>
       </h1>
@@ -15,20 +14,41 @@
         <span v-for="author in content.authors" :key="author">{{formatAuthor(author)}}</span>
       </p>
       <p class="tags"> 
-        <span v-for="tag in content.tags" :key="tag">#{{tag}}</span>
+        <span v-for="tag in content.tags" :key="tag"
+          @click="getResults(tag)">#{{tag}}</span>
       </p>
+      <nuxt-content class="content" :document="content" />
+      <backlinks-view v-if="content.slug !== 'index' " class="backlinks" :filterTerm="content.slug" />
     </section>
-    <nuxt-content class="content container" :document="content" />
-    <backlinks-view v-if="content.slug !== 'index' " class="backlinks container" :filterTerm="content.slug" />
+    <tags-list 
+      :list="results" 
+      :list-title="resultsTitle" 
+      :list-count="resultsCount" 
+      :class="{'open-results': openResults}"
+      @close-list="openResults = $event"
+    />
   </main>    
 </template>
 
 <script>
+import BacklinksView from '~/components/backlinks-view.vue';
+import TagsList from '~/components/tags-list.vue';
+import formatDate from '@/methods/formatDate.js';
+
 export default {
+  mixins: [formatDate],
   data () {
     return {
-      content: {}
+      content: {},
+      results: [],
+      resultsTitle: '',
+      resultsCount: 0,
+      openResults: false
     }
+  },
+  components: {
+    BacklinksView,
+    TagsList
   },
   async asyncData({ $content, params, error }) {
     const slug = params.slug || "index";
@@ -40,15 +60,25 @@ export default {
     return { content };
   },
   methods: {
-    formatDate(str) {
-        let date = new Date(str);
-        return date.toLocaleString('es-MX', 
-          { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' 
-        })
-    },
     formatAuthor(author){
       let [lastName, name] = author.split(', ');
       return name + ' ' + lastName;
+    },
+    getResults: async function(tag) {
+      this.results = await this.$content()
+        .where({
+          '$and': [{
+            tags: {'$contains': tag}
+            },{
+              slug: { '$ne': this.content.slug }
+            }] 
+        })
+        .sortBy('title', 'desc')
+        .fetch()
+
+        this.resultsTitle = '#'+tag;
+        this.resultsCount = this.results.length
+        this.openResults = true;
     }
   },
   head() {

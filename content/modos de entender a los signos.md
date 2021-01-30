@@ -3,12 +3,13 @@ title: 'modos de entender a los signos'
 type: 'colección'
 tags: ['incipiente']
 ---
+[[Semiótica de la comunicación y antropología simbólica]]
 
 En esta colección iré concentrando definiciones y aplicaciones de estudios de los signos: semiótica, semiología, antropología simbólica, filosofía y otras disciplinas. 
 
 ## En antropología simbólica y cultural
 
-Parece que la antropología desarrolló esfuerzos interpretativos independientes de la semiótica, a juzgar por las diferencias en la construcción conceptual de las teorías que presentan.
+Parece que la antropología desarrolló esfuerzos interpretativos independientes de la semiótica, a juzgar por las diferencias en la construcción conceptual de las teorías que presentan (mira [[@ortner1993teoria#Antropología simbólica]]).
 
 - La teoría de Edmund Leach
 - El [[símbolo turneriano]], o sea el de Victor Turner 

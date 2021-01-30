@@ -4,6 +4,8 @@ type: 'colección'
 tags: ['incipiente']
 ---
 
+Nota: considera relacionarlo con el [[índice de modelos de análisis]]
+
 ## México y mundo hispanohablante
 - [PARES - Portal de Archivos Españoles](http://pares.mcu.es/ParesBusquedas20/catalogo/search)
 - [Biblioteca virtual de Yucatán](http://www.bibliotecavirtualdeyucatan.com.mx/)
