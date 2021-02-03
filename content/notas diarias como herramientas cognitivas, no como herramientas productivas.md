@@ -1,6 +1,6 @@
 ---
 title: 'notas diarias como herramientas cognitivas, no como herramientas productivas'
-type: 'proposición'
+type: 'nota permanente'
 tags: ['incipiente']
 ---
 

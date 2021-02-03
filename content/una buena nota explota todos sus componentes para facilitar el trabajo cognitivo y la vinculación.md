@@ -1,6 +1,6 @@
 ---
 title: 'una buena nota explota todos sus componentes para facilitar el trabajo cognitivo y la vinculación'
-type: 'proposición'
+type: 'nota permanente'
 tags: []
 ---
 

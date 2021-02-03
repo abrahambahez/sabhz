@@ -1,6 +1,6 @@
 ---
 title: 'una estructura social es una forma estable de relaciones entre los miembros del grupo'
-type: 'proposición'
+type: 'nota permanente'
 tags: ['incipiente']
 ---
 

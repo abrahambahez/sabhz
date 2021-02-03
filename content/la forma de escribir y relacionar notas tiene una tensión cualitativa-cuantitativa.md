@@ -1,7 +1,7 @@
 ---
 title: 'la forma de escribir y relacionar notas tiene una tensión cualitativa-cuantitativa'
-type: 'proposición'
-tags: ['incipiente']
+type: 'nota permanente'
+tags: []
 ---
 
 Las relaciones entre notas suelen basarse en dos criterios:

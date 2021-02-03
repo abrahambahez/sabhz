@@ -1,7 +1,7 @@
 ---
 title: 'memoria transactiva'
 type: 'término'
-tags: ['incipiente']
+tags: []
 ---
 
 >Resumen — *Es a lo que recurres cuando dices: necesito acceder a un conocimiento o habilidad que sé que no tengo pero la persona «x» sí, y puedo acceder a ese conocimiento a través de ella*

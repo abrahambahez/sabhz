@@ -1,7 +1,7 @@
 ---
 title: 'la investigación basada en observación es inseparable de los juicios de valor'
-type: 'proposición'
-tags: ['incipiente']
+type: 'nota permanente'
+tags: []
 ---
 
 La tradición occidental suele separar nuestras expresiones verbales en dos clases: aquellas que dicen cosas sobre el mundo y que pueden ser verdaderas o falsas (juicios proposicionales) y aquellas que expresan juicios de valor (juicios morales).

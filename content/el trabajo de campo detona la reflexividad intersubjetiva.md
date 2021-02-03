@@ -1,6 +1,6 @@
 ---
 title: 'el trabajo de campo detona la reflexividad intersubjetiva'
-type: 'proposición'
+type: 'nota permanente'
 tags: ['incipiente']
 ---
 

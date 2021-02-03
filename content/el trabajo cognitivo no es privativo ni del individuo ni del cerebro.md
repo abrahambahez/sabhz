@@ -1,6 +1,6 @@
 ---
 title: 'el trabajo cognitivo no es privativo ni del individuo ni del cerebro'
-type: 'proposición'
+type: 'nota permanente'
 tags: ['incipiente']
 ---
 

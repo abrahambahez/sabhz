@@ -24,7 +24,9 @@ Un ejemplo de esta discusión general es el uso del adjetivo *pertinente* para c
 
 La Antropología no es la excepción. Uno *no registra* (en el sentido de una descripción objetiva) lo que otra persona dice, hace o piensa, uno *lo interpreta* y el acto interpretativo es una observación basada en una valoración.
 
-Siguiendo a Davidson, plantea el principio (epistémico) de caridad interpretativa, o principio de coherencia, de racionalidad, o a gusto de Lenclud, *de humanidad*:
+## La caridad interpretativa como principio general de la etnografía
+
+Siguiendo a Davidson, plantea el [[principio de caridad interpretativa]], o principio de coherencia, de racionalidad. Añade más, siguiendo la tradición de vincularlo como una variación del [[principio de humanidad interpretativa]]:
 
 >El principio de caridad interpretativa sostiene que para interpretar a otras personas se requiere, *a priori*, considerarlas como pares cognitivos, criaturas racionales. Cómo puedo tener acceso al lenguaje de otra persona sin asumir que él quiere decir algo tanto como yo; y hasta cierto punto acredita como verdaderas a algunas proposiciones y otras no; y que, como uno, trata de ser lo más coherente posible en sus afirmaciones. El principio de caridad posee tres características principales. En primer lugar como hemos visto, su adopción es inicialmente necesaria para proceder a la interpretación porque *"La caridad se nos impone guste o no, si queremos comprender a los otros debemos considerarlos correctamente en la mayoría de los asuntos"* \[cita de Davidson, 1990, *Inquiries into truth and interpretation*\] (p. 182).
 
@@ -35,7 +37,7 @@ Cuando encontramos en el otro una creencia que suponemos falsa, por ejemplo, que
 - Le está atribuyendo al otro una *creencia* —una actitud proposicional—(si no creyera que el sol necesita sangre, no lo diría)
 - Ese proceso de atribución es el resultado de un *diagnóstico valorativo* del tipo *«"él está equivocado" (porque yo estoy en lo correcto)»* (p. 183)
 
-Si la antropología estudia las *diferencias culturales*, **las diferencias culturales sólo emergen con la comparación de una cultura de referencia, la del observador, y eso implica un juicio de valor**, pues lo diferente consiste simplemente en aquellas [[representaciones]] que *en mí cultura tienen un sentido distinto* se consideran falsas, feas, malas, incorrectas, inapropiadas, inusuales).
+Si la antropología estudia las *diferencias culturales*, ==las diferencias culturales sólo emergen con la comparación de una cultura de referencia, la del observador, y eso implica un juicio de valor==, pues lo diferente consiste simplemente en aquellas [[representaciones]] que *en mí cultura tienen un sentido distinto* y se consideran falsas, feas, malas, incorrectas, inapropiadas, inusuales).
 
 Posiblemente **la [[reflexividad]] y las etnografías abiertas, participativas y performativas son algunas maneras en las que la posición de superioridad epistémica se puede evadir.**
 
@@ -43,6 +45,7 @@ Así, *«decir que alguien que tiene intenciones o creencias, que prefiere esto 
 
 Al sólo poder notar diferencias comparándolas con la supuesta "normalidad" de la vida propia; al afirmar con intenciones descriptivas que «el sujeto 's' cree o hace 'x'» eso implica ya un juicio valorativo.
 
+[[Antropología del conocimiento]]
 
 ## Referencias
 

@@ -1,7 +1,7 @@
 ---
 title: 'operacionalización'
 type: 'término'
-tags: ['incipiente']
+tags: []
 ---
 
 La operacionalización consiste en obtener *indicadores observables* y de ser posible, *cuantificables* a partir de variables nominales y a través de un procedimiento de identificación de dimensiones en su definición, que se irían refinando en componentes cada vez más específicos y concretos hasta llegar al *indicador*, que es un elemento objetivo, observable.

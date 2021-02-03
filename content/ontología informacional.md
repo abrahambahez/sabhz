@@ -1,7 +1,7 @@
 ---
 title: 'ontología informacional'
 type: 'término'
-tags: ['incipiente']
+tags: []
 ---
 
 Las ontologías informacionales consisten en la identifiación particular de entidades y relaciones en un [[sistema]] de información que representan un dominio de conocimiento

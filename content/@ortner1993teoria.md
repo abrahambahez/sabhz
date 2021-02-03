@@ -60,7 +60,7 @@ Crítica de las relaciones imperialismo - antropología
 ## teoría antropológica en los ochenta
 Énfasis en la micrometodología, la acción social y la [[praxis]]. Bourdieu, Giddens, Gramsci
 
-#prioridad-1 crea la nota de (Joyce & Lopiparo, 2005). Tiene mucha relación
+#prioridad-2 crea la nota de (Joyce & Lopiparo, 2005). Tiene mucha relación
 
 - No se niega el rol de la determinación estructural, pero se suaviza su poder (se le llama hegemonía, constreñimiento, dominación, p. 42).
     - *«la teoría moderna de la práctica busca explicar la(s) relación( es) que se obtienen entre la acción humana, por un lado, y alguna entidad global que podemos Ilamar "el sistema", por otro.» *(p. 44)

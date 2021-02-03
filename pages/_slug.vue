@@ -83,7 +83,7 @@ export default {
   },
   head() {
     return {
-      title: this.content.title,
+      title: this.content.title + ' | sabhz',
       meta: [
         { hid: 'description', name: 'description', content: this.content.excerpt },
         // Open Graph

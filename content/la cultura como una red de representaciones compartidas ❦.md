@@ -1,6 +1,6 @@
 ---
 title: 'la cultura como una red de representaciones compartidas'
-type: 'proposición'
+type: 'nota permanente'
 tags: ['semilla❦']
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Saberes vernáculos mayas, territorio e identidad en el contexto del Proyecto de Desarrollo Mesoamericano'
-aliases: ['Saberes vernáculos mayas, territorio e identidad en el contexto del Proyecto de Desarrollo Mesoamericano', '@duarteduarteSaberesVernaculosMayas2016']
+aliases: ['Saberes vernáculos mayas, territorio e identidad en el contexto del Proyecto de Desarrollo Mesoamericano', 'Duart Duarte et al. (2016)']
 initial_read: 2020-12-07
 source_type: Memoria de congreso
 authors: 
@@ -19,7 +19,7 @@ Los procesos identitarios pueden separarse en endógenos (resultado de identidad
 
 Las identidades tienen una base territorial.
 
-La identidad maya está en proceso de colonización y la acción más sensible es la desterritorialización, que el autor identifica como **el sustrato de la identidad maya**.
+La identidad maya está en proceso de colonización y la amenaza más sensible es la desterritorialización, porque el autor identifica al territorio como **el sustrato de la identidad maya** (cfr. [[la territorialización es el proceso de producción de un territorio concreto a nivel práctico y discursivo]]).
 
 Así, la construcción de una vivienda obedece a las necesidades de la unidad doméstica, lo que la diferencia *radicalmente* de las viviendas seriales construidas con *fines comerciales* (que se benefician de la creación artificial de esas necesidades, piensa en cosas como "Yucatán, el mejor estado para vivir", etcétera):
 

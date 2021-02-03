@@ -48,7 +48,9 @@ La privatización informal de las tierras ejidales es un proceso en marcha en la
 
 >«El plano legal de la tenencia no da cuenta de la compleja realidad social de la propiedad y sólo enfatiza ciertos aspectos de interés desde la perspectiva estatal para ser normados» (p. 52)
 
-## Prácticas de propiedad (normatividad vernácula) como modos extra-jurídicos de propiedad (p. 52)
+## Prácticas de propiedad como modos extra-jurídicos de propiedad
+
+A diferencia del sentido puramente normativo, o jurídico de la propiedad agraria, la normatividad vernácula establece prácticas de legitimidad distintas
 
 >«En el plano de la práctica social, una persona afirma esto es mío, es de mi propiedad y ejerce ciertos derechos sobre un objeto dado con reconocimiento y legitimidad de su entorno social inmediato» (p. 52) 
 

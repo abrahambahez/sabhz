@@ -8,7 +8,7 @@ authors:
 year: 2012
 apa: 'Uribe Mallarino, C. (2012). Interdisciplinariedad en investigación: ¿colaboración, cruce o superación de las disciplinas? Universitas humanística, 73(73).'
 type: 'nota de referencia'
-tags: ['doctorado', 'prioridad-1']
+tags: ['doctorado', 'interdisciplina']
 ---
 
 El objetivo de la investigación presentada fue conocer mejor y sistematizar las experiencias interdisciplinarias al interior y fuera de la institución. Para ello se realizó un estudio que duró trece meses transcurridos entre julio de 2010 y julio de 2011. De acuerdo con Uribe Mallarino:

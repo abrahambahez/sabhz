@@ -1,7 +1,7 @@
 ---
 title: agencia
 type: 'término'
-tags: ['incipiente']
+tags: []
 ---
 
 Es la capacidad de los sujetos para actuar, por sí mismos, en el mundo que los rodea. Se le vincula con la libertad de acción del sujeto en relación con las constricciones contextuales y estructurales que le rodean. Se usa para estudiar fenómenos sociales y culturales humanos.

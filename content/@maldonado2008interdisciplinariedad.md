@@ -8,7 +8,7 @@ authors:
 year: 2008
 apa: 'Maldonado, Z. S. (2008). La interdisciplinariedad, método holístico cognoscitivo. Revista Semestral Humanidades y Educación, 60.'
 type: 'nota de referencia'
-tags: ['doctorado','refactorizar', 'prioridad-1']
+tags: ['doctorado','refactorizar', 'interdisciplina']
 ---
 
 Saldivia Maldonado destaca la idea de la cooperación entre especialistas de diversas disciplinas. Esta idea tiene su desarrollo en un muy sutilmente sugerido desarrollismo de las ciencias:

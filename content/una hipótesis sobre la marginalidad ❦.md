@@ -1,6 +1,6 @@
 ---
 title: 'una hipótesis sobre la marginalidad'
-type: 'proposición'
+type: 'nota permanente'
 tags: ['semilla❦']
 ---
 

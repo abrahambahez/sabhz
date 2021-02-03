@@ -1,6 +1,6 @@
 ---
 title: sistema de distribución de opresión y privilegios
-type: 'argumento'
+type: 'nota permanente'
 tags: ['incipiente']
 ---
 

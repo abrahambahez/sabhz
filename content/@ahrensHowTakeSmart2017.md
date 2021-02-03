@@ -1,6 +1,6 @@
 ---
 title: 'How to take smart notes: one simple technique to boost writing, learning and thinking: for students, academics and nonfiction book writers'
-aliases: ['How to take smart notes', '@ahrensHowTakeSmart2017']
+aliases: ['How to take smart notes', 'Ahrens (2017)']
 initial_read: 2021-01-15
 source_type: libro
 authors: ['Ahrens, Sönke']

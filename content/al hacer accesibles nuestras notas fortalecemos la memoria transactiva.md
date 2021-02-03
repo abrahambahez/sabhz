@@ -1,7 +1,7 @@
 ---
 title: 'al hacer accesibles nuestras notas fortalecemos la memoria transactiva'
 type: 'nota permanente'
-tags: ['incipiente']
+tags: []
 ---
 
 Escribimos notas porque ellas extienden de manera artificial nuestra memoria individual ([[los sistemas de notas como una memoria aumentada]]), expresada mayormente en un lenguaje que compartimos con otras personas, característica que **hace accesibles nuestras notas a esas otras personas**, aunque si no tienen suficiente contexto serán oscuras.

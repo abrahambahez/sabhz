@@ -1,7 +1,7 @@
 ---
 title: 'el conocimiento se incorpora en pautas conductuales, operacionales o expresivas'
-type: 'proposición'
-tags: ['incipiente']
+type: 'nota permanente'
+tags: []
 ---
 
 Desde el punto de vista de la [[cognición encorporada]], es posible plantear la identificación del conocimiento en los comportamientos que los sujetos dejan en el mundo. 

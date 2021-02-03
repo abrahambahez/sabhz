@@ -20,5 +20,5 @@ La reflexividad es una forma de abordar la investigación que consiste en *poner
 - Críticar en todo momento el proceso: criticarte a ti misma,o como observador,a; pero también a las fuentes y las [[representaciones]] observadas
 - Ser transparentes y rigurosos con las perspectivas epistemológicas que se están usando (incluso si quieres mezclar perspectivas, explica muy bien cuáles y para qué)
 
-Algunos de estos puntos aparecen en la propuesta de una [[metodología reflexiva, de Alvesson y Sköldberg]].
+Algunos de estos puntos aparecen en la propuesta de una [[visibilizar las condiciones de producción de conocimiento]].
 

@@ -1,7 +1,7 @@
 ---
 title: 'el diseño de los sistemas de información influye directamente en el tipo de conocimiento producido a partir de ellos'
-type: 'proposición'
-tags: ['incipiente']
+type: 'nota permanente'
+tags: []
 ---
 
 La forma en la que se puede producir información, así como la forma en que se almacena, se gestiona, se relaciona y se consulta ayuda o impide que se construya conocimiento bajo ciertas operaciones cognitivas.

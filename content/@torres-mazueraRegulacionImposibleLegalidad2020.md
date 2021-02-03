@@ -4,14 +4,14 @@ aliases: ['La regulación imposible: (I)legalidad e (i)legitimidad en los mercad
 initial_read: 2020-11-16
 source_type: libro
 authors: 
-- Torres Mazuera, Gabriela
-- Appendini, Kirsten
+    - Torres Mazuera, Gabriela
+    - Appendini, Kirsten
 year: 2020
-apa: 'Torres-Mazuera, G., & Appendini, K. (2020). _La regulación imposible. (I)legalidad e (i)legitimidad en los mercados  de tierra en México al inicio del siglo xxi_. El Colegio de México'
+apa: 'Torres-Mazuera, G., & Appendini, K. (2020). La regulación imposible. (I)legalidad e (i)legitimidad en los mercados  de tierra en México al inicio del siglo xxi. El Colegio de México'
 type: 'nota de referencia'
 tags: ['leyendo']
 ---
-
+Estudio sobre las dinámicas de territorialidad en las áreas rurales.
 
 ## Territorialidad: contexto general
 
@@ -23,6 +23,8 @@ tags: ['leyendo']
 - El [[contexto general sobre la territorialidad en Mérida]]
 - Una [[visión jurídica indígena sobre la territorialidad]]
 
+[[Territorio]]
+
 ## Referencias
 
-Torres-Mazuera, G., & Appendini, K. (2020). _La regulación imposible. (I)legalidad e (i)legitimidad en los mercados  de tierra en México al inicio del siglo xxi_. El Colegio de México
+Torres-Mazuera, G., & Appendini, K. (2020). La regulación imposible. (I)legalidad e (i)legitimidad en los mercados  de tierra en México al inicio del siglo xxi. El Colegio de México

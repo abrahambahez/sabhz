@@ -165,6 +165,7 @@ ul li {
 }
 .backlink-link {
     display: inline-block;
+    overflow-wrap: break-word;
 }
 .backlink-link:hover{
     background-color: var(--bg-secondary);
@@ -176,6 +177,7 @@ ul li {
 .main-container {
     padding-top:20vh;
     position: relative;
+    overflow-wrap: break-word;
 }
 .container,
 .main-container,

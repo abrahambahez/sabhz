@@ -1,7 +1,7 @@
 ---
-title: 'metodología reflexiva - Alvesson y Sköldberg'
-type: 'argumento'
-tags: ['incipiente']
+title: 'visibilizar las condiciones de producción de conocimiento'
+type: 'nota permanente'
+tags: []
 ---
 
 ## La investigación reflectiva / reflexiva

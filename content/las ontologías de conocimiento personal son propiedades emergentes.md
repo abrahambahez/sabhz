@@ -1,6 +1,6 @@
 ---
 title: 'las ontologías de conocimiento personal son propiedades emergentes'
-type: 'proposición'
+type: 'nota permanente'
 tags: ['incipiente']
 ---
 

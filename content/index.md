@@ -4,9 +4,9 @@ type: 'noindex'
 tags: []
 ---
 
-👋🏽 Soy Sergio, me considero a mí mismo un [[trabajador cognitivo]] (un poco más en: [[más sobre mí]]).
+👋🏽 Soy Sergio, me considero a mí mismo un [[trabajador cognitivo]] ([[más sobre mí]]).
 
-En la práctica, defino productos digitales en [KarmaPulse](https://karmapulse.com), estudio un doctorado en Ciencias Antropológicas en la [Universidad Autónoma de Yucatán](https://www.uady.mx/), diseño sitios web y escribo aquí sobre mis [[líneas de investigación]] personales.
+En la práctica, defino productos digitales en [KarmaPulse](https://karmapulse.com), estudio el Doctorado en Ciencias Antropológicas de la [Universidad Autónoma de Yucatán](https://www.uady.mx/), diseño sitios web y escribo aquí sobre mis [[líneas de investigación]] personales.
 
 ## ¿Qué es esto?
 
