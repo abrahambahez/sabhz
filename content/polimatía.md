@@ -4,7 +4,9 @@ type: 'término'
 tags: ['incipiente']
 ---
 
-Como práctica, consiste en desarrollar un conocimiento competente en diferentes ámbitos de actividades humanas, no necesariamente relacionados entre sí (practicar en un solo individuo la multidisciplina y la interdisciplina).
+Como práctica, consiste en desarrollar un conocimiento competente en diferentes ámbitos de actividades humanas, no necesariamente relacionados entre sí (practicar en un solo individuo la transdisciplina).
+
+Para mí, no se trata de aspirar a encarnar el mito del sabio (el varón intelectualizado, *sabelotodo*) sino de ir más allá de las divisiones artificialemte impuestas sobre cómo se organiza el conocimiento, compartamentalizado literalmente en edificios universitarios según el viejo modelo de la división científica.
 
 Mira [el artículo de Wikipedia](https://es.wikipedia.org/wiki/Polimat%C3%ADa)
 

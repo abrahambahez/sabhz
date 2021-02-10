@@ -15,8 +15,10 @@ Etnografía:
 - [[etnografía performativa]]
 - [[historia de vida]]
 - [[autoetnografía]]
+- analogía etnográfica transcultural:  buscar referencias sobre rasgos de la cultura material que son producto de una conducta específica. Entrevistar responsables de crear objetos rituales en diversos contextos ara buscar características de la actuación (*performance*). Se sigue el *performance* de los objetos en su historia de vida; de la invención, adopción hasta su forma de ser deshechados ([[@hernandezalvarezEtnoarqueologiaGruposDomesticos2011|Hernández Álvarez (2011)]])
 - [[etnoarqueología]]
     - Relacionado a nivel interdisciplinar: [[arqueoastronomía]]
+    - [[cadena operativa]]
 - [evaluación etnográfica rápida](https://www.researchgate.net/publication/339819170_Rapid_Ethnographic_Assessments_A_Practical_Approach_and_Toolkit_For_Collaborative_Community_Research)
 - etnodrama
 
@@ -37,6 +39,4 @@ Métodos de análisis:
 - [[operacionalización]]
 - [[categorización]]
 
-
 *Nota: las que no son vínculos están pendientes de creación*
-

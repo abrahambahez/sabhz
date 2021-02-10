@@ -1,7 +1,7 @@
 ---
 title: 'el trabajo de campo detona la reflexividad intersubjetiva'
 type: 'nota permanente'
-tags: ['incipiente']
+tags: ['semilla❦']
 ---
 
 Un ejemplo:

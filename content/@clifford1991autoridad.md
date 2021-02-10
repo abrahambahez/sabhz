@@ -1,8 +1,8 @@
 ---
 title: 'Sobre la autoridad etnográfica'
-aliases: ['Sobre la autoridad etnográfica', 'James Clifford (1991)']
+aliases: ['Sobre la autoridad etnográfica', 'Clifford (1991)']
 initial_read: 2021-01-29
-source_type: artículo de conferencia
+source_type: artículo
 authors: 
 - Clifford, James
 year: 1991

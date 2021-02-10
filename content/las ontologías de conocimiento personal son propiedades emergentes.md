@@ -1,7 +1,7 @@
 ---
 title: 'las ontologías de conocimiento personal son propiedades emergentes'
 type: 'nota permanente'
-tags: ['incipiente']
+tags: []
 ---
 
 Para el conocimiento personal y de manera [[operacionalización|operacional]], una [[ontología informacional]] es esencialmete una red de conceptos que usas individualmente para entender el mundo y desarrollar *tus propias teorías* sobre cómo funciona.
@@ -14,4 +14,4 @@ Por una parte, [[el problema de la clasificación]] complejiza el objetivo, pero
 
 Por tanto, **las ontologías de conocimiento personal se forman como [[propiedades emergentes]] a partir de un conjunto variable de ideas y relaciones entre ellas**. 
 
-- revisar [Toward Principles for the Design of Ontologies Used for Knowledge Sharing](https://tomgruber.org/writing/onto-design.htm) #prioridad-3 
+- revisar [Toward Principles for the Design of Ontologies Used for Knowledge Sharing](https://tomgruber.org/writing/onto-design.htm) 

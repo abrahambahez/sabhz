@@ -58,9 +58,7 @@ Crítica de las relaciones imperialismo - antropología
 - economía política. Parte de las teorías del sistema-mundo y del subdesarrollo. Énfasis en regiones que permite definir comunidades como parte de sistemas de intercambio más grandes
 
 ## teoría antropológica en los ochenta
-Énfasis en la micrometodología, la acción social y la [[praxis]]. Bourdieu, Giddens, Gramsci
-
-#prioridad-2 crea la nota de (Joyce & Lopiparo, 2005). Tiene mucha relación
+Énfasis en la micrometodología, la acción social ([[teoría de la práctica]]) y la [[praxis]]. Bourdieu, Giddens, Gramsci (cfr. Joyce y Lopiparo, 2005)
 
 - No se niega el rol de la determinación estructural, pero se suaviza su poder (se le llama hegemonía, constreñimiento, dominación, p. 42).
     - *«la teoría moderna de la práctica busca explicar la(s) relación( es) que se obtienen entre la acción humana, por un lado, y alguna entidad global que podemos Ilamar "el sistema", por otro.» *(p. 44)
@@ -68,7 +66,7 @@ Crítica de las relaciones imperialismo - antropología
 
 ## Referencias
 
-Joyce, R. A., & Lopiparo, J. (2005). PostScript: Doing Agency in Archaeology. _Journal of Archaeological Method and Theory_, _12_(4), 365-374. https://doi.org/10.1007/s10816-005-8461-3
+Joyce, R. A., & Lopiparo, J. (2005). PostScript: Doing Agency in Archaeology. _Journal of Archaeological Method and Theory_, _12_(4), 365-374. https://doi.org/10.1007/s10816-005-8461-3 [[@joycePostScriptDoingAgency2005]]
 
 Ortner, S. B. (1993). La teoría antropológica desde los años sesenta. Editorial Universidad de Guadalajara.
 

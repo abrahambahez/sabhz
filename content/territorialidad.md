@@ -10,4 +10,6 @@ Tiene que ver con las relaciones entre los grupos sociales y los territorios que
 
 ## Para desarrollar
 
-- El trabajo de [Elinor Ostrom](https://es.wikipedia.org/wiki/Elinor_Ostrom) sobre la propiedad comunal del territorio.
+Capel, H. (2016). Las ciencias sociales y el estudio del territorio. 38. [[@capelCienciasSocialesEstudio2016]]
+
+El trabajo de [Elinor Ostrom](https://es.wikipedia.org/wiki/Elinor_Ostrom) sobre la propiedad comunal del territorio.

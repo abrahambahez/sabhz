@@ -34,6 +34,6 @@ La noción de pauta expresiva que puede ser útil es la de Martín Serrano (2011
 
 ## Referencias
 
-Joyce, R. A., & Lopiparo, J. (2005). PostScript: Doing Agency in Archaeology. Journal of Archaeological Method and Theory, 12(4), 365-374.
+Joyce, R. A., & Lopiparo, J. (2005). PostScript: Doing Agency in Archaeology. Journal of Archaeological Method and Theory, 12(4), 365-374. [[@joycePostScriptDoingAgency2005]]
 
 Martín Serrano, M. (2007). Teoría de la comunicación: La comunicación, la vida y la sociedad. McGraw-Hill España.

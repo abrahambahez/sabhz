@@ -66,13 +66,7 @@ export default {
     },
     getResults: async function(tag) {
       this.results = await this.$content()
-        .where({
-          '$and': [{
-            tags: {'$contains': tag}
-            },{
-              slug: { '$ne': this.content.slug }
-            }] 
-        })
+        .where({tags: {'$contains': tag}})
         .sortBy('title', 'desc')
         .fetch()
 

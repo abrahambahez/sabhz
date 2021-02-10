@@ -10,14 +10,14 @@ authors:
 year: 2016
 apa: 'Duarte Duarte, A. R., Sánchez Suárez, A., & Weber, B. W. (2016). Saberes vernáculos mayas, territorio e identidad en el contexto del Proyecto de Desarrollo Mesoamericano. En Memorias del 5 Congreso Nacional de Ciencias Sociales. 8. Las ciencias sociales: Entre el conocimiento, la crítica social y las políticas públicas (1.ª ed., Vol. 8). Consejo Mexicano de las Ciencias Sociales.'
 type: 'nota de referencia'
-tags: ['prioridad-2']
+tags: ['potenciales']
 ---
 
 Las prácticas territoriales mayas conforman también una estrategia de resistencia (p. 385) ante las diferentes estrategias directas (despojo) e indirectas (repoblamientos, proyectos de infraestructura, de políticas educativas).
 
 Los procesos identitarios pueden separarse en endógenos (resultado de identidades personales) y exógenos (asignadores de identidades).
 
-Las identidades tienen una base territorial.
+==Las identidades tienen una base territorial==.
 
 La identidad maya está en proceso de colonización y la amenaza más sensible es la desterritorialización, porque el autor identifica al territorio como **el sustrato de la identidad maya** (cfr. [[la territorialización es el proceso de producción de un territorio concreto a nivel práctico y discursivo]]).
 

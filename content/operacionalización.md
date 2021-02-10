@@ -19,11 +19,12 @@ Hay un ejercicio interesante e ilustrativo en Gavarotto (2004) que aplica este m
 
 Una estrategia opuesta a esta sería la **categorización**.
 
+## Para desarrollar
+
+- [ ] crear notas para conceptos estadístiscos básicos (variables, términos y operaciones); crear nota de categorización
+
 ## Referencias
 
 Reguant Álvarez, M., & Martínez Olmo, F. (2014). Operacionalización de conceptos/variables; p. 5.[Enlace](http://diposit.ub.edu/dspace/handle/2445/57883)
 
 Gavarotto, C. A. (2004). El Proceso de Operacionalización de Variables en una Teoría Social Análisis del suicidio en durkheim. Cinta de Moebio, (19), 0. [Enlace](https://www.redalyc.org/pdf/101/10101901.pdf)
-
----
-#prioridad-3 crear notas para conceptos estadístiscos básicos (variables, términos y operaciones); crear nota de categorización

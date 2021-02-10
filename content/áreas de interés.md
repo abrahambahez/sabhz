@@ -1,5 +1,5 @@
 ---
-title: 'líneas de investigación'
+title: 'áreas de interés'
 type: 'índice'
 tags: []
 ---
@@ -11,7 +11,9 @@ Preparo a mediano plazo un [[índice de herramientas cognitivas]] que atraviese 
 - Los [[sistemas de distribución de opresión y privilegios]], dentro del contexto de los [[sistema de organización social]]
 - [[OSC, vivienda y territorio en Yucatán]] (tesis doctoral)
 - Los [[modos de vida]] como núcleo de investigación para el co-diseño de proyectos sociales
+- [[teoría de la práctica]]
 - [[Antropología y anarquismo]], línea que exploraré cuando tenga un poco más de tiempo
+    - [[anarquismos]]
 	- [Anthropology and Anarchism](https://theanarchistlibrary.org/library/brian-morris-anthropology-and-anarchism)
 	- La obra de David Graeber en general, en particular los [Fragmentos de antropología anarquista](https://cabezasdetormenta.noblogs.org/files/2013/02/David-Graeber-Fragmentos-de-Antropologia-Anarquista.pdf)
 	- [The Anthropology of Anarchy ](https://www.researchgate.net/publication/265871071_The_Anthropology_of_Anarchy)

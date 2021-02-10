@@ -1,6 +1,6 @@
 ---
 title: 'Territorio'
-type: 'índice'
+type: 'nodo'
 tags: []
 ---
 

@@ -6,9 +6,10 @@
             <span v-show="listCount > 0">({{listCount}}</span>
             <span>{{ listCount === 1 ? 'nota' : 'notas' }})</span>
         </h3>
-        <p  v-for="item in list" :key="item.slug">
-            <nuxt-link :to="item.slug">{{
-                item.title.match(/[0-9]{4}-[0-9]{2}-[0-9]{2}/) ? formatDate(item.title) : item.title
+        <p v-for="item in list" :key="item.slug">
+            <nuxt-link :to="item.slug">
+                {{
+                    item.title.match(/[0-9]{4}-[0-9]{2}-[0-9]{2}/) ? formatDate(item.title) : item.title
                 }}
             </nuxt-link>
         </p>

@@ -3,6 +3,9 @@ title: 'Deshabitar mi mundo: dinámicas de desigualdad epistémica en la relaci�
 type: 'índice'
 tags: ['doctorado']
 ---
+## Preguntas
+
+¿De quién verdaderamente es el conocimeinto constructivo? ¿A quién pertenece? ¿Quién debe resguardarlo y gestionarlo? ¿La vivienda es un *microterritorio*?
 
 ## Objetivos
 
@@ -23,7 +26,7 @@ Específicamente
 
 - El solar mesoamericano, modelo doméstico arquetípico
     - El [[grupo doméstico]]
-    - Hernández Álvarez, H. (2011) Etnoarqueología de grupos domésticos mayas
+    - El [[solar mesoamericano]]
 - La casa maya como saber vernáculo
     - [[@sanchezsuarezSaberesPakLu2020|Saberes del pak’lu’um. La tierra y la casa en el área maya]]
     - [[@duarteduarteSaberesVernaculosMayas2016|Saberes vernáculos mayas, territorio e identidad en el contexto del Proyecto de Desarrollo Mesoamericano]]
@@ -85,6 +88,6 @@ Específicamente
 
 -  Cientificidad del desarrollo y el progreso
 -  Conocimiento tradicional como conocimiento real
--  Racismo como epistemocentrismo
+-  Racismo como [[violencia epistémica]]
     -  No hay diálogo sin reconocimiento epistémico
     -  No hay legitimidad sin diálogo
