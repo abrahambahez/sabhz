@@ -109,7 +109,7 @@ En el análisis también es importante no perder de vista que la transición de 
 
 - Por un lado, está enmarcado en el contexto de la mentalidad occidental y de su visión hegemónica del desarrollo científico (Dussel, 1993), que durante siglos ha sido *epistemicida* (Paraskeva, 2020)
 - Por otro, se expande a geografías consideradas, en mayor o menor medida, periféricas epistemológicamente, pero que en el siglo XXI ya aparecen como mejor integradas en las dinámicas académicas, y en el caso de América latina, con un proyecto epistémico propio en algunas disciplinas como la Antropología (Krotz, 2015)
-- Además, las fronteras disciplinares no sólo se enfrentan a la difuminación de sus fronteras en la colaboración constructiva. Dentro de cada disciplina hay potencialmente una serie de prácticas *disidentes* que erosionan su sentido común disciplinario (Restrepo et al., 2020)
+- Además, las fronteras disciplinares no sólo se enfrentan a la difuminación de sus fronteras en la colaboración constructiva. Dentro de cada disciplina hay potencialmente una serie de prácticas *disidentes* que erosionan su [[sentido común disciplinario]] (Restrepo et al., 2020)
 
 Así, cuando Uribe Mallarino escribe:
 

@@ -8,6 +8,8 @@ Como práctica, consiste en desarrollar un conocimiento competente en diferentes
 
 Para mí, no se trata de aspirar a encarnar el mito del sabio (el varón intelectualizado, *sabelotodo*) sino de ir más allá de las divisiones artificialemte impuestas sobre cómo se organiza el conocimiento, compartamentalizado literalmente en edificios universitarios según el viejo modelo de la división científica.
 
+En lo individual cabe incluso dirigirme hacia lo no-disciplinario, como se expresa en [[@restrepo2004antropologias]]
+
 Mira [el artículo de Wikipedia](https://es.wikipedia.org/wiki/Polimat%C3%ADa)
 
 ## relación con la multi, inter y trans-disciplina

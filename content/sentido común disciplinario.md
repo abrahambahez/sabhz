@@ -6,7 +6,7 @@ tags: ['incipiente', 'potenciales']
 
 Viene de la antropología latinoamericana.
 
-Desde ahí, la antropóloga Annel Mejías Guiza lo define como aquellas prácticas históricas que *establecen* qué es la antropología, cómo se hace, quién es antropóloga:o.
+Desde ahí, la antropóloga Annel Mejías Guiza lo define como aquellas prácticas históricas que *establecen* qué es la antropología, cómo se hace, quién es antropóloga:o. Restrepo (2004) habla de ello en [[@restrepo2004antropologias]].
 
 El sentido común disciplinario:
 

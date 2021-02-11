@@ -19,8 +19,7 @@ Pero [[la forma de escribir y relacionar notas tiene una tensión cualitativa-cu
 
 Al ser lo primero que se ve en contextos de relacionamiento, hay que condensar al máximo el contenido y redactarlo de forma que pueda integrarse esa condensación parte múltiples contextos. (Matuschak ve a los [títulos como APIs informáticas](https://notes.andymatuschak.org/z3XP5GRmd9z1D2qCE7pxUvbeSVeQuMiqz9x1C))
 
-- Cuando se trata de una nota de referencia, las prácticas de citación son un estándar al que se está ya habituado. En este caso, nombrarlas como autor, año, título corto
-- Cuando se trata de una nota permanente (aquí llamada nota semiótica), el título debe indicar claramente el contenido esencial, las notas de términos incluyen el término como más comunmente es conocido, las d eproposición contienen la proposición condensada, las de argumento la conclusión, etcétera.
+Los títulos bien escritos funcionan como una capa de abstracción del contenido de la nota, eso permite la referenciación contextual entre notas.
 
 De Ahrens (2017, [[@ahrensHowTakeSmart2017|How to Take Smart Notes]]):
 
@@ -50,6 +49,8 @@ Fechas
 - Cronológicamente es posible ordenar por fecha de creación (la primera vez que registraste una idea), por fecha de edición (es como la pila de papeles en tu escritorio, donde el que está arriba representa el último que usaste)
 
 ### Contenido escrito
+
+Recuerda: [[la atomicidad en el contenido es un problema fractal]]
 
 En cuanto a su forma (estructuración):
 
