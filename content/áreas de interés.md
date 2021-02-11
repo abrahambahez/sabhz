@@ -3,36 +3,38 @@ title: 'áreas de interés'
 type: 'índice'
 tags: []
 ---
+## ¿por qué vivimos en un mundo injusto y desigual? 
 
-Preparo a mediano plazo un [[índice de herramientas cognitivas]] que atraviese estas líneas de investigación como soporte.
-
-## [[Antropología y cambio social]]
-
-- Los [[sistemas de distribución de opresión y privilegios]], dentro del contexto de los [[sistema de organización social]]
-- [[OSC, vivienda y territorio en Yucatán]] (tesis doctoral)
-- Los [[modos de vida]] como núcleo de investigación para el co-diseño de proyectos sociales
-- [[teoría de la práctica]]
+- Los [[sistemas de distribución de opresión y privilegios]]
 - [[Antropología y anarquismo]], línea que exploraré cuando tenga un poco más de tiempo
-    - [[anarquismos]]
-	- [Anthropology and Anarchism](https://theanarchistlibrary.org/library/brian-morris-anthropology-and-anarchism)
-	- La obra de David Graeber en general, en particular los [Fragmentos de antropología anarquista](https://cabezasdetormenta.noblogs.org/files/2013/02/David-Graeber-Fragmentos-de-Antropologia-Anarquista.pdf)
-	- [The Anthropology of Anarchy ](https://www.researchgate.net/publication/265871071_The_Anthropology_of_Anarchy)
 
-## [[Ciberantropología]]
+## ¿en qué sentidos el conocimiento es una promesa de mejora para la humanidad y en qué sentidos una amenaza?
 
-## [[Antropología del conocimiento]]
-
+- [[Antropología del conocimiento]]
 - [[teorías de la cognición extendida]]
 - [[epistemologías latinoamericanas]]
+- [[esbozos de una teoría del trabajo cognitivo]]
 
-Expresiones socioeconómicas y culturales del [[capitalismo cognitivo]]:
+### prácticas y herramientas de trabajo cognitivo
 
-- algunos [[esbozos de una teoría del trabajo cognitivo]]
 - [[gestión del conocimiento]]
-- [[sistema personal de toma de notas]]
+- [[mi sistema personal de toma de notas]]
 - [[gestión de proyectos y productos digitales]]
 - [[tecnologías web, recursos]]
+- [[estrategias de diseño]]
 
-## [[Semiótica de la comunicación y antropología simbólica]]
+## ¿en qué sentidos la tecnología es una promesa de mejora para la humanidad y en qué sentidos una amenaza?
 
+- [[Ciberantropología]], línea que exploraré cuando tenga un poco más de tiempo
+
+## pensamiento simbólico y expresivo, humano y no-humano
+
+- [[Semiótica de la comunicación y antropología simbólica]]
 - [[modos de entender a los signos]]
+
+## índices y colecciones destacadas
+
+- [[índice de herramientas cognitivas]]
+- [[colección de técnicas de productividad y gestión de proyectos]]
+- [[conceptos de computación útiles para el trabajo cognitivo]]
+- [[iniciativas digitales interesantes]]

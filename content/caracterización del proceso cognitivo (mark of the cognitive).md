@@ -1,6 +1,6 @@
 ---
 title: 'caracterización del proceso cognitivo'
-type: 'índice'
+type: 'nota permanente'
 tags: ['incipiente']
 ---
 

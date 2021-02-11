@@ -22,7 +22,7 @@ La taxonomía de Benjamin Bloom permite organizar objetivos de aprendizaje:
 
 Son sobre todo *taxonomías informacionales*, es decir, relativas a *sistemas de información* donde las entidades son datos, documentos, modelos, etcétera.
 
-Mi [[sistema personal de toma de notas]] y muchos otros sistemas de [[gestión del conocimiento]] personal buscan construir taxonomías heterárquicas para facilitar la creación, mantenimiento y asociación de ideas a lo largo del tiempo. Así, yo tengo una [[taxonomía general de notas]].
+En [[mi sistema personal de toma de notas]] y muchos otros sistemas de [[gestión del conocimiento]] personal, se busca construir taxonomías heterárquicas para facilitar la creación, mantenimiento y asociación de ideas a lo largo del tiempo. Así, yo tengo una [[taxonomía general de notas]].
 
 Las taxonomías informacionales pueden ser jerárquicas, por ejemplo, al definir el menú de un sitio web y decidir que *todo el contenido tendrá que caber en tres secciones: acerca del sitio, contacto y presentación*.
 

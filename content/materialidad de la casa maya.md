@@ -1,6 +1,6 @@
 ---
 title: 'materialidad de la casa maya'
-type: 'índice'
+type: 'nota permanente'
 tags: ['inconclusa']
 ---
 
@@ -21,22 +21,8 @@ No hay un acuerdo sobre el mejor momento para construir la casa:
 - Se afirma que debe de ser durante la época seca, ya que la madera contiene menos humedad, tendrá mayor tiempo de vida y resistirá mejor el ataque de insectos y microorganismos ([Quiroz et al., 2011: 33](https://www.redalyc.org/jatsRepo/4779/477958274014/html/index.html#redalyc_477958274014_ref13)).
 - También se afirma que la época de corte debe ser en las épocas de lluvia; el tratamiento al que se someten las maderas principales consiste en descortezar y secar, y, únicamente, usarlas cuando estén secas ([Sánchez, García y Eastmond (2014:128)](https://www.redalyc.org/jatsRepo/4779/477958274014/html/index.html#redalyc_477958274014_ref16), [Ordaz, Rodríguez y Centeno (2014:129)](https://www.redalyc.org/jatsRepo/4779/477958274014/html/index.html#redalyc_477958274014_ref10).
 
-## Variantes constructivas
-
 La estructura portante mantiene sus elementos constitutivos sin cambios fundamentales, sin embargo:
 
 - Hay variantes constructivas en las envolventes horizontal: Apoyos corridos de madera, piedra y materiales industrializados
 - Para la vertical: La cubierta con recubrimientos vegetales y materiales industrializados;
-
-Y hay variantes sobre los componentes:
-
-- ![[rodapié (casa maya)]]
-- ![[estructura portante (casa maya)]]
-- ![[muro de bajareque (casa maya)]]
-- ![[muro de mampostería casa maya]]
-- ![[muro de block (casa maya)]]
-- ![[cubierta de huano (casa maya)]]
-- ![[cubierta de zacate (casa maya)]]
-- ![[cubierta de lámina de cartón asfaltado (casa maya)]]
-- ![[cubierta de lámina de zinc (casa maya)]]
-- ![[cubierta de concreto armado (casa maya)]]
+- [[variantes constructivas en los componentes de la casa maya]]

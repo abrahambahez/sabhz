@@ -3,6 +3,7 @@ title: 'semiótica peirciana'
 type: 'índice'
 tags: []
 ---
+Viene de la obra de Charles Sanders Peirce. En mi opinión la propuesta semiótica más desarrollada para la profundidad
 
 ## términos básicos de la semiótica peirciana
 
@@ -14,5 +15,4 @@ tags: []
 - [[representamen]]
 - [[símbolo peirciano]]
 
----
-Nodo: [[Semiótica de la comunicación y antropología simbólica]]
+nodo: [[Semiótica de la comunicación y antropología simbólica]]

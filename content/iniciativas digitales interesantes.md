@@ -20,3 +20,6 @@ A menos que se diga lo contrario, la siguiente lista debería ser gratuita y de 
 ### Jardines digitales
 
 - [Anne-Laure LeConff](https://www.mentalnodes.com) — Creadora de [Ness Labs](https://nesslabs.com/), escribe sobre cognición y aprendizaje virtual 
+- [Anthony Abgay](https://publish.obsidian.md/anthony-agbay/content/%F0%9F%91%8B%F0%9F%8F%BD+Welcome)
+- [LYT Kit de Nick Milo](https://publish.obsidian.md/lyt-kit/_Start+Here)
+- [Andy Matuschak](https://notes.andymatuschak.org/About_these_notes?stackedNotes=zUw5PuD8op9oq8kHvni6sug6eRTNtR9Wqma)

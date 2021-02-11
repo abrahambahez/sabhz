@@ -19,7 +19,7 @@ La teoría de la dependencia es la primera teoría producida desde América Lati
 - filosofías de la liberación
 	- [La colonialidad del saber: eurocentrismo y ciencias sociales](http://bibliotecavirtual.clacso.org.ar/clacso/sur-sur/20100708034410/lander.pdf)
 
-## Las [[antropologías latinoamericanas]]
+- [[particularidades de las antropologías latinoamericanas]]
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: 'sistema personal de toma de notas'
-type: 'índice'
+type: 'nota permanente'
 tags: ['perenne❧']
 ---
 
@@ -19,3 +19,5 @@ También es la principal razón por la que hoy existe una tendencia creciente a 
 - Crear notas de manera consistente: [[una buena nota explota todos sus componentes para facilitar el trabajo cognitivo y la vinculación]]
 - Pero siempre debo considerar que [[la forma de escribir y relacionar notas tiene una tensión cualitativa-cuantitativa]]
 - Para no perderme en la mala práctica de tomar notas sólo por tomarlas, es útil la [[operacionalización del conocimiento en la toma de notas]]
+
+También lee [[metáforas de los sistemas de notas]]

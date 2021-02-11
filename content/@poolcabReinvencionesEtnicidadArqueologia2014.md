@@ -8,7 +8,7 @@ authors:
 year: 2014
 apa: 'Pool Cab, M. N. (2014). Las reinvenciones de la etnicidad en la arqueología maya. Ediciones de la Universidad Autónoma de Yucatán.'
 type: 'nota de referencia'
-tags: ['leyendo']
+tags: ['leyendo', 'huérfana']
 ---
 
 - [[@poolcabReinvencionesEtnicidadArqueologia2014-1]]

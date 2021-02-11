@@ -1,6 +1,6 @@
 ---
 title: 'teoría de la práctica'
-type: 'nodo'
+type: 'nota permanente'
 tags: []
 ---
 
@@ -25,4 +25,8 @@ Por otra los elementos estructuradores como:
 
 Hay conceptos que están diseñados para contener ambas cosas dentro de sí, como el *habitus* de Bourdieu o la *estructuración* de Giddens.
 
+## relacionado
+
 [[Antropología y cambio social]]
+
+[[espectro de interpretación arqueológica en la estructuración]]
