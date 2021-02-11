@@ -11,7 +11,7 @@ El surgimiento del [[capitalismo cognitivo]] la ha posicionado como una nueva fo
 Desde el punto de vista de [[mi sistema personal de toma de notas]], existe una práctica de gestión de conocimiento personal, en mi caso la practico usando:
 
 - Una colección que explora los [[modos de lectura]] como prácticas de auto-aprendizaje
-- Una colección que explora los [[modos de escritura ❦]] como técnicas de construcción de conocimiento
+- Una colección que explora los [[modos de escritura]] como técnicas de construcción de conocimiento
 - [[mi sistema personal de toma de notas]], que refleja mi versión particular de uno de esos modos de escritura
 
 lee [[cómo pensar el trabajo intelectual y el trabajo operativo]]

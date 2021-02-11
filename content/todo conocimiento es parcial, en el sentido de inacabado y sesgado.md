@@ -12,7 +12,7 @@ La discusión reciente parece darle la razón a la crítica de la objetividad, y
 - El principio de dualidad onda-partícula, representado en el célebre experimento del *gato de Schrödinger*, *implica* que no puede obtenerse todo el conocimiento sobre un fenómeno simultáneamente
 - El principio de incompletitud de Gödel *admite implícitamente* el argumento escéptico de la circularidad
 
-Además de esos ejemplos, que son débiles para poder afirmar sobre ellos un relativismo epistemológicamente relevante, están justamente las discusiones actuales sobre epistemología, gnoseología y sociología/antropología del conocimiento:
+Además de esos ejemplos, que son débiles para poder afirmar sobre ellos un relativismo epistemológicamente relevante, están justamente las discusiones actuales sobre epistemología, gnoseología y sociología/[[Antropología del conocimiento]]:
 
 - El problema del realismo científico:
     - [[@baker2020classificationAndKinds]]

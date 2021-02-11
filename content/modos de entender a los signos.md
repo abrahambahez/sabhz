@@ -1,7 +1,7 @@
 ---
 title: 'modos de entender a los signos'
 type: 'colección'
-tags: ['incipiente']
+tags: ['potenciales']
 ---
 [[Semiótica de la comunicación y antropología simbólica]]
 
@@ -25,7 +25,7 @@ Parece que la antropología desarrolló esfuerzos interpretativos independientes
 
 ### La semiótica de tradición periciana
 
-- Charles S. Peirce
+- Charles S. Peirce: [[semiótica peirciana]]
 - Charles Morris
 - Thomas Sebeok
 - Robert Marty (*«L’algèbre des signes: Essai de sémiotique scientifique d’après Charles Sanders Peirce»*)
@@ -52,5 +52,4 @@ Parece que la antropología desarrolló esfuerzos interpretativos independientes
 Fuentes de origen que considero menos relevante: desde diccionarios de consulta hasta definiciones generales de lingüística, retórica, psicología o hermenéutica
 
 - Ferrater Mora
-- 
-- Arquitecturas cognitivas simbólicas (como opuestas a las conexionistas)
+- ==Arquitecturas cognitivas simbólicas== (como opuestas a las conexionistas)

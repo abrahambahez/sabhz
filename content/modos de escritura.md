@@ -3,7 +3,6 @@ title: modos de escritura
 type: 'colección'
 tags: ['incipiente']
 ---
-
 La escritura es una forma de ejercicio cognitivo analítico y creativo, de construcción y aprendizaje así como de limpieza y ordenamiento mental. Es una práctica compleja, rigurosa, llena de matices.
 
 ## Escribir para ordenar la mente

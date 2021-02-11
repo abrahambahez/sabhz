@@ -30,7 +30,7 @@ Clark y Chalmers (1998) proponen condiciones para que un recurso externo sea con
 
 ## Afectividad extendida (Colombetti y Roberts, 2015)
 
-Las disposiciones emocionales pueden ser parte de las hipótesis de la mente extendida. (Por ejemplo [[modos de escritura ❦#Escribir para ordenar la mente]], *«gratitude journal»*). Hay una correlación entre la expresión corporal, algunas reacciones neurológicas y las emociones que se experimentan. Si un objeto exterior puede ser usado para desencadenar cierto estado emocional, es razonable preguntarnos si eso constituye de algún modo una extensión de la emoción del sujeto a través de ese *sistema de acoplamiento*.
+Las disposiciones emocionales pueden ser parte de las hipótesis de la mente extendida. (Por ejemplo [[modos de escritura#Escribir para ordenar la mente]], *«gratitude journal»*). Hay una correlación entre la expresión corporal, algunas reacciones neurológicas y las emociones que se experimentan. Si un objeto exterior puede ser usado para desencadenar cierto estado emocional, es razonable preguntarnos si eso constituye de algún modo una extensión de la emoción del sujeto a través de ese *sistema de acoplamiento*.
 
 Un claro ejemplo son los productos mediáticos y artísticos. Es intuitivo que la música parece poseer algunas cualidades emocionales (cuando menos ).
 
