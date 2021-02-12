@@ -146,10 +146,7 @@ ul li {
 .type, .tags  {
     color: var(--color-tertiary);
 }
-.excerpt {
-    color: var(--color-secondary);
-    font-size: 1rem;
-}
+
 .tags {
     margin-top:0;
 }
@@ -164,6 +161,7 @@ ul li {
     padding-top:1rem;
 }
 .backlink-link {
+    width: 100%;
     display: inline-block;
     overflow-wrap: break-word;
 }

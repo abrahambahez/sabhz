@@ -14,7 +14,6 @@ tags: ['leyendo', 'huérfana']
 - [[@poolcabReinvencionesEtnicidadArqueologia2014-1]]
 - [[@poolcabReinvencionesEtnicidadArqueologia2014-2]]
 - [[@poolcabReinvencionesEtnicidadArqueologia2014-5]]
-- 
 
 # Referencias
 
