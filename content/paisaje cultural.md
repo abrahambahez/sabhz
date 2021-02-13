@@ -4,7 +4,7 @@ type: 'término'
 tags: ['doctorado']
 ---
 
-Las personas, al vivir en la Tierra, lo hacen en un suelo específico dentro de su área ([[Territorio]]). Al asentarse de forma más o menos permanente, lo transforman a través de su trabajo.
+Las personas, al vivir en la Tierra, lo hacen en un suelo específico dentro de su área ([[territorio]]). Al asentarse de forma más o menos permanente, lo transforman a través de su trabajo.
 
 Por lo tanto, los paisajes culturales son aquellos que resultan del crecimiento natural del lugar combinado con las modificaciones humanas. Este es un [término usado por la UNESCO](https://whc.unesco.org/en/culturallandscape/#1), que incluso maneja una lista de diferentes casos.
 
@@ -22,4 +22,4 @@ Además deberían considerarse como parte del elemento humano las percepciones s
 
 ## Referencias
 
-Sánchez Suárez, A. (2020). Paisaje cultural efímero. El patrimonio vernáculo maya en su relación con el territorio. Arquitecturas del sur, 38(57), 74-89. [[@sanchezsuarezPaisajeCulturalEfimero2020]]
+Sánchez Suárez, A. (2020). Paisaje cultural efímero. El patrimonio vernáculo maya en su relación con el [[territorio]]. Arquitecturas del sur, 38(57), 74-89. [[@sanchezsuarezPaisajeCulturalEfimero2020]]

@@ -4,7 +4,7 @@ type: 'nota permanente'
 tags: []
 ---
 
-Desde [[@torres-mazueraRegulacionImposibleLegalidad2020|La regulación imposible]]:
+Reforma de 1992 al artículo 27 de la constitución mexicana desde [[@torres-mazueraRegulacionImposibleLegalidad2020]]:
 
 >«En el año 1992 el artículo 27 constitucional fue reformado. A la par, fueron emitidas la Ley Agraria, la Ley Minera, la Ley de Aguas Nacionales y la Ley Forestal, con la innovación de permitir la entrada de actores privados, en particular, empresas nacionales e internacionales en la explotación y el aprovechamiento de tierras, aguas, bosques y minerales, así como la incorporación de las tierras ejidales a un mercado formal.» (p. 30)
 
@@ -29,4 +29,3 @@ Así, se permitió la asociación entre sujetos agrarios e inversionistas privad
 
 Torres-Mazuera, G., & Appendini, K. (2020). _La regulación imposible. (I)legalidad e (i)legitimidad en los mercados  de tierra en México al inicio del siglo xxi_. El Colegio de México
 
-nodo: [[Territorio]]

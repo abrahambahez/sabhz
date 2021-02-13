@@ -9,7 +9,7 @@ tags: ['doctorado']
 
 ## Objetivos
 
->Describir las dinámicas de reconocimiento que tres OSC con iniciativas de vivienda-territorio en Yucatán le dan a los conocimientos tradicionales y su impacto en el diseño, implementación, evaluación y comunicación de esas iniciativas.
+>Describir las dinámicas de reconocimiento que tres OSC con iniciativas de vivienda-[[territorio]] en Yucatán le dan a los conocimientos tradicionales y su impacto en el diseño, implementación, evaluación y comunicación de esas iniciativas.
 
 Específicamente
 
@@ -47,7 +47,7 @@ Específicamente
 - Alternativas de conocimiento y construcción participativa
    - Recuperación creativa y reinterpretativa de los conocimientos constructivos tradicionales
 
-### II. Modelos de [[Territorio]] y [[territorialidad]] en Yucatán
+### II. Modelos de [[territorio]] y [[territorialidad]] en Yucatán
 
 - Los estudios territoriales ([[@capelCienciasSocialesEstudio2016|Las ciencias sociales y el estudio del territorio]])
 - La [[reforma de 1992 al artículo 27 de la constitución mexicana]] y el estatus legal de los territorios peninsulares

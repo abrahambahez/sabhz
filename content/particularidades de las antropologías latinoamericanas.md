@@ -26,6 +26,8 @@ De este modo vemos como las antropologías socioculturales latinoamericanas se v
 
 - [Núm. 10 (2020): Revista Kogoró|Revista Kogoró revistas.udea.edu.co](https://revistas.udea.edu.co/index.php/kogoro/issue/current)
 
+La propuesta de las antropologías del mundo difiere en que *desterritorializa* la relación entre las antropologías hegemónicas - subalternizadas: [[@restrepo2004antropologias]]
+
 ## Referencias
 
 Grimson, A. (2016). Desafíos para las antropologías desde el sur. Intervenciones en estudios culturales, 3, 135–citation_lastpage.
@@ -41,5 +43,7 @@ Krotz, E. (2015). Epistemología, poder y cultura en las antropologías del sur:
 Krotz, E. (2018). Antropología: Conocimiento y política. Encartes, 1(1), 67–83.
 
 Leyva, X., Alonso, J., Hernández, R. A., Escobar, A., Kohler, A., Cumes, A., Sandoval, R., Speed, S., Blaser, M., Krotz, E., & others. (2015). Prácticas otras de conocimiento (s) (Vol. 3). Entre crisis, entre guerras.
+
+Restrepo, E., & Escobar, A. (2004). Antropologías en el mundo. Jangwa Pana, 3(1), 110-131.
 
 Ribeiro, G. L., Escobar, A.-, Barragán, C. A., Restrepo, E., Centro de Investigaciones y Estudios Superiores en Antropología Social (México), Universidad Autónoma Metropolitana (México), & Universidad Iberoamericana Ciudad de México. (2009). Antropologías del mundo: Transformaciones disciplinarias dentro de sistemas de poder. Wenner-Gren Foundation for Anthropological Research : Ciesas : UAM : UIA.

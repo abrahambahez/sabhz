@@ -58,7 +58,7 @@ Cfr. por ejemplo la [filosofía de la propiedad de Stirner](https://youtu.be/_5q
 
 Por lo tanto es necesario comprender la privatización de la tierra no sólo como un cambio en el régimen de propiedad (en sentido normativo), sino desde una aproximación de las relaciones *fácticas* de propiedad.
 
-En el contexto de la privatización de facto los ejidatarios y comuneros se han consolidado como propietarios con control absoluto de extensiones de tierra/territorio en detrimento de instituciones colectivas que también tienen derechos por ley, como los núcleos agrarios y las familias de los derechosos (p. 53)
+En el contexto de la privatización de facto los ejidatarios y comuneros se han consolidado como propietarios con control absoluto de extensiones de tierra/[[territorio]] en detrimento de instituciones colectivas que también tienen derechos por ley, como los núcleos agrarios y las familias de los derechosos (p. 53)
 
 Las relaciones de propiedad se generan con cambios productivos agrícolas y no agrícolas, así como cambios demográficos (migración, aumento de población en núcleos ejidales, interés de las mujeres) (p. 54)
 

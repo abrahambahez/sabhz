@@ -1,8 +1,7 @@
 ---
 title: 'Humanismo digital'
-type: 'nodo'
+type: 'nota permanente'
 tags: []
 ---
-Los enlaces con notas que se relacionan con Humanismo digital conforman este nodo.
 
 Comienza en [Wikipedia](https://en.wikipedia.org/wiki/Digital_humanities)

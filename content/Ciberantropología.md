@@ -1,6 +1,5 @@
 ---
 title: 'Ciberantropología'
-type: 'nodo'
+type: 'nota permanente'
 tags: []
 ---
-Los enlaces con notas que se relacionan con Ciberantropología conforman este nodo.

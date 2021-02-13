@@ -32,4 +32,4 @@ Desarrollada aquí como una [[visión jurídica indígena sobre la territorialid
 
 La coexistencia de estos tres órdenes, con principios, reivindicaciones y actores diferentes amplía los desfases entre lo correcto e incorrecto, justo e injusto, legal o ilegal, legítimo o ilegítimo cuando se trata de derechos asociados a las tierras ejidales y comunales (p. 57)
 
-[^1]: Por **orden jurisdiccional** nos referimos a un ensamblaje de instituciones, autoridades y normas, estatales y sociales (si es que cabe tal distinción), con una lógica compartida, aunque en ocasiones con ciertas contradicciones a su interior, que generan orden y sentido en la producción de la propiedad/territorio ejidal y comunal. (p. 54)
+[^1]: Por **orden jurisdiccional** nos referimos a un ensamblaje de instituciones, autoridades y normas, estatales y sociales (si es que cabe tal distinción), con una lógica compartida, aunque en ocasiones con ciertas contradicciones a su interior, que generan orden y sentido en la producción de la propiedad/[[territorio]] ejidal y comunal. (p. 54)

@@ -12,7 +12,7 @@ tags: ['potenciales']
 
 Con este término Rita Segato hace referencia a las prácticas que consisten en la cosificación de lo vivo y la vitalidad. Sus expresiones históricas más importantes son el patriarcado (con dos ejes: vertical contra las mujeres, y horizontal como corporación contra los hombres) y las relaciones de explotación y colonización.
 
-A partir de este concepto la autora elabora la noción de [[estructuras elementales de la violencia (Pedagogías de la crueldad)|estructuras elementales de la violencia]].
+A partir de este concepto la autora elabora la noción de [[estructuras elementales de la violencia (Pedagogías de la crueldad)]].
 
 ## Esquema
 
@@ -31,5 +31,3 @@ A partir de este concepto la autora elabora la noción de [[estructuras elementa
 ## Referencias
 
 Segato, R. L. (2019, noviembre). Pedagogías de la crueldad. Revista de la Universidad de México. https://www.revistadelauniversidad.mx/articles/9517d5d3-4f92-4790-ad46-81064bf00a62/pedagogias-de-la-crueldad
-
-nodo: [[Antropología y cambio social]]

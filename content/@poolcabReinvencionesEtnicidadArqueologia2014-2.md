@@ -38,7 +38,7 @@ A manera de síntesis de trabajo se destacan dos ideas:
 - La identidad se asemeja más a un discurso de identidaes múltiples circunstancialmente manifestadas e inmersas en diversas dinámicas como las relaciones de poder o intereses compartidos en determinados contextos, las identidades pueden fragmentarse
 - La etnicidad se manifiesta en prácticas que lo hacen a su vez en la materialidad. La dimensión material de la identidad permite acceder a ella desde la arqueología
 
-Otro elemento importante es la territorialización ( el espacio convertido en territorio, a menudo sagrado) y otras formas de espacialidad donde se sitúa una buena parte de lo que está puesto en común, sobre todo la creencia compartida del mismo origen.
+Otro elemento importante es la territorialización ( el espacio convertido en [[territorio]], a menudo sagrado) y otras formas de espacialidad donde se sitúa una buena parte de lo que está puesto en común, sobre todo la creencia compartida del mismo origen.
 
 Lo importante de este recorrido es hacer notar cómo la construcción unilateral (hecha desde la interpretación de los investigadores) de categorías étnicas como lo *maya*, puede ser superada y alcanzar mayor profundidad explicativa al complejo problema de identidad-etnicidad en arqueología. 
 

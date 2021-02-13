@@ -6,7 +6,7 @@ tags: []
 
 Desde [[@perezcastanedaExisteAunPropiedad2015]]
 
-Había tres clases: propiedad pública, propiedad privada y propiedad social (ejidal y comunal), *"en teoría soportados en una serie de principios jurídicos que anteponían la búsqueda del bien común al interés de los individuos"*
+Había tres clases de propiedad del [[territorio]] en México: propiedad pública, propiedad privada y propiedad social (ejidal y comunal), *"en teoría soportados en una serie de principios jurídicos que anteponían la búsqueda del bien común al interés de los individuos"*
 
 Atributos de los regímenes de propiedad ejidal y comunal en este periodo:
 
@@ -42,5 +42,3 @@ Estas obligaciones requerían que los titulares designaran un sucesor dentro de 
 
 - La renta ilegal de las parcelas bajo diferentes modalidades (aparcería, arrendamiento, mediería, usufructo)
 - La prohibición de contratar fuerza de trabajo asalariada,  por irreal nadie tomaba en cuenta
-
-[[Territorio]]

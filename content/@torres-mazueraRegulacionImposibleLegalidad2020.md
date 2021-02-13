@@ -11,7 +11,7 @@ apa: 'Torres-Mazuera, G., & Appendini, K. (2020). La regulación imposible. (I)l
 type: 'nota de referencia'
 tags: ['leyendo']
 ---
-Estudio sobre las dinámicas de territorialidad en las áreas rurales.
+Estudio sobre las dinámicas de [[territorialidad]] y [[territorio]] en las áreas rurales mexicanas. 
 
 ## Territorialidad: contexto general
 
@@ -22,8 +22,6 @@ Estudio sobre las dinámicas de territorialidad en las áreas rurales.
 - La [[inseguridad de la tierra en México]]
 - El [[contexto general sobre la territorialidad en Mérida]]
 - Una [[visión jurídica indígena sobre la territorialidad]]
-
-[[Territorio]]
 
 ## Referencias
 

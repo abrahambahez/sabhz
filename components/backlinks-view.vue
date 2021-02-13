@@ -6,7 +6,7 @@
         <div>
             <nuxt-link v-for="backlinkPost in backlinkPosts" :key="backlinkPost.title" 
                 :to="backlinkPost.slug" class="backlink-link">
-                <h3>{{backlinkPost.title.match(/[0-9]{4}-[0-9]{2}-[0-9]{2}/) ? formatDate(backlinkPost.title) : backlinkPost.title}}</h3>
+                <p>{{backlinkPost.title.match(/[0-9]{4}-[0-9]{2}-[0-9]{2}/) ? formatDate(backlinkPost.title) : backlinkPost.title}}</p>
                 <p v-for="p in matchTokens(backlinkPost.text)" 
                     :key="p"
                     class="context-string"
