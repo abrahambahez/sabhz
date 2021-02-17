@@ -1,7 +1,6 @@
 ---
 title: sistemas de gestión de conocimiento
-type: 'término'
-tags: []
+tags: ['término']
 ---
 
 La gestión del conocimiento engloba distintas estrategias con las que un [[trabajador cognitivo]] construye productos de su trabajo intelectual.

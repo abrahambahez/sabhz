@@ -1,7 +1,6 @@
 ---
 title: 'violencia epistémica'
-type: 'término'
-tags: []
+tags: ['término']
 ---
 Cualquier acción con la intención de eliminar, negar, menospreciar, ridiculizar e incluso malinterpretar deliberadamente el saber de otros grupos sociales diferentes del propio. 
 

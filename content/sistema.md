@@ -1,7 +1,6 @@
 ---
 title: 'sistema'
-type: 'término'
-tags: ['concepto-terminal', 'refactorizar']
+tags: ['término', 'concepto-terminal', 'refactorizar']
 ---
 
 

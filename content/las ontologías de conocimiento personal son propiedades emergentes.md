@@ -1,7 +1,6 @@
 ---
 title: 'las ontologías de conocimiento personal son propiedades emergentes'
-type: 'nota permanente'
-tags: []
+tags: ['nota-permanente']
 ---
 
 Para el conocimiento personal y de manera [[operacionalización|operacional]], una [[ontología informacional]] es esencialmete una red de conceptos que usas individualmente para entender el mundo y desarrollar *tus propias teorías* sobre cómo funciona.

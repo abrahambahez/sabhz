@@ -1,7 +1,6 @@
 ---
 title: 'toma de notas y operacionalización del conocimiento'
-type: 'nota permanente'
-tags: ['perenne❧']
+tags: ['nota-permanente', 'perenne❧']
 ---
 
 Para facilitar la dirección del sistema de toma de notas, he ensayado una [[operacionalización]] los conceptos que considero más importantes del trabajo cognitivo en definiciones donde las notas so relevantes.

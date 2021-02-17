@@ -1,7 +1,6 @@
 ---
 title: '¶ curso de Obsidian - nivel intermedio'
-type: 'índice'
-tags: ['efímera']
+tags: ['índice', 'efímera']
 ---
 temas:
 

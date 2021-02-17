@@ -1,7 +1,6 @@
 ---
 title: sistema de distribución de opresión y privilegios
-type: 'nota permanente'
-tags: ['incipiente']
+tags: ['nota-permanente', 'incipiente']
 ---
 
 Todo comienza con un [[sistema de organización social]]. De los diferentes modos en que *podemos relacionarnos unos con otros* uno es organizar el mundo a partir de la distribución de dos criterios:

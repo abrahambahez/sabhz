@@ -7,8 +7,7 @@ authors:
     - Menezes, Lucio
 year: 2015
 apa: 'Menezes, L. (2015). Las cosas están vivas: Relaciones entre cultura material, comunidades y legislación arqueológica/These things are alive: Relationships between material culture, communities, and archaeological legislation. Complutum. Publicaciones del Departamento de prehistoria de la Universidad complutense de Madrid, 26(1), 37.'
-type: 'nota de referencia'
-tags: []
+tags: ['nota-referencia']
 ---
 
 Aunque la comunidad puede «hacer uso», interactuar o manipular el registro arqueológico que se asienta dentro de ella, las legislaciones arqueológicas le otorgan un valor nacional o universal y con ello ejercen un poder que rebasa el de la propiedad local y lo llevan al de la soberanía nacional o al del patrimonio universal. No son de nadie en particular, sino de todos a quienes la legislación designe (nacional, mundial).

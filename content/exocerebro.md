@@ -1,7 +1,6 @@
 ---
 title: 'exocerebro'
-type: 'término'
-tags: []
+tags: ['término']
 ---
 
 Hipótesis del *exocerebro*:

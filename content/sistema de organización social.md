@@ -1,7 +1,6 @@
 ---
 title: 'sistema de organización social'
-type: 'nota permanente'
-tags: []
+tags: ['nota-permanente']
 ---
 
 Para los *homo sapiens*, una sociedad, o grupo social, tiene dos elementos:

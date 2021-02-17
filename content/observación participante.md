@@ -1,7 +1,6 @@
 ---
 title: 'observación participante'
-type: 'término'
-tags: ['incipiente']
+tags: ['término', 'incipiente']
 ---
 
 Es una técnica de investigación que apela a la experiencia directa del investigador en lo que se observa, atestiguar de primera mano. Se pretende que sea sistemática y controlada, para generar a través de la participación en actividades de los grupos investigados. (desde Jociles p. 39)

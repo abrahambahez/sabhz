@@ -1,7 +1,6 @@
 ---
 title: 'tecnologías web, recursos'
-type: 'colección'
-tags: []
+tags: ['colección']
 ---
 
 ## Front-end

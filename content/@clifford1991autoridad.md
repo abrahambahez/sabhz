@@ -7,8 +7,7 @@ authors:
 - Clifford, James
 year: 1991
 apa: 'Clifford, J. (1991). Sobre la autoridad etnográfica. El surgimiento de la antropología posmoderna, 141-170.'
-type: 'nota de referencia'
-tags: []
+tags: ['nota-referencia']
 ---
 
 Autoridades: experiencial, interpretativa, dialógica y polifónica.

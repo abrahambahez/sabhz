@@ -1,7 +1,6 @@
 ---
 title: 'enactivismo'
-type: 'término'
-tags: []
+tags: ['término']
 ---
 
 La idea de que los procesos cognitivos *surgen de la interacción dinámica* entre un *actante* o *sujeto* y el entorno donde está.

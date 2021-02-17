@@ -1,7 +1,6 @@
 ---
 title: 'desarrollo de ideas en el zettelkasten de Ahrens'
-type: 'nota permanente'
-tags: []
+tags: ['nota-permanente']
 ---
 
 Las notas deben estar interconectadas entre sí. Pero sólo debemos escribir notas que nos ayuden a pensar. Según el [[@ahrensHowTakeSmart2017|How to Take Smart Notes]]

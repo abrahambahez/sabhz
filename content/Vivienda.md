@@ -1,7 +1,6 @@
 ---
 title: 'Vivienda'
-type: 'índice'
-tags: ['prioridad-1']
+tags: ['índice', 'prioridad-1']
 ---
 ## para desarrollar
 

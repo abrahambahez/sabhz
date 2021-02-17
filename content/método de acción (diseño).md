@@ -1,7 +1,6 @@
 ---
 title: 'método de acción (diseño)'
-type: 'método'
-tags: []
+tags: ['nota-permanente']
 ---
 
 Parte de la premisa de que «todo es un proyecto», y cada proyecto tiene tres componentes:

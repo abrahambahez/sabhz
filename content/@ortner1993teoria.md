@@ -7,8 +7,7 @@ authors:
 - Ortner, Sherry B.
 year: 1993
 apa: 'Ortner, S. B. (1993). La teoría antropológica desde los años sesenta. Editorial Universidad de Guadalajara.'
-type: 'nota de referencia'
-tags: ['potenciales']
+tags: ['nota-referencia', 'potenciales']
 ---
 
 Como un ejercicio de [[reflexividad]], Ortner evalúa las teorías antropológicas desde la década en que inició su profesión.

@@ -1,7 +1,6 @@
 ---
 title: 'categorización'
-type: 'término'
-tags: []
+tags: ['término']
 ---
 
 La categorización es un método de [[análisis clasificatorio]], por tanto procede inductivamente a través de:

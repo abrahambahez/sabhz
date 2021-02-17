@@ -1,7 +1,6 @@
 ---
 title: 'solar mesoamericano'
-type: 'nota permanente'
-tags: []
+tags: ['nota-permanente']
 ---
 Para Hernández Álvarez (2017), de acuerdo con la [[etnoarqueología]] de los [[grupo doméstico|grupos domésticos]], el *modelo del solar en general* es un [[marcos de referencia|marco de referencia]] general y transcultural, mientras que el modelo del solar mesoamericano es una variante específica.
 

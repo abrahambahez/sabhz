@@ -1,7 +1,6 @@
 ---
 title: 'modos de entender a los signos'
-type: 'colección'
-tags: ['potenciales']
+tags: ['colección', 'potenciales']
 ---
 [[Semiótica de la comunicación y antropología simbólica]]
 

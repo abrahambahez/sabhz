@@ -1,7 +1,6 @@
 ---
 title: 'vivienda yucateca'
-type: 'nota permanente'
-tags: ['doctorado', 'añadir-referencias']
+tags: ['nota-permanente', 'doctorado', 'añadir-referencias']
 ---
 El solar mesoamericano fue durante el periodo prehispánico el modelo doméstico de los campesinos; la casa maya es un modelo que ha sobrevivido hasta la actualidad. Las residencias de las élites pasaron, tras la conquista, a asimilarse cada vez más a las rurales o a las españolas.
 

@@ -1,7 +1,6 @@
 ---
 title: 'representamen'
-type: 'término'
-tags: []
+tags: ['término']
 ---
 
 Un representamen, en [[semiótica peirciana]], es uno de los tres elementos de un signo, se corresponde con la **primeridad**.

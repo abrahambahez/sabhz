@@ -1,7 +1,6 @@
 ---
 title: 'las notas como herramientas cognitivas'
-type: 'nota permanente'
-tags: []
+tags: ['nota-permanente']
 ---
 
 Si se acepta en cualquier grado alguna versión de las [[teorías de la cognición extendida]], es consecuente pensar que [[el trabajo cognitivo no es privativo ni del individuo ni del cerebro]], y que de hecho, los soportes externos son altamente efectivos si se integran como parte crítica del sistema de producción de conocimiento personal.

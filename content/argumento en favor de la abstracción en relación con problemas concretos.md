@@ -1,7 +1,6 @@
 ---
 title: 'argumento en favor de la abstracción en relación con problemas concretos'
-type: 'nota permanente'
-tags: []
+tags: ['nota-permanente']
 ---
 
 Desde Ahrens (2017, [[@ahrensHowTakeSmart2017|How to Take Smart Notes]])

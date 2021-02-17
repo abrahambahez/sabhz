@@ -6,8 +6,7 @@ source_type: libro
 authors: ['Restrepo, Eduardo']
 year: 2016
 apa: ''
-type: 'nota de referencia'
-tags: []
+tags: ['nota-referencia']
 ---
 
 Etnografía es una *descripción* que busca con fuerza una mirada de primer orden (un ver el mundo desde la perpectiva de las personas que se quieren leer)

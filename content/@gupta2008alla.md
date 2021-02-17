@@ -8,8 +8,7 @@ authors:
     - Ferguson, James
 year: 2008
 apa: 'Gupta, A., & Ferguson, J. (2008). Más allá de la “cultura”: Espacio, identidad y las políticas de la diferencia. Antípoda. Revista de Antropología y Arqueología, 7, 233-256.'
-type: 'nota de referencia'
-tags: []
+tags: ['nota-referencia']
 ---
 Este trabajo se propone hacer una exploración de la forma en que las “ideas recibidas” de espacio y lugar han configurado y continúan configurando el sentido común del quehacer antropológico.
 
@@ -19,7 +18,7 @@ Con énfasis en la teoría posmodernista y feminista que ha construido nociones 
 
 El problema de la aparente «discontinuidad natural» de las fronteras constituye la premisa para teorizar los contactos, los conflictos y las contradicciones entre las culturas y las sociedades.
 
-Identificación común entre el Estado, la cultura y la sociedad (la cultura/sociedad *hindú* de la India), pero también las nociones transnacionales de área cultural o bien, la de nación multiculturales. En antropología es común la noción de identificar cultura con [[territorio]] («los *nuer* viven en 'Nuerlandia'» (p. 235)). Esto es un presunto isomorfismo entre espacio, lugar y cultura. Todo esto es problemático por ejemplos como las zonas fronterizas o la poscolonialidad. (cfr. [[@poolcabReinvencionesEtnicidadArqueologia2014-5#Mayas y otras «gentes» según las fuentes coloniales]])
+Identificación común entre el Estado, la cultura y la sociedad (la cultura/sociedad *hindú* de la India), pero también las nociones transnacionales de área cultural o bien, la de nación multiculturales. En antropología es común la noción de identificar cultura con [[Territorio]] («los *nuer* viven en 'Nuerlandia'» (p. 235)). Esto es un presunto isomorfismo entre espacio, lugar y cultura. Todo esto es problemático por ejemplos como las zonas fronterizas o la poscolonialidad. (cfr. [[Pool Cab (2014, cap. 1) Dilucidando la etnicidad en el norte de Yucatán durante el Clásico Tardío#Mayas y otras «gentes» según las fuentes coloniales]])
 
 Igual de problemática es la idea de *subcultura* (diferenciada en relación con una cultura hegemónica).
 
@@ -47,7 +46,7 @@ Una interpretación intercultural permite observar cómo la cultura se constituy
 
 >«Lo que proponemos aquí es, de manera muy amplia, que dejemos de ver la diferencia cultural como un correlato de un mundo de “pueblos” cuyas historias separadas están a la espera de ser conectadas por el antropólogo y que nos movamos, más bien, hacia la noción de un mundo producido por un proceso histórico común, que diferencia a los distintos sectores del mundo al mismo tiempo que los conecta.» (p. 248)
 
-Los *dispositivos retóricos* de la construcción textual polifónica son insuficientes, se requiere también el reconocimiento de la propia construcción occidental de la *otredad*. *«Una antropología cuyos objetos ya no se conciben automática y naturalmente anclados en un espacio deberá prestar particular atención a la forma en que se construyen, imaginan, cuestionan e imponen las nociones de espacio y lugar»* (p. 250); [[la territorialización es el proceso de producción de un territorio concreto a nivel práctico y discursivo]].
+Los *dispositivos retóricos* de la construcción textual polifónica son insuficientes, se requiere también el reconocimiento de la propia construcción occidental de la *otredad*. *«Una antropología cuyos objetos ya no se conciben automática y naturalmente anclados en un espacio deberá prestar particular atención a la forma en que se construyen, imaginan, cuestionan e imponen las nociones de espacio y lugar»* (p. 250); [[Capel (2016) la territorialización es el proceso de producción de un territorio concreto a nivel práctico y discursivo]].
 
 De modo que la noción de zonas fronterizas es una conceptualización más adecuada de la ubicación «normal» del sujeto posmoderno (p. 251), pues es en la extrañeza de lo familiar que la diferencia se constituye como algo más problemático, tanto política como conceptualmente... (p. 252).
 

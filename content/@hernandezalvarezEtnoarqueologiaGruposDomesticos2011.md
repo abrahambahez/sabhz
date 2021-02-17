@@ -7,8 +7,7 @@ authors:
     - Hernández Álvarez, Héctor Abraham
 year: 2011
 apa: 'Hernández Álvarez, H. A. & Universidad Nacional Autónoma de México. (2011). Etnoarqueología de grupos domésticos mayas: Identidad social y espacio residencial de Yaxunah, Yucatán. UNAM. http://libroselectronicos.cervantes.es/?id=00016072'
-type: 'nota de referencia'
-tags: []
+tags: ['nota-referencia']
 ---
 
 >Se plantea que el espacio residencial y las viviendas, como referentes principales de los grupos domésticos de la comunidad de Yaxunah, Yucatán, constituyen aspectos materiales a través de los cuales se negocia cotidianamente la identidad a nivel social. -- Resumen del autor
@@ -56,7 +55,7 @@ Demográfico, socioeconómico, medio ambiente construido
 - Labores y ciclo doméstico:
     - el promedio de edad del grupo doméstico, el número de generaciones por grupo, la edad de las estructuras que conforman el espacio residencial e información cualitativa sobre la historia particular de los grupos domésticos.
 
-![[el espacio residencial de los grupos domésticos mayas]]
+![[Hernández Álvarez (2011) el espacio residencial de los grupos domésticos mayas]]
 
 ### identidad social de grupos domésticos mayas
 

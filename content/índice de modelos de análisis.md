@@ -1,7 +1,6 @@
 ---
 title: 'índice de modelos de análisis'
-type: 'índice'
-tags: ['incipiente']
+tags: ['índice', 'incipiente']
 ---
 
 Modelos de análisis básicos:

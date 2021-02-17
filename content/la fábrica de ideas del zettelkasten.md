@@ -1,7 +1,6 @@
 ---
 title: 'la fábrica de ideas del zettelkasten'
-type: 'nota permanente'
-tags: []
+tags: ['nota-permanente']
 ---
 
 Una vez que el sistema del [[@ahrensHowTakeSmart2017|How to Take Smart Notes]] ya está funcionando, el problema de no tener sufientes temas de investigación es irrelevante, pues de hecho se tienen varias líneas, en diversos grados de avance, pero ¿cuáles son los elementos más importantes para aprovechar esta situación?

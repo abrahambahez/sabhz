@@ -1,7 +1,6 @@
 ---
 title: 'semiótica peirciana'
-type: 'índice'
-tags: []
+tags: ['índice']
 ---
 Viene de la obra de Charles Sanders Peirce. En mi opinión la propuesta semiótica más desarrollada para la profundidad
 

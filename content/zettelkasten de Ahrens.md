@@ -1,7 +1,6 @@
 ---
 title: 'zettelkasten de Ahrens'
-type: 'nota permanente'
-tags: []
+tags: ['nota-permanente']
 ---
 
 Viene de [[@ahrensHowTakeSmart2017|How to Take Smart Notes]]. Es la interpretación de Ahrens sobre el [[zettelkasten]] de Luhmann.

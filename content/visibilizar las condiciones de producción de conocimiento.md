@@ -1,7 +1,6 @@
 ---
 title: 'visibilizar las condiciones de producción de conocimiento'
-type: 'nota permanente'
-tags: []
+tags: ['nota-permanente']
 ---
 
 ## La investigación reflectiva / reflexiva

@@ -1,7 +1,6 @@
 ---
 title: 'estrategias de diseño'
-type: 'índice'
-tags: []
+tags: ['índice']
 ---
 
 - [[método de acción (diseño)]]

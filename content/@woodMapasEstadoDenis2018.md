@@ -7,8 +7,7 @@ authors:
     - Wood, Denis
 year: 2018
 apa: 'Wood, D. (2018, junio). Los mapas y el Estado (T. Pratts, Trad.). Revista de la Universidad de México. https://www.revistadelauniversidad.mx/articles/49f8b35c-d8e7-42b7-8ff9-f2b1bafe667c/los-mapas-y-el-estadostadelauniversidad.mx/articles/49f8b35c-d8e7-42b7-8ff9-f2b1bafe667c/los-mapas-y-el-estado'
-type: 'nota de referencia'
-tags: []
+tags: ['nota-referencia']
 ---
 Los estados contemporáneos promueven los mapas, nacieron junto a ellos y son uno de sus principales instrumentos de realización de su soberanía.
 

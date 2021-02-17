@@ -1,7 +1,6 @@
 ---
 title: 'reflexividad'
-type: 'término'
-tags: ['incipiente']
+tags: ['término', 'incipiente']
 ---
 
 Hay un acuerdo más o menos general en la investigación social y cultural: Los métodos de investigación *siempre* tendrán la carga subjetiva la persona que investiga.

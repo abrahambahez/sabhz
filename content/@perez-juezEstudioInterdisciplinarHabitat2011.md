@@ -9,8 +9,7 @@ authors:
     - Cabanes, Dan
 year: 2011
 apa: 'Perez-Juez, A., Goldberg, P., & Cabanes, D. (2011). Estudio interdisciplinar del hábitat post-talayótico: Bioarqueología, geoarqueología y registro arqueológico parala revisión metodológica de la arqueología en Menorca. Archaea Mediterrania, 139-149.'
-type: 'nota de referencia'
-tags: ['huérfana']
+tags: ['nota-referencia', 'huérfana']
 ---
 
 El texto describe las nuevas formas de abordar, a partir de una aproximación interdisciplinar, el estudio de la arquitectura talayótica y post-talayótica; particularmente desde la bioarqueología y la geoarqueología, enfatizando el espacio doméstico.

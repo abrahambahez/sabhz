@@ -1,7 +1,6 @@
 ---
 title: 'historia de vida'
-type: 'término'
-tags: ['incipiente']
+tags: ['término', 'incipiente']
 ---
 
 Se realizan a través de sesiones de trabajo de entrevistas a profundidad. Pero hace énfasis en la exploración  de la trayectoria vital de una persona.

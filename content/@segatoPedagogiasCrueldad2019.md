@@ -6,8 +6,7 @@ source_type: artículo
 authors: ["Segato, Rita Laura"]
 year: 2019
 apa: 'Segato, R. L. (2019, noviembre). Pedagogías de la crueldad. Revista de la Universidad de México. https://www.revistadelauniversidad.mx/articles/9517d5d3-4f92-4790-ad46-81064bf00a62/pedagogias-de-la-crueldad'
-type: 'nota de referencia'
-tags: ['potenciales']
+tags: ['nota-referencia', 'potenciales']
 ---
 
 Con este término Rita Segato hace referencia a las prácticas que consisten en la cosificación de lo vivo y la vitalidad. Sus expresiones históricas más importantes son el patriarcado (con dos ejes: vertical contra las mujeres, y horizontal como corporación contra los hombres) y las relaciones de explotación y colonización.

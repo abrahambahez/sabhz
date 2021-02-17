@@ -1,6 +1,5 @@
 ---
 title: 'Bienvenida:o a mi jardín digital'
-type: 'noindex'
 tags: []
 ---
 

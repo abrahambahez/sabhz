@@ -1,7 +1,6 @@
 ---
 title: 'teorías de la cognición extendida'
-type: 'índice'
-tags: ['refactorizar']
+tags: ['nota-permanente', 'refactorizar']
 ---
 
 Todo acto mental se extiende hacia el mundo, raramente se construye, ejerce y funciona aisladamente.

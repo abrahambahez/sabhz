@@ -3,12 +3,8 @@
     <section class="main-container" :class="{ 'fix-container': openResults}">  
       <h1 class="title">
         {{ content.title.match(/[0-9]{4}-[0-9]{2}-[0-9]{2}/) ? formatDate(content.title) : content.title}} 
-        <span v-if="content.type != 'noindex'"
-        class="type">
-        • {{content.type}}
-        </span>
       </h1>
-      <p v-if="content.type === 'nota de referencia' " class="authors-reference"
+      <p v-if="content.tags[0] === 'nota-referencia' " class="authors-reference"
         :class="content.authors.length == 2 ? 'two-authors' : 'several-authors'">
         {{content.source_type}} de
         <span v-for="author in content.authors" :key="author">{{formatAuthor(author)}}</span>

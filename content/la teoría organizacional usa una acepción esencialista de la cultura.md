@@ -1,7 +1,6 @@
 ---
 title: 'la teoría organizacional usa una acepción esencialista de la cultura'
-type: 'nota permanente'
-tags: []
+tags: ['nota-permanente']
 ---
 
 Para Wright (1998), investigadores organizacionales y *gerentes* dirigían su atención a las ideas antropológicas de cultura en busca de nuevas formas de organización.

@@ -1,7 +1,6 @@
 ---
 title: personhood
-type: 'término'
-tags: []
+tags: ['término']
 ---
 
 La cualidad de *ser* una persona o *tener* personalidad. Su traducción suele ser *personidad*. Algunos elementos nucleares de una entidad con esta característica son:

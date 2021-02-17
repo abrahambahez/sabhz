@@ -1,7 +1,6 @@
 ---
 title: modos de lectura
-type: 'colección'
-tags: ['semilla❦']
+tags: ['colección', 'semilla❦']
 ---
 
 Son las maneras en que un sujeto con capacidad de interpretación de un texto puede abordarlo.

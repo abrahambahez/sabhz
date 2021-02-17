@@ -1,7 +1,6 @@
 ---
 title: 'creación artificial de fenómenos en el mundo'
-type: 'término'
-tags: ['semilla❦']
+tags: ['término', 'semilla❦']
 ---
 
 El análisis interpretativo es capaz de crear [[representaciones]] nuevas sobre el mundo, cuya expansión puede terminar produciendo un *fenómeno* que antes de eso no existía.

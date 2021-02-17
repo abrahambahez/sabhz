@@ -6,8 +6,7 @@ source_type: artículo
 authors: ['Ogilvy, Jay']
 year: 2016
 apa: 'Ogilvy, J. (2016, febrero 4). Heterarchy: An Idea Finally Ripe for Its Time. Forbes. https://www.forbes.com/sites/stratfor/2016/02/04/heterarchy-an-idea-finally-ripe-for-its-time/'
-type: 'nota de referencia'
-tags: []
+tags: ['nota-referencia']
 ---
 
 El término *[[heterarquía]] (heterarchy)* fue acuñado por Warren McCulloch en 1945, titulado *"A heterarchy of values determined by the topology of nervous nets."*

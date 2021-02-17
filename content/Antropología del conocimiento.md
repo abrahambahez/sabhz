@@ -1,5 +1,4 @@
 ---
 title: 'Antropología del conocimiento'
-type: 'nota permanente'
-tags: []
+tags: ['nota-permanente']
 ---

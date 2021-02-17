@@ -1,7 +1,6 @@
 ---
 title: 'taxonomía'
-type: 'término'
-tags: []
+tags: ['término']
 ---
 
 Las taxonomías sirven para clasificar *entidades* (desde plantas y animales, hasta 'conceptos' y en este caso, *notas*, que son documentos de texto con algunos metadatos).

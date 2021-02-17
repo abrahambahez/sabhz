@@ -1,7 +1,6 @@
 ---
 title: 'esbozos de una teoría del trabajo cognitivo'
-type: 'nota permanente'
-tags: ['fluida']
+tags: ['nota-permanente', 'fluida']
 ---
 
 El [[trabajo cognitivo]] y el [[trabajador cognitivo]] son la unidad y el sujeto, respectivamente, con los cuales las prácticas sociohistóricas de la producción social del conocimiento se desarrollan.

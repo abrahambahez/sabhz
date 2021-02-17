@@ -7,8 +7,7 @@ authors:
     - Wallerstein, Immanuel
 year: 2005
 apa: 'Wallerstein, I. (2005). La antropología, la sociología y otras disciplinas dudosas. Las incertidumbres del saber, 114-120.'
-type: 'nota de referencia'
-tags: []
+tags: ['nota-referencia']
 ---
 
 El término disciplina implica un campo con cateogrías intelectuales, un espacio con algo parecido a límites y modos de investigar legitimados. También implica instituciones estructuradas de formas más elaboradas desde el sXIX. También implica una cultura (experiencias, contactos, yo añadiría *compartir una subjetivación particular*) (p. 141).

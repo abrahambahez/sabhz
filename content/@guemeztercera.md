@@ -7,12 +7,11 @@ authors:
     - Díaz Güemez, Marco Aurelio
 year: 2014
 apa: 'Díaz Güemez, M. A. (2014). La tercera modernización urbana de Mérida, Yucatán: La ampliación territorial de una agrociudad (1914-1951). Revista de la Universidad Autónoma de Yucatán, 264, 50-65'
-type: 'nota de referencia'
-tags: []
+tags: ['nota-referencia']
 ---
 ¿Cómo se consolidó el proyecto urbano de mérida tras la revolución? De hecho 1914 y 1951 no se cambió el modelo de producción económica en Yucatán, pero sí se acrecentó la importancia de Mérida.
 
-Esto implica que Mérida continuó siendo una *"[[agrociudad]]"* que se agrandó y centró la actividad económica en la producción de fibra de henequén. (80% estaba permeada por la industria henequenera, según calculó Bartolomé García Correa en 1934, p. 10) 
+Esto implica que Mérida continuó siendo una *"[[Díaz Güemez (2014) agrociudad]]"* que se agrandó y centró la actividad económica en la producción de fibra de henequén. (80% estaba permeada por la industria henequenera, según calculó Bartolomé García Correa en 1934, p. 10) 
 
 Para el autor: *"Este proceso vino a significar la tercera modernización urbana de la ciudad, y fue realizada a partir de los ideales y proyectos sociales surgidos de la Revolución Mexicana."* (p. 1)
 
@@ -24,7 +23,7 @@ La primera modernización urbana de Mérida ocurrió durante la segunda mitad de
 
 A principios de los años 1950 la nueva periferia de Mérida era un conglomerado de colonias que habían surgido como consecuencia del ideal revolucionario de terminar con el *"problema inquilinario"* (según Leopoldo Tommasi,  *"La ciudad de ayer, de hoy y de mañana"*, citado en la p. 13)
 
-La ampliación de la ciudad fue vista como una oportunidad para crear nuevos espacios para la vivienda, rodeada de [[manifestaciones posrevolucionarias de memoria en Mérida]].
+La ampliación de la ciudad fue vista como una oportunidad para crear nuevos espacios para la vivienda, rodeada de [[Díaz Güemez (2014) manifestaciones posrevolucionarias de memoria en Mérida]].
 
 Esto convirtió a Mérida en el centro de Yucatán en todos los sentidos. Su crecimiento demográfico posterior demuestra el desequilibrio respecto a las otras ciudades
 

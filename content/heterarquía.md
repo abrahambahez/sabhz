@@ -1,7 +1,6 @@
 ---
 title: 'heterarquía'
-type: 'término'
-tags: []
+tags: ['término']
 ---
 
 La heterarquía es una clase de [[jerarquía]] donde la autoridad es flexible o está distribuida.

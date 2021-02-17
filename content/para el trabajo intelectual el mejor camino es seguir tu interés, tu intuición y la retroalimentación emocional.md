@@ -1,7 +1,6 @@
 ---
 title: 'para el trabajo intelectual el mejor camino es seguir tu interés, tu intuición y la retroalimentación emocional'
-type: 'nota permanente'
-tags: []
+tags: ['nota-permanente']
 ---
 
 Para cualquier proyecto de cierta complejidad, la planeación rigurosa no sirve. 

@@ -1,7 +1,6 @@
 ---
 title: 'separación de tareas en el trabajo cognitivo'
-type: 'nota permanente'
-tags: []
+tags: ['nota-permanente']
 ---
 
 El trabajo cognitivo requiere atención dedicada. La multitarea no es una buena idea.

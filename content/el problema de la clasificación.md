@@ -1,7 +1,6 @@
 ---
 title: 'el problema de la clasificación'
-type: 'nota permanente'
-tags: ['perenne❧']
+tags: ['nota-permanente', 'perenne❧']
 ---
 
 Al clasificar nos centramos en lo que las entidades *tienen en común*, y por lo tanto tendemos a reducir o negar las particularidades incluso en contextos donde ellas son relevantes.

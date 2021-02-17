@@ -1,14 +1,11 @@
 ---
 title: 'sistema personal de toma de notas'
-type: 'nota permanente'
-tags: ['perenne❧']
+tags: ['nota-permanente', 'perenne❧']
 ---
 
 Este pretende ser mi [[sistema]] personal de notas, una visión práctica de [[gestión del conocimiento]] personal. En la [[taxonomía general de notas]],  defino la organización del contenido de cada una.
 
 **La toma de notas es una práctica básica de construcción de conocimiento** (mira [[teorías de la cognición extendida]]), esto es pensar [[las notas como herramientas cognitivas]].
-
-También es la principal razón por la que hoy existe una tendencia creciente a *tomar más en serio* el proceso de involucrar la escritura de pensamientos en un formato físico o digital. 
 
 ## Principios del sistema de toma de notas
 

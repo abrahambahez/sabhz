@@ -1,7 +1,6 @@
 ---
 title: acción serial
-type: 'término'
-tags: []
+tags: ['término']
 ---
 
 Muchos de los grupos socialmente constituidos pueden ser mejor entendidos como *series*, es decir, como el efecto de *acciones separadas* fijas, en lugar de grupos sociales o categorías como tal. Para formar parte de un grupo social los individuos tendrían que actuar de manera consciente y deliberada como miebros, cuando vemos un grupo de personas esperando el autobús no están actuando como un grupo social ni se reconocerían como parte de él, están ahí con el fin de abordar el camión. Son más una colección de individuos que siguen agendas y tienen identidades diferentes.

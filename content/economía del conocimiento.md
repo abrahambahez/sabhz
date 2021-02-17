@@ -1,7 +1,6 @@
 ---
 title: 'economía del conocimiento'
-type: 'término'
-tags: []
+tags: ['término']
 ---
 
 ## En términos estrictos, *todo [[sistema]] económico está fundado en alguna clase de conocimiento productivo*

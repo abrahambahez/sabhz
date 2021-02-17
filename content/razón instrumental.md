@@ -1,7 +1,6 @@
 ---
 title: 'razón instrumental'
-type: 'término'
-tags: ['incipiente']
+tags: ['término', 'incipiente']
 ---
 
 Una forma de razonar que orienta *unos medios* para alcanzar *unos fines* formal y cuantativamente definidos, a veces entendidos como *metas*, *objetivos*, en fin, cambios en el mundo.

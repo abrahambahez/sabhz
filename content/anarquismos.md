@@ -1,7 +1,6 @@
 ---
 title: 'anarquismos'
-type: 'índice'
-tags: ['incipiente', 'prioridad-3']
+tags: ['índice', 'incipiente', 'prioridad-3']
 ---
 ## Principios generales
 

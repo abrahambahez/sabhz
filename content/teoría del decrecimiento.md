@@ -1,7 +1,6 @@
 ---
 title: 'teoría del decrecimiento'
-type: 'término'
-tags: []
+tags: ['término']
 ---
 
 ¿Por qué el crecimiento económico, así a secas, es deseable? ¿Quién define que el Producto Interno Bruto (PIB) es sinónimo de riqueza?

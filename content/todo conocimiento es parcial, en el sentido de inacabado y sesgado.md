@@ -1,7 +1,6 @@
 ---
 title: 'todo conocimiento es parcial, en el sentido de inacabado y sesgado'
-type: 'nota permanente'
-tags: []
+tags: ['nota-permanente']
 ---
 Visto como unidad discreta, inteligible (clara y distinta en sentido cartesiano) y como aspirante a ser *objetivo* (opuesto a la [[razón instrumental]]), todo conocimiento está inacabado (no agota en sí mismo un tema) y sesgado (está directamente afectado por el sujeto que lo enuncia, cómo lo enuncia, para qué y en qué contexto).
 

@@ -1,7 +1,6 @@
 ---
 title: serialidad
-type: 'término'
-tags: ['prioridad-2']
+tags: ['término', 'prioridad-2']
 ---
 
 Para empezar a definirlo:

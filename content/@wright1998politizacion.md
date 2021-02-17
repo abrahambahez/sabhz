@@ -7,8 +7,7 @@ authors:
     - Wright, Susan
 year: 1998
 apa: 'Wright, S. (1998). La politización de la cultura. Anthropology today, 14(1), 7-15.'
-type: 'nota de referencia'
-tags: []
+tags: ['nota-referencia']
 ---
 
 La cultura es una herramienta política. Posiblemente su versión más peligrosa sea la [[vieja noción de cultura]].

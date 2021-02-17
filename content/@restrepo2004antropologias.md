@@ -8,8 +8,7 @@ authors:
     - Escobar, Arturo
 year: 2004
 apa: 'Restrepo, E., & Escobar, A. (2004). Antropologías en el mundo. Jangwa Pana, 3(1), 110-131.'
-type: 'nota de referencia'
-tags: []
+tags: ['nota-referencia']
 ---
 
 *Las antropologías del mundo no son más ni menos que tomar en serio el pensamiento antropológico (p. 128)*.

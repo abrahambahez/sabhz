@@ -7,8 +7,7 @@ authors:
     - Reygadas, Luis
 year: 2007
 apa: 'Reygadas, L. (2007). La desigualdad después del (multi) culturalismo. A dónde va la antropología, 341-364.'
-type: 'nota de referencia'
-tags: ['huérfana']
+tags: ['nota-referencia', 'huérfana']
 ---
 ¿Hacia dónde va la antropología (en el 2007) a la luz de la investigación sobre desigualdad social? En el contexto del auge y la crítica del *culturalismo* y por extensión, el *multiculturalismo* reflexionarlo a partir de la desigualdad social puede ponerlo en perspectiva.
 

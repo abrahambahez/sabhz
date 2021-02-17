@@ -1,6 +1,6 @@
 ---
 title: 'Cambios y permanencias de la tecnología constructiva de la casa maya en Mérida, Yucatán'
-aliases: ['Cambios y permanencias de la tecnología constructiva de la casa maya en Mérida, Yucatán', '@roman2019cambios']
+aliases: ['Cambios y permanencias de la tecnología constructiva de la casa maya en Mérida, Yucatán', 'Román-Kalisch y Piñón-Jiménez (2019)']
 initial_read: 2021-01-26
 source_type: article-journal
 authors: 
@@ -8,8 +8,7 @@ authors:
 - Piñón-Jiménez, Aniela
 year: 2019
 apa: ''
-type: 'nota de referencia'
-tags: []
+tags: ['nota-referencia']
 ---
 
 Una investigación sobre la presencia y naturaleza de casas mayas en las comisarías del municipio de Mérida.
@@ -29,8 +28,8 @@ El abandono de estas formas construcivas tienen que ver con:
 - La inseguridad (afectaciones estructurales) que representan ante fenómenos hidrometeorológicos
 - Las acciones de apoyo social de organismos públicos
 - Una creciente tendencia de los pobladores mayas a incorporarse a la globalidad cultural
-- Las [[interacciones urbano-rurales que impactan en la casa maya]] en detrimiento de la cultura rural
-- La pérdida paulatina de conocimientos sobre el [[sistema estructural de la casa maya]], sus técnicas constructivas y la [[materialidad de la casa maya]] como reflejo de sus modelos culturales.
+- Las [[Román-Kalisch y Piñón-Jiménez (2019) interacciones urbano-rurales que impactan en la casa maya]] en detrimiento de la cultura rural
+- La pérdida paulatina de conocimientos sobre el [[Román-Kalisch y Piñón-Jiménez (2019) sistema estructural de la casa maya]], sus técnicas constructivas y la [[Román-Kalisch y Piñón-Jiménez (2019) materialidad de la casa maya]] como reflejo de sus modelos culturales.
 
 Qué permanece en las casas mayas actuales:
 

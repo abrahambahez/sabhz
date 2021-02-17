@@ -7,8 +7,7 @@ authors:
     - Montenegro, Mónica
 year: 2014
 apa: 'Montenegro, M. (2014). Una experiencia de arqueología pública y colaboración intercultural en el sector septentrional de Argentina. Revista Arqueologia Pública, 8(2), 26-43.'
-type: 'nota de referencia'
-tags: ['huérfana']
+tags: ['nota-referencia', 'huérfana']
 ---
 
 En este texto la arqueología pública es definida como: *«un espacio para desarrollar propuestas didácticas que contribuyan a generar conocimientos sobre el pasado desde una perspectiva multivocal»* (*abstratct*, p. 26)

@@ -1,7 +1,6 @@
 ---
 title: 'problemas para una teoría de la práctica'
-type: 'nota permanente'
-tags: []
+tags: ['nota-permanente']
 ---
 Una [[teoría de la práctica]] se enfrenta a varios problemas.
 

@@ -1,7 +1,6 @@
 ---
 title: 'índice de herramientas cognitivas'
-type: 'índice'
-tags: ['incipiente']
+tags: ['índice', 'incipiente']
 ---
 
 - [[índice de métodos de investigación]]

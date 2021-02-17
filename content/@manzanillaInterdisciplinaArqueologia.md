@@ -10,8 +10,7 @@ authors:
     - Valadez, Raúl
 year: 2003
 apa: 'Manzanilla, L., McClung, E., Barba, L., & Valadez, R. (2003). La interdisciplina en Arqueología. 12.'
-type: 'nota de referencia'
-tags: ['menos-relevante']
+tags: ['nota-referencia', 'menos-relevante']
 ---
 
 En orden de comprender sus propios objetos de investigación en toda su complejidad, tanto la antropología como la arqueología se interesan, en mayor o menor medida, de otras disciplinas como *«la geografía, la historia, la medicina, la biología humana, la botánica, la zoología, la sociología, la química, la física y la geofísica»* (p. 5).

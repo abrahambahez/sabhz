@@ -1,7 +1,6 @@
 ---
 title: 'interpretante'
-type: 'término'
-tags: []
+tags: ['término']
 ---
 
 Un interpretante, en [[semiótica peirciana]], es el signo que se genera en el intérprete como resultado de su primera interacción con un [[representamen]] o signo, que se refiere semánticamente a un [[objeto sígnico]].

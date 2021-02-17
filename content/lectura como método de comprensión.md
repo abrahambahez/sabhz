@@ -1,7 +1,6 @@
 ---
 title: 'lectura como método de comprensión'
-type: 'nota permanente'
-tags: []
+tags: ['nota-permanente']
 ---
 
 Leer y resumir siguiendo la línea argumentativa de los textos no sirve para comprender. La lectura para la comprensión no se trata de copiar, sino de tener un diálogo profundo con el texto que leemos, y para eso sirven las **notas de literatura.**

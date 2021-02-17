@@ -1,7 +1,6 @@
 ---
 title: 'trabajador cognitivo'
-type: 'término'
-tags: ['incipiente']
+tags: ['término', 'incipiente']
 ---
 
 Cualquier persona cuyo *valor productivo socialmente percibido* se estima en términos de los conocimientos que posee y el impacto que esos conocimientos tienen en la reproducción de la vida social.

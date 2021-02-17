@@ -1,7 +1,6 @@
 ---
 title: 'vieja noción de cultura'
-type: 'nota permanente'
-tags: []
+tags: ['nota-permanente']
 ---
 Elementos comunes a las viejas nociones de cultura (p. 130):
 

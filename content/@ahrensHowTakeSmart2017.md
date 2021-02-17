@@ -6,8 +6,7 @@ source_type: libro
 authors: ['Ahrens, Sönke']
 year: 2017
 apa: 'Ahrens, S. (2017). How to take smart notes: One simple technique to boost writing, learning and thinking: for students, academics and nonfiction book writers. CreateSpace.'
-type: 'nota de referencia'
-tags: []
+tags: ['nota-referencia']
 ---
 
 En este texto se desarrolla una versión del [[zettelkasten]], que llamaré [[zettelkasten de Ahrens]].

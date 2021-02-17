@@ -1,7 +1,6 @@
 ---
 title: 'cómo crear y validar prototipos de procesos y productos digitales'
-type: 'índice'
-tags: ['notas-sueltas']
+tags: ['índice', 'notas-sueltas']
 ---
 
 Un prototipo es un modelo que representa el funcionamiento inicial de un [[sistema]], y que puede funcionar en el mundo como un producto (una interfaz unida a ciertas lógicas y manejo de información) o un proceso (una serie de reglas de acción e interacción entre sujetos y entorno)

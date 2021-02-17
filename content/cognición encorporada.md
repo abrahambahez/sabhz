@@ -1,7 +1,6 @@
 ---
 title: 'cognición encorporada'
-type: 'término'
-tags: []
+tags: ['término']
 ---
 
 El cuerpo forma parte de los procesos cognitivos más allá del cerebro. Tener *un cuerpo determinado* puede ser determinante para los procesos cognitivos.

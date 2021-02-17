@@ -1,7 +1,6 @@
 ---
 title: 'términos de psicología interesantes'
-type: 'colección'
-tags: []
+tags: ['colección']
 ---
 
 ## sesgos cognitivos

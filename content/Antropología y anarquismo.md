@@ -1,7 +1,6 @@
 ---
 title: 'Antropología y anarquismo'
-type: 'nota permanente'
-tags: []
+tags: ['nota-permanente']
 ---
 Mira el índice de [[anarquismos]].
 

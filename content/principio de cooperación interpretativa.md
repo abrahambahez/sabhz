@@ -1,7 +1,6 @@
 ---
 title: 'principio de interpretación cooperativa'
-type: 'término'
-tags: []
+tags: ['término']
 ---
 
 La interacción comunicativa efectiva y genuina sólo es posible presuponiendo algunos principios de interacción como elementos prototípicos, englobados bajo la lógica de la cooperación. Este principio propone, axiomáticamente, que para acanazar la *«inter-comprensión»* existen 4 máximas, también llamadas **máximas de Grice**:

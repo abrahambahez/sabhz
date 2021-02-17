@@ -1,6 +1,5 @@
 ---
 title: 'más sobre mí'
-type: 'noindex'
 tags: []
 ---
 

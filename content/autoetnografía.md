@@ -1,7 +1,6 @@
 ---
 title: 'autoetnografía'
-type: 'término'
-tags: ['incipiente']
+tags: ['término', 'incipiente']
 ---
 
 Para construir:

@@ -1,7 +1,6 @@
 ---
 title: 'objeto sígnico'
-type: 'término'
-tags: []
+tags: ['término']
 ---
 
 Un objeto del signo, u *objeto semiótico*, en [[semiótica peirciana]], es uno de los tres elementos de un signo, se corresponde con la **segundidad**.

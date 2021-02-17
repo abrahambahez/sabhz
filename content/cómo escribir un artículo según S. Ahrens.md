@@ -1,7 +1,6 @@
 ---
 title: 'cómo escribir un artículo según S. Ahrens'
-type: 'nota permanente'
-tags: []
+tags: ['nota-permanente']
 ---
 
 Viene de [[@ahrensHowTakeSmart2017|How to Take Smart Notes]], *« Writing a paper step by step»* (Posición 509)

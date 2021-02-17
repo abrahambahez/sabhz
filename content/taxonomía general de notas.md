@@ -1,7 +1,6 @@
 ---
 title: 'taxonomía general de notas'
-type: 'índice'
-tags: ['fluida']
+tags: ['índice', 'fluida']
 ---
 
 Esta es una [[taxonomía]] de uso personal, con la cual ordeno mis notas para acercarlas a [[mi sistema personal de toma de notas]].

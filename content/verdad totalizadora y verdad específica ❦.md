@@ -1,7 +1,6 @@
 ---
 title: 'verdad totalizadora y verdad específica'
-type: 'nota permanente'
-tags: ['semilla❦']
+tags: ['nota-permanente', 'semilla❦']
 ---
 
 Cuando investigamos un problema, hay dos actitudes intelectuales que nos motivan y dirigen. A una le llamo *verdad totalizadora* y a otra *verdad específica*

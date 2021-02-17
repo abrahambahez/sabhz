@@ -1,7 +1,6 @@
 ---
 title: 'polimatía'
-type: 'término'
-tags: ['incipiente']
+tags: ['término', 'incipiente']
 ---
 
 Como práctica, consiste en desarrollar un conocimiento competente en diferentes ámbitos de actividades humanas, no necesariamente relacionados entre sí (practicar en un solo individuo la transdisciplina).

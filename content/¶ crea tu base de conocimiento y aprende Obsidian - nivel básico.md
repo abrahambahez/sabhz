@@ -1,7 +1,6 @@
 ---
 title: 'crea tu base de conocimiento y aprende Obsidian'
-type: 'índice'
-tags: ['efímera']
+tags: ['índice', 'efímera']
 ---
 ## descargar Obsidian
 mientras descargamos e instalamos Obsidian, pensemos ¿para qué tomar notas? Para construir y acelerar nuestro conocimiento

@@ -1,7 +1,6 @@
 ---
 title: 'Deshabitar mi mundo: dinámicas de desigualdad epistémica en la relación entre OSC, vivienda y territorio en Yucatán'
-type: 'índice'
-tags: ['doctorado']
+tags: ['índice', 'doctorado']
 ---
 ## Preguntas
 
@@ -9,7 +8,7 @@ tags: ['doctorado']
 
 ## Objetivos
 
->Describir las dinámicas de reconocimiento que tres OSC con iniciativas de vivienda-[[territorio]] en Yucatán le dan a los conocimientos tradicionales y su impacto en el diseño, implementación, evaluación y comunicación de esas iniciativas.
+>Describir las dinámicas de reconocimiento que tres OSC con iniciativas de vivienda-[[Territorio]] en Yucatán le dan a los conocimientos tradicionales y su impacto en el diseño, implementación, evaluación y comunicación de esas iniciativas.
 
 Específicamente
 
@@ -47,18 +46,18 @@ Específicamente
 - Alternativas de conocimiento y construcción participativa
    - Recuperación creativa y reinterpretativa de los conocimientos constructivos tradicionales
 
-### II. Modelos de [[territorio]] y [[territorialidad]] en Yucatán
+### II. Modelos de [[Territorio]] y [[territorialidad]] en Yucatán
 
 - Los estudios territoriales ([[@capelCienciasSocialesEstudio2016|Las ciencias sociales y el estudio del territorio]])
-- La [[reforma de 1992 al artículo 27 de la constitución mexicana]] y el estatus legal de los territorios peninsulares
-    - La [[privatización de la propiedad agraria en México]] y [[El sistema neoliberal de propiedad agraria a partir de 1992]]
-    - El [[contexto general sobre la territorialidad en Mérida]]
-    - La [[visión jurídica indígena sobre la territorialidad]]
-        - [[la territorialización es el proceso de producción de un territorio concreto a nivel práctico y discursivo]]
+- La [[Torres Mazuera y Appendini (2020) reforma de 1992 al artículo 27 de la constitución mexicana]] y el estatus legal de los territorios peninsulares
+    - La [[Torres Mazuera y Appendini (2020) privatización de la propiedad agraria en México]] y [[Pérez Castañeda y Mackinlay (2015) El sistema neoliberal de propiedad agraria a partir de 1992]]
+    - El [[Torres Mazuera y Appendini (2020) contexto general sobre la territorialidad en Mérida]]
+    - La [[Torres Mazuera y Appendini (2020) visión jurídica indígena sobre la territorialidad]]
+        - [[Capel (2016) la territorialización es el proceso de producción de un territorio concreto a nivel práctico y discursivo]]
  - Ruralidad y urbanidad
-    - [[la tierra rural como derecho humano, no como activo económico]] y su relación con el [[patrimonio biocultural]]
+    - [[Torres Mazuera y Appendini (2020) la tierra rural como derecho humano, no como activo económico]] y su relación con el [[patrimonio biocultural]]
     - [[@guemeztercera|La tercera modernización urbana de Mérida, Yucatán: la ampliación territorial de una agrociudad (1914-1951)]]
-    - [[interacciones urbano-rurales que impactan en la casa maya]]
+    - [[Román-Kalisch y Piñón-Jiménez (2019) interacciones urbano-rurales que impactan en la casa maya]]
     - De la «infravivienda» a la vivienda urbana 
 - Relación vivienda-territorio
     - Vistos desde el [[paisaje cultural]]

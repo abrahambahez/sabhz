@@ -8,8 +8,7 @@ authors:
     - Lopiparo, Jeanne
 year: 2005
 apa: 'Joyce, R. A., & Lopiparo, J. (2005). PostScript: Doing Agency in Archaeology. Journal of Archaeological Method and Theory, 12(4), 365-374. https://doi.org/10.1007/s10816-005-8461-3'
-type: 'nota de referencia'
-tags: []
+tags: ['nota-referencia']
 ---
 Cuando se estudia la [[agencia]] (vista como acción) en arqueología, no debería separarse de la estructura (vista como instituciones), pues ambas forman parte de un único proceso. Es posible pensar esta relación como una dialéctica (p. 365).
 
@@ -21,9 +20,9 @@ La materialidad que estudia la arqueología debería ser capaz de responder preg
 - ¿Podemos crear un marco de trabajo que permita identificar las consecuencias intencionadas o inintencionadas de una acción?
 - ¿Podemos reconocer la evidencia de disposiciones persistentes?
 
-![[espectro de interpretación arqueológica en la estructuración]] 
+![[Joyce & Lopiparo (2005) espectro de interpretación arqueológica en la estructuración]] 
 
-![[imágenes de la repetición como puentes entre agencia y estructura en la cultura material]]
+![[Joyce & Lopiparo (2005) imágenes de la repetición como puentes entre agencia y estructura en la cultura material]]
 
 ## Referencias
 

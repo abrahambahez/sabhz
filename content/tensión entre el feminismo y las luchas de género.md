@@ -1,7 +1,6 @@
 ---
 title: 'tensión entre el feminismo y las luchas de género'
-type: 'nota permanente'
-tags: ['incipiente']
+tags: ['nota-permanente', 'incipiente']
 ---
 
 El problema de la tensión entre algunas luchas como el feminismo y el movimiento LGBT+ es sumamente complejo y muy dinámico. Este esquema argumental me sirve solamente para guiar la lectura de las discusiones al respecto dentro de ciertos posicionamientos.

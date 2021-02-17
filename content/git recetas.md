@@ -1,7 +1,6 @@
 ---
 title: 'git recetas'
-type: 'nota permanente'
-tags: ['huérfana']
+tags: ['nota-permanente', 'huérfana']
 ---
 
 ## Añadir alias global

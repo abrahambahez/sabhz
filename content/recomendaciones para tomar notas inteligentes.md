@@ -1,7 +1,6 @@
 ---
 title: 'recomendaciones para tomar notas inteligentes'
-type: 'nota permanente'
-tags: []
+tags: ['nota-permanente']
 ---
 
 Una de las ideas centrales del [[@ahrensHowTakeSmart2017|How to Take Smart Notes]] es que lo más importante es ir más allá de los textos que leemos, hacia nuestras propias ideas:

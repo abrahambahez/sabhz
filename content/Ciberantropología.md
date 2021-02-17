@@ -1,5 +1,4 @@
 ---
 title: 'Ciberantropología'
-type: 'nota permanente'
-tags: []
+tags: ['nota-permanente']
 ---

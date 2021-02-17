@@ -1,7 +1,6 @@
 ---
 title: 'cómo se diferencian las antropologías latinoamericanas de otras'
-type: 'nota permanente'
-tags: []
+tags: ['nota-permanente']
 ---
 La antropología latinoamericana se ha embarcado en un viaje de *diferenciación* disciplinaria desde finales del siglo pasado (Krotz, 2015, p. 11). Esta tendencia es compartida con lo que se ha denominado *sur global* respecto a las ciencias socioculturales, y con razón: las «primeras» antropologías, como las llama Krotz (2015), venían de la *civilización noratlántica* que se desplazaba a estudiar a los «salvajes» y a los «indios»; posteriormente fueron esos *salvajes* y esos *indios* quienes comenzaron a hacer antropología, y esperablemente, desde una visión distinta.
 

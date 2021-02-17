@@ -8,8 +8,7 @@ authors:
     - Mackinlay, Horacio
 year: 2015
 apa: 'Pérez Castañeda, J. C., & Mackinlay, H. (2015). ¿Existe aún la propiedad social agraria en México? Polis, 11, 45-82.'
-type: 'nota de referencia'
-tags: []
+tags: ['nota-referencia']
 ---
 Este es el punto de partida: el fin del proceso de reforma agraria en México fue acompañado de la modificación del sistema de propiedad. Esta es el argumento que defenderán los autores:
 
@@ -19,9 +18,7 @@ Había dos modalidades del régimen de la propiedad social:
 - el ejido, que fue transformado en un modelo de propiedad de contenido netamente individualista y utilitario, o sea, en una modalidad de la propiedad privada clásica
 - la comunidad agraria, que se convirtió en un modelo de naturaleza mixta o híbrida (privada-social), que la constituye como un género de propiedad per se. 
 
-Por lo tanto en México la propiedad social agraria ya no existe.
-
-Ambas sufrieron estos cambios en el contexto de la [[reforma de 1992 al artículo 27 de la constitución mexicana]].
+Las dos modalidades del régimen de la propiedad social sufrieron estos cambios en el contexto de la [[Torres Mazuera y Appendini (2020) reforma de 1992 al artículo 27 de la constitución mexicana|reforma de 1992 al artículo 27 de la constitución mexicana]]. Por lo tanto en México la propiedad social agraria ya no existe.
 
 Después de esto, aunque las propiedades ejidal y comunal pertenezcan al sector social, eso no implica que sean efectivamente modelos de propiedad social.
 ¿Por qué?
@@ -35,10 +32,9 @@ Así, sostienen que la única manera de determinar si una particular forma de pr
 3. Los contratos
 4. El usufructo
 
-[[El sistema social de propiedad agraria entre 1917 y 1992]]
+[[Pérez Castañeda y Mackinlay (2015) El sistema social de propiedad agraria entre 1917 y 1992]]
 
-[[El sistema neoliberal de propiedad agraria a partir de 1992]]
-
+[[Pérez Castañeda y Mackinlay (2015) El sistema neoliberal de propiedad agraria a partir de 1992]]
 
 # Referencias
 

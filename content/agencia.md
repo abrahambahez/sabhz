@@ -1,7 +1,6 @@
 ---
 title: agencia
-type: 'término'
-tags: []
+tags: ['término']
 ---
 
 Es la capacidad de los sujetos para actuar, por sí mismos, en el mundo que los rodea. Se le vincula con la libertad de acción del sujeto en relación con las constricciones contextuales y estructurales que le rodean. Se usa para estudiar fenómenos sociales y culturales humanos.
@@ -10,6 +9,6 @@ Una practica puede ser evaluada como espontánea o reproductora de una estructur
 
 Sherry Ortner ([[@ortner1993teoria]]) traduce el término *agencia* como «intervención humana» (p. 40).
 
-[[El problema de la atribución de la agencia]].
+![[El problema de la atribución de la agencia]].
 
-[[La agencia se expresa desde las prácticas estructurantes hasta la serialidad]].
+![[La agencia se expresa desde las prácticas estructurantes hasta la serialidad]].

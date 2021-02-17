@@ -1,7 +1,6 @@
 ---
 title: 'agotamiento del ego'
-type: 'término'
-tags: []
+tags: ['término']
 ---
 
 Es la hipótesis de que nuestra capacidad mental para autocontrolarnos o ser resilientes es limitada, y por tanto, capaz de *agotarse*.

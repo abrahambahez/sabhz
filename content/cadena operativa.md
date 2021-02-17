@@ -1,7 +1,6 @@
 ---
 title: 'cadena operativa'
-type: 'término'
-tags: []
+tags: ['término']
 ---
 Es un método de investigación arqueológica y [[etnoarqueología|etnoarqueológica]] de corte *tecnoeconómico*.
 
@@ -11,7 +10,7 @@ En breve, se trata de reproducir una tecnología anterior de la forma más fiel 
 - La sucesión de gestos observables o secuencia de operaciones sobre esos materiales
 - El contenido cognitivo (representaciones individuales y colectivas como mitologías o cosmologías) que los agentes pasados pudieron haber tenido (inferidos por medio de extrapolación o comparación)
 
-Lee [[imágenes de la repetición como puentes entre agencia y estructura en la cultura material]].
+Lee [[Joyce & Lopiparo (2005) imágenes de la repetición como puentes entre agencia y estructura en la cultura material]].
 
 ## Referencias
 

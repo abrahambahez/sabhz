@@ -1,7 +1,6 @@
 ---
 title: 'Humanismo digital'
-type: 'nota permanente'
-tags: []
+tags: ['nota-permanente']
 ---
 
 Comienza en [Wikipedia](https://en.wikipedia.org/wiki/Digital_humanities)

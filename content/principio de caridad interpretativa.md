@@ -1,7 +1,6 @@
 ---
 title: 'principio de caridad interpretativa'
-type: 'término'
-tags: []
+tags: ['término']
 ---
 
 En lo general: deberíamos interpretar el discurso del otro de la forma *más racional posible*, y tomar la mejor interpretación posible de sus argumentos.

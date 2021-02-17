@@ -6,8 +6,7 @@ source_type: libro
 authors: ['Højrup, Thomas']
 year: 2017
 apa: 'Højrup, T. (2017). State, Culture and Life-Modes: The Foundations of Life-Mode Analysis.'
-type: 'nota de referencia'
-tags: ['leyendo', 'refactorizar']
+tags: ['nota-referencia', 'leyendo', 'refactorizar']
 ---
 
 Para entender esta propuesta teórica es necesario tener claridad conceptual de su proposición básica:

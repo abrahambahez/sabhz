@@ -6,8 +6,7 @@ source_type: artículo
 authors: ['Lenclud, Gérard']
 year: 2004
 apa: 'Lenclud, G. «Lo empírico y lo normativo en la etnografía» ¿Derivan las diferencias culturales de la descripción?. En  Boivin, M., Rosato, A., & Arribas, V. (2004). Constructores de otredad. Antropofagia.(pp. 179-185)'
-type: 'nota de referencia'
-tags: ['potenciales']
+tags: ['nota-referencia', 'potenciales']
 ---
 
 A diferencia de las ciencias naturales, en la Antropología la objetividad depende más del valor de un *hecho proclamado* que de un *hecho reconocido*: *«la regla en nuestra disciplina sostiene que las afirmaciones etnográficas son descriptivas y no valorativas»* (p. 179)

@@ -8,8 +8,7 @@ authors:
     - Begoña Soler, Mayo 
 year: 2016
 apa: 'Pérez Herrero, C. I., & Begoña Soler, M. (2016). Patrimonio y participación ciudadana: Ejemplos y reflexiones desde el país valenciano. Arqueología y comunidad: el valor social del patrimonio arqueológico en el siglo XXI, 225-242.'
-type: 'nota de referencia'
-tags: ['huérfana']
+tags: ['nota-referencia', 'huérfana']
 ---
 
 El texto aborda el rol de los museos como dispositivos de mediación entre el patrimonio (en este caso yacimientos de la provincia de Valencia) y la sociedad de la que forman parte, por un lado; y de las comunidades locales (en este caso,  comunidades del ámbito rural, de pequeño tamaño y con escasos recursos)en los procesos de valoración, gestión y difusión del patrimonio cultural.

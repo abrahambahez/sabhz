@@ -1,7 +1,6 @@
 ---
 title: 'la atomicidad en el contenido es un problema fractal'
-type: 'nota permanente'
-tags: []
+tags: ['nota-permanente']
 ---
 
 Un sistema de conocimiento basado en notas tiene como proncipio fundamental *escribir una cosa por cada nota*. Un tema, una nota. Así es más fácil crear redes de ideas aparentemente no relacionadas o provenientes de dominios de conocimiento «distantes».

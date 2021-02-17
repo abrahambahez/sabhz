@@ -1,7 +1,6 @@
 ---
 title: 'análisis clasificatorio'
-type: 'nota permanente'
-tags: []
+tags: ['nota-permanente']
 ---
 
 La clasificación es la operación cognitiva con la cual tomamos una entidad y le extraemos (o asignamos) una o más propieades o atributos, que usamos para agruparla con otras entidades que comparten esas mismas características.

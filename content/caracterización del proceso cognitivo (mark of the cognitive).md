@@ -1,7 +1,6 @@
 ---
 title: 'caracterización del proceso cognitivo'
-type: 'nota permanente'
-tags: ['incipiente']
+tags: ['nota-permanente', 'incipiente']
 ---
 
 Definir las condiciones necesarias y suficientes para que un proceso sea considerado un *proceso cognitivo* es considerado por algunos autores como esencial para justificar las [[teorías de la cognición extendida]].

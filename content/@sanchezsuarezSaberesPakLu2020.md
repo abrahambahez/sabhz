@@ -7,8 +7,7 @@ authors:
 - Sánchez Suárez, Aurelio
 year: 
 apa: ', https://editorialrestauro.com.mx/saberes-del-pakluum-la-tierra-y-la-casa-en-el-area-maya/'
-type: 'nota de referencia'
-tags: []
+tags: ['nota-referencia']
 ---
 
 - La arquitectura de la casa maya, debido a los muros de bajareque, es una **arquitectura de tierra** (Jean Dethier), o *sistema constructivo de tierra* (Luis Fernando Guerrero Baca)
@@ -16,7 +15,7 @@ tags: []
 - En el Popol Vuh, antes que el ser humano, fueron creados el árbol, el bejuco, y la tierra (el agua ya existía), estos son los materiales con los que e amarra la casa
 - La creación del mundo comienza con un trazo celeste; casa comienza con el trazado en la tierra: *"el cuadro de cuatro por cuatro, entonces lo que a dar el baalo, le mides a la mitad del baalo y le pones dos metros, de esos dos metros, le giras para que llegue al otro para sacar el mooy, el mooy es los dos redondos, la curvatura. Deben ser cuatro noj okom"* (*Resultados*, 2. La creación del universo y la creación de la casa)
 - [[glosario maya de construcción]]
-- *"El reconocimiento de los maestros constructores de los pueblos originales es uno de los pasos para reactivar los escenarios de aprendizaje. Ellos, con su conocimiento, sabrán hacer un uso moderado de los recursos naturales"* (como así en vivienda, en [[territorio]] a través de la propiedad social de la tierra). Concluciones, párrafo 12
+- *"El reconocimiento de los maestros constructores de los pueblos originales es uno de los pasos para reactivar los escenarios de aprendizaje. Ellos, con su conocimiento, sabrán hacer un uso moderado de los recursos naturales"* (como así en vivienda, en [[Territorio]] a través de la propiedad social de la tierra). Concluciones, párrafo 12
 - La vivienda maya como patrimonio biocultural implica que *debe verse más allá de los materiales*, porque si no, está en riesgo
 
 Revisa [[vivienda yucateca]]

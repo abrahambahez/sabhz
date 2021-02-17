@@ -7,8 +7,7 @@ authors:
     - García Canclini, Néstor
 year: 1982
 apa: 'García Canclini, N. (1982). De lo primitivo a lo popular: Interpretaciones de la desigualdad cultural. Las culturas populares en el capitalismo, 19-46.'
-type: 'nota de referencia'
-tags: ['huérfana']
+tags: ['nota-referencia', 'huérfana']
 ---
 
 Cómo se le llama a la los hechos culturales desde «los indígenas de una ciencia»: sistemas simbólicos, signos, ideología, comunicación, lo imaginario (p. 19).

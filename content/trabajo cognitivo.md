@@ -1,7 +1,6 @@
 ---
 title: 'trabajo cognitivo'
-type: 'término'
-tags: ['incipiente']
+tags: ['término', 'incipiente']
 ---
 
 Para entender la noción de *trabajo* podemos seguir la tradición materialista (casi fisicalista): gasto de energía. La noción de *cognitivo* puede tratarse como relativo a lo *mental*.

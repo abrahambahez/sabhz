@@ -1,7 +1,6 @@
 ---
 title: 'teoría de la práctica'
-type: 'nota permanente'
-tags: []
+tags: ['nota-permanente']
 ---
 
  Es un esfuerzo que busca conciliar las viejas oposiciones de determinación estructural contra libertad individual.
@@ -29,4 +28,4 @@ Hay conceptos que están diseñados para contener ambas cosas dentro de sí, com
 
 [[Antropología y cambio social]]
 
-[[espectro de interpretación arqueológica en la estructuración]]
+[[Joyce & Lopiparo (2005) espectro de interpretación arqueológica en la estructuración]]

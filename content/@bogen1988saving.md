@@ -6,8 +6,7 @@ source_type: artículo
 authors: ['Bogen, James', 'Woodward, James']
 year: 1988
 apa: 'Bogen, J., & Woodward, J. (1988). Saving the phenomena. The philosophical review, 97(3), 303-352. http://www.pitt.edu/~rtjbog/bogen/saving.pdf'
-type: 'nota de referencia'
-tags: ['leyendo']
+tags: ['nota-referencia', 'leyendo']
 ---
 
 Los autores diferencian las dos clases de proposiciones: 

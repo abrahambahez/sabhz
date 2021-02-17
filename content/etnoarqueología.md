@@ -1,7 +1,6 @@
 ---
 title: 'etnoarqueología'
-type: 'término'
-tags: []
+tags: ['término']
 ---
 Es la realización de trabajo etnográfico por arqueólogos, antropólogos con formación arqueológica, usando métodos de la Arqueología, o bien, realizada con el fin de ayudar en la interpretación arqueológica. Se interpreta también como el *estudio etnográfico de culturas vivas desde perspectivas arqueológicas* (Hernández Álvarez, 2011)
 

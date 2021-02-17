@@ -1,7 +1,6 @@
 ---
 title: 'entrevista etnográfica'
-type: 'término'
-tags: ['incipiente']
+tags: ['término', 'incipiente']
 ---
 
 Diálogo formal orientado por el problema de investigación. Debe ser *densa*.

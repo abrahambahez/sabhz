@@ -1,7 +1,6 @@
 ---
 title: 'locus de control'
-type: 'término'
-tags: []
+tags: ['término']
 ---
 
 Es la atribución subjetiva que una persona da a los factores críticos que producen los resultados de sus acciones:

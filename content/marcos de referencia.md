@@ -1,7 +1,6 @@
 ---
 title: 'marcos de referencia'
-type: 'término'
-tags: []
+tags: ['término']
 ---
 Los marcos de referencia son una red de analogías relacionales de caracter uniformitario, utilizados como parte de las metodologías de la [[etnoarqueología]], analogía etnográfica transcultural y la arqueología experimental
 

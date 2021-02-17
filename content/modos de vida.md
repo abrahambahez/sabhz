@@ -1,7 +1,6 @@
 ---
 title: modos de vida
-type: 'término'
-tags: ['incipiente']
+tags: ['término', 'incipiente']
 ---
 
 Adopto la noción del antropólogo [[@hojrupStateCultureLifeModes2017|Thomas Højrup - State, Culture and Life-Modes]]:

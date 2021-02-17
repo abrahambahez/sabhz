@@ -1,7 +1,6 @@
 ---
 title: 'La agencia se expresa desde las prácticas estructurantes hasta la serialidad'
-type: 'nota permanente'
-tags: []
+tags: ['nota-permanente']
 ---
 
 La [[agencia]] está involucrada en toda actividad humana.

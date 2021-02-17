@@ -6,8 +6,7 @@ source_type: libro
 authors: ['Adler, Mortimer', 'Van Doren, Charles']
 year: 1997
 apa: 'Adler y Van Doren (1997). How to read a Book. Ed. Fine Communications'
-type: 'nota de referencia'
-tags: ['leyendo']
+tags: ['nota-referencia', 'leyendo']
 ---
 
 ### Las dimensiones de la lectura

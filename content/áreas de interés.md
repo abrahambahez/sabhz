@@ -1,7 +1,6 @@
 ---
 title: 'áreas de interés'
-type: 'índice'
-tags: []
+tags: ['índice']
 ---
 
 ## áreas activas
