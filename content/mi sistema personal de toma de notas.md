@@ -3,6 +3,19 @@ title: 'sistema personal de toma de notas'
 tags: ['nota-permanente', 'perenne❧']
 ---
 
+Términos nuevos que están emergiendo:
+
+- referencias explícitas /implícitas
+- asociaciones fuertes /débiles
+- elaboraciones asociativas / colecciones asociativas
+- emergencias (ontológica / meta-jerárquica)
+- notas permanentes de orden superior
+
+además añadir las que tengan la etiqueta #zettelkasten-personal 
+
+---
+versión vieja
+
 Este pretende ser mi [[sistema]] personal de notas, una visión práctica de [[gestión del conocimiento]] personal. En la [[taxonomía general de notas]],  defino la organización del contenido de cada una.
 
 **La toma de notas es una práctica básica de construcción de conocimiento** (mira [[teorías de la cognición extendida]]), esto es pensar [[las notas como herramientas cognitivas]].

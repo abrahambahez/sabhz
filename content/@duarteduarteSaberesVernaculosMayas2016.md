@@ -16,7 +16,7 @@ Las prácticas territoriales mayas conforman también una estrategia de resisten
 
 Los procesos identitarios pueden separarse en endógenos (resultado de identidades personales) y exógenos (asignadores de identidades).
 
-==Las identidades tienen una base territorial==. La identidad maya está en proceso de colonización y la amenaza más sensible es la desterritorialización, porque el autor identifica al [[Territorio]] como **el sustrato de la identidad maya** (cfr. [[Capel (2016) la territorialización es el proceso de producción de un territorio concreto a nivel práctico y discursivo]]).
+==Las identidades tienen una base territorial==. La identidad maya está en proceso de colonización y la amenaza más sensible es la desterritorialización, porque el autor identifica al [[territorio]] como **el sustrato de la identidad maya** (cfr. [[Capel (2016) la territorialización es el proceso de producción de un territorio concreto a nivel práctico y discursivo]]).
 
 Así, la construcción de una vivienda obedece a las necesidades de la unidad doméstica, lo que la diferencia *radicalmente* de las viviendas seriales construidas con *fines comerciales* (que se benefician de la creación artificial de esas necesidades, piensa en cosas como "Yucatán, el mejor estado para vivir", etcétera):
 

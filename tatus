@@ -1,0 +1,256 @@
+[33mcommit a1ce6c48c18bb91c828bfafadadf32677f74abc3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: abraham bahez <s.abrahambh@gmail.com>
+Date:   Wed Feb 17 15:59:50 2021 -0600
+
+    content-update
+
+[33mcommit a03225c31a9dd8fb0106d4089d9beecd1aee5cf2[m
+Author: abraham bahez <s.abrahambh@gmail.com>
+Date:   Fri Feb 12 22:36:19 2021 -0600
+
+    content-update
+
+[33mcommit c01bad6f20e4627448698ff651b173ba0a70eafa[m
+Author: abraham bahez <s.abrahambh@gmail.com>
+Date:   Fri Feb 12 16:12:47 2021 -0600
+
+    add context text to wikilinks
+
+[33mcommit ae88b88aeb2c6f0dab44c84eacfd36157ff3c032[m
+Author: abraham bahez <s.abrahambh@gmail.com>
+Date:   Thu Feb 11 17:52:42 2021 -0600
+
+    content-update
+
+[33mcommit b7e6d6cf5799b75c99af94eaf9b55d1f9b459aa1[m
+Author: abraham bahez <s.abrahambh@gmail.com>
+Date:   Thu Feb 11 16:55:56 2021 -0600
+
+    content-update
+
+[33mcommit f3530018228d8b71826ba2fc6897a0042956026d[m
+Author: abraham bahez <s.abrahambh@gmail.com>
+Date:   Wed Feb 10 21:35:46 2021 -0600
+
+    content-update
+
+[33mcommit 6437a8757ac13625a61018181cc1e5d7f1e359e3[m
+Author: abraham bahez <s.abrahambh@gmail.com>
+Date:   Tue Feb 9 23:43:23 2021 -0600
+
+    fix(head metadata) 1st attempt | content-update
+
+[33mcommit ddd128153fa38b831d6eb2f4354d1dfa00b6a66f[m
+Author: abraham bahez <s.abrahambh@gmail.com>
+Date:   Wed Feb 3 11:40:14 2021 -0600
+
+    minor styiling and component details | content update
+
+[33mcommit aeb880eba8214111473be7b5aa764cd3a9ff454e[m
+Author: abraham bahez <s.abrahambh@gmail.com>
+Date:   Sat Jan 30 02:22:01 2021 -0600
+
+    feat: frontmatter tags support & content update
+
+[33mcommit fe691dfd8d62ebb769c98e86ccb513bb452f14b6[m[33m ([m[1;33mtag: v2.0[m[33m)[m
+Author: abraham bahez <s.abrahambh@gmail.com>
+Date:   Thu Jan 28 19:28:39 2021 -0600
+
+    fix details for refactor
+
+[33mcommit 50781ab572444aa855212e1214f880a0dee9943a[m
+Merge: f8fe216 ca91f0a
+Author: abraham bahez <s.abrahambh@gmail.com>
+Date:   Thu Jan 28 02:08:49 2021 -0600
+
+    Merge branch 'master' of https://github.com/abrahambahez/sabhz
+
+[33mcommit f8fe21666efaa5525c12671acd7a425155bbe6e5[m[33m ([m[1;32mrefactor[m[33m)[m
+Author: abraham bahez <s.abrahambh@gmail.com>
+Date:   Thu Jan 28 01:48:58 2021 -0600
+
+    refactor
+
+[33mcommit ca91f0a07c68d91fecb22807d02b28bd7eabd2d9[m
+Author: Abraham Bahez <53906659+abrahambahez@users.noreply.github.com>
+Date:   Wed Jan 27 18:29:29 2021 -0600
+
+    Update 2021-01-25.md
+
+[33mcommit 862c2c2e389b451846c4f5094f4cc6abe5d7872b[m
+Author: abraham bahez <s.abrahambh@gmail.com>
+Date:   Wed Jan 27 16:20:24 2021 -0600
+
+    setting content for refactor
+
+[33mcommit 79184e6cfebdb30651d83c0e0456680207819e93[m
+Author: abraham bahez <s.abrahambh@gmail.com>
+Date:   Wed Jan 27 15:53:05 2021 -0600
+
+    content-update
+
+[33mcommit 461f417f91a55b23883508b193274bb445603cc8[m
+Merge: 28357a7 affd8c3
+Author: abraham bahez <s.abrahambh@gmail.com>
+Date:   Wed Jan 27 13:03:30 2021 -0600
+
+    Merge branch 'dev'
+
+[33mcommit 28357a7a89ee55eb4c0d7e3dc1673c3b88198f83[m
+Author: abraham bahez <s.abrahambh@gmail.com>
+Date:   Wed Jan 27 13:03:25 2021 -0600
+
+    content after break in Nuxt
+
+[33mcommit affd8c3ddc020b8b440e5eaefd872a2533338da6[m[33m ([m[1;32mdev[m[33m)[m
+Author: abraham bahez <s.abrahambh@gmail.com>
+Date:   Wed Jan 27 13:00:16 2021 -0600
+
+    content-update
+
+[33mcommit 3454a9a6c27fb6e6109eeb05c1ef7e3f8290a9b7[m
+Author: abraham bahez <s.abrahambh@gmail.com>
+Date:   Mon Jan 25 20:12:44 2021 -0600
+
+    content-update | fisrt try to order months in librero/
+
+[33mcommit 1479124020093a5cf0cbe48b5cd5777826c7411e[m
+Author: abraham bahez <s.abrahambh@gmail.com>
+Date:   Fri Jan 22 17:59:38 2021 -0600
+
+    feat: support for anchor links (add function in remark-wiki-link <a> parser
+
+[33mcommit 7b8db2632158632935d8805f693b087c4cf98b30[m
+Author: abraham bahez <s.abrahambh@gmail.com>
+Date:   Fri Jan 22 17:22:14 2021 -0600
+
+    content-update
+
+[33mcommit 4afe3c40b178e4eec43995ccf3fea3de3e2387bc[m
+Author: abraham bahez <s.abrahambh@gmail.com>
+Date:   Fri Jan 22 13:08:32 2021 -0600
+
+    third try to fix librero/how to take smart notes
+
+[33mcommit b2e1a4239927e63c3373a5423bd088c0e65e4274[m
+Author: abraham bahez <s.abrahambh@gmail.com>
+Date:   Fri Jan 22 12:50:05 2021 -0600
+
+    secong try to fix librero/How to Take Smart Notes
+
+[33mcommit 6e1795771164947ccfbc0dfbc91e1168f75aea4b[m
+Author: abraham bahez <s.abrahambh@gmail.com>
+Date:   Fri Jan 22 12:07:01 2021 -0600
+
+    fix backlinks component  bugs from the last commit
+
+[33mcommit bdd96e2ffeac52c577ae79db8d2e14e73753a105[m
+Author: abraham bahez <s.abrahambh@gmail.com>
+Date:   Thu Jan 21 23:12:20 2021 -0600
+
+    feat(excerpt in note) removing description, refactor notes yaml and content-update
+
+[33mcommit 2bfd8b117c71b653b86df03a7b77f458b832c023[m
+Author: abraham bahez <s.abrahambh@gmail.com>
+Date:   Wed Jan 20 23:38:33 2021 -0600
+
+    content-update | styles update
+
+[33mcommit 71ffc2ce17a18e76aa1055473eebc807de55be57[m
+Author: abraham bahez <s.abrahambh@gmail.com>
+Date:   Fri Jan 15 01:08:24 2021 -0600
+
+    fix backlinks errors in /diario and /librero, minor corrections | content-update
+
+[33mcommit f287dad3a85be086e8707e773f6676e507610db8[m
+Author: abraham bahez <s.abrahambh@gmail.com>
+Date:   Thu Jan 14 18:01:37 2021 -0600
+
+    iteration(librero)
+
+[33mcommit b0edcc5703f267d25bde40a2de36f0c4ae2965f0[m
+Author: abraham bahez <s.abrahambh@gmail.com>
+Date:   Thu Jan 14 01:04:26 2021 -0600
+
+    feat(/librero): group by year and month
+
+[33mcommit d83a0ea6d6ad89403e0595bed404efa71a12a6e9[m
+Author: abraham bahez <s.abrahambh@gmail.com>
+Date:   Wed Jan 13 09:36:25 2021 -0600
+
+    deleting i18m & global-components pckges, adding new page: librero for reference notes
+
+[33mcommit 45bcf6952ad57f7c0d359ef2c34f8ef542a10b40[m
+Author: abraham bahez <s.abrahambh@gmail.com>
+Date:   Tue Jan 12 20:10:23 2021 -0600
+
+    content-update
+
+[33mcommit e2419d19ec76f011aedbc0bc8874a7f007e6129e[m
+Merge: 2575c0d 0052e88
+Author: abraham bahez <s.abrahambh@gmail.com>
+Date:   Thu Dec 17 20:11:41 2020 -0600
+
+    Merge branch 'master' of https://github.com/abrahambahez/sabhz
+
+[33mcommit 2575c0d0d5381f78af3c0111eb620e8b1f5ce678[m
+Author: abraham bahez <s.abrahambh@gmail.com>
+Date:   Thu Dec 17 20:11:09 2020 -0600
+
+    content update | iterate /archive & searchbar component
+
+[33mcommit 0052e88c5ed5cac886915e6dfd117d5568af3086[m
+Merge: e56064a f60c9bf
+Author: Abraham Bahez <53906659+abrahambahez@users.noreply.github.com>
+Date:   Mon Dec 14 00:22:22 2020 -0600
+
+    Merge pull request #2 from abrahambahez/dependabot/npm_and_yarn/node-fetch-2.6.1
+    
+    Bump node-fetch from 2.6.0 to 2.6.1
+
+[33mcommit e56064a26d85167672a38d8a53371511cb06b621[m
+Merge: bcff948 c1380b4
+Author: Abraham Bahez <53906659+abrahambahez@users.noreply.github.com>
+Date:   Mon Dec 14 00:22:05 2020 -0600
+
+    Merge pull request #3 from abrahambahez/dependabot/npm_and_yarn/ini-1.3.8
+    
+    Bump ini from 1.3.5 to 1.3.8
+
+[33mcommit c1380b47362b0852fcbcbf80f5af77b7db55a358[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sun Dec 13 04:24:23 2020 +0000
+
+    Bump ini from 1.3.5 to 1.3.8
+    
+    Bumps [ini](https://github.com/isaacs/ini) from 1.3.5 to 1.3.8.
+    - [Release notes](https://github.com/isaacs/ini/releases)
+    - [Commits](https://github.com/isaacs/ini/compare/v1.3.5...v1.3.8)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit bcff948e5b0e4e9bf9eb8ae3edf8958bf2d92d83[m
+Author: abraham bahez <s.abrahambh@gmail.com>
+Date:   Tue Dec 8 11:55:50 2020 -0600
+
+    content-update
+
+[33mcommit 8eec211a97717c7c42019509810d966681dfe298[m
+Author: abraham bahez <s.abrahambh@gmail.com>
+Date:   Tue Dec 8 00:52:55 2020 -0600
+
+    content-update
+
+[33mcommit 3ad9c2c3cdde0be78587bf3d838b82b2499d60f0[m
+Author: abraham bahez <s.abrahambh@gmail.com>
+Date:   Sun Dec 6 02:55:05 2020 -0600
+
+    content-update
+
+[33mcommit 2bbc3683b081c11116cdf77cb80d9aede26a016d[m
+Author: abraham bahez <s.abrahambh@gmail.com>
+Date:   Sun Dec 6 00:04:43 2020 -0600
+
+    content update | font change to Inter
+
+[33mcommit bb0f7df849988bea55fe142b4c

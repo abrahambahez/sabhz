@@ -2,7 +2,7 @@
 title: 'El sistema social de propiedad agraria entre 1917 y 1992'
 tags: ['nota-de-literatura']
 ---
-Había tres clases de propiedad del [[Territorio]] en México: propiedad pública, propiedad privada y propiedad social (ejidal y comunal), *"en teoría soportados en una serie de principios jurídicos que anteponían la búsqueda del bien común al interés de los individuos"*
+Había tres clases de propiedad del [[territorio]] en México: propiedad pública, propiedad privada y propiedad social (ejidal y comunal), *"en teoría soportados en una serie de principios jurídicos que anteponían la búsqueda del bien común al interés de los individuos"*
 
 Atributos de los regímenes de propiedad ejidal y comunal en este periodo:
 

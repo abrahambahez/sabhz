@@ -8,9 +8,9 @@ authors:
     - Escobar, Arturo
 year: 2004
 apa: 'Restrepo, E., & Escobar, A. (2004). Antropologías en el mundo. Jangwa Pana, 3(1), 110-131.'
-tags: ['nota-referencia']
+tags: 
+    - 'nota-referencia'
 ---
-
 *Las antropologías del mundo no son más ni menos que tomar en serio el pensamiento antropológico (p. 128)*.
 
 La antropología debe ser pensada desde un marco más amplio: el de las «antropologías en el mundo». Anteriormente la Antropología (con mayúsculas homogeneizantes) ha sido criticada con iniciativas como las «antropologías indígenas» o nativas, las «antropologías nacionales», las «antropologías del sur», las «periféricas», «con acento» entre otras múltiples (p. 111).

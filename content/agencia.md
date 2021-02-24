@@ -9,6 +9,6 @@ Una practica puede ser evaluada como espontánea o reproductora de una estructur
 
 Sherry Ortner ([[@ortner1993teoria]]) traduce el término *agencia* como «intervención humana» (p. 40).
 
-![[El problema de la atribución de la agencia]].
+![[problema de la atribución de la agencia]].
 
 ![[La agencia se expresa desde las prácticas estructurantes hasta la serialidad]].

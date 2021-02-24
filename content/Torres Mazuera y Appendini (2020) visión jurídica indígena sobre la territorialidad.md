@@ -12,7 +12,7 @@ Se rige por normas y leyes de diferentes niveles de competencia:
 
 ## el derecho colectivo indígena a la tierra
 
-Desde esta visión, la tierra rural (¿noción distinta a la de [[Territorio]]?) es concebida en términos de un derecho humano que es preciso proteger de la injerencia del mercado y del Estado (p. 55).
+Desde esta visión, la tierra rural (¿noción distinta a la de [[territorio]]?) es concebida en términos de un derecho humano que es preciso proteger de la injerencia del mercado y del Estado (p. 55).
 
 Actualmente la jurisdicción indígena va cobrando visibilidad legal y relevancia política (p. 56) y se configura como una lucha:
 

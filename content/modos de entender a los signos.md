@@ -2,7 +2,7 @@
 title: 'modos de entender a los signos'
 tags: ['colección', 'potenciales']
 ---
-[[Semiótica de la comunicación y antropología simbólica]]
+[[semiótica de la comunicación y antropología simbólica]]
 
 En esta colección iré concentrando definiciones y aplicaciones de estudios de los signos: semiótica, semiología, antropología simbólica, filosofía y otras disciplinas. 
 

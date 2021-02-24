@@ -3,7 +3,7 @@ title: 'paisaje cultural'
 tags: ['término', 'doctorado']
 ---
 
-Las personas, al vivir en la Tierra, lo hacen en un suelo específico dentro de su área ([[Territorio]]). Al asentarse de forma más o menos permanente, lo transforman a través de su trabajo.
+Las personas, al vivir en la Tierra, lo hacen en un suelo específico dentro de su área. Al asentarse de forma más o menos permanente, lo transforman a través de su trabajo. En [[Capel (2016) la territorialización es el proceso de producción de un territorio concreto a nivel práctico y discursivo]]
 
 Por lo tanto, los paisajes culturales son aquellos que resultan del crecimiento natural del lugar combinado con las modificaciones humanas. Este es un [término usado por la UNESCO](https://whc.unesco.org/en/culturallandscape/#1), que incluso maneja una lista de diferentes casos.
 

@@ -1,9 +1,11 @@
 ---
 title: 'argumento en favor de la abstracción en relación con problemas concretos'
-tags: ['nota-permanente']
+tags: 
+    - 'nota-permanente'
+    - 'prioridad-1'
 ---
 
-Desde Ahrens (2017, [[@ahrensHowTakeSmart2017|How to Take Smart Notes]])
+[[@ahrensHowTakeSmart2017]] (p. 106 · Posición)
 Para poder reusar las ideas en contextos diferentes, necesitamos separarla de sus contextos originales a través de la abstracción.
 
 Es posible que la habilidad para encontrar soluciones creativas y funcionales tenga que ver con nuestra habilidad para hacer abstracciones.

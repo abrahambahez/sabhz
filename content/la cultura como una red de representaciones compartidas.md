@@ -3,7 +3,7 @@ title: 'la cultura como una red de representaciones compartidas'
 tags: ['nota-permanente', 'semilla❦']
 ---
 
-La famosa definición [antropológica de cultura](http://www.filosofia.org/filomat/df406.htm), bien pensada podría redefinirse, sin perder su extensión, como sigue:
+La famosa definición [antropológica de cultura](http://www.filosofia.org/filomat/df406.htm) (hoy en día es tomada por la antropología como la [[vieja noción de cultura]]), bien pensada podría redefinirse, sin perder su extensión, como sigue:
 
 >Cultura es todo aquello que no podemos explicar en términos físicos, químicos o biológicos
 
@@ -14,6 +14,11 @@ La cultura no existe en el mismo sentido en que pensamos, por ejemplo, que *«la
 Una persona puede *decidir* actuar conforme una norma cultural, pero al hacerlo hace uso de su [[agencia]]. Sí, reproduce así la cultura, pero de ahí no se sigue que esté en una actitud apologética, que la esté defendiendo, que crea en ella... bien podríamos estar ante una [[categoría serial]].
 
 Hay incluso otros intentos por entender características culturales tan «profundas» como la etnicidad, mira el concepto de *etnicidad operacional* de Johannesen (2004), hablando de la [[acción serial]].
+
+## Problemas
+
+- ¿Dónde queda la dimensión de conflicto y poder? Piensa en las dinámicas de los modos de vida en [[@hojrupStateCultureLifeModes2017]]
+- 
 
 ## Referencias
 

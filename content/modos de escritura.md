@@ -21,7 +21,7 @@ Estas son algunas téncnicas para escribir como forma de meditación, gestión d
 
 De acuerdo con los **argumentos sobre toma de notas**, tomar notas constituye la práctica nuclear de generación de conocimiento, creatividad y productividad.
 
-Las notas son las unidades básicas de la práctica escritural, como se ha reconocido desde hace tiempo (sobre todo desde el libro de **Ahrens (2017) How to Take Smart Notes**).
+Las notas son las unidades básicas de la práctica escritural, como se ha reconocido desde hace tiempo (sobre todo desde el libro de Ahrens (2017) How to Take Smart Notes).
 
 Algunos métodos para organizar la toma de notas como forma de pensamiento son:
 

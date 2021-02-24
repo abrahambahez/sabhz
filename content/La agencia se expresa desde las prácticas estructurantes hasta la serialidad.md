@@ -9,4 +9,4 @@ Como sujeto, puedo *hacer lo que quiera* (tengo intencionalidad y volición), si
 
 También puedo simplemente hacerlo como el entorno, el contexto inmediato y las condiciones materiales me lo permitan, ahí estaría realizando una [[acción serial]]. 
 
-Puedo actuar de una forma totalmente diferente a todo lo anterior, ahí estaría maximizando mi agencia, y si lo hago deliberadamente, afirmando mi libertad.
+Puedo actuar de una forma totalmente diferente a todo lo anterior, ahí estaría maximizando mi [[agencia]], y si lo hago deliberadamente, afirmando mi libertad.

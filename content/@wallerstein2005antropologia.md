@@ -7,10 +7,11 @@ authors:
     - Wallerstein, Immanuel
 year: 2005
 apa: 'Wallerstein, I. (2005). La antropología, la sociología y otras disciplinas dudosas. Las incertidumbres del saber, 114-120.'
-tags: ['nota-referencia']
+tags:
+    - 'nota-referencia'
+    - 'potenciales'
 ---
-
-El término disciplina implica un campo con cateogrías intelectuales, un espacio con algo parecido a límites y modos de investigar legitimados. También implica instituciones estructuradas de formas más elaboradas desde el sXIX. También implica una cultura (experiencias, contactos, yo añadiría *compartir una subjetivación particular*) (p. 141).
+El término disciplina implica un campo con cateogrías intelectuales, un espacio con algo parecido a límites y modos de investigar legitimados. También implica instituciones estructuradas de formas más elaboradas desde el sXIX. También implica una cultura (experiencias, contactos, p. 141).  Yo añadiría a la enumeración de Wallerstein: *compartir una subjetivación particular*.
 
 El autor parte de tres puntos (p. 144):
 
@@ -22,7 +23,7 @@ Para el autor, hay tendencias disciplinares: hay sujetos que prefieren buscar la
 
 También hay problemas generacionales que pueden afectar la disposición al cambio institucinoal en el mero nombre de la mejoría intelectual. Qué decir de los factores económicos donde la universidad es un espacio de conteción de fuerza laboral en contextos de sobreoferta de mano de obra (afectando también a la 'legítima' búsqueda de cambio por motivos epistémicos)
 
-Las disciplinas sociales están siempre enfrentadas al problema del *descubrimiento de leyes* contra el cambio permanente y constante (p. 152).
+==Las disciplinas sociales están siempre enfrentadas al problema del *descubrimiento de leyes* contra el cambio permanente y constante (p. 152).==
 
 Generalizar en tiempo pasado y conceptualizar en plural son buenas prácticas que dotan de una *historicidad* y *multiplicidad* más realista a los discursos sociales.
 

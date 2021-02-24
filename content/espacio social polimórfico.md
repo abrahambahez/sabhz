@@ -4,7 +4,7 @@ tags: ['término', 'semilla❦']
 ---
  Uso este término como una categoría que engloba diversas nociones donde la relación sujeto-espacio se manifiesta.
  
- Así, el [[Territorio]] es visto como una delimitación espacial concreta (física) en relación con los grupos sociales que la ocupan [[@capelCienciasSocialesEstudio2016|Capel (2016)]], cuyos mecanismos prototípicos pueden ser las topografías y las divisiones políticas, respectivamente. Es un lugar bien delimitado que traza un área específica y por lo tanto establece dinámicas de exclusión e inclusión (cfr. [[@woodMapasEstadoDenis2018|Wood (2018)]] sobre los mapas como [[dispositivos de construcción territorial]]).
+ Así, el [[territorio]] es visto como una delimitación espacial concreta (física) en relación con los grupos sociales que la ocupan [[@capelCienciasSocialesEstudio2016|Capel (2016)]], cuyos mecanismos prototípicos pueden ser las topografías y las divisiones políticas, respectivamente. Es un lugar bien delimitado que traza un área específica y por lo tanto establece dinámicas de exclusión e inclusión (cfr. [[@woodMapasEstadoDenis2018|Wood (2018)]] sobre los mapas como [[dispositivos de construcción territorial]]).
  
  Pero esa no es la única manifestación de la relación sujeto-espacio, pues también existe el ciber-espacio (cfr. [Mundo digital. Etnografiando la noosfera](https://dialnet.unirioja.es/servlet/libro?codigo=700643&fbclid=IwAR2qYafXPNN103PuPZbf0Sh6hVB9gXZP9gJkNLa5J24FLtnecK-cWFVkfYo)) como una estructura *topológica* que posibilita interacciones funcionalmente equivalentes a las físicas (teleconferencias), las sociales (voto digital) y las culturales (memes y *tendencias* nacidas en internet) pero con las particularidades de un espacio no-territorial.
  

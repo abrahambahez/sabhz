@@ -8,7 +8,6 @@ year: 2004
 apa: 'Lenclud, G. «Lo empírico y lo normativo en la etnografía» ¿Derivan las diferencias culturales de la descripción?. En  Boivin, M., Rosato, A., & Arribas, V. (2004). Constructores de otredad. Antropofagia.(pp. 179-185)'
 tags: ['nota-referencia', 'potenciales']
 ---
-
 A diferencia de las ciencias naturales, en la Antropología la objetividad depende más del valor de un *hecho proclamado* que de un *hecho reconocido*: *«la regla en nuestra disciplina sostiene que las afirmaciones etnográficas son descriptivas y no valorativas»* (p. 179)
 
 Un ejemplo:
@@ -44,7 +43,7 @@ Así, *«decir que alguien que tiene intenciones o creencias, que prefiere esto 
 
 Al sólo poder notar diferencias comparándolas con la supuesta "normalidad" de la vida propia; al afirmar con intenciones descriptivas que «el sujeto 's' cree o hace 'x'» eso implica ya un juicio valorativo.
 
-[[Antropología del conocimiento]]
+[[antropología del conocimiento]]
 
 ## Referencias
 

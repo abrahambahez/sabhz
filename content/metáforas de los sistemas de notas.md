@@ -1,6 +1,8 @@
 ---
 title: 'metáforas de los sistemas de notas'
-tags: ['colección']
+tags: 
+    - 'colección'
+    - 'zettelkasten-personal'
 ---
 Mientras la popularidad de sistemas como el [[zettelkasten]] y derivados se va desarrollando, la comunidad alrededor va creando metáforas que ilutren el proceso abstracto de la emergencia de ideas.
 

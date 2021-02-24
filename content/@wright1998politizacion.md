@@ -14,7 +14,7 @@ La cultura es una herramienta política. Posiblemente su versión más peligrosa
 
 ### nuevos significados de cultura 
 
-Las identidades son naturalmente fluidas y construidas situacionalmente (p. 131):
+Las identidades son naturalmente fluidas y construidas situacionalmente (p. 131).
 
 ### En relación con el nuevo racismo
 

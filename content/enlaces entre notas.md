@@ -1,4 +1,4 @@
 ---
 title: 'enlaces entre notas'
-tags: ['nota-permanente']
+tags: ['nota-permanente', 'temporal']
 ---

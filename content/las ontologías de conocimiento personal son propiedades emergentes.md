@@ -13,4 +13,3 @@ Por una parte, [[el problema de la clasificación]] complejiza el objetivo, pero
 
 Por tanto, **las ontologías de conocimiento personal se forman como [[propiedades emergentes]] a partir de un conjunto variable de ideas y relaciones entre ellas**. 
 
-- revisar [Toward Principles for the Design of Ontologies Used for Knowledge Sharing](https://tomgruber.org/writing/onto-design.htm) 

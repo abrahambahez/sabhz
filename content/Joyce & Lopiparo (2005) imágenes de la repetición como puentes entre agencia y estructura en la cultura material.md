@@ -7,7 +7,7 @@ Cadenas, redes e incluso [citacionalidad](https://en.wikipedia.org/wiki/Citation
 
 Lo que hoy reconocemos como continuidad o replicación repetida es la expresión material de acciones intencionales de agentes del pasado, trabajando desde estructuras donde vivieron, junto a las consecuencias unintencionadas de esas acciones que fueron incorporadas a la matriz estructural de los actores posteriores (p. 368)
 
-La estructuración es la realización de la agencia. Por eso la agencia *puede verse* en esas secuencias de estructuración. No sólo es evidente en la innovación, sino también en la decisión que los agentes toman de reiterar lo que se hizo en el pasado.
+La estructuración es la realización de la [[agencia]]. Por eso la [[agencia]] *puede verse* en esas secuencias de estructuración. No sólo es evidente en la innovación, sino también en la decisión que los agentes toman de reiterar lo que se hizo en el pasado.
 
 La escala de reconocimiento es variable: desde lo micro-metodológico a los agentes colectivos y la permanencia temporal de las cosas.
 

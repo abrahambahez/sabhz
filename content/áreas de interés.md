@@ -11,11 +11,11 @@ tags: ['índice']
 
 ## áreas en espera
 
-- [[Antropología y anarquismo]]
+- [[antropología y anarquismo]]
 
 ### ¿en qué sentidos el conocimiento es una promesa de mejora para la humanidad y en qué sentidos una amenaza?
 
-- [[Antropología del conocimiento]]
+- [[antropología del conocimiento]]
 - [[teorías de la cognición extendida]]
 - [[epistemologías latinoamericanas]]
 - [[esbozos de una teoría del trabajo cognitivo]]
@@ -28,12 +28,12 @@ tags: ['índice']
 
 ### ¿en qué sentidos la tecnología es una promesa de mejora para la humanidad y en qué sentidos una amenaza?
 
-- [[Ciberantropología]], línea que exploraré cuando tenga un poco más de tiempo
-- [[Humanismo digital]], lo mismo que la anterior
+- [[ciberantropología]], línea que exploraré cuando tenga un poco más de tiempo
+- [[humanismo digital]], lo mismo que la anterior
 
 ### pensamiento semiótico y expresivo, humano y no-humano
 
-- [[Semiótica de la comunicación y antropología simbólica]]
+- [[semiótica de la comunicación y antropología simbólica]]
 - [[modos de entender a los signos]]
 
 ---

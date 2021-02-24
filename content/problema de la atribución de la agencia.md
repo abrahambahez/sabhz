@@ -4,7 +4,7 @@ tags: ['nota-permanente']
 ---
 Para poder atribuir [[agencia]] a alguien o algo es necesario a su vez atribuirle el estaus de *sujeto*. En muchos casos esto sucede a través del fenómeno de personhood (cfr. [[Pool Cab (2014, cap. 1) El enfoque transdisciplinario en el estudio de la etnicidad en arqueología|El enfoque transdisciplinario en el estudio de la etnicidad en arqueología]]).
 
-Pero la atribución implica al *atribuyente*, que es a su vez considerado un sujeto desde sí mismo. Por lo tanto la consideración de una cosa como algo con agencia es altamente dependiente del contexto del *atribuyente*.
+Pero la atribución implica al *atribuyente*, que es a su vez considerado un sujeto desde sí mismo. Por lo tanto la consideración de una cosa como algo con [[agencia]] es altamente dependiente del contexto del *atribuyente*.
 
 Existen casos de atribución de agencia:
 

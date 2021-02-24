@@ -49,7 +49,11 @@ De acuerdo con su texto, *«Communicating with slip boxes»*, publicado en 2019,
 	- Esto no quiere decir que esta caja no sea importante, es tan importante que el *zettelkasten* debe tenerla como una segunda caja y también contiene notas propias, *pero funcionan de forma dialógica con la caja de ideas propias*, mientras que el autor del *zettelkasten* dialoga con su caja de ideas propias más que con su caja de referencias
 	- También es importante referir las notas de ideas propias que están basadas o surgieron a partir de esa referencia. Esto tiene una consecuencia epistémica importante, pues indica que hay una relación entre un tema, una idea tuya y una idea de otro autor (así el nombre del autor es también una parte importante de tu propio argumento o desarrollo intelectual) (el conocimiento es dialógico, mira mi [[2020-11-24]])
 
-Las notas de Luhmann han sido digitalizadas y [publicadas en línea](https://niklas-luhmann-archiv.de/bestand/zettelkasten/suche) (en alemán, por supuesto)
+Las notas de Luhmann han sido digitalizadas y [publicadas en línea](https://niklas-luhmann-archiv.de/bestand/zettelkasten/suche) (en alemán, por supuesto).
+
+Para poner en práctica:
+
+- lee [[Ahrens (2017) estrategia práctica para usar el zettelkasten]].
 
 ## Referencias
 

@@ -3,7 +3,7 @@ title: 'glosario maya de construcción'
 tags: ['colección', 'doctorado']
 ---
 
-Lo que sigue viene de Sánchez Suárez, A. (2020). Saberes del pak’lu’um (ver [[vivienda yucateca]], § Sánchez Suárez 2020a):
+Lo que sigue viene de Sánchez Suárez, A. (2020). Saberes del pak’lu’um (ver [[vivienda yucateca]]):
 
 >No todos los nombres de las maderas de la cubierta tienen traducción al español, algunas hacen referencia al tipo de madera. La semiótica que encontramos en los significados son las que llevaron a la definición de los conceptos analizados en el presente trabajo.
 >> Aurelio Sánchez Suárez

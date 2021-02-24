@@ -22,7 +22,6 @@ Tienen múltiples formas de categorizarse, según el énfasis que se haga en car
 
 - Lectura sintópica o lectura paralela
 - [[resumen progresivo]]
-- [[lectura como método de comprensión]]
 - Traducción como práctica creativa - formal de profundización en el sentido de un texto
 - Deconstrucción derridiana
 - Círculo hermenéutico de Gadamer

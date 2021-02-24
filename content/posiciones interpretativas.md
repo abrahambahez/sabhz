@@ -15,4 +15,4 @@ A continuación voy coleccionando los principios generales que se han discutido,
   
 Depende del propósito, sería cuerno hacerlo transparente al interpretar
 
-[[Antropología del conocimiento]]
+[[antropología del conocimiento]]

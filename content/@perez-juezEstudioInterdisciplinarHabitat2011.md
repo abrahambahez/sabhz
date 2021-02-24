@@ -11,6 +11,11 @@ year: 2011
 apa: 'Perez-Juez, A., Goldberg, P., & Cabanes, D. (2011). Estudio interdisciplinar del hábitat post-talayótico: Bioarqueología, geoarqueología y registro arqueológico parala revisión metodológica de la arqueología en Menorca. Archaea Mediterrania, 139-149.'
 tags: ['nota-referencia', 'huérfana']
 ---
+- La arqueología ha sido acusada muchas veces de ser demasiado especulativa y romantizada. El apoyo de la disciplina con técnicas científicas permite extender el trabajo analítico al extender la información disponible a interpretar.
+- Sin embargo, dado que las técnicas forman parte de la metodología arqueológica, empujan a la interpretación arqueológica hacia una mayor rigurosidad interpretativa desde el punto de vista objetivista.
+- Si el trabajo interdisciplinario no necesariamente involucra la participación activa de diferentes profesionales de disciplinas ante un problema común (la lógica de los «estudios de ...» cfr. [[@mallarino2012interdisciplinariedad]]), sino que puede limitarse a la utilización de las técnicas de otras disciplinas para el propósito exclusivo de una disciplina, como es este caso, podría pensarse como una forma de interdisciplina más débil
+
+## resumen esquemático
 
 El texto describe las nuevas formas de abordar, a partir de una aproximación interdisciplinar, el estudio de la arquitectura talayótica y post-talayótica; particularmente desde la bioarqueología y la geoarqueología, enfatizando el espacio doméstico.
 

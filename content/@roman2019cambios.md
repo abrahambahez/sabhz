@@ -33,8 +33,8 @@ El abandono de estas formas construcivas tienen que ver con:
 
 Qué permanece en las casas mayas actuales:
 
-- La permanencia constructiva está en los rodapiés, muros de bajareque y de mampostería, así como la estructura portante, con ciertos faltantes y diferencias que la caracterizan.
-- La utilización en los muros de materiales naturales como el bajareque representa un 54% y los de mampostería representan el 38%. 
+- La permanencia constructiva está en los rodapiés, muros de [[bajareque]] y de mampostería, así como la estructura portante, con ciertos faltantes y diferencias que la caracterizan.
+- La utilización en los muros de materiales naturales como el [[bajareque]] representa un 54% y los de mampostería representan el 38%. 
 - La permanencia del empleo de la palma de huano únicamente es del 30%
 
 Qué cambia:

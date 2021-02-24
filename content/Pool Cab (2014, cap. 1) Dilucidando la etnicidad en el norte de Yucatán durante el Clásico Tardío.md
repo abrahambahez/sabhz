@@ -44,7 +44,7 @@ A través del estudio arqueológico del lenguaje escrito (y asumiendo la estrech
 
 Los grupos étnicos son unidades de adscripción y de identificación; dependen de factores objetivos y subjetivos. Los mayas yucatecos antes de la conquista se diferenciaban de otros grupos.
 
-Las fuentes etnohistóricas sugieren que se dio una identificación entre lengua y [[Territorio]]: «Territorio es igual a lengua» (p. 176), en ese sentido, las variantes regionales pueden también indicar colectivos étnicos diversos (haciendo una lectura sustantivista pp. 177-178).
+Las fuentes etnohistóricas sugieren que se dio una identificación entre lengua y [[territorio]]: «Territorio es igual a lengua» (p. 176), en ese sentido, las variantes regionales pueden también indicar colectivos étnicos diversos (haciendo una lectura sustantivista pp. 177-178).
 
 Algunos colectivos, como los Tutul Xiu se acercan a la categoría étnica, pues « se diferenciaban por su lengua, cultura, organización y memoria ancestral territorial» (p. 181)
 

@@ -18,7 +18,7 @@ Complementarios:
 
 - [ ] Valeria Prieto (1978), Vivienda campesina en México
 - [ ] Arquitectura vernácula en México, de Francisco López Morales,
-- [ ] [Arquitectura y racismo: cuando el diseño se aplica como herramienta colonial](https://www.archdaily.mx/mx/941748/arquitectura-y-racismo-el-diseno-como-herramienta-colonial)  Artículo de Mariana Ordoñez (UADY) y Jesica Amescua (UIA)
+- [x] [Arquitectura y racismo: cuando el diseño se aplica como herramienta colonial](https://www.archdaily.mx/mx/941748/arquitectura-y-racismo-el-diseno-como-herramienta-colonial)  Artículo de Mariana Ordoñez (UADY) y Jesica Amescua (UIA)
 - [ ] [La arquitectura Neomaya en Yucatán](http://asri.eumed.net/4/arquitectura-neomaya.html)
 - [ ] [El uso y construcción del espacio en la vivienda popular](http://www.gazeta-antropologia.es/?p=3449)
 

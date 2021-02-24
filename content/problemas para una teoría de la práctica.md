@@ -10,7 +10,7 @@ El análisis grupal cae en conflicto con el individual. Cuando queremos analizar
 
 La temporalidad de la acción inmediata versus la acción como reflejo de un programa más grande en el tiempo. Cuando analizamos la [[agencia]] solemos ubicarla en una temporalidad inmediata, tan fugaz incluso como la noción de [[acción serial]] ¡aunque estas se usan para teorizar sobre arqueología! ¿qué más largo plazo podemos nombrar? (cfr. Johannesen (2004); Joyce & Lopiparo, 2005). Pero el comportamiento también está *motivado* por *proyectos* o *programas* a más largos plazos, ¿cómo conciliar esto?
 
-La creación del sujeto de la acción. ¿Quién es el sujeto de la agencia? Muchas teorías (incluyendo las económicas y las psicológicas-cognitivas) lo modelan con atributos como racional, individualista, agresivo, o los opuestos. Estos modelos son necesarios para teorizar sobre los problemas anteriores, pero son incapaces de abarcar todo el espectro, complejo, de la acción humana en el tiempo, el espacio y el contexto.
+La creación del sujeto de la acción. ¿Quién es el sujeto de la [[agencia]]? Muchas teorías (incluyendo las económicas y las psicológicas-cognitivas) lo modelan con atributos como racional, individualista, agresivo, o los opuestos. Estos modelos son necesarios para teorizar sobre los problemas anteriores, pero son incapaces de abarcar todo el espectro, complejo, de la acción humana en el tiempo, el espacio y el contexto.
 
 ¿Cómo la práctica (reproduce / transforma) al sistema? (p. 54) y también el problema de la temporalidad de esa dinámica. Son transformaciones lentas, generacionales.
 

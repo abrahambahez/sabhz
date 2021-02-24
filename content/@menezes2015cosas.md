@@ -9,10 +9,16 @@ year: 2015
 apa: 'Menezes, L. (2015). Las cosas están vivas: Relaciones entre cultura material, comunidades y legislación arqueológica/These things are alive: Relationships between material culture, communities, and archaeological legislation. Complutum. Publicaciones del Departamento de prehistoria de la Universidad complutense de Madrid, 26(1), 37.'
 tags: ['nota-referencia']
 ---
+- La historia social de las cosas de Arjun Appadurai influye en el título
+- Las cosas arqueológicas tienen un recorrido «de vida», renacen cuando son *redescubiertas* por el trabajo arqueológico y pasan a formar parte del sistema económico-sociocultural presente, lo que involucra su situación legislativa, administrativa, económica y sociocultural
+- El patrimonio como elemento sustentador de los estados modernos
+- Aunque no haya necesariamente una empresa privada de arqueología en algunos países, los proyectos de obras privadas sí suelen determinar dónde se realiza el trabajo arqueológico e incluso cubren en diferentes grados los costos del proyecto
+
+## resumen esquemático
 
 Aunque la comunidad puede «hacer uso», interactuar o manipular el registro arqueológico que se asienta dentro de ella, las legislaciones arqueológicas le otorgan un valor nacional o universal y con ello ejercen un poder que rebasa el de la propiedad local y lo llevan al de la soberanía nacional o al del patrimonio universal. No son de nadie en particular, sino de todos a quienes la legislación designe (nacional, mundial).
 
-Aun si las comunidades puedan ganar cierto control legal de gestión sobre ese patrimonio, *«todas estas transformaciones han acabado cooptadas en favor, principalmente, de la mercantilización de la cultura material, de la vía libre para obras de ingeniería y el turismo globalizado. la arqueología empresarial, aquí, tiene un papel bastante marcado: es una “realidad de transacción”»* (p. 39)
+Aun si las comunidades puedan ganar cierto control legal de gestión sobre ese patrimonio, *«todas estas transformaciones han acabado cooptadas en favor, principalmente, de la mercantilización de la cultura material, de la vía libre para obras de ingeniería y el turismo globalizado. La arqueología empresarial, aquí, tiene un papel bastante marcado: es una “realidad de transacción”»* (p. 39)
 
 ### legislación patrimonial como instrumento de poder
 
@@ -26,7 +32,7 @@ La legislación patrimonial, en concordancia con otros ámbitos jurídicos que r
 
 Por todo lo anterior, la legislación patrimonial conforma un dispositivo de ejercicio del poder estatal y global:
 
->las legislaciones arqueológicas han sido hábiles para actuar como aparatos de captura (deleuze  y Guattari 1980), absorbiendo el habla de los grupos subalternos para burocratizarla y darle un pretendido tono democrático. Conjugan los verbos del reparto de las cosas, de su gestión comunitaria, pero solamente para administrarlas mejor y retener la diversidad cultural que ellas componen. (p. 41)
+>las legislaciones arqueológicas han sido hábiles para actuar como aparatos de captura (Deleuze  y Guattari 1980), absorbiendo el habla de los grupos subalternos para burocratizarla y darle un pretendido tono democrático. Conjugan los verbos del reparto de las cosas, de su gestión comunitaria, pero solamente para administrarlas mejor y retener la diversidad cultural que ellas componen. (p. 41)
 
 La interpretación de la tradición inglesa es un ejemplo típico de ello. Convierten al patrimonio en un mercado y le quitan la pluralidad de representaciones asociadas a él, al tratar al patrimonio como algo que debe administrarse en foros internacionales y explotarse como dividendo turístico. 
 
@@ -42,14 +48,14 @@ Iniciativas:
 - Arqueología colaborativa (Colwell Chanthaphonh y Ferguson 2008; Macdavid 2004)
 - Arqueología comunitaria (marshall 2002; Tully 2007)
 - Democratización del conocimiento arqueológico (Shackel 2001; Holtorf 2006) y 
-- Una “arqueología vista desde abajo(archaeology from below) (Faulkner 2000)
+- Una «arqueología vista desde abajo» (archaeology from below) (Faulkner 2000)
 
 Aportes metodológicos novedosos de estos movimientos:
 
 - etnografía arqueológica o [[etnoarqueología]], cuyo objetivo es «entender las cosmologías y representaciones de las comunidades sobre las cosas arqueológicas y sus narrativas sobre el pasado; analizar las políticas de negociación de identidades y los conflictos que caracterizan a las comunidades; y promover un espacio intercultural, de diálogo permanente entre el equipo arqueológico y la comunidad, abriéndose así oportunidades para la educación mutua y también para el establecimiento de comparaciones entre los discursos arqueológicos y locales»
 - integración de las comunidades en todas las etapas de investigación arqueológica
 
-Esto ha ayudado, por ejemplo en Brasil, a dar protagonismo a las comunidades y en el contexto de la arqueología colaborativa, esa práctica sería importante ante el actual contexto de lucha de las comunidades indígenas y afrodescendientes por la tierra.
+Esto ha ayudado, por ejemplo en Brasil, a dar protagonismo a las comunidades desde la arqueología colaborativa, y esa práctica sería importante ante el actual contexto de lucha de las comunidades indígenas y afrodescendientes por la tierra.
 
 Las cosas arqueológicas, bajo la legislación patrimonial, legitiman los planes de crecimiento económico y proyectos de desarrollo. La arqueología empresarial justifica la destrucción de unos sitios y al mismo tiempo alzarse como la preservadora del pasado. Además reduce el término de «arqueología pública» a la práctica pedagógica (sin incluir la práctica de investigación) y así se presenta como tal sin realmente serlo.
 

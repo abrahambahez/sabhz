@@ -14,4 +14,4 @@ Pueden entenderse como:
 ## Lecturas posteriores
 - [Archetypes of Knowledge Communities](https://www.iisi.de/wp-content/uploads/2018/07/paper11c_t2005.pdf)
 
-nodo: [[Antropología del conocimiento]]
+nodo: [[antropología del conocimiento]]

@@ -14,4 +14,4 @@ Viene de la obra de Charles Sanders Peirce. En mi opinión la propuesta semióti
 - [[representamen]]
 - [[símbolo peirciano]]
 
-nodo: [[Semiótica de la comunicación y antropología simbólica]]
+nodo: [[semiótica de la comunicación y antropología simbólica]]
