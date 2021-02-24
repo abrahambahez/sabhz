@@ -1,7 +1,10 @@
 ---
 title: 'sistema personal de toma de notas'
-tags: ['nota-permanente', 'perenne❧']
+tags: 
+    - 'nota-permanente'
 ---
+[[taxonomía general de notas]] y una anatomía de las notas
+añade las [[metáforas de los sistemas de notas]]
 
 Términos nuevos que están emergiendo:
 

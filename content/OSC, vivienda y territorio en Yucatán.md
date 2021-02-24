@@ -6,7 +6,7 @@ tags:
 ---
 Las *acciones* de una OSC implican una *intención* de transformación social declarada sobre un grupo social distinto al de ellos. Dado que es imposible una comprensión intersubjetiva entre los grupos sin una dinámica activa de comprensión intersubjetivo (que incluye las diferencias en la forma de concebir y validar el conocimiento).
 
-La vivienda es una dimensión básica de la formación 
+La vivienda es una dimensión básica de la formación de sujetos sociales y en ella se reflejan sensiblemente los cambios ecológicos, económicos, sociales y culturales. Por eso cualquier trabajo de intervención como los de una OSC deja un impacto visible en las dinámicas comunitarias.
 
 ## Preguntas
 
@@ -43,7 +43,7 @@ La relación entre personas/grupos domésticos y casas implica habitabilidad; la
 Por eso creo que hay que separar al menos tres dimensiones de descripción:
 
 1. materialidad (nivel ecológico y económico)
-2. prácticas (acciones, interacciones)
+2. prácticas (acciones, interacciones): el habitar como un "conjunto de prácticas y representaciones que permiten al sujeto colocarse dentro de un orden espacio-temporal, al mismo tiempo reconociéndolo y estableciéndolo" [reseña](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0187-01732014000300008)
 3. sistemas de conocimiento que dan sentido a ambas cosas (estrategias de reproducción de la vida social y marcos de producción de verdad, belleza y bondad)
 
 [[Esquema argumental de vivienda y territorio]]

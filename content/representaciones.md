@@ -13,6 +13,6 @@ Podemos suponer que las representaciones existen porque hay muchos sujetos (incl
 
 Piñuel Raigada, J. L. (2013). Precedentes, Objeto y Propuesta Resumida del Modelo Dialectico de la Comunicación. [Enlace](https://www.ucm.es/data/cont/docs/268-2013-08-19-Pinuel_Expresion_PrecedentesObjetoPropuesta.pdf)
 
->Debiera advertirse que en la elaboración de representaciones mentales intervienen regulaciones de muy diversa índole, a las que se somete la actividad cognitiva de los individuos, y que estas regulaciones atañen tanto a las relaciones que entre sí mantienen los usuarios de los mensajes, como a las relaciones que los mensajes mantienen con su referencia, como a las relaciones que los sujetos establecen con su entorno conocido o cognoscible y sin las cuales sería imposible hasta la propia referencia (p. 11, párrafo 1)
+>Debiera advertirse que en la elaboración de representaciones mentales intervienen regulaciones de muy diversa índole, a las que se somete la actividad cognitiva de los individuos, y que estas regulaciones atañen tanto a las relaciones que entre sí mantienen los usuarios de los mensajes, como a las relaciones que los mensajes mantienen con su referencia, como a las relaciones que los sujetos establecen con su entorno conocido o cognoscible y sin las cuales sería imposible hasta la propia referencia (p. 11, párr. 1)
 
 Martín Serrano, M. (Ed.). (1982). Teoría de la comunicación (2a ed. rev. y ampliada). A. Corazón.
