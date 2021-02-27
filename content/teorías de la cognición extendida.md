@@ -1,15 +1,11 @@
 ---
 title: 'teorías de la cognición extendida'
-tags: ['nota-permanente', 'refactorizar']
+tags:
+    - 'nota-permanente'
 ---
-
-Todo acto mental se extiende hacia el mundo, raramente se construye, ejerce y funciona aisladamente.
-
-Es posible afirmar que [[el trabajo cognitivo no es privativo ni del individuo ni del cerebro]], esto es, **nuestro conocimiento, pensamiento y otras funciones cognitivas *no se dan exclusivamente dentro del cerebro***, sino que hay elementos que fuera de él, lo construyen parcialmente o lo posibilitan. Algunas de estas cosas son *nuestros propios cuerpos*, objetos que usamos con intenciones cognitivas ([[las notas como herramientas cognitivas]] y [[los sistemas de notas como una memoria aumentada]]), los elementos de nuestro medio ambiente e incluso otras personas ([[memoria transactiva]]).
-
 ## Argumentos principales
 
-- No hay diferencias *funcionales* que sean relevantes para realizar ciertos actos cognitivos si uso mis capacidades cognitivas *internas* o uso entidades externas, por ejemplo, *si recuerdo algo por mi memoria biológica o gracias a una nota o un gesto manual*, logro mi finalidad
+- No hay diferencias *funcionales* que sean relevantes para realizar ciertos actos cognitivos si uso mis capacidades cognitivas *internas* o uso entidades externas, por ejemplo, *si recuerdo algo por mi memoria biológica o gracias a una nota o un gesto manual*, logro mi finalidad: [[el trabajo cognitivo no es privativo ni del individuo ni del cerebro]]
 - Entender la cognición como parte de una red que relaciona lo cerebreal con lo no cerebral tiene ventajas potenciales para la comprensión de fenómenos psicológicos
 - Tanto el cerebro como el resto del cuerpo y otros objetos están en una relación que conforma un *sistema acoplado* donde la cognición se posibilita, por tanto los objetos extra-cerebrales pueden considerarse *parte del proceso cognitivo*.
 
@@ -20,7 +16,7 @@ El programa de investigación de las **4E** sobre la cognición consiste en cuat
 1. La [[cognición encorporada]] *(embodied)* — el conocimiento también se forma por procesos extra-neurológicos del cuerpo 
 2. La [[cognición situada]] *(embedded)* — siempre opera en relación con un enterno exterior
 3. Cognición como [[enactivismo]] *(enacted)* — siempre opera en una relación de *interacción dinámica* con el entorno 
-4. La [[hipótesis de la mente extendida]] *(extended)* de Clark y Chalmers (1998) — al menos en parte, opera por los procesos externos al sujeto
+4. La [[tesis de la mente extendida]] *(extended)* de Clark y Chalmers (1998) — al menos en parte, opera por los procesos externos al sujeto
 
 ## Otras extensiones de la hipótesis
 
@@ -31,9 +27,10 @@ Es posible extender a otros aspectos de la mente la *hipotesis de la cognición 
 
 Algunos (p.e. [Adams: *Why we still need a mark of the cognitive*](https://www.sciencedirect.com/science/article/abs/pii/S1389041710000331)) sostienen que es necesario definir *en qué consiste un proceso cognitivo* para poder determinar las condiciones de validación de estas tesis, eso da pie al debate sobre la [[caracterización del proceso cognitivo (mark of the cognitive)]].
 
-## El [[exocerebro]]
+## el cerebro extendido
 
-Básicamente es afirmar que lo que se extiende no es algún *sistema cognitivo* en abstracto, sino el propio *cerebro*.
+- la hipótesis del [[exocerebro]] de Bartra afirma que lo que se extiende no es algún *sistema cognitivo* en abstracto, sino el propio *cerebro* donde herramientas como *agendas* o *teléfonos inteligentes* funcionan como *prótesis* simbólicas.
+- aunque similares, no son exactamente iguales: [[diferencias entre exocerebro y cognición extendida]]
 
 ## Lecturas posteriores
 

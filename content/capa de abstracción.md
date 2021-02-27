@@ -1,6 +1,6 @@
 ---
 title: 'capa de abstracción'
-tags: ['término']
+tags: ['nota-término']
 ---
 
 Una capa de abstracción consiste en separar procesos para poder reusar sus características formales en múltiples contextos.

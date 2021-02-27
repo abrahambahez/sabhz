@@ -1,6 +1,6 @@
 ---
 title: 'arqueoastronomía'
-tags: ['término']
+tags: ['nota-término']
 ---
 La arqueoastronomía se refiere al *estudio sistemático de la orientación astronómica de monumentos arqueológicos*, principalmente estructuras megalíticas del Neolítico y de la Edad del Bronce (G. Hawkins, 1963 *Stonehenge decoded*), quienes combinaron los saberes disciplinarios de ciencias técnicas (astronomía e ingeniería) permitieron no sólo acrecentar el conocimiento sobre esas estructuras sino sobre el propio conocimiento técnico de sus constructores originales, cuestión que requiere un cuidado interpretativo que se vió reflejado en la discusión posterior que cuestionaba la *«falta de una teoría que tratara el saber astronómico en las sociedades prehistóricas»*.
 

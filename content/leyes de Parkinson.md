@@ -1,6 +1,6 @@
 ---
 title: 'leyes de Parkinson'
-tags: ['término', 'incipiente']
+tags: ['nota-término', '+incipiente']
 ---
 
 La versión más famosa de la *ley de Parkinson es:* El trabajo se expande hasta llenar el tiempo disponible para que se termine.

@@ -9,7 +9,7 @@ authors:
     - Cabanes, Dan
 year: 2011
 apa: 'Perez-Juez, A., Goldberg, P., & Cabanes, D. (2011). Estudio interdisciplinar del hábitat post-talayótico: Bioarqueología, geoarqueología y registro arqueológico parala revisión metodológica de la arqueología en Menorca. Archaea Mediterrania, 139-149.'
-tags: ['nota-referencia', 'huérfana']
+tags: ['nota-referencia', '+huérfana']
 ---
 - La arqueología ha sido acusada muchas veces de ser demasiado especulativa y romantizada. El apoyo de la disciplina con técnicas científicas permite extender el trabajo analítico al extender la información disponible a interpretar.
 - Sin embargo, dado que las técnicas forman parte de la metodología arqueológica, empujan a la interpretación arqueológica hacia una mayor rigurosidad interpretativa desde el punto de vista objetivista.

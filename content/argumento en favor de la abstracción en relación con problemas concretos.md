@@ -2,7 +2,7 @@
 title: 'argumento en favor de la abstracción en relación con problemas concretos'
 tags: 
     - 'nota-permanente'
-    - 'prioridad-1'
+    - '&p1'
 ---
 
 [[@ahrensHowTakeSmart2017]] (p. 106 · Posición)

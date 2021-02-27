@@ -1,7 +1,7 @@
 ---
 title: 'Esquema argumental de vivienda y territorio'
 tags:
-    - 'temporal'
+    - '&temporal'
 ---
 ### I. Modelos de vivienda con influencia en Yucatán
 
@@ -24,7 +24,7 @@ tags:
    - La minimización técnica y epistémica de la casa maya: [Arquitectura como herramienta del racismo](https://www.archdaily.mx/mx/941748/arquitectura-y-racismo-el-diseno-como-herramienta-colonial)
 - Recuperación extractivista de los conocimientos constructivos tradicionales
    - Turismo y casa maya como perpetuadores de la desigualdad económica, social y cultural
-   - Arquitectura sin retribución (como la moda inspirada en los patrones indígenas)
+   - Arquitectura sin retribución (como la moda inspirada en los patrones indígenas) — no sólo no hay retibución sino un aprovechamiento de capitales
 - Alternativas de conocimiento y construcción participativa
    - Recuperación creativa y reinterpretativa de los conocimientos constructivos tradicionales
 

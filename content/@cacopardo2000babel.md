@@ -7,7 +7,7 @@ authors:
 - Cacopardo, Fernando
 year: 2000
 apa: 'Cacopardo, F. (2000). Entre Babel y la búsqueda de una nueva síntesis: Interdisciplina y enunciación crítica de problemas. _Dispositio/n: American journal of cultural histories and theories_, _51_, 45-56.'
-tags: ['nota-referencia', 'refactorizar']
+tags: ['nota-referencia', '&refactorizar']
 ---
 
 En este artículo, Cacopardo plantea la problemática que representa la postura posmoderna al provocar una fragmentación fuerte de visiones, posturas y nuevas disciplinas, tras un periodo de crítica útil. Puesto que las categorías que fueron objeto de discusión por parte de los posmodernos «aún hoy se siguen disolviendo» (p. 46), así es como llega al planteamiento central.

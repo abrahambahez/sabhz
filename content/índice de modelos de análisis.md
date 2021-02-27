@@ -1,6 +1,6 @@
 ---
 title: 'índice de modelos de análisis'
-tags: ['índice', 'incipiente']
+tags: ['nota-índice', '+incipiente']
 ---
 
 Modelos de análisis básicos:
@@ -17,6 +17,7 @@ Análisis comunicacional y narrativo
 
 - análisis de discurso
 - análisis narratológico
+- [[modelo de narrativas naturales de Labov]]
 
 Investigación semiótica
 

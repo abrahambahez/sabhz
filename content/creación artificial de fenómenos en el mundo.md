@@ -1,6 +1,6 @@
 ---
 title: 'creación artificial de fenómenos en el mundo'
-tags: ['término', 'semilla❦']
+tags: ['nota-término', '❦semilla']
 ---
 Esta posiblemente es una elaboración propia de algunas ideas centrales en el concepto foucaltiano de «formación discursiva».
 

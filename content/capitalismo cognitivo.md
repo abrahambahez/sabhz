@@ -1,8 +1,7 @@
 ---
 title: capitalismo cognitivo
-tags: ['término']
+tags: ['nota-término']
 ---
-
 El capitalismo cognitivo tiene como base nuclear al [[trabajador cognitivo]], que contribuye a la aceleración intensiva que transforma los medios de producción y los procesos en los que se producen y consumen bienes y servicios.
 
 También se le llama, con una connotación más optimista, *[[economía del conocimiento]]*. Sin embargo ambos términos deberían caracterizarse por separado justamente por esa diferencia de postura a favor o en contra.

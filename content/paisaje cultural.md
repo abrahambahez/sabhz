@@ -1,6 +1,6 @@
 ---
 title: 'paisaje cultural'
-tags: ['término', 'doctorado']
+tags: ['nota-término', '/doctorado']
 ---
 
 Las personas, al vivir en la Tierra, lo hacen en un suelo específico dentro de su área. Al asentarse de forma más o menos permanente, lo transforman a través de su trabajo. En [[Capel (2016) la territorialización es el proceso de producción de un territorio concreto a nivel práctico y discursivo]]

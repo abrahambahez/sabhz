@@ -1,6 +1,6 @@
 ---
 title: 'cómo crear y validar prototipos de procesos y productos digitales'
-tags: ['índice', 'notas-sueltas']
+tags: ['nota-índice', 'notas-sueltas']
 ---
 
 Un prototipo es un modelo que representa el funcionamiento inicial de un [[sistema]], y que puede funcionar en el mundo como un producto (una interfaz unida a ciertas lógicas y manejo de información) o un proceso (una serie de reglas de acción e interacción entre sujetos y entorno)
@@ -15,7 +15,7 @@ Un prototipo es un modelo que representa el funcionamiento inicial de un [[siste
 - Storyboarding: narrativa de fotogramas para la historia de usuario
 - La peor idea posible: lista de malas ideas
 - Gamestorming 
-- Núcleo narrativo: Producto a deseo cumplido: We do not do 'product', We do 'narrative solved desire'.
+- Núcleo narrativo: Producto a deseo cumplido: We do not do 'product', We do 'narrative solved desire'&
 
 ## Diseño
 

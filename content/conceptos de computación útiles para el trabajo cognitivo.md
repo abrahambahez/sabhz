@@ -1,6 +1,6 @@
 ---
 title: 'relaciones entre historia digital y trabajo cognitivo'
-tags: ['índice', 'semilla❦']
+tags: ['nota-índice', '❦semilla']
 ---
 
 La historia de la computación ha generado prácticas muy interesantes. Creo que varias de ellas tienen fuertes consecuencias filosóficas, políticas y culturales que pueden usarse en otro ámbito histórico, el del [[capitalismo cognitivo]], del que la computación a contrbuido fuertemente a desarrollar.

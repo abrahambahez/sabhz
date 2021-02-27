@@ -1,6 +1,6 @@
 ---
 title: 'efecto Zeigarnik'
-tags: ['término']
+tags: ['nota-término']
 ---
 
 Interrumpir una tarea o dejarla pendiente puede aumentar nuestra atención hacia ella o hacer que persista en nuestra memoria hasta que sea terminada. Las causas de esto no han sido establecidas completamente.

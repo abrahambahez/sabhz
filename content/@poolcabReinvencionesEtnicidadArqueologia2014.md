@@ -7,7 +7,7 @@ authors:
     - Pool Cab, Marcos Noé
 year: 2014
 apa: 'Pool Cab, M. N. (2014). Las reinvenciones de la etnicidad en la arqueología maya. Ediciones de la Universidad Autónoma de Yucatán.'
-tags: ['nota-referencia', 'leyendo', 'huérfana']
+tags: ['nota-referencia', '+leyendo', '+huérfana']
 ---
 
 - [[Pool Cab (2014, cap. 1) El enfoque transdisciplinario en el estudio de la etnicidad en arqueología]]

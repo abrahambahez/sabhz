@@ -1,6 +1,6 @@
 ---
 title: 'argumento'
-tags: ['término']
+tags: ['nota-término']
 ---
 
 Un argumento, en [[semiótica peirciana]], es una cadena de propocisiones que lleva a un resultado. Pueden ser de 3 clases:

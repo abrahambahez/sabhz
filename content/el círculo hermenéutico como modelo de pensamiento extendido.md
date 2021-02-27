@@ -1,17 +1,17 @@
 ---
-title: 'el círculo hermenéutico como modelo de pensamiento externalizado'
+title: 'el círculo hermenéutico como modelo de pensamiento extendido'
 tags:
 - 'nota-permanente'
 ---
-El pensamiento externalizado en escritura no es lineal, porque sigue el principio *ex nihilo nihil fit* (nada surge de la nada). La metáfora de comparar las ideas como surgidas de un *origen indeterminado* es falsa.
+El [[pensamiento extendido]] a través de la escritura no es lineal (*ex nihilo nihil fit*: nada surge de la nada). La metáfora que compara la emergencia de ideas como surgidas de un *origen primordial indeterminado* es falsa.
 
 Las ideas surgen de otras ideas, que a su vez son posibles gracias a la capacidad del sujeto de producir expresiones y evocar [[representaciones]] (cfr. el debate sobre la relación representación-concepto en [[@stigolEstadosMentalesContenidos2005]]).
 
-Una forma de conceptualizarlo, en vez de lineal, es como circular, y [[@ahrensHowTakeSmart2017]] lo sugiere cuando escribe: *«Every intellectual endeavour starts from an already existing preconception , which then can be transformed during further inquires and can serve as a starting point for following endeavours. Basically, that is what Hans-Georg Gadamer called the hermeneutic circle»* (p. 43 · Posición 922).
+Una mejor forma de conceptualizarlo, en vez de lineal, es como circular, y [[@ahrensHowTakeSmart2017]] lo sugiere cuando escribe: *«Every intellectual endeavour starts from an already existing preconception , which then can be transformed during further inquires and can serve as a starting point for following endeavours. Basically, that is what Hans-Georg Gadamer called the hermeneutic circle»* (p. 43 · Posición 922).
 
 El círculo hermenéutico afirma que **el entendimiento es circular**. Esta idea implica otra más escencial: la naturaleza dialógica del conocimiento ([[el trabajo cognitivo no es privativo ni del individuo ni del cerebro]]), cuyo fundamento es la retroalimentación entre las ideas y el mundo / otro.
 
-## externalización del pensamiento en la práctica de toma de notas de orientación hermenéutica
+## extensión del pensamiento en la práctica de toma de notas de orientación hermenéutica
 
 Siguiendo un sistema de toma de notas como el [[zettelkasten]] o el de [[@ahrensHowTakeSmart2017]]. Leer significa dialogar con quien creó el contenido, nuestra interlocución se basa en una dinámica de lecto-escritura (cuando leo ella o él habla, cuando escribo notas al respecto, yo contesto).
 

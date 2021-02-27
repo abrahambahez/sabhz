@@ -1,6 +1,6 @@
 ---
 title: 'símbolo turneriano'
-tags: ['término', 'refactorizar']
+tags: ['nota-término', '&refactorizar']
 ---
 
 Algunas definiciones citadas:

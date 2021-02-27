@@ -1,6 +1,6 @@
 ---
 title: 'cadena operativa'
-tags: ['término']
+tags: ['nota-término']
 ---
 Es un método de investigación arqueológica y [[etnoarqueología|etnoarqueológica]] de corte *tecnoeconómico*.
 

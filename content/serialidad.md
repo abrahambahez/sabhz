@@ -1,6 +1,6 @@
 ---
 title: serialidad
-tags: ['término', 'prioridad-2']
+tags: ['nota-término', '&p2']
 ---
 
 Para empezar a definirlo:

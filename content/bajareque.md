@@ -2,7 +2,7 @@
 title: 'bajareque'
 tags:
 - 'nota-permanente'
-- 'implícita'
+- '+implícita'
 ---
 El bajareque es un sistema constructivo con tierra muy usado por los pueblos mesoamericanos y precolombinos en general para construir viviendas. Se basa en palos/cañas amarrados y barro recubiréndolos.
 

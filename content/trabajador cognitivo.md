@@ -1,11 +1,13 @@
 ---
 title: 'trabajador cognitivo'
-tags: ['término', 'incipiente']
+tags:
+    - 'nota-término'
 ---
+Cualquier persona cuyo *valor productivo socialmente percibido* se estima principalmente términos de los conocimientos que posee y el impacto que esos conocimientos tienen en la reproducción de la vida social.
 
-Cualquier persona cuyo *valor productivo socialmente percibido* se estima en términos de los conocimientos que posee y el impacto que esos conocimientos tienen en la reproducción de la vida social.
+Las personas especializadas en *saber* existen desde hace mucho tiempo, pero su importancia ha sido distinta a lo largo de la historia. Cualquier actividad social productiva implica personas mínimamente especializadas en conocimientos toda economía es en algún modo una [[economía del conocimiento]]): constructores, pescadores, sacerdotes, médicos, sin que eso explique por qué unos conocimientos son mejor retribuidos que otros. La [teoría del capital cultural](https://es.wikipedia.org/wiki/Capital_cultural_(sociolog%C3%ADa) de Bourdieu lo aborda mejor porque se centra en las dinámicas de relación entre capitales, poder y clases sociales.
 
-Las personas especializadas en *saber* existen desde hace mucho tiempo (toda economía es en algún modo una [[economía del conocimiento]]), pero su importancia ha sido distinta a lo largo de la historia.
+Lo que distingue a un trabajador cognitivo es precisamente, el [[trabajo cognitivo]], cuya materia son las ideas, las [[representaciones]], los relatos y el desarrollo de modelos del mundo que dan sentido a la organización social y posibilitan transformaciones como la innovación tecnológica o los procesos de subjetivación del grupo (al dotarlos de elementos identitarios como relatos de un origen / destino común, creación de héroes culturales, las mediaciones religiosas, etcétera).
 
 En el [[capitalismo cognitivo]], el conocimiento que poseen las personas especializadas en saber las convierte en una mercancía particular, en lugar de su fuerza de trabajo manual (a estas alturas ya sustituida por las máquinas), es su conocimiento, como parte de una red cognitiva socialmente distribuida, lo que se estima para capitalizar los productos de ese trabajo.
 
@@ -17,12 +19,12 @@ La traducción que suele hacerse de este concepto es "trabajador del conocimient
 
 En el capitalismo el conocimiento más valorado de un trabajador cognitivo tiene que ver con la [[razón instrumental]], es decir, su capacidad para usar el conocimiento científico y técnico para resolver objetivos o fines concretos; pero esto no implica que sólo esa razón puede ser explotada con fines  .
 
-
 ---
 ## Algunos ejemplos de personas especializadas en *saber*:
 
-- Las *élites gobernantes* de la cultura maya prehispánica, según Nancy Farris (1992), basaban su legitimidad al menos parcialmente en los conocimientos que poseían (ver sobre todo la discusión sobre la guerra y la mediación divina en las pp. 225-235)
-- Las profesiones liberales (basadas en las artes liberales como fenómeno de separación de categorías productivas)
+- Las élites tanto políticas como religiosas de muchas grupos sociales, cuyo valor se estima en relación con los conocimientos que poseen
+    - Ejemplo: las *élites gobernantes* de la cultura maya prehispánica, según Nancy Farris (1992), basaban su legitimidad al menos parcialmente en los conocimientos que poseían (ver sobre todo la discusión sobre la guerra y la mediación divina en las pp. 225-235)
+- Las profesiones liberales (basadas en las artes liberales como fenómeno de separación de categorías productivas): juristas / abogados, 
 
 ### En el mundo globalizado contemporáneo:
 

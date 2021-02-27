@@ -1,6 +1,6 @@
 ---
 title: 'verdad dependiente del contexto'
-tags: ['nota-permanente', 'semilla❦']
+tags: ['nota-permanente', '❦semilla']
 ---
 
 Algunas creencias o interpretaciones son verdaderas para ciertos conjuntos de casos donde existen las condiciones que la fundamentan. Son *verdades parcialmente relativas*, no *verdades absolutamente relativas*.

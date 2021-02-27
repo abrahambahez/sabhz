@@ -2,20 +2,15 @@
 title: 'la forma de escribir y relacionar notas tiene una tensión cualitativa-cuantitativa'
 tags: 
     - 'nota-permanente'
-    - 'zettelkasten-personal'
+    - '/zettelkasten-personal'
 ---
+Cuando decidimos cómo construir las relaciones entre notas con ideas elaboradas hay dos  que se afectan mutuamente: 
 
-Las relaciones entre notas suelen basarse en dos criterios:
+Cuando las asociaciones fuertes se basan en criterios de especificación más clasificatorios (p.e. a través de una [[taxonomía]] jerárquica; una [[ontología informacional]] formalizada; o el uso de metadatos con vocabularios controlados y prescripciones) es posible acceder a una dimensión de generalización de atributos de la nota.
 
-### Clasificar o estructurar las notas a través de estrategias como metadatos o vinculación directa no contextualizada 
-
-Esto crea una generalización de atributos de la nota, vista como una instancia para agruparla con otras.
-
-Así, aumenta la estructura y disminuye flexibilidad (está en detrimento de su peculiaridad).
+Así, aumenta la estructura y posibilita operaciones cuantitativas (como en las bases de datos) pero desde esa visión se pierde la peculiaridad y la densidad cualitativa: *mientras más clasifico más dificulto la libre asociación y la riqueza de la nota*.
 
 >Cuando sólo clasifico a una persona como "adulto mayor", puedo agruparla con otras personas de esa categoría pero pierdo de vista su individualidad, con lo cual carezco de mucha información cualitativa de detalle y contexto.
-
-*Mientras más clasifico más dificulto la libre asociación y la riqueza de la nota*
 
 ### Aplanamiento textual o creación libre y no estructurada
 

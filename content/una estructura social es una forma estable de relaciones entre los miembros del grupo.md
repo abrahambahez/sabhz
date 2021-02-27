@@ -1,6 +1,6 @@
 ---
 title: 'una estructura social es una forma estable de relaciones entre los miembros del grupo'
-tags: ['nota-permanente', 'incipiente']
+tags: ['nota-permanente', '+incipiente']
 ---
 
 Dentro de un [[sistema de organización social]], las relaciones entre personas tienden a hacerse muy complejas, pero en el momento en que el grupo *se ordena* de cierta manera de manera consistente en el tiempo, se convierte en estructura social.

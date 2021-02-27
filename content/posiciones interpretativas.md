@@ -1,6 +1,6 @@
 ---
 title: 'posiciones interpretativas'
-tags: ['colección']
+tags: ['nota-colección']
 ---
 
 Antes de escuchar a cualquier persona o leer cualquier texto (en sentido estricto o amplio, cfr. [[modos de lectura]]), e incluso antes de interpretarlo *todos tenemos una actitud* específica hacia él, que determina la interpretación final a la que llegamos ([[aptitud y actitud son prerrequisitos de la interacción comunicativa]].

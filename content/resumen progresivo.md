@@ -1,6 +1,6 @@
 ---
 title: 'resumen progresivo'
-tags: ['término', 'incipiente']
+tags: ['nota-término', '+incipiente']
 ---
 
 Propuesto por Tiago Forte como una forma de procesamiento de textos digitales basada en "capas", o fases, no destructivas. Se construye, según Forte, a partir de una fuente de información, como un libro o un artículo. A partir de ahí se desarrollan en diferentes *capas*:

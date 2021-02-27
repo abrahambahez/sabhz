@@ -1,6 +1,6 @@
 ---
 title: 'grupo doméstico'
-tags: ['término']
+tags: ['nota-término']
 ---
 Tambien llamados *households*. Los grupos domésticos son unidades sociales que cumplen dos características:
 

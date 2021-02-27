@@ -1,6 +1,6 @@
 ---
 title: 'un modo de entender el origen de las estructuras sociales'
-tags: ['nota-permanente', 'incipiente']
+tags: ['nota-permanente', '+incipiente']
 ---
 
 Imagina que eres un dios capaz de crear individuos cada que dibujas un punto en una hoja de papel:

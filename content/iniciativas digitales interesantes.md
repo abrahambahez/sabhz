@@ -1,6 +1,6 @@
 ---
 title: 'iniciativas digitales interesantes'
-tags: ['colección']
+tags: ['nota-colección']
 ---
 
 A menos que se diga lo contrario, la siguiente lista debería ser gratuita y de libre acceso, posiblemente de código abierto.

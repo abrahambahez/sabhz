@@ -1,14 +1,17 @@
 ---
 title: 'trabajo cognitivo'
-tags: ['término', 'incipiente']
+tags:
+    - 'nota-término'
 ---
 
 Para entender la noción de *trabajo* podemos seguir la tradición materialista (casi fisicalista): gasto de energía. La noción de *cognitivo* puede tratarse como relativo a lo *mental*.
 
-El trabajo cognitivo es cualquier esfuerzo que hace un sujeto para producir o reproducir signos (ideas o [[representaciones]]):
+El trabajo cognitivo se refiere al esfuerzo necesario para que un sujeto (individual o colectivo) pueda producir o reproducir signos, ideas o [[representaciones]]. De manera que:
 
-- Puede o no estar fijado en un soporte físico (desde datos binarios de una computadora hasta pintura vegetal en una cueva)
-- Potencialmente puede ser *compartido* por otro sujeto con capacidad *interpretativa*
-- Puede transformar los modelos de interpretación de la realidad y con ello los comportamientos y operaciones que impactan en la transformación del medio
+- Se exiende más allá del cerebro y la mente del sujeto, por lo que es un [[pensamiento extendido]]: suele estar fijado en un soporte físico (desde datos binarios de una computadora hasta pintura vegetal en una cueva, cfr. [[tesis de la mente extendida]])
+- Se construye socialmente a través de dinámicas intersubjetivas, intergrupales, interinstitucionales e interdisciplinarias; esto implica que puede ser comunicado, esto es, *compartido* por otros sujetos con capacidad *interpretativa* ([[aptitud y actitud son prerrequisitos de la interacción comunicativa]])
+- Puede transformar los modelos de interpretación de la realidad y con ello los comportamientos y operaciones que impactan en la transformación del medio: [[el conocimiento se incorpora en pautas conductuales, operacionales o expresivas]]
 
-El trabajo cognitivo es una capcidad que tiene al menos la especie humana, pero que en el [[capitalismo cognitivo]], la actividad del [[trabajador cognitivo]] se convierte en fuente esencial de la producción de capital y la posesión de sus productos parte de un mercado global. 
+Dado que [[la elaboración escrita es la práctica más importante para desarrollar y expresar el pensamiento]], la unidad mínima del trabajo cognitivo es precisamente la [[elaboración escrita de ideas]].
+
+En el [[capitalismo cognitivo]], la actividad del [[trabajador cognitivo]] se convierte en fuente esencial de la producción de capital y la posesión de sus productos parte de un mercado global. 

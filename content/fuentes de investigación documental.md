@@ -1,6 +1,6 @@
 ---
 title: 'fuentes de investigación documental'
-tags: ['colección', 'incipiente']
+tags: ['nota-colección', '+incipiente']
 ---
 
 Nota: considera relacionarlo con el [[índice de modelos de análisis]]

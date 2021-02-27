@@ -1,6 +1,6 @@
 ---
 title: 'términos de psicología interesantes'
-tags: ['colección']
+tags: ['nota-colección']
 ---
 
 ## sesgos cognitivos
@@ -13,6 +13,7 @@ tags: ['colección']
 - [[agotamiento del ego]]
 - [[leyes de Parkinson]]
 - [[locus de control]]
+- [[efecto de generación]]
 
 ## constructos teoréticos
 

@@ -1,6 +1,6 @@
 ---
 title: 'visión del Estado sobre la vivienda yucateca (2018-2024)'
-tags: ['nota-permanente', 'doctorado']
+tags: ['nota-permanente', '/doctorado']
 ---
 Datos del Plan estatal de desarrollo 2018-2024.
 

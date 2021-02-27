@@ -1,8 +1,9 @@
 ---
 title: 'al hacer accesibles nuestras notas fortalecemos la memoria transactiva'
-tags: ['nota-permanente']
+tags: 
+    - 'nota-permanente'
+    - '&refactorizar'
 ---
-
 Escribimos notas porque ellas extienden de manera artificial nuestra memoria individual ([[los sistemas de notas como una memoria aumentada]]), expresada mayormente en un lenguaje que compartimos con otras personas, característica que **hace accesibles nuestras notas a esas otras personas**, aunque si no tienen suficiente contexto serán oscuras.
 
 Por eso al hacer las notas públicas:

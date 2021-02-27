@@ -1,6 +1,6 @@
 ---
 title: 'contexto general sobre la territorialidad en Mérida'
-tags: ['nota-de-literatura', 'inconclusa']
+tags: ['nota-de-literatura', '+inconclusa']
 ---
 
 "en ejidos colindantes a la zona metropolitana de Mérida (Yucatán), donde personas reconocidas como posesionarios por el Procede fueron empresarios externos al núcleo que jamás habían usufructuado las tierras del ejido, pero tenían interés de invertir sobre éstas (Torres-Mazuera, Fernández y Gómez, 2018)" (p. 47)

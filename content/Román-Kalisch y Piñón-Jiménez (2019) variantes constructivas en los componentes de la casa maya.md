@@ -1,6 +1,6 @@
 ---
 title: 'variantes constructivas en los componentes de la casa maya'
-tags: ['nota-de-literatura', 'prioridad-2', 'inconclusa']
+tags: ['nota-de-literatura', '&p2', '+inconclusa']
 ---
 Variantes sobre los componentes:
 

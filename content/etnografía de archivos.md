@@ -1,6 +1,6 @@
 ---
 title: 'etnografía de archivos'
-tags: ['término', 'incipiente']
+tags: ['nota-término', '+incipiente']
 ---
 
 Un ejemplo de etnografía escrita a partir de archivos o documentos y no de observación participante es el clásico antropológico de Ruth Benedict ["El crisantemo y la espada"](https://es.wikipedia.org/wiki/El_crisantemo_y_la_espada).

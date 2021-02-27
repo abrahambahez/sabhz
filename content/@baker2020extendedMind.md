@@ -6,7 +6,7 @@ source_type: video-blog
 authors: ['Baker, Kane']
 year: 2015
 apa: 'Baker, K. (2015, 21 de dic.) [video]. Philosophy of Mind 6.1 - The Extended Mind. https://youtu.be/VuNgjo-pdeU'
-tags: ['nota-referencia', 'potenciales', 'refactorizar']
+tags: ['nota-referencia', '&potenciales', '&refactorizar']
 ---
 
 ## La cognición extendida

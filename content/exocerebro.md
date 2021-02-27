@@ -1,9 +1,8 @@
 ---
 title: 'exocerebro'
-tags: ['término']
+tags: ['nota-término']
 ---
-
-Hipótesis del *exocerebro*:
+Hipótesis del *exocerebro* desarrollada por Bartra:
 
 Cuando el cerebro humano llegó a su forma moderna evolutivamente hablando, también redujo drásticamente las capacidades sensoriales de los *homo sapiens* de modo que eran insuficientes, por sí mismas, de responder adecuadamente a un medio *hostil*, lo cual le causó *un sufrimiento* especial a varios de los grupos que habían adquirido estas nuevas cualidades.
 

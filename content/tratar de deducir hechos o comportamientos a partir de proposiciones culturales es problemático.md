@@ -2,8 +2,8 @@
 title: 'tratar de deducir hechos o comportamientos a partir de proposiciones culturales no es la empresa más efectiva'
 tags: 
     - 'nota-permanente'
-    - 'semilla❦'
-    - 'refactorizar'
+    - '❦semilla'
+    - '&refactorizar'
 ---
 Una proposición cultural es aquella que afirma algo sobre un grupo al que se le adjudica una «misma cultura», Gérard Lenclud se refiere a las afirmaciones etnográficas como *hechos proclamados*([[@lenclud2004empirico]]). Las proposiciones culturales son problemáticas en varios sentidos
 

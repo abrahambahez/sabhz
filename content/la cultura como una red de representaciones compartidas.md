@@ -1,6 +1,6 @@
 ---
 title: 'la cultura como una red de representaciones compartidas'
-tags: ['nota-permanente', 'semilla❦']
+tags: ['nota-permanente', '❦semilla']
 ---
 
 La famosa definición [antropológica de cultura](http://www.filosofia.org/filomat/df406.htm) (hoy en día es tomada por la antropología como la [[vieja noción de cultura]]), bien pensada podría redefinirse, sin perder su extensión, como sigue:

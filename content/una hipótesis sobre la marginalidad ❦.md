@@ -1,6 +1,6 @@
 ---
 title: 'una hipótesis sobre la marginalidad'
-tags: ['nota-permanente', 'semilla❦']
+tags: ['nota-permanente', '❦semilla']
 ---
 
 La hipótesis:

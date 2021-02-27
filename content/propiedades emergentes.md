@@ -1,6 +1,6 @@
 ---
 title: 'propiedades emergentes'
-tags: ['término', 'incipiente']
+tags: ['nota-término', '+incipiente']
 ---
 
 Las propiedades emergentes son fenómenos que pueden surgir a partir de la organización de un [[sistema]] como nuevas propiedades que existen en el sistema como un todo pero en los miembros individuales que lo componen:

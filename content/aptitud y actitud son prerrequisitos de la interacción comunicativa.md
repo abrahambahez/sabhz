@@ -2,7 +2,6 @@
 title: 'aptitud y actitud son prerrequisitos de la interacción comunicativa'
 tags: ['nota-permanente']
 ---
-
 La comunicación tiene al menos dos requisitos que necesitan ser satisfechos para consumarse como *interacción expresiva* (Martín Serrano, 1982), o bien, como *interacción mediada por signos o expresiones*: la aptitud y la actitud.
 
 La aptitud se refiere tanto a la capacidad biológica como cognitiva de recibir / interpretar y emitir / expresar información de maneras contextualmente ricas, de modo que quienes están interactuando puedan generar [[representaciones]] comunes del mundo y actuar en consecuencia.

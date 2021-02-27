@@ -1,6 +1,6 @@
 ---
 title: 'colección de técnicas de productividad y gestión de proyectos'
-tags: ['colección', 'notas-sueltas']
+tags: ['nota-colección', 'notas-sueltas']
 ---
 
 Revisa también los [[modos de lectura]] y [[modos de escritura]] para un enfoque puramente cognitivo.

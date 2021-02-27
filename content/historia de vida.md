@@ -1,12 +1,12 @@
 ---
 title: 'historia de vida'
-tags: ['término', 'incipiente']
+tags: ['nota-término', '+incipiente']
 ---
 
 Se realizan a través de sesiones de trabajo de entrevistas a profundidad. Pero hace énfasis en la exploración  de la trayectoria vital de una persona.
 
 1. "La vida no constituye una historia hasta el momento en el cual alguien pregunta por ella". María Teresa Uribe (1993: 73 ). Citada en Restrepo p. 62
-2. Es necesario guíar la narrativa para construir una história coherente y valiosa
+2. Es necesario guíar la narrativa para construir una historia coherente y valiosa (tal vez resulte útil mirar a los niveles puramente narrativos usando herramientas como el [[modelo de narrativas naturales de Labov]])
 
 ## Procedimiento
 

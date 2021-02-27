@@ -1,6 +1,6 @@
 ---
 title: praxis disciplinaria
-tags: ['término', 'semilla❦']
+tags: ['nota-término', '❦semilla']
 ---
 Un tipo de [[praxis]] particular, derivada de la formación académica de un *investigador*, implica que hay diferencias en varias dimensiones de procedimiento, mirada, teoría y metodología.
 

@@ -1,6 +1,6 @@
 ---
 title: modos de escritura
-tags: ['colección', 'incipiente']
+tags: ['nota-colección', '+incipiente']
 ---
 La escritura es una forma de ejercicio cognitivo analítico y creativo, de construcción y aprendizaje así como de limpieza y ordenamiento mental. Es una práctica compleja, rigurosa, llena de matices.
 
@@ -40,11 +40,14 @@ Cuando se consume un medio externo pueden usarse:
 
 ## Escritura creativa: narrativas y relatos
 
+- [[modelo de narrativas naturales de Labov]]
+
 Necesitan desarrollo:
 
 - Trama mnemotécnica de Annie Lamott: A B C D E - Action, Background, Conflict, Development (chatacter's journey internal-external), End (crisis, climax, consequences).
 - Arco narrativo: inicio, medio y final de una historia - normality, inciting incident, rising action, climax, falling action, resolution.
-- Labov's model of natural narrative (6 elements) -Abstract - How does it begin?, Orientation - Who/what does it involve, and when/where?, Complicating Action - Then what happened?, Resolution - What finally happened?, Evaluation - So what, Coda - What does it all mean?
+- Labov's model of natural narrative (6 elements) 
+    
 - Fabian Geyrhalter's model of branding: story, belief (ethos>producto), delight (), transparency (confianza>producto), solidarity, 
 
 ## Escritura persuasiva
@@ -52,4 +55,4 @@ Necesitan desarrollo:
 - [Unique Value Proposition frameworks](http://torgronsund.com/2011/11/29/7-proven-templates-for-creating-value-propositions-that-work/)
 - [Johanna Wiebe compilation](https://copyhackers.com/2015/10/copywriting-formula/)
 - [Content Strategy para redes sociales](https://alistapart.com/article/reclaiming-social-content-strategy-for-social-media/)
-- Baker(2018) Structured Writing
+- Baker (2018) Structured Writing

@@ -1,6 +1,6 @@
 ---
 title: 'jerarquía'
-tags: ['término', 'incipiente']
+tags: ['nota-término', '+incipiente']
 ---
 
 Una jerarquía es una forma de organización en la que al menos uno de los miembros gobierna o determina a al menos otro de los miembros.

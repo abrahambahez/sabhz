@@ -1,6 +1,6 @@
 ---
 title: 'notas diarias como herramientas cognitivas, no como herramientas productivas'
-tags: ['nota-permanente', 'incipiente']
+tags: ['nota-permanente', '+incipiente']
 ---
 
 Mira la nota de [[2020-11-13]]

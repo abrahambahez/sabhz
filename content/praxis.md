@@ -1,6 +1,6 @@
 ---
 title: praxis
-tags: ['término', 'perenne❧']
+tags: ['nota-término', '❧perenne']
 ---
 
 La praxis existe cuando la práctica del individo incorpora en su experiencia al mundo social y al mundo conceptual al que pertenece, que de este modo reproduce sus condiciones de existencia, estructurándose

@@ -1,6 +1,6 @@
 ---
 title: 'estructuras elementales de la violencia (Pedagogías de la crueldad)'
-tags: ['nota-permanente', 'potenciales']
+tags: ['nota-permanente', '&potenciales']
 ---
 
 Como consecuenca de las [[@segatoPedagogiasCrueldad2019|Pedagogías de la crueldad]], se desprende este planteamiento donde se describe la inserción del agresor en el cruce de dos ejes de interlocución:

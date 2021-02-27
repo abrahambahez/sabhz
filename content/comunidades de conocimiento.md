@@ -1,6 +1,6 @@
 ---
 title: 'comunidades de conocimiento'
-tags: ['término']
+tags: ['nota-término']
 ---
 
 En su acepción más general son grupos de personas unidas por una o más prácticas de conocimiento; por lo tanto forman parte de las [comunidades de práctica](https://cfp.cervantes.es/recursos/proyectos/comunidades_de_practica.htm).

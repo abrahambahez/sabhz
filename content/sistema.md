@@ -1,6 +1,6 @@
 ---
 title: 'sistema'
-tags: ['término', 'concepto-terminal', 'refactorizar']
+tags: ['nota-término', '+concepto-terminal', '&refactorizar']
 ---
 
 

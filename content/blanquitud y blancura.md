@@ -1,6 +1,6 @@
 ---
 title: 'blanquitud y blancura'
-tags: ['término']
+tags: ['nota-término']
 ---
 
 La blanquitud es un **ethos** que busca proyectar racionalidad, progreso, occidentalidad, civilización, modernidad, búsqueda prestigio, todo esto entre comillas.

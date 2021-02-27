@@ -1,6 +1,6 @@
 ---
 title: 'configuración cultural'
-tags: ['término', 'incipiente']
+tags: ['nota-término', '+incipiente']
 ---
 
 Es un término acuñado por Alejandro Grimson

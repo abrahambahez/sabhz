@@ -1,6 +1,6 @@
 ---
 title: 'representaciones'
-tags: ['término', 'concepto-terminal']
+tags: ['nota-término', '+concepto-terminal']
 ---
 
 En breve: una representación es un modelo cognitivo capaz de ordenar para los sujetos individuales o colectivos un determinado estado de cosas, una forma en la que se presenta el mundo que le permite a ese o esos sujetos actuar en él de manera efectiva.

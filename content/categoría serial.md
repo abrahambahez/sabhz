@@ -1,6 +1,6 @@
 ---
 title: 'categoría serial'
-tags: ['término']
+tags: ['nota-término']
 ---
 
 Una [[acción serial]] se convierte en una cateogoría serial cuando es constantemente repetida, por ejemplo, un estudiante que toma el autobús todos los días a las 8am para estudiar arquitectura en la universidad.

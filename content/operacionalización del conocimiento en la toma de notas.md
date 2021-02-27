@@ -2,8 +2,8 @@
 title: 'toma de notas y operacionalización del conocimiento'
 tags: 
     - 'nota-permanente'
-    - 'perenne❧'
-    - 'zettelkasten-personal'
+    - '❧perenne'
+    - '/zettelkasten-personal'
 ---
 
 Para facilitar la dirección del sistema de toma de notas, he ensayado una [[operacionalización]] los conceptos que considero más importantes del trabajo cognitivo en definiciones donde las notas so relevantes.

@@ -8,7 +8,7 @@ authors:
     - Appendini, Kirsten
 year: 2020
 apa: 'Torres-Mazuera, G., & Appendini, K. (2020). La regulación imposible. (I)legalidad e (i)legitimidad en los mercados  de tierra en México al inicio del siglo xxi. El Colegio de México'
-tags: ['nota-referencia', 'leyendo']
+tags: ['nota-referencia', '+leyendo']
 ---
 Estudio sobre las dinámicas de [[territorialidad]] y [[territorio]] en las áreas rurales mexicanas. 
 

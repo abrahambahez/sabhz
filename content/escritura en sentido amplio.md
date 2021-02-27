@@ -2,7 +2,7 @@
 title: 'escritura en sentido amplio'
 tags:
     - 'nota-permanente'
-    - 'semilla❦'
+    - '❦semilla'
 ---
 Con esta idea quiero transmitir una interpretación amplia basada en la metáfora de la **escritura como trazo expresivo sobre un soporte físico**.
 

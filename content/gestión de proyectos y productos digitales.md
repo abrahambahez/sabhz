@@ -1,6 +1,6 @@
 ---
 title: 'gestión de proyectos y productos digitales'
-tags: ['índice', 'incipiente']
+tags: ['nota-índice', '+incipiente']
 ---
 
 - [[cómo crear y validar prototipos de procesos y productos digitales]]

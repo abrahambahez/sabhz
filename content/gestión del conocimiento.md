@@ -1,20 +1,15 @@
 ---
 title: sistemas de gestión de conocimiento
-tags: ['término']
+tags: ['nota-término']
 ---
+La gestión del conocimiento engloba distintas estrategias para administrar el conocimiento dentro de grupos (organizaciones, instituciones) o personas (estudiantes, investigadores).
 
-La gestión del conocimiento engloba distintas estrategias con las que un [[trabajador cognitivo]] construye productos de su trabajo intelectual.
+El surgimiento del [[capitalismo cognitivo]] la ha posicionado como una nueva forma de gestión corporativa, de manera análoga al uso administrativo que se ha hecho de la «cultura» antropológica dentro de la noción de *«cultura corporativa»*, cfr. [[@wright1998politizacion#Teoría organizacional]].
 
-El surgimiento del [[capitalismo cognitivo]] la ha posicionado como una nueva forma de gestión corporativa, como lo ha hecho también con la lógica de la cultura corporativa, cfr. Wright (1998).
+El término «gestión del conocimiento personal» (PKM por sus siglas en inglés —*personal knowledge management*—) ha popularizado el uso del término como práctica individual, sobre todo a partir de las publicaciones del [[zettelkasten]] de Luhman y el libro de [[@ahrensHowTakeSmart2017]].
 
-Desde el punto de vista de [[mi sistema personal de toma de notas]], existe una práctica de gestión de conocimiento personal, en mi caso la practico usando:
-
-- Una colección que explora los [[modos de lectura]] como prácticas de auto-aprendizaje
-- Una colección que explora los [[modos de escritura]] como técnicas de construcción de conocimiento
-- [[mi sistema personal de toma de notas]], que refleja mi versión particular de uno de esos modos de escritura
-
-lee [[cómo pensar el trabajo intelectual y el trabajo operativo]]
+Se relciaona con [[mi sistema personal de pensamiento extendido]].
 
 ## Referencias
 
-Wright, S. (1998). La politización de la cultura. Anthropology today, 14(1), 7-15. [[@wright1998politizacion]]
+Wright, S. (1998). La politización de la cultura. Anthropology today, 14(1), 7-15.

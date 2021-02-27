@@ -9,7 +9,7 @@ year: 2005
 apa: 'Wallerstein, I. (2005). La antropología, la sociología y otras disciplinas dudosas. Las incertidumbres del saber, 114-120.'
 tags:
     - 'nota-referencia'
-    - 'potenciales'
+    - '&potenciales'
 ---
 El término disciplina implica un campo con cateogrías intelectuales, un espacio con algo parecido a límites y modos de investigar legitimados. También implica instituciones estructuradas de formas más elaboradas desde el sXIX. También implica una cultura (experiencias, contactos, p. 141).  Yo añadiría a la enumeración de Wallerstein: *compartir una subjetivación particular*.
 
@@ -29,7 +29,7 @@ Generalizar en tiempo pasado y conceptualizar en plural son buenas prácticas qu
 
 Hay que elegir con cuidado la metodología a utilizarse, entender la relevancia de los datos en el contexto de un problema de investigación y del grado de avance de la investigación para ese problema. Lo mismo hay que hacer con la teoría (cfr. con el discurso de la p. 157)
 
-Lo nomotético y lo idiográfico #prioridad-3 
+Lo nomotético y lo idiográfico #&p3  
 
 ## Referencias
 

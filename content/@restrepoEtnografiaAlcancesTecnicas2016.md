@@ -15,7 +15,7 @@ Pienso en una [[etnografía como lectura]].
 
 El trabajo de campo etnográfico va más allá de la recolección del material empírico, pues es a través de la empatía, la experiencia, el estar ahí, que se alcanza una comprensión mental, emocional y corporal que constituye la experiencia cultural de lo diferente
 
-La escritura de la etnografía es un trabajo de destilación, de curaduría, de lectura en sentido amplio
+La escritura de la etnografía es un trabajo de destilación, de curaduría, de lectura en sentido amplio.
 
 ## Esquema
 
@@ -26,12 +26,12 @@ La escritura de la etnografía es un trabajo de destilación, de curaduría, de 
 
 No confundir objeto de estudio con lugar de estudio
 
-- Etnografía ***en*** el lugar ≠ etnografía ***del*** lugar
+- Etnografía **en** el lugar ≠ etnografía **del** lugar
 
 Hay tres consideraciones para hacer etnografía
 
 1. Antes de observar hay que tener una pregunta: ayuda a distnguir, da dirección. Son las gafas del etnógrafo
-2. El problema del acceso: Ser aceptado por las personas con las que se realiza la investigación (entrevistas o la [[etnografía de archivos]] )
+2. El problema del acceso: Ser aceptado por las personas con las que se realiza la investigación (entrevistas o la [[etnografía de archivos]])
 3. Contar con tiempo suficiente para realizar la etnografía
 
 
@@ -79,7 +79,7 @@ El problema del lugar: el etnógrafo como sujeto ubicado
 
 #### Informantes
 -  Debe implicar una relación bi-direccional, la empatía es fundamental
--  Las características específicas del *informante* y las dimensiones que qquieren estudiarse deben ser comunes. 
+-  Las características específicas del *informante* y las dimensiones que quieren estudiarse deben ser comunes. 
 -  La simpatía informante-etnógrafo es vital. 
 -  El informante no es cualquier persona con la que se han tenido conversaciones informales. Usualmente se realizan sesiones de trabajo con esta persona
 

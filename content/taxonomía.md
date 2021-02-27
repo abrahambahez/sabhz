@@ -1,31 +1,45 @@
 ---
 title: 'taxonomía'
-tags: ['término']
+aliases: ['esquema de clasificación']
+tags: ['nota-término']
 ---
-
-Las taxonomías sirven para clasificar *entidades* (desde plantas y animales, hasta 'conceptos' y en este caso, *notas*, que son documentos de texto con algunos metadatos).
+Las taxonomías son esquemas que permiten la clasificación de *entidades* / *objetos*, que van desde plantas y animales, hasta conceptos y documentos.
 
 Una taxonomía es sensible a los principios de [[jerarquía]] o [[heterarquía]] con los que está diseñada. Las taxonomías más tradicionales suelen ser jerárquicas.
 
-## Taxonomías jerárquicas
+## jerárquica
 
-La taxonomía *linneana*, por ejemplo, toma una entidad que es un *ser vivo* y la clasifica jerárquicamente, partiendo de los *reinos* (animal, vegetal, ...)
+Las taxonomías jerárquicas implican una clasificación basada en la pertenencia exclusiva de los miembros a una serie de clases que definen el universo de conocimiento (Chiaretti, 2011). Establecen una relación de subsunción (cfr. [[relaciones y grados de relevancia entre ideas elaboradas]]) que adopta la forma de niveles y subniveles.
 
-- [Linnaeus's System of Taxonomic Classification](https://www.thoughtco.com/taxonomy-373415)
+- taxonomías enumerativas: *enumeran* (establecen una serie) las clases y subclases que componen el universo y a las que pertenecen los objetos que las conforman
 
-La taxonomía de Benjamin Bloom permite organizar objetivos de aprendizaje:
+### ejemplos de taxonomía jerárquica
 
-- [Blooms Taxonomy](http://www.bloomstaxonomy.us/)
+El [sistema Dewey de clasificación decimal](https://es.wikipedia.org/wiki/Sistema_Dewey_de_clasificaci%C3%B3n) que divide el conocimiento en 10 grandes clases temáticas.
 
-## Taxonomías heterárquicas
+La taxonomía *linneana* ([Linnaeus's System of Taxonomic Classification](https://www.thoughtco.com/taxonomy-373415)), por ejemplo, toma una entidad que es un *ser vivo* y la clasifica jerárquicamente, partiendo de los *reinos* (animal, vegetal, ...).
 
-Son sobre todo *taxonomías informacionales*, es decir, relativas a *sistemas de información* donde las entidades son datos, documentos, modelos, etcétera.
+La taxonomía de [Benjamin Bloom](http://www.bloomstaxonomy.us/) permite organizar objetivos de aprendizaje.
 
-En [[mi sistema personal de toma de notas]] y muchos otros sistemas de [[gestión del conocimiento]] personal, se busca construir taxonomías heterárquicas para facilitar la creación, mantenimiento y asociación de ideas a lo largo del tiempo. Así, yo tengo una [[taxonomía general de notas]].
+## heterárquica
 
-Las taxonomías informacionales pueden ser jerárquicas, por ejemplo, al definir el menú de un sitio web y decidir que *todo el contenido tendrá que caber en tres secciones: acerca del sitio, contacto y presentación*.
+La [[heterarquía]] en una clasificación taxonómica implica que las relaciones entre los miembros y sus clases son multidimensionales. Por ejemplo:
 
----
-El trabajo taxonómico sobre información organizacional corresponde una de las prácticas más usuales en la [[gestión del conocimiento]] organizacional.
+- taxonomías facetadas: utilizan descripciones basadas en un sistema de atributos mutuamente excluyentes.
+    - Los objetos tienen múltiples atributos (muchas dimensiones) que representan las distintas *facetas* que posee (una persona tiene un nombre, un lugar de residencia, una ocupación, etcétra)
+    - Los atributos son asignados como metadatos en los objetos informacionales (Chiaretti, 2011)
 
-Una lista de estrategias y recursos taxonómicos en este sentido está en [Taxonomy Strategies - Bibliography of resources](http://www.taxonomystrategies.com/html/bibliography.htm).
+### ejemplos
+
+La [clasificación colonada](https://es.wikipedia.org/wiki/Clasificaci%C3%B3n_colonada) de Ranganathan (Ferreira et al., 2017), que divide el conocimeinto en 5 categorías primarias: personalidad, materia, energía, espacio y tiempo.
+
+*Nota: validar si podría considerarse una taxonomía*. El sistema de ramas desarollado por Luhman para su caja de notas. Que abstrae por completo cualquier referencia a temas pero mantiene la posibilidad de serializar (agrupar) ideas contextual y semánticamente relacionadas: [[zettelkasten#sistema de identificación y creación de ramas]].
+
+## Referencias
+
+Chiaretti, A. (2011, nov. 21). Organización del conocimiento. Clasificación facetada en archivos. Congreso de archivología MercoSur. Recuperado de <https://es.slideshare.net/alechiaretti/organizacin-del-conocimiento-clasificacin-facetada-en-archivos-10253831> el 2021-02-26
+
+Ferreira, A. C., Maculan, B. C. M. D. S., & Naves, M. M. L. (2017). Ranganathan and the faceted classification theory. Transinformação, 29(3), 279-295. <http://ref.scielo.org/5jwgp8>
+
+- Una lista de estrategias y recursos taxonómicos en este sentido está en:
+    -  [Taxonomy Strategies - Bibliography of resources](http://www.taxonomystrategies.com/html/bibliography.htm).

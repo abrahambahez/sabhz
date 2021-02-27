@@ -1,9 +1,9 @@
 ---
 title: 'esbozos de una teoría del trabajo cognitivo'
-tags: ['nota-permanente', 'fluida']
+tags:
+    - 'nota-permanente'
 ---
-
-El [[trabajo cognitivo]] y el [[trabajador cognitivo]] son la unidad y el sujeto, respectivamente, con los cuales las prácticas sociohistóricas de la producción social del conocimiento se desarrollan.
+El [[trabajo cognitivo]] y el [[trabajador cognitivo]] son la unidad y el sujeto, respectivamente, con los cuales las prácticas sociohistóricas de la producción social del conocimiento ([[el conocimiento se (re)produce socialmente]]) se desarrollan.
 
 Alrededor de ellos se forman muy diversos fenómenos de distintas envergaduras, como el [[capitalismo cognitivo]], también llamado [[economía del conocimiento]] por sus apologetas.
 

@@ -1,6 +1,6 @@
 ---
 title: etnografía performativa
-tags: ['término', 'prioridad-3']
+tags: ['nota-término', '&p3']
 ---
 
 ## Referencias

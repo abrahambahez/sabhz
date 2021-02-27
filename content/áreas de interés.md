@@ -1,13 +1,13 @@
 ---
 title: 'áreas de interés'
-tags: ['índice']
+tags: ['nota-índice']
 ---
 
 ## áreas activas
 
 - Los [[sistemas de distribución de opresión y privilegios]]
 - [[OSC, vivienda y territorio en Yucatán]]: exploración para mi tesis doctoral
-- [[mi sistema personal de toma de notas]]
+- [[mi sistema personal de pensamiento extendido]]
 
 ## áreas en espera
 

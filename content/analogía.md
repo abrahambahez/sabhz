@@ -1,6 +1,6 @@
 ---
 title: 'analogía'
-tags: ['término']
+tags: ['nota-término']
 ---
 Es un principio de inferencia que opera por similitud o semejanza entre dos elementos que están siendo comparados, de modo que puedan atribuirse proposiciones de uno hacia otro.
 

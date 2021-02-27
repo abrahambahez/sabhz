@@ -2,7 +2,7 @@
 title: 'Ahrens (2017) cómo desarrollar una intuición experta para el trabajo intelectual'
 tags:
     - 'nota-de-literatura'
-    - 'potenciales'
+    - '&potenciales'
 ---
 No hagas planes, practica cada vez más y desarrolla tu intuición con la experiencia que generes, eso es lo que entiendo cuando Ahrens escribe: *«Don’t make plans. Become an expert.»* (p. 57 · Posición 1195).
 

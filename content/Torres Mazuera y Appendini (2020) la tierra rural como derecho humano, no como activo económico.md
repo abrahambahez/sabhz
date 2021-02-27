@@ -1,6 +1,6 @@
 ---
 title: 'la tierra rural como derecho humano, no como activo económico'
-tags: ['nota-de-literatura', 'inconclusa']
+tags: ['nota-de-literatura', '+inconclusa']
 ---
 
 >«La tierra rural es concebida como un derecho humano que es necesario reconocer y defender, en particular cuando se trata del derecho de personas que históricamente han vivido de la tierra agrícola (ya sean campesinos o indígenas)» (p. 41)

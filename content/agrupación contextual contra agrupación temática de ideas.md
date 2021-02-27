@@ -1,9 +1,9 @@
 ---
-title: 'líneas de pensamiento vs. agrupación temática'
+title: 'agrupación contextual contra agrupación temática'
 tags:
     - 'nota-permanente'
-    - 'prioridad-1'
-    - 'zettelkasten-personal'
+    - '&p1'
+    - '/zettelkasten-personal'
 ---
 
 para construir:

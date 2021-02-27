@@ -1,9 +1,10 @@
 ---
 title: 'hipótesis de la mente extendida'
-tags: ['término', 'incipiente']
+tags: ['nota-término', '+incipiente']
 ---
+Planteada por Clark y Chalmers (1998) propone que los procesos mentales no pueden reducirse simplemente a operaciones cerebrales, sino que existen entidades extra-cerebrales que *forman parte* de la cognición desde un punto de vista funcional (y posiblemente *sistémico*).
 
-Planteada por Clark y Chalmers (1998) propone que los procesos mentales no pueden reducirse simplemente a operaciones cerebrales, sino que existen entidades extra-cerebrales que *forman parte* de la cognición desde un punto de vista funcional (y posiblemente *sistémico*). 
+La base de la hipótesis puede resumirse como una postura de ***externalismo activo*** (de donde yo obtengo mi noción de «notas activas», cfr. [[taxonomía general de notas]]), que reconoce el *rol activo* de condiciones externas para guiar la cognición.  
 
 Por ejemplo, las diferencias entre *recordar* una información usando la memoria biológica y hacerlo usando una libreta *no son cognitivamente significativas* como para no considerarlas equivalentes (aunque claramente no pueden considerarse operacionalmente iguales).
 

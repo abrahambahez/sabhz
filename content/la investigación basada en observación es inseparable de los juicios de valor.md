@@ -2,14 +2,13 @@
 title: 'la investigación basada en observación es inseparable de los juicios de valor'
 tags: ['nota-permanente']
 ---
-
 La tradición occidental suele separar nuestras expresiones verbales en dos clases: aquellas que dicen cosas sobre el mundo y que pueden ser verdaderas o falsas (juicios proposicionales) y aquellas que expresan juicios de valor (juicios morales).
 
-La herencia cientificista en investigación trata siempre de separar ambas cosas, y quiere ocuparse únicamente de los juicios proposicionales dedicándose a probar su verdad o falsedad.
+La herencia cientificista en investigación trata siempre de separar ambas cosas, y quiere ocuparse únicamente de los juicios proposicionales que pueden probar su verdad o falsedad.
 
 Pero esta separación es mayromente artificial: *toda observación implica el punto de vista del observador y por lo tanto es, en mayor o menor medida, una visión subjetiva*. 
 
-Esto implica que cualquier ciencia basada en observación no puede escapar a esta condición: [[@lenclud2004empirico|Lo empírico y lo normativo en la etnografía]].
+Esto implica que cualquier ciencia basada en observación no puede escapar a esta condición: [[@lenclud2004empirico]].
 
 También la noción de la interpretación *teóricamente orientada* o *teóricamente sesgada*, por ejemplo, en Alvesson y Sköldberg (2009, introducción del libro).
 

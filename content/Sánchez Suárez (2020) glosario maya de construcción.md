@@ -1,6 +1,6 @@
 ---
 title: 'glosario maya de construcción'
-tags: ['colección', 'doctorado']
+tags: ['nota-colección', '/doctorado']
 ---
 
 Lo que sigue viene de Sánchez Suárez, A. (2020). Saberes del pak’lu’um (ver [[vivienda yucateca]]):

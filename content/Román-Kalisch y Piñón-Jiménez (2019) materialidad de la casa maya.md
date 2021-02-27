@@ -1,6 +1,6 @@
 ---
 title: 'materialidad de la casa maya'
-tags: ['nota-de-literatura', 'inconclusa']
+tags: ['nota-de-literatura', '+inconclusa']
 ---
 ## estrategias de utilización de materiales
 

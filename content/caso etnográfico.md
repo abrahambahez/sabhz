@@ -1,4 +1,4 @@
 ---
 title: 'caso etnográfico'
-tags: ['nota-permanente', 'implícita']
+tags: ['nota-permanente', '+implícita']
 ---

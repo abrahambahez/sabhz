@@ -1,6 +1,6 @@
 ---
 title: 'patrimonio biocultural'
-tags: ['término', 'incipiente']
+tags: ['nota-término', '+incipiente']
 ---
 
 Toda producción que modifica los recursos naturales y le asigna ideas profundas relacionadas con la identidad del grupo, de modo que se crea un vínculo entre naturaleza-personas basado en la particularidad histórica, ecológica, material, histórica y política.

@@ -1,6 +1,6 @@
 ---
 title: 'gestión ágil'
-tags: ['índice', 'incipiente', 'notas-sueltas']
+tags: ['nota-índice', '+incipiente', 'notas-sueltas']
 ---
 
 Primero, los valores básicos:

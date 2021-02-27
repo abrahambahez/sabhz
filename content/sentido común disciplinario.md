@@ -1,6 +1,6 @@
 ---
 title: 'sentido común disciplinario'
-tags: ['término', 'incipiente', 'potenciales']
+tags: ['nota-término', '+incipiente', '&potenciales']
 ---
 
 Viene de la antropología latinoamericana.

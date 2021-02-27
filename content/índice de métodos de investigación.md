@@ -1,6 +1,6 @@
 ---
 title: 'índice de métodos de investigación'
-tags: ['índice', 'incipiente']
+tags: ['nota-índice', '+incipiente']
 ---
 
 Este es un proyecto a mediano plazo para documentar métodos y técnicas de investigación. Está totalmente determinado por mi trabajo del momento, por esa razón habrá más énfasis en temas antropológicos, pero la idea es expandirlo a lo largo del tiempo.

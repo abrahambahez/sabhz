@@ -8,12 +8,12 @@ year: 2017
 apa: 'Ahrens, S. (2017). How to take smart notes: One simple technique to boost writing, learning and thinking: for students, academics and nonfiction book writers. CreateSpace.'
 tags: 
     - 'nota-referencia'
-    - 'inconclusa'
+    - '+inconclusa'
 ---
 Mis ideas:
 
-- El trabajo académico, como práctica del [[trabajo cognitivo]], es de naturaleza iterativa (por ejemplo, puede ser comparado con [[el círculo hermenéutico como modelo de pensamiento externalizado]]) y requiere el uso de diferentes mentalidades y grados de atención; así como ciclos de retroalimentación cortos y constantes (como en la [[gestión ágil]])
-- Lo que gestionamos en el [[trabajo cognitivo]] es el tiempo (cfr. [[cómo pensar el trabajo intelectual y el trabajo operativo]]) y recursos cognitivos como la atención, la memoria, la intuición, el aprendizaje y la voluntad. #zettelkasten-personal 
+- El trabajo académico, como práctica del [[trabajo cognitivo]], es de naturaleza iterativa (por ejemplo, puede ser comparado con [[el círculo hermenéutico como modelo de pensamiento extendido]]) y requiere el uso de diferentes mentalidades y grados de atención; así como ciclos de retroalimentación cortos y constantes (como en la [[gestión ágil]])
+- Lo que gestionamos en el [[trabajo cognitivo]] es el tiempo (cfr. [[cómo pensar el trabajo intelectual y el trabajo operativo]]) y recursos cognitivos como la atención, la memoria, la intuición, el aprendizaje y la voluntad. #/zettelkasten-personal 
 
 ## Resumen esquemático
 
@@ -37,7 +37,6 @@ Con la promesa basada en la extraordinaria prolificidad de Luhmann, existen much
 
 #### Cap. 5 - Writing Is the Only Thing That Matters
 
-- es un mito que crear productos intelectuales, o cognitivos consiste en sentarse ante una hoja en blanco con los argumentos listos en la mente, cada [[trabajador cognitivo]] desarrolla estrategias más o menos sofisticadas de extensión cognitiva que se soportan casi siempre en notas sobre sus ideas y las ideas de otros ([[el trabajo cognitivo no es privativo ni del individuo ni del cerebro]])
 - Pero puede haber aquí una trampa: [[pensar y aprender no están en las notas, sino en la escritura]]
 
 >Deliberate practice is the only serious way of becoming better at what we are doing (p. 35 · Posición 737)
@@ -48,7 +47,7 @@ Con la promesa basada en la extraordinaria prolificidad de Luhmann, existen much
 
 #### Cap. 7 - Nobody Ever Starts From Scratch
 
-- [[el círculo hermenéutico como modelo de pensamiento externalizado]]
+- [[el círculo hermenéutico como modelo de pensamiento extendido]]
 - Es erróneo *decidir sobre qué vas a escribir antes de escribir cualquier cosa*, porque el conocimiento es un proceso dialógico de expresión-interpretación tanto colectiva / intersubjetiva como en relación con el entorno (cfr. [[cognición situada]]).
 
 #### Cap. 8  - Let the Work Carry You Forward
@@ -68,7 +67,7 @@ Con la promesa basada en la extraordinaria prolificidad de Luhmann, existen much
 
 #### cap. 10. leer para comprender
 
-- Leer es entablar un diálogo: revisa [[el círculo hermenéutico como modelo de pensamiento externalizado#externalización del pensamiento en la práctica de toma de notas de orientación hermenéutica]].
+- Leer es entablar un diálogo: revisa [[el círculo hermenéutico como modelo de pensamiento extendido#externalización del pensamiento en la práctica de toma de notas de orientación hermenéutica]].
 - Mente abierta: cuídate del [[sesgo de confirmación]]: Una buena práctica después de desarrollar una idea propia es buscar ideas que buscan contradecirla y añadirlas a las notas permanentes, como una práctica de falsación (p. 70 · Posición 1508)
 - [[el modo de lectura más útil para el trabajo cognitivo es el de la elaboración]]
 
@@ -82,10 +81,11 @@ Con la promesa basada en la extraordinaria prolificidad de Luhmann, existen much
 
 Emergencia de temas
 
-- Idealmente, las nuevas notas se escriben haciendo referencias explícitas a notas ya existentes, pero no siempre es posible (p. 93 · Posición 1972). 
+- Idealmente, las nuevas notas se escriben haciendo [[referencias explícitas]] a notas ya existentes, pero no siempre es posible (p. 93 · Posición 1972). 
 - A partir de la creación de secuencias de notas (como las ramas en [[zettelkasten#sistema de identificación y creación de ramas]] o de su densidad vinculatoria) los temas emergen naturalmente como nodos; esa emergencia es la estructura del desarrollo de textos y proyectos.
     - Combinan las ventajas de lo abstracto con lo temático
 - No es necesario escribir nuevas notas sólo para llenar vacíos en secuencias de notas. Escribimos sólo porque nos ayudará a pensar mejor. Los vacíos argumentales pertenecen a los manuscritos (p. 93 · Posición 1989)
+- «Las referencias entre las notas son mucho más importantes que las referenicas indexables desde una nota; por eso lo único que se pone en los índices son puntos de entrada. Unos pocos sabiamente elegidos (esto es, densamente vinculados explícitamente)  son suficientes para cada punto de entrada» (p. 94 · Posición 2004-2011) ^p-94-pos2004
 - La dinámica del sistema consiste en extraer información de fuentes lineales para mezclarla, agitarla para hacer emerger patrones nuevos; finalmente usamos esos patrones para construir nuevos textos lineales (p. 94 · Posición 1996)
 - ==La consideración de cómo desarrollar un tema pertenece a las notas y no a un nivel meta- jerárquico== (p. 95 · Posición 2016)
 - Toda consideración sobre la estructura de un tema es solamente otra consideracion sobre una nota, sujeta a cambios y dependiente del grado de desarrollo de nuestro entendimiento (p. 95 · Posición 2020)

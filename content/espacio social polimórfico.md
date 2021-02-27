@@ -1,6 +1,6 @@
 ---
 title: 'espacio polimórfico'
-tags: ['término', 'semilla❦']
+tags: ['nota-término', '❦semilla']
 ---
  Uso este término como una categoría que engloba diversas nociones donde la relación sujeto-espacio se manifiesta.
  
