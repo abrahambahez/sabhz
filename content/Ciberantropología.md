@@ -1,6 +1,8 @@
 ---
 title: 'Ciberantropología'
-tags: ['nota-permanente']
+tags:
+  - 'nota-permanente'
+  - '§desigualdad-tecnológica'
 ---
 Me interesa especialmente la crítica más aguda a las civilizaciones tecnológicas en tanto inherentemente desiguales, es decir, como productoras naturales de [[sistemas de distribución de opresión y privilegios]]. 
 

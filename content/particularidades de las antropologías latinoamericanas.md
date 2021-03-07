@@ -10,7 +10,7 @@ Este fenómeno histórico-epistémico marca una pauta muy relevante en la pregun
 
 Esta *episteme* distinta tiene además de la visión geopolítica, una relacionada con la relación centro-periferia (Krotz, 2015, p. 13; Ribeiro et al., 2009), lo que abre las posibilidades a prácticas provenientes del norte global pero no de las potencias productoras de siempre, como Francia o Estados Unidos.
 
-Así, se apuesta por una construcción de conocimiento distinta, a través de la modificación o reinterpretación de una o más de las «fases» modelo de la investigación antropológica. Varios ejemplos están en el libro coordinado por Rosana Guber, *Trabajo de campo en América Latina: experiencias antropológicas regionales en etnografía* (2018, mira la nota de [[2020-11-26]] para comentarios iniciales del texto). Ahí encontramos propuestas como:
+Así, se apuesta por una construcción de conocimiento distinta, a través de la modificación o reinterpretación de una o más de las «fases» modelo de la investigación antropológica. Varios ejemplos están en el libro coordinado por Rosana Guber, *Trabajo de campo en América Latina: experiencias antropológicas regionales en etnografía*. Ahí encontramos propuestas como:
 
 - Una epistemología *«vivencial»* de la etnografía (Peirano, M. pp. 169-182; Quirós, J. pp. 183-204)
 - El giro metodológico de una *«observación flotante»* (Pérez Pallares, F. pp. 331-341)

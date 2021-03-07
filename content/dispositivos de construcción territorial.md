@@ -1,6 +1,6 @@
 ---
 title: 'dispositivos de construcción territorial'
-tags: ['nota-colección', '/doctorado']
+tags: [ 'nota-colección', '§doctorado' ]
 ---
 ## cartografías
 

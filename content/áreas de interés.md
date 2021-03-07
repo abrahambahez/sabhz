@@ -41,6 +41,6 @@ tags: ['nota-índice']
 
 - [[índice de herramientas cognitivas]]
 - [[términos de psicología interesantes]]
-- [[colección de técnicas de productividad y gestión de proyectos]]
-- [[conceptos de computación útiles para el trabajo cognitivo]]
+- [[técnicas de productividad y gestión de proyectos]]
+- [[términos de computación útiles para el trabajo cognitivo]]
 - [[iniciativas digitales interesantes]]

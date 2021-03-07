@@ -1,6 +1,6 @@
 ---
 title: 'epistemologías latinoamericanas'
-tags: ['nota-índice', '+incipiente', '/doctorado']
+tags: [ 'nota-índice', '+incipiente', '§doctorado' ]
 ---
 
 Hasta donde entiendo, se parte de la teoría de la dependencia:

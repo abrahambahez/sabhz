@@ -1,15 +1,22 @@
 ---
 title: 'La interdisciplinariedad, método holístico cognoscitivo'
-aliases: ['La interdisciplinariedad, método holístico cognoscitivo', '@maldonado2008interdisciplinariedad']
+aliases:
+  [
+    'La interdisciplinariedad, método holístico cognoscitivo',
+    '@maldonado2008interdisciplinariedad'
+  ]
 initial_read: 2021-01-26
 source_type: artículo
-authors: 
-- Saldivia Maldonado, Zenobio
+authors:
+  - Saldivia Maldonado, Zenobio
 year: 2008
-apa: 'Maldonado, Z. S. (2008). La interdisciplinariedad, método holístico cognoscitivo. Revista Semestral Humanidades y Educación, 60.'
-tags: ['nota-referencia', '/doctorado', '&refactorizar']
+apa: 'Maldonado, Z. S. (2008). La interdisciplinariedad, método holístico
+  cognoscitivo. Revista Semestral Humanidades y Educación, 60.'
+tags:
+  - 'nota-referencia'
+  - '&refactorizar'
+  - '§doctorado'
 ---
-
 Saldivia Maldonado destaca la idea de la cooperación entre especialistas de diversas disciplinas. Esta idea tiene su desarrollo en un muy sutilmente sugerido desarrollismo de las ciencias:
 
 >«este fenómeno contemporáneo de la ciencia que consiste en crecer en extensión y en profundidad, como señala Bunge en nuestra era, sugiere un desarrollo del conocimiento, con claros visos de interdisciplinariedad; esto porque los contenidos cognitivos de una disciplina, se "extienden" o se "introducen" -por así decirlo en otras ciencias de su mismo nivel» (p. 158-8)

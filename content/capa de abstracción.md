@@ -1,5 +1,6 @@
 ---
 title: 'capa de abstracción'
+aliases: ['nivel de indirección']
 tags: ['nota-término']
 ---
 

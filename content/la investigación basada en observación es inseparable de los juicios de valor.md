@@ -12,8 +12,6 @@ Esto implica que cualquier ciencia basada en observación no puede escapar a est
 
 También la noción de la interpretación *teóricamente orientada* o *teóricamente sesgada*, por ejemplo, en Alvesson y Sköldberg (2009, introducción del libro).
 
-Mira la nota de mi [[2020-11-26#Discusión entre datos - fenómenos y la interdependencia de lo empírico y lo normativo]]
-
 ## Referencias
 
 Alvesson, M., & Sköldberg, K. (2009). Reflexive methodology: New vistas for qualitative research (2nd ed). SAGE.'

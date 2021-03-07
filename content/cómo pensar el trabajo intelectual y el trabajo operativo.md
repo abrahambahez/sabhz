@@ -1,8 +1,8 @@
 ---
 title: 'Sobre el trabajo intelectual y la productividad'
 tags:
-    - 'nota-permanente'
-    - '/zettelkasten-personal'
+  - 'nota-permanente'
+  - '§zettelkasten-personal'
 ---
 
 - El trabajo intelectual está orientado a leer y escribir (donde escribir debería ser más que leer); el trabajo operativo está orientado a resultados concretos (*outcomes*), esta puede ser la división básica para mí *batching* laboral.

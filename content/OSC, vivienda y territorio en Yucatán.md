@@ -1,8 +1,10 @@
 ---
-title: 'Desconocer mi habitación: Tensiones de reconocimiento inter-epistémico en las prácticas de intervención de OSC con proyectos de vivienda en Yucatán'
-tags: 
-    - 'nota-índice'
-    - '/doctorado'
+title: 'Desconocer la habitación: Tensiones de reconocimiento inter-epistémico
+  en las prácticas de intervención de OSC con proyectos de vivienda en
+  comunidades mayas de Yucatán'
+tags:
+  - 'nota-índice'
+  - '§doctorado'
 ---
 Las *acciones* de una OSC implican una *intención* de transformación social declarada sobre un grupo social distinto al de ellos. Dado que es imposible una comprensión intersubjetiva entre los grupos sin una dinámica activa de comprensión intersubjetivo (que incluye las diferencias en la forma de concebir y validar el conocimiento).
 

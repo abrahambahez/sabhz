@@ -1,10 +1,10 @@
 ---
 title: 'las ideas no son unívocamente discretas, sino continuas'
 tags:
-- 'nota-permanente'
-- '❦semilla'
-- '&potenciales'
-- '/zettelkasten-personal'
+  - 'nota-permanente'
+  - '❦semilla'
+  - '&potenciales'
+  - '§zettelkasten-personal'
 ---
 Una idea puede entenderse como un concepto con el que indicamos contenido de un proceso cognitivo.
 

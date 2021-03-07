@@ -20,4 +20,4 @@ Además de esos ejemplos, que son débiles para poder afirmar sobre ellos un rel
 - La artificialidad en la separación jucio de valor - juicio racional (sobre todo en ciencias basadas en la observación, cfr. [[@lenclud2004empirico]])
 - Las ciencias como [[praxis disciplinaria]]
 - El problema de las correspondencias (relaciones entre realidad-racionalidad-verdad)
-- La idea de que *el conocimiento acabado (absoluto) es más un mito que una noción específica y útil* para la praxis científica (cfr. [[2020-12-02]])
+- La idea de que *el conocimiento acabado (absoluto) es más un mito que una noción específica y útil* para la praxis científica

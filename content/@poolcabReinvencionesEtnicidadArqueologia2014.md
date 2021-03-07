@@ -12,7 +12,7 @@ tags: ['nota-referencia', '+leyendo', '+huérfana']
 
 - [[Pool Cab (2014, cap. 1) El enfoque transdisciplinario en el estudio de la etnicidad en arqueología]]
 - [[Pool Cab (2014, cap. 2) Las reinvenciones de la identidad]]
-- [[Pool Cab (2014, cap. 1) Dilucidando la etnicidad en el norte de Yucatán durante el Clásico Tardío]]
+- [[Pool Cab (2014, cap. 5) Dilucidando la etnicidad en el norte de Yucatán durante el Clásico Tardío]]
 
 ## Referencias
 

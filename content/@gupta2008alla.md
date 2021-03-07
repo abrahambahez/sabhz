@@ -18,7 +18,7 @@ Con énfasis en la teoría posmodernista y feminista que ha construido nociones 
 
 El problema de la aparente «discontinuidad natural» de las fronteras constituye la premisa para teorizar los contactos, los conflictos y las contradicciones entre las culturas y las sociedades.
 
-Identificación común entre el Estado, la cultura y la sociedad (la cultura/sociedad *hindú* de la India), pero también las nociones transnacionales de área cultural o bien, la de nación multiculturales. En antropología es común la noción de identificar cultura con [[territorio]] («los *nuer* viven en 'Nuerlandia'» (p. 235)). Esto es un presunto isomorfismo entre espacio, lugar y cultura. Todo esto es problemático por ejemplos como las zonas fronterizas o la poscolonialidad. (cfr. [[Pool Cab (2014, cap. 1) Dilucidando la etnicidad en el norte de Yucatán durante el Clásico Tardío#Mayas y otras «gentes» según las fuentes coloniales]])
+Identificación común entre el Estado, la cultura y la sociedad (la cultura/sociedad *hindú* de la India), pero también las nociones transnacionales de área cultural o bien, la de nación multiculturales. En antropología es común la noción de identificar cultura con [[territorio]] («los *nuer* viven en 'Nuerlandia'» (p. 235)). Esto es un presunto isomorfismo entre espacio, lugar y cultura. Todo esto es problemático por ejemplos como las zonas fronterizas o la poscolonialidad. (cfr. [[Pool Cab (2014, cap. 5) Dilucidando la etnicidad en el norte de Yucatán durante el Clásico Tardío#Mayas y otras «gentes» según las fuentes coloniales]])
 
 Igual de problemática es la idea de *subcultura* (diferenciada en relación con una cultura hegemónica).
 

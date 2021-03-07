@@ -7,7 +7,8 @@ authors:
 - Esteban, César
 year: 2009
 apa: 'Esteban, C. (2009). La astronomía cultural, ¿es interdisciplinar? Reflexiones de un astrofísico. 20, 9.'
-tags: ['nota-referencia', 'menos-relevante']
+tags: 
+    - 'nota-referencia'
 ---
 
 Definición de [[Esteban (2009) arqueoastronomía]]

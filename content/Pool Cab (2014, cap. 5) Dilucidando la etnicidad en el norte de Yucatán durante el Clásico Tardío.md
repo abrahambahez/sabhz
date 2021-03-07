@@ -1,8 +1,8 @@
 ---
-title: 'Pool Cab (2014, cap. 1) Dilucidando la etnicidad en el norte de Yucatán durante el Clásico Tardío'
+title: 'Pool Cab (2014, cap. 5) Dilucidando la etnicidad en el norte de Yucatán durante el Clásico Tardío'
 tags: ['nota-de-literatura']
 ---
-El objetivo del capítulo es analizar  si existen los elementos instrumentales, procesuales, históricos y primordiales para inferir la identidad étnica en el norte de Yucatán en una etapa importante de la historia de Chichén Itzá. Esto se hace a través de un cruce de fuentes que aplican los diversos enfoques de la identidad ya expuestos en el capítulo 2.
+El objetivo del capítulo es analizar si existen los elementos instrumentales, procesuales, históricos y primordiales para inferir la identidad étnica en el norte de Yucatán en una etapa importante de la historia de Chichén Itzá. Esto se hace a través de un cruce de fuentes que aplican los diversos enfoques de la identidad ya expuestos en el capítulo 2.
 
 ### Chichén Itzá como referente territorial
 
@@ -46,7 +46,7 @@ Los grupos étnicos son unidades de adscripción y de identificación; dependen 
 
 Las fuentes etnohistóricas sugieren que se dio una identificación entre lengua y [[territorio]]: «Territorio es igual a lengua» (p. 176), en ese sentido, las variantes regionales pueden también indicar colectivos étnicos diversos (haciendo una lectura sustantivista pp. 177-178).
 
-Algunos colectivos, como los Tutul Xiu se acercan a la categoría étnica, pues « se diferenciaban por su lengua, cultura, organización y memoria ancestral territorial» (p. 181)
+Algunos colectivos, como los Tutul Xiu se acercan a la categoría étnica, pues «se diferenciaban por su lengua, cultura, organización y memoria ancestral territorial» (p. 181)
 
 ### Consideraciones sobre ciertas identidades extranjeras en el norte de Yucatán según las fuentes coloniales
 
@@ -62,4 +62,4 @@ Como es de esperarse, la identidad étnica es más o menos fuerte dependiendo de
 
 ## Referencias
 
-Pool Cab, M. N. (2014). Dilucidando la etnicidad en el norte de Yucatán durante el Clásico Tardío / Terminal-Posclásico. En "Las reinvenciones de la etnicidad en la arqueología maya". Ediciones de la Universidad Autónoma de Yucatán, pp. 137-189. [[@poolcabReinvencionesEtnicidadArqueologia2014]]
+Pool Cab, M. N. (2014). Dilucidando la etnicidad en el norte de Yucatán durante el Clásico Tardío / Terminal-Posclásico. En "Las reinvenciones de la etnicidad en la arqueología maya". Ediciones de la Universidad Autónoma de Yucatán, pp. 137-189.

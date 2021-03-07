@@ -1,8 +1,9 @@
 ---
 title: 'sesgo de igualdad de condiciones'
 tags:
-- 'nota-permanente'
-- '❦semilla'
+    - 'nota-permanente'
+    - '❦semilla'
+    - '&p3'
 ---
 Es el sesgo de quienes consideran que las desigualdades actuales del mundo pueden ser ignoradas en la creación de políticas contemporáneas porque suponen que los actores están en igualdad de condiciones (puede que lo estén *de iure*, pero no *de facto*). 
 
@@ -15,8 +16,9 @@ Es evidentemente falso que una política que busca equilibrar una condición de 
 - La necia resistencia a las políticas preventivas / retributivas como los vagones exclusivos para mujeres bajo la idea de que representan «discriminación inversa» hacia los hombres o los grupos privilegiados en esa relación de poder
     - Curiosamente, la crítica cambia (aunque no se respete) cuando la política preferencial se dirige a personas con «discapacidades» físicas o mentales; tal vez sugiriendo que sólo los estados de *«desventaja evidente»* y permanente son aceptables (cuestión enteramente criticable respecto a considerarlos del todo desventajas)
 
+## tareas
+- [ ] Mejora esta referencia estudiando el experimento original
+
 ## Referencias
 
 Salas, J. (2021). La meritocracia y otros mecanismos psicológicos que sirven de excusa contra los impuestos. Periódico El País, sección Psicología
-
-> #&p3 Mejora esta referencia estudiando el experimento original

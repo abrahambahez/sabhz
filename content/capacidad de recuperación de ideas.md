@@ -18,7 +18,7 @@ En este punto surge el problema de encontrar qué ideas ya existentes son releva
 Recuerda que [[la forma de escribir y relacionar notas tiene una tensión cualitativa-cuantitativa]].
 
 - A través del azar
-- A través de *colecciones asociativas*, como:
+- A través de *[[colecciones asociativas]]*, como:
     - Mapas de contenido (MOC por sus siglas en inglés)
 - A través de sistemas de etiquetas, o *tags* (ver más abajo)
 - A través de *[[elaboraciones asociativas]]* (ver [[cómo hacer elaboraciones asociativas]])

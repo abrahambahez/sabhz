@@ -65,10 +65,4 @@ tags:
     - Visiones tradicinales de habitabilidad
     - Conocimiento constructivo, conocimiento vivencial
 
-### IV. Saberes encontrados
-
--  Cientificidad del desarrollo y el progreso
--  Conocimiento tradicional como conocimiento real
--  Racismo como [[violencia epistémica]]
-    -  No hay diálogo sin reconocimiento epistémico
-    -  No hay legitimidad sin diálogo
+### [[reconocimiento inter-espistémico]]

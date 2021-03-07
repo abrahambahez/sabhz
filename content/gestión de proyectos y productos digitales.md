@@ -5,5 +5,5 @@ tags: ['nota-índice', '+incipiente']
 
 - [[cómo crear y validar prototipos de procesos y productos digitales]]
 - [[gestión ágil]]
-- [[colección de técnicas de productividad y gestión de proyectos]]
+- [[técnicas de productividad y gestión de proyectos]]
 - [[estrategias de diseño]]

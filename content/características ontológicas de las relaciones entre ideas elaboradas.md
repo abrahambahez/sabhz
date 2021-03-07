@@ -11,10 +11,10 @@ Las [[asociaciones fuertes entre notas]] necesitan consistencia léxica para man
 
 En la práctica, esta tendencia se refleja en:
 
-- La forma de escribir los títulos de las notas, que estratéhicamente es usada como enlace semántico
-- La forma de elaborar los párrafos específicos, donde las [[referencias explícitas]] van extendiendo el discurso
+- La forma de escribir los títulos de las notas, que estratégicamente es usada como enlace semántico
+- La forma de elaborar párrafos específicos, donde hay una dinámica de autodeterminación entre el *texto plano* escrito y las [[referencias explícitas]] que usa (a través de los títulos)
 
-La consecuencia de esto es que muchas palabras quedan *definidas* extensionalmente a través de las [[referencias implícitas]] que son los retroenlaces o *backlinks* (que representan las *instancias específicas dentro del dominio de discurso que es el conjunto de todas las ideas elaboradas*); y/o también *intensionalmente* a través de las elaboraciones de las propias notas, que pueden estar conformadas a su vez por otras notas a través de [[referencias explícitas]] con lo que se forman [[elaboraciones asociativas]], que son niveles superiores de integración conceptual. Estas definiciones intensionales pueden representar las *clases* que explicitan quién puede pertenecer a ellas.
+La consecuencia de esto es que muchas palabras quedan *definidas* extensionalmente a través de las [[referencias implícitas]] que son los retroenlaces o *backlinks* (que representan las *instancias específicas dentro del dominio de discurso que es el conjunto de todas las ideas elaboradas*); y/o también *intensionalmente* a través de las elaboraciones de las propias notas; éstas pueden estar conformadas a su vez por otras notas a través de [[referencias explícitas]], creando [[elaboraciones asociativas]], que son niveles superiores de integración conceptual. Estas definiciones intensionales pueden representar los *tipos* que explicitan quién puede pertenecer a ellas.
 
 ## las relaciones relevantes entre ideas elaboradas
 

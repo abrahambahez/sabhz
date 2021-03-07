@@ -1,8 +1,9 @@
 ---
-title: 'una buena nota explota todos sus componentes para facilitar el trabajo cognitivo y la vinculación'
-tags: 
-    - 'nota-permanente'
-    - '/zettelkasten-personal'
+title: 'una buena nota explota todos sus componentes para facilitar el trabajo
+  cognitivo y la vinculación'
+tags:
+  - 'nota-permanente'
+  - '§zettelkasten-personal'
 ---
 
 La toma de notas no es importante si no tiene como fin el desarrollo de conocimiento personal (por ejemplo, [Matuschak: *"The goal is not to take notes—the goal is to think effectively"*](https://notes.andymatuschak.org/z7kEFe6NfUSgtaDuUjST1oczKKzQQeQWk4Dbc)); [[mi sistema personal de pensamiento extendido]] debe representar lo mejor posible el [[trabajo cognitivo]] individual a través de una red de [[teorías de la cognición extendida|cognición extendida]].

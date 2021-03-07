@@ -6,7 +6,7 @@ Una [[teoría de la práctica]] se enfrenta a varios problemas.
 
 Desde Ortner (1993, pp. 46\[aprox.\]-59):
 
-El análisis grupal cae en conflicto con el individual. Cuando queremos analizar la acción grupal caemos en el riesgo de la micrometodología, pero enfocarse en el grupo va en detrimiento (¿dialéctico?) del individuo, y viceversa.
+El análisis grupal cae en conflicto con el individual. Cuando queremos analizar la acción grupal caemos en el riesgo de la micrometodología, pero enfocarse en el grupo va en detrimiento (¿dialéctico?) del individuo.
 
 La temporalidad de la acción inmediata versus la acción como reflejo de un programa más grande en el tiempo. Cuando analizamos la [[agencia]] solemos ubicarla en una temporalidad inmediata, tan fugaz incluso como la noción de [[acción serial]] ¡aunque estas se usan para teorizar sobre arqueología! ¿qué más largo plazo podemos nombrar? (cfr. Johannesen (2004); Joyce & Lopiparo, 2005). Pero el comportamiento también está *motivado* por *proyectos* o *programas* a más largos plazos, ¿cómo conciliar esto?
 
@@ -15,8 +15,6 @@ La creación del sujeto de la acción. ¿Quién es el sujeto de la [[agencia]]? 
 ¿Cómo la práctica (reproduce / transforma) al sistema? (p. 54) y también el problema de la temporalidad de esa dinámica. Son transformaciones lentas, generacionales.
 
 Cómo analizar los patrones de solidaridad, cooperación y reciprocidad versus los de dominación, desigualdad y asimetría
-
-[[Antropología y cambio social]]
 
 ## Referencias
 

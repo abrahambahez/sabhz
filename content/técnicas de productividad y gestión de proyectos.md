@@ -1,5 +1,5 @@
 ---
-title: 'colección de técnicas de productividad y gestión de proyectos'
+title: 'técnicas de productividad y gestión de proyectos'
 tags: ['nota-colección', 'notas-sueltas']
 ---
 

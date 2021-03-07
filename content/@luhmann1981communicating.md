@@ -57,7 +57,7 @@ Según Luhmann, la caja de notas necesita varios de años para alcanzar una masa
 
 ###  IV
 
-La idea de la importancia de lo accidental en la evolución que Luhmann usa como argumento para promover un sistema abierto (IV, párr. 1) puede ser comparada a la de los procesos iterativos con ciclos cortos de retroalimentación (evidentemente ligados a sistemas con más grados de apertura que reaccionan dinámicamente a la entropía informacional — es decir, a la incertidumbre—, cfr. [[el trabajo cognitivo es de naturaleza iterativa e incremental]])
+La idea de la importancia de lo accidental en la evolución que Luhmann usa como argumento para promover un sistema abierto (IV, párr. 1) puede ser comparada a la de los procesos iterativos con ciclos cortos de retroalimentación (evidentemente ligados a sistemas con más grados de apertura que reaccionan dinámicamente a la entropía informacional — es decir, a la incertidumbre—, cfr. [[el trabajo cognitivo es de naturaleza iterativa e incremental]]) ^iv
 
 >*«The role of accidents in the theory of science is not disputed, If you employ evolutionary models, accidents assume a most important role.»* (IV, párr 1)
 

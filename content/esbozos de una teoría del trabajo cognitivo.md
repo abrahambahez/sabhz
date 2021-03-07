@@ -2,13 +2,37 @@
 title: 'esbozos de una teoría del trabajo cognitivo'
 tags:
     - 'nota-permanente'
+    - '+moc'
 ---
-El [[trabajo cognitivo]] y el [[trabajador cognitivo]] son la unidad y el sujeto, respectivamente, con los cuales las prácticas sociohistóricas de la producción social del conocimiento ([[el conocimiento se (re)produce socialmente]]) se desarrollan.
+componentes básicos
 
-Alrededor de ellos se forman muy diversos fenómenos de distintas envergaduras, como el [[capitalismo cognitivo]], también llamado [[economía del conocimiento]] por sus apologetas.
+- [[trabajo cognitivo]]
+- [[trabajador cognitivo]]
+- como fenómeno extendido
+    - [[teorías de la cognición extendida]]
+    - [[exocerebro]]
+    - [[el círculo hermenéutico como modelo de pensamiento extendido]]
 
-Sus manifestaciones actuales son muy importantes para comprender por qué la economía los está re-posicionando como figuras disruptivas, y al mismo tiempo impulsa un paradigma administrativo, la [[gestión del conocimiento]] (su contraparte «orgánica» dentro de las comunidades de internet podrían ser las comunidades de práctica, cuya versión institucionalizada son las [[comunidades de conocimiento]]).
+dinámicas
 
-Estas valoraciones también impulsan prácticas culturales como las diferentes interpretaciones del [[zettelkasten]]; fundados, aunque sea indirectamente, en la aceptación total o parcial de las [[teorías de la cognición extendida]].
+- [[el conocimiento se (re)produce socialmente]]
+- [[el conocimiento se incorpora en pautas conductuales, operacionales o expresivas]]
 
-Mi interés radica en estudiarlos desde la línea de la [[antropología del conocimiento]].
+desarrollo histórico
+
+- [[economía del conocimiento]]
+- [[capitalismo cognitivo]]
+- [[trabajo cognitivo y racionalización del trabajo]]
+
+praxis
+
+- [[gestión del conocimiento]]
+- [[el trabajo cognitivo es de naturaleza iterativa e incremental]]
+- individual
+    - [[zettelkasten]]
+    - [[mi sistema personal de pensamiento extendido]]
+
+abordajes disciplinarios:
+
+- [[antropología del conocimiento]]
+- [[epistemologías latinoamericanas]]

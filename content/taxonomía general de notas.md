@@ -1,10 +1,10 @@
 ---
 title: 'taxonomía general de notas'
-tags: 
-    - 'nota-permanente'
-    - '&refactorizar'
-    - '&p1'
-    - '/zettelkasten-personal'
+tags:
+  - 'nota-permanente'
+  - '&refactorizar'
+  - '&p1'
+  - '§zettelkasten-personal'
 ---
 Tipología de notas:
 

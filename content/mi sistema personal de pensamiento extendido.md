@@ -10,7 +10,7 @@ Tiene su base en los modelos de las [[teorías de la cognición extendida]] y si
 
 ## principios fundamentales
 
-1. El trabajo está centrado en escribir, leer escribir, pensar-escribir, discutir-escribir: [[la elaboración escrita es la práctica más importante para desarrollar y expresar el pensamiento]]
+1. El trabajo está centrado en escribir, leer-escribir, pensar-escribir, discutir-escribir: [[la elaboración escrita es la práctica más importante para desarrollar y expresar el pensamiento]]
 2. Es necesario establecer relaciones significativas entre lo que se escribe, para que pueda convertirse en conocimiento: [[las relaciones entre ideas elaboradas son el núcleo del desarrollo incremental del conocimiento]]
 3. Las dos acciones anteriores, escribir y relacionar, deben practicarse de manera repetida sobre el conocimiento nuevo y el anterior: [[el desarrollo iterativo e incremental es la mejor estrategia para el trabajo cognitivo]]
 4. El único plan que funcionará es no tener plan: [[la intuición es el primer criterio táctico para tomar decisiones de trabajo cognitivo]] (la intuición no es más que [[cognición encorporada]] desarrollada con la práctica)
@@ -41,7 +41,7 @@ Términos nuevos que están emergiendo:
 
 ## propiedades emergentes
 
-- ontología informal
+- [[ontología informal]]
 - [[capacidad de recuperación de ideas]]
 - incremento de la complejidad
 

@@ -1,9 +1,9 @@
 ---
 title: 'agrupación contextual contra agrupación temática'
 tags:
-    - 'nota-permanente'
-    - '&p1'
-    - '/zettelkasten-personal'
+  - 'nota-permanente'
+  - '&p1'
+  - '§zettelkasten-personal'
 ---
 
 para construir:

@@ -53,3 +53,8 @@ Sin embargo también se ha admitido que existen otros mecanismos *no coaccionant
 
 - sistemas horizontales de organización
 	- legitimidad emotivo-racional
+- políticas retributivas
+    - [[falacia de igualdad de condiciones]]
+- desigualdad social
+    - coeficiente de Gini
+    - [[@reygadas2007desigualdad]]

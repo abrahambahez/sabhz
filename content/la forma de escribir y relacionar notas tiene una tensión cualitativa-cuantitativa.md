@@ -1,8 +1,9 @@
 ---
-title: 'la forma de escribir y relacionar notas tiene una tensión cualitativa-cuantitativa'
-tags: 
-    - 'nota-permanente'
-    - '/zettelkasten-personal'
+title: 'la forma de escribir y relacionar notas tiene una tensión
+  cualitativa-cuantitativa'
+tags:
+  - 'nota-permanente'
+  - '§zettelkasten-personal'
 ---
 Cuando decidimos cómo construir las relaciones entre notas con ideas elaboradas hay dos  que se afectan mutuamente: 
 

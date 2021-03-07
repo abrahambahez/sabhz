@@ -9,7 +9,7 @@ year:
 apa: 'Altheim, M. (2008, agosto 15). Informal Ontology Design: A Wiki-Based Assertion Framework. Balisage: The Markup Conference 2008, Montréal, Canada. https://doi.org/10.4242/BalisageVol1.Altheim01'
 tags:
     - 'nota-referencia'
-    - 'leyendo'
+    - '+leyendo'
     - '+inconclusa'
 ---
 
@@ -39,9 +39,9 @@ Similar al problema que esboza [[@luhmannLearningHowRead#^parr-5]], [[el lenguaj
 
 La propia palabra *conocimiento* no está lo suficientemente formalizada en un sentido unívoco y realista; por esa razón, su uso dentro de la práctica de la [[ontología informacional]] podría considerarse *informal*; esto es porque [[el lenguaje natural desborda los alcances de la formalización]]
 
-*«As Allen Newell noted in his influential address to the AI community, The Knowledge Level Newell, the use of the term “knowledge” within that community is “informal”»* (párr. 3)
+>*«As Allen Newell noted in his influential address to the AI community, The Knowledge Level Newell, the use of the term “knowledge” within that community is “informal”»* (párr. 3)
         
-### semántica web
+### web semántica
     
 the systems themselves must have found solutions to some rather nagging epistemological problems, in particular the connection between informal language usage, computational linguistics and formal logic. (párr. 6)
 
@@ -61,14 +61,20 @@ Para Altheim, diseñar un sistema basado en la lógica formal es menos preferibl
 
 De modo que es más seguro diseñar un sistema que es desde el origen una herramienta informal con la aclaración de que no contiene valores condicionales de verdad y cuyo objetivo es **facilitar las expresiones de la comunicación humana**.
         
-### Wikis semánticas
+### wikis semánticas
     
-Las Wikis sempanticas en muchos casos pueden contener un marco lógico aunque no implique un esquema de clasificación
+Las Wikis sempanticas en muchos casos pueden contener un marco lógico aunque no implique un esquema de clasificación, de modo que podemos tener `isSubclassOf`  pero ninguna sublace (párr. 2) 
 
-In many cases these “semantic wikis” may provide a logical framework but often no classification scheme whatsoever, so we may have IsSubclassOf but nothing to subclass
+Altheim cita algunos problemas semánticos (párr. 3):
 
-- Many if not most of these problems are insurmountable unless one forces users to understand and follow proscriptive rules
-        
+- **ambiguedad lingüística / gramatical**: *homografía* (identidad ortográfica con diferente significado), *polisemia* (diferentes acepciones para el mismo término), *sinónimos no conectados* (referencias al mismo significado que no están relacionadas)
+- **falta de contexto**: usos temporales, espaciales, culturales e individuales del lenguaje
+- términos no definidos o mal escritos
+- identidad ambigua o no definida de materias / temas
+- el uso de términos *a priori* basados en el [razonamiento monótono](https://www.jstor.org/stable/23915338?seq=1), entre otros 
+
+Muchos, tal vez la mayoría de estos problemas son insuperables **a menos que se force a los usuarios a entender y seguir reglas proscriptivas** (párr. 3)
+
 ### The Wrong Solution to the Wrong Problem
     
 - almost nothing has been done to breach the epistemological divide between knowledge representation theory and the real world of language and human culture

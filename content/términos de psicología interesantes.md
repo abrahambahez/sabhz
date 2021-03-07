@@ -6,6 +6,7 @@ tags: ['nota-colección']
 ## sesgos cognitivos
 
 - [[sesgo de confirmación]]
+- [[falacia de la planificación]]
 
 ## Fenómenos cognitivos
 

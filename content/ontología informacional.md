@@ -5,7 +5,7 @@ tags:
 ---
 Las ontologías informacionales son especificaciones formales cuyo objetivo es la representación del conocimiento dentro de un dominio particular.
 
-En palabras menos abstractas, buscan definir (y hacer accesibles a las computadoras) con máxima claridad qué elementos constituyen el conocimiento de determinado *campo* o *dominio de discurso*. Por ejemplo, el conocimiento en el campo del reconocimiento médico —cuando vamos al consultorio de un médico general— podría ayudar a una computadora a diagnosticarte un resfriado si tiene acceso al conocimiento de sintomatología y otros conceptos requeridos.
+En palabras menos abstractas, buscan definir (y hacer accesibles a las computadoras) con máxima claridad qué elementos constituyen el conocimiento de determinado *campo* o *dominio de discurso*. Por ejemplo, el conocimiento en el campo del reconocimiento médico (cuando vamos al consultorio de un médico general) podría ayudar a una computadora a diagnosticarte un resfriado si tiene acceso al conocimiento de sintomatología y otros conceptos requeridos.
 
 Esos elementos se especifican formalmente como [componentes](https://en.wikipedia.org/wiki/Ontology_components). Los principales son:
 
@@ -14,7 +14,7 @@ Esos elementos se especifican formalmente como [componentes](https://en.wikipedi
 - Atributos: son propiedades, parámetros (una suerte de predicados lógicos) que pueden tener los objetos o las clases
 - Relaciones (especifican en qué sentido un individuo está relacionado con otro)
 
-Existen porque hay una necesidad de que diferentes sistemas (tanto informáticos como cognitivos) compartan un entendimiento mutuo lo más cercano posible entre sí. Con ontologías las máquinas pueden hacer inferencias (crear nueva información a partir de la información ya existente y una serie de reglas), o bien, identificar hechos o eventos (cambios de estado informacional)
+Existen porque hay una necesidad de que diferentes sistemas (tanto informáticos como cognitivos) compartan un entendimiento mutuo lo más cercano posible entre sí. Con ontologías las máquinas pueden hacer inferencias (crear nueva información a partir de la información ya existente y una serie de reglas), o bien, identificar hechos o eventos (cambios de estado informacional). Su fundamento filosófico está en el [[principio de compromiso ontológico]].
 
 
 ## Para construir

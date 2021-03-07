@@ -10,11 +10,6 @@ tags:
     - 'nota-referencia'
     - '+inconclusa'
 ---
-Mis ideas:
-
-- El trabajo académico, como práctica del [[trabajo cognitivo]], es de naturaleza iterativa (por ejemplo, puede ser comparado con [[el círculo hermenéutico como modelo de pensamiento extendido]]) y requiere el uso de diferentes mentalidades y grados de atención; así como ciclos de retroalimentación cortos y constantes (como en la [[gestión ágil]])
-- Lo que gestionamos en el [[trabajo cognitivo]] es el tiempo (cfr. [[cómo pensar el trabajo intelectual y el trabajo operativo]]) y recursos cognitivos como la atención, la memoria, la intuición, el aprendizaje y la voluntad. #/zettelkasten-personal 
-
 ## Resumen esquemático
 
 #### Cap. 1 - Manual para tomar notas inteligentes
