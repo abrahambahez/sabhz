@@ -1,8 +1,8 @@
 ---
-title: 'visibilizar las condiciones de producción de conocimiento'
-tags: ['nota-permanente']
+title: 'Alvesson y Sköldberg (2009) Investigación reflectiva - reflexiva'
+tags:
+    - 'nota-de-literatura'
 ---
-
 ## La investigación reflectiva / reflexiva
 
 Alvesson y Sköldberg (2009) afirman que las dimensiones de *reflexividad* de la investigación implican la visibilización de las condiciones de producción de conocimiento en la que el *productor* (investigador) está en una posición no distanciada ni en control de los fenómenos que estudia.

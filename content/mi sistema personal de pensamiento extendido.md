@@ -50,8 +50,9 @@ Términos nuevos que están emergiendo:
 Toda persona que se tome en serio el trabajo de pensar llega eventualmente a reflexionar sobre los procesos, prácticas y condiciones en las que su propio conocimiento es posibilitado y construido. Si esa reflexión es llevada a un esfuerzo por sistematizar lo que llamo [[trabajo cognitivo]], esos procesos, prácticas y condiciones podrían convertirse en un sistema.
 
 Quien suele llegar a ese tipo de reflexiones es el [[trabajador cognitivo]], o sea la persona que se dedica a usar ideas y crear dispositivos tecnológicos o socioculturales con ellas (profesores, investigadores, estrategas, artistas, etcétera).
+
 ---
-versión vieja
+# versión vieja
 
 Este pretende ser mi [[sistema]] personal de notas, una visión práctica de [[gestión del conocimiento]] personal. En la [[taxonomía general de notas]],  defino la organización del contenido de cada una.
 

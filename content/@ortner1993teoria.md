@@ -29,7 +29,7 @@ Mira también: [[modos de entender a los signos]]):
     - El símbolo es un vehículo de significación (pero especialmente, *de cultura*). No están interesados en su taxonomía (en contraste: [[semiótica peirciana]] fundada en el pragmatismo) ni en su capacidad *performativa*. El énfasis es la cosmovisión, el *ethos* que crean en el grupo
     - La cultura *desde el punto de vista del actor*: *«si uno va a dar el sentido de una cultura, debe situarse en la posición desde la cual ésta fue construida.»* (p. 14)
 - David Schneider: estudiar la lógica interna de sistemas de dímbolos y significados a través de los ==núcleo de símbolos==. Separa más a la acción social ([[praxis]]) de la *cultura*. (p. 15)
-- V. Turner; una antropología explícitamente simbólica. *Los símbolos operadores en el proceso social*, cuando están juntos en ciertos contextos (sobre todo rituales), producen transformaciones esencialmente *sociales*. (p. 16).
+- V. Turner (cfr. [[Bohannan (2007). Victor W. Turner (1920-1983)]]); una antropología explícitamente simbólica. *Los símbolos operadores en el proceso social*, cuando están juntos en ciertos contextos (sobre todo rituales), producen transformaciones esencialmente *sociales*. (p. 16).
     - Algunos de sus conceptos ya son indispensables del análisis ritual (==liminalidad, marginalidad, antiestructura, comunidad==)
     - Introducen la *pragmática* de los símbolos: *«cómo los símbolos hacen realmente lo que los antropólogos pregonan que hacen: operar como fuerzas activas en el proceso social»* (p. 16)
 

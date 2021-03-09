@@ -11,7 +11,7 @@ En esta colección iré concentrando definiciones y aplicaciones de estudios de 
 Parece que la antropología desarrolló esfuerzos interpretativos independientes de la semiótica, a juzgar por las diferencias en la construcción conceptual de las teorías que presentan (mira [[@ortner1993teoria#Antropología simbólica]]).
 
 - La teoría de Edmund Leach
-- El [[símbolo turneriano]], o sea el de Victor Turner 
+- El [[símbolo turneriano]], o sea el de Victor Turner (cfr. [[Bohannan (2007). Victor W. Turner (1920-1983)]])
 - El *«animal simbólico»* de Cassirer
 - Raymond Firth (*«Symbols. Public and Private»*)
 - El [[símbolo geertziano]], o sea el de Clifford Geertz
