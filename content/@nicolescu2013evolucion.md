@@ -54,8 +54,6 @@ Nicolescu arguye en contra del divorcio entre ciencias y humanidades y el proble
 - Innovación pedagógica y transdisciplinariedad
 - Talleres regionales y foros transculturales en Internet
 
-
-
 ## Referencias
 
 Nicolescu, B. (2013). La evolución transdisciplinaria del aprendizaje. Trans-pasando fronteras, 4, 39-50.

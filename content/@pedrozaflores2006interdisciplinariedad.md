@@ -12,7 +12,7 @@ tags:
 ---
 La artificialidad de la disciplina es doble: **cognitiva** e **institucional** (p. 82); creo que cabe pensar en que no hay un marco epistemológico sin una praxis cognitiva que lo acompañe.
 
-El enciclopedismo del que se habla en la p. 83 puede ser una muestra también de los esquemas organizadores (taxonómicos y ontológicos) que forman los modelos de representación de la realidad: una organización *totalizante*, unas organizaciones parciales; cada cual más o menos interrelacionada, con más o menos tipos de relaciones (cualitativas, cuantitativas), ¿cómo llamamos a esta idea? ¿tal vez 'modelos de organización del conocimiento'?, no importa, sirven a [[mi sistema personal de pensamiento extendido#principios fundamentales]].
+El enciclopedismo del que se habla en la (p. 83) puede ser una muestra también de los esquemas organizadores (taxonómicos y ontológicos) que forman los modelos de representación de la realidad: una organización *totalizante*, unas organizaciones parciales; cada cual más o menos interrelacionada, con más o menos tipos de relaciones (cualitativas, cuantitativas), ¿cómo llamamos a esta idea? ¿tal vez *«modelos de organización del conocimiento»*?, no importa, sirven a [[mi sistema personal de pensamiento extendido#principios fundamentales]].
 
 Problemas vitales que creo encontrar en Pedroza:
 
