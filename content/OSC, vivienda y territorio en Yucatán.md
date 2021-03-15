@@ -4,17 +4,22 @@ tags:
   - 'nota-índice'
   - '§doctorado'
 ---
+
+## [[Quién conoce, quién decide cómo deberíamos vivir. Las OSC con proyectos de vivienda en Yucatán y su impacto tecnológico y epistemológico en la producción del habitat.]]
+
+## v1
+
 Las *acciones* de una OSC implican una *intención* de transformación social declarada sobre un grupo social distinto al de ellos. Dado que es imposible una comprensión intersubjetiva entre los grupos sin una dinámica activa de comprensión intersubjetivo (que incluye las diferencias en la forma de concebir y validar el conocimiento).
 
 La vivienda es una dimensión básica de la formación de sujetos sociales y en ella se reflejan sensiblemente los cambios ecológicos, económicos, sociales y culturales. Por eso cualquier trabajo de intervención como los de una OSC deja un impacto visible en las dinámicas comunitarias.
 
-## Preguntas
+### Preguntas
 
 - ¿Cuáles son las dinámicas de reconocimiento epistemológico cuando los grupos interactúan entre sí?
 - ¿Cómo se conforma el conocimiento intersubjetivo, qué estrategias de diálogo están en juego, si hay alguna?
 - ¿Los grupos se afirman a partir de sus diferencias?
 
-## Objetivos
+### Objetivos
 
 >Describir las dinámicas de reconocimiento inter-epistmémico que tres OSC con iniciativas de [[vivienda]]-[[territorio]] en Yucatán le dan a los grupos con los que trabajaron, para visibilizar los impactos positivos y negativos de ese tipo de intervenciones.
 
@@ -27,7 +32,7 @@ O. Específicos:
 - Describir la visión de la vivienda de los miembros de la comunidad participante
 - Identificar tensiones, contradicciones y desigualdades
 
-## dimensiones de observación y descripción
+### dimensiones de observación y descripción
 
 Hay muchos niveles de intersección donde la vivienda puede ser comprendida:
 

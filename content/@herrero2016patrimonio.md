@@ -2,7 +2,7 @@
 title: 'Patrimonio y participación ciudadana: ejemplos y reflexiones desde el país valenciano'
 aliases: ['Patrimonio y participación ciudadana: ejemplos y reflexiones desde el país valenciano', 'Pérez Herrero y Soler Mayor (2016)']
 initial_read: 2021-02-08
-source_type: conferencia
+source_type: confezrencia
 authors: 
     - Pérez Herrero, Clara Isabel
     - Begoña Soler, Mayo 

@@ -16,7 +16,7 @@ tags:
 
 - Cooperativa de mujeres mayas sirven *comida tradicional* en Yaxunah y su práctica constitutuye un *turismo culinario*. Así, se discute la autenticidad y se compite como una industria enmarcada en la economía de la experiencia: *“experience economy,” or the business of memorable events and experiences"* (párr. 1)
 - Tiene relación espacial con el estudio del dr. Héctor en la misma localidad
-- Tiene relación con los estudios del dr. Sánchez Suárez sobre la territorialidad y el [[patrimonio biocultural]]
+- Tiene relación con los estudios del dr. Sánchez Suárez sobre la [[territorialidad]] y el [[patrimonio biocultural]]
 
 ## Referencias
 

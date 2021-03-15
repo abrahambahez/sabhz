@@ -45,7 +45,7 @@ Tipologías de la disciplina (pp. 74-75):
 
 Estas categorías definen el *problema del modelo de estructura académica de la universidad*. (p. 75)
 
-¿Qué quiere decir Pedroza Flores cuando usa la imagen del espacio y del territorio (que implican divisiones *geográficas*)? ¿En qué sentido se construye este ícono? ¿Por qué el agrupamiento corporativo no hace mención de dinámicas de poder hegemonía-subalternización?
+¿Qué quiere decir Pedroza Flores cuando usa la imagen del espacio y del [[territorio]] (que implican divisiones *geográficas*)? ¿En qué sentido se construye este ícono? ¿Por qué el agrupamiento corporativo no hace mención de dinámicas de poder hegemonía-subalternización?
 
 La solución más común al problema de la hiperespecialización o aislamiento disciplinario es una reforma de la Universidad que transforme el modelo de organización de escuelas y facultades. (p. 76)
 
