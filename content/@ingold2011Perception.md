@@ -41,7 +41,7 @@ Y la de Mitcham (p. 299):
 
 - **tecnología-como-objeto.** El rango entero de cosas fabricadas para algún uso o otras herramientas, utensilios, aparatos y máquinas
 - **tecnología-como-proceso.** Actividades identificadas comúnmente como de hacer o de usar
-- **tecnología-como-conocimiento.** Habilidades en sentido de una *aplicación particular de destreza*, que contrasta con el concepto de *saber hacer «know-how»* , donde se implica tanto la destreza como el conocimiento pero en un sentido práctico (conocimiento procedimental).
+- **tecnología-como-conocimiento.** Habilidades en sentido de una *aplicación particular de destreza*, que contrasta con el concepto de *saber-hacer («know-how»)* , donde se implica tanto la destreza como el conocimiento pero en un sentido práctico (conocimiento procedimental).
 - **tecnología-como-volición.** Enfatiza que el trabajo humano es una actividad *con propósitos*. Esta es una afirmación que Ingold problematizará, diciendo básicamente que hay una diferencia entre decir que una persona trabaja con su propio conocimiento y decir que trabaja bajo su propia voluntad
 
 #### diferencias entre máquinas y herramientas (p. 300)

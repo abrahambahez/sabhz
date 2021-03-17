@@ -17,7 +17,7 @@ Identificar cambios sociotécnicos en las prácticas constructivas, dinámicas d
 ### Dónde mirar
 
 ---
-#### OSC con proyectos de vivienda en Yucatán
+#### [[OSC con proyectos de vivienda en Yucatán]]
 
 ¿Por qué existen? ¿Por qué ven en la vivienda algo relevante para intervenir? ¿Para qué y para quién intervienen? ¿Cómo intervienen (proceso, planeación, implementación)?
 

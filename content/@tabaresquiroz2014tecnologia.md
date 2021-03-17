@@ -34,7 +34,7 @@ Economía neoclásica (elección racional, maximización de ganancia y equilibri
 Neoclásica:
 >Las premisas fundamentales de la economía neoclásica son la racionalidad del consumidor, la maximización de la ganancia, el equilibrio, el mercado libre y la disponibilidad de información por parte de los agentes económicos. Desde esta postura, se concibe el cambio técnico como resultado de la conducta maximizadora de los agentes que seleccionan las tecnologías (p. 6)
 
-Giovanny Dosi introduce las nociones de paradigma tecnológico (análogo al de Kuhn) y trayectoria tecnológica («las innovaciones tienden a agruparse en torno a problemas y soluciones»). También destaca el concepto de los sistemas tecnológicos (instituciones y estructuras económicas expresadas en la oganización de empresas, sector público, sistema financiero, sistema científico-tecnológico y redes de innovación globales, p. 6). 
+Giovanny Dosi introduce las nociones de [[paradigma tecnológico]] (análogo al de Kuhn) y [[trayectoria tecnológica]] («las innovaciones tienden a agruparse en torno a problemas y soluciones»). También destaca el concepto de los sistemas tecnológicos (instituciones y estructuras económicas expresadas en la oganización de empresas, sector público, sistema financiero, sistema científico-tecnológico y redes de innovación globales, p. 6). 
 
 #### antropología de la tecnología
 
