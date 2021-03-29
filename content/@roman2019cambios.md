@@ -46,7 +46,7 @@ Qué cambia:
 
 Consecuencias:
 
-- Afectaciones al paisaje arquitectónico y urbano de las poblaciones estudiadas
+- Afectaciones al [[paisaje]] arquitectónico y urbano de las poblaciones estudiadas
 - La contaminación ambiental por el fomento en el uso de los materiales industrializados
 - La disminución de la práctica constructiva ancestral de los saberes constructivos
 - La pérdida del *confort climático* al interior de estas viviendas.

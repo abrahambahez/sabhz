@@ -1,6 +1,9 @@
 ---
 title: 'Vivienda'
-tags: ['nota-índice', '&p1']
+tags: 
+    - 'nota-índice'
+    - '&p1'
+    - '§tesis'
 ---
 ## para desarrollar
 
@@ -23,4 +26,4 @@ Complementarios:
 - [ ] [El uso y construcción del espacio en la vivienda popular](http://www.gazeta-antropologia.es/?p=3449)
 
 
-Referencias de [[OSC, vivienda y territorio en Yucatán]]
+Referencias de [[tesis - index]]

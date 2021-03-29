@@ -3,7 +3,7 @@ title: 'Bohannan (2007). Victor W. Turner (1920-1983)'
 tags:
     - 'nota-de-literatura'
 ---
-El concepto de communitas implica a su vez el de liminalidad, porque es en el estado de liminalidad donde ésta se desarrolla
+El concepto de communitas implica a su vez el de liminalidad, porque es en el estado de liminalidad donde ésta se desarrolla.
 
 Turner parte de la posición de van Gennep sobre los ritos de paso. Un rito de paso es un proceso que incluye tres elementos: 
 
@@ -20,10 +20,10 @@ La definición de communitas parte de tres aspectos:
 Liminalidad
 
 Los rites of passage acompañan cada cambio de estado o posición social, o ciertos estados de la edad. Estàn marcados por tres fases: 
-Separación:  conlleva la conducta simbólica, que significa la separación del individuo o del grupo a partir de un punto fijado con anterioridad en la estructura social o de un grupo establecido de condiciones culturales, un estado. 
 
-Limen: el nombre latino para umbral, que da idea de la gran importancia de los umbrales, reales o simbólicos, en la mitad de los ritos.  El estado del sujeto ritual, es decir, el pasajero o liminal, es ambiguo, ni aquí ni allí, en medio y entre todos los puntos fijos de clasificación; pasa por un dominio simbólico que tiene pocos o ninguno de los atributos de su estado pasado o futuro
-Margen: se consuma el paso, y el sujeto ritual, el neófito o principiante, vuelve a entrar en la estructura social, y a menudo, pero no siempre, en un nivel de estatus más alto.
+1. Separación:  conlleva la conducta simbólica, que significa la separación del individuo o del grupo a partir de un punto fijado con anterioridad en la estructura social o de un grupo establecido de condiciones culturales, un estado. 
+2. Limen: el nombre latino para umbral, que da idea de la gran importancia de los umbrales, reales o simbólicos, en la mitad de los ritos.  El estado del sujeto ritual, es decir, el pasajero o liminal, es ambiguo, ni aquí ni allí, en medio y entre todos los puntos fijos de clasificación; pasa por un dominio simbólico que tiene pocos o ninguno de los atributos de su estado pasado o futuro
+3. Margen: se consuma el paso, y el sujeto ritual, el neófito o principiante, vuelve a entrar en la estructura social, y a menudo, pero no siempre, en un nivel de estatus más alto.
 
 ### Intrusismo
 
@@ -50,4 +50,4 @@ Tanto la estructura como la communitas son expresiones humanas necesarias. Por c
 
 La de Turner es una teoría de los límites, tanto o más necesaria que una teoría de la normalidad, puesto que revela la forma de la estructura cultural, conciliando de alguna manera la práctica formal del estructuralismo con la práctica etnográfica de una forma que permite una transición teóricamente fluida entre los dos ámbitos, a través de una capacidad explicativa o interpretativa potente pero sencilla en su aplicación. Vale la pena recuperarlo de sus propias palabras:
 
-> Una vez reconocido esto, será posible para las ciencias sociales examinar más fructíferamente que antes fenómenos como el arte, la religión, la filosofía, e incluso muchos aspectos de la ley, la política y el comportamiento económico que antes ha eludido la estructura conceptual estructuralista. Tales dominios son ricos refiriéndose a la communitas. La tarea inútil de intentar encontrar  de qué forma ciertos símbolos que se encuentran en el ritual, poesía o iconografía  de una sociedad dada, reflejan o expresan su estructura social o política, se puede entonces abandonar. Los símbolos pueden no reflejar ninguna estructura,  sino una antiestructura, y no solo reflejarla, sino contribuir a crearla. En vez de eso, podemos considerar el mismo fenómeno desde el punto de vista de la relación entre la estructura y la communitas. (Bohannan et al., 2007,  p. 543)
+> Una vez reconocido esto, será posible para las ciencias sociales examinar más fructíferamente que antes fenómenos como el arte, la religión, la filosofía, e incluso muchos aspectos de la ley, la política y el comportamiento económico que antes ha eludido la estructura conceptual estructuralista. Tales dominios son ricos refiriéndose a la communitas. La tarea inútil de intentar encontrar  de qué forma ciertos símbolos que se encuentran en el ritual, poesía o iconografía  de una sociedad dada, reflejan o expresan su estructura social o política, se puede entonces abandonar. Los símbolos pueden no reflejar ninguna estructura,  sino una antiestructura, y no solo reflejarla, sino contribuir a crearla. En vez de eso, podemos considerar el mismo fenómeno desde el punto de vista de la relación entre la estructura y la communitas. ([[@bohannan2007Antropologia]],  p. 543)

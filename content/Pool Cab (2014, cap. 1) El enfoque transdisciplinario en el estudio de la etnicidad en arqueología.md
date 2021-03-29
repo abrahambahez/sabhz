@@ -26,7 +26,7 @@ La transdisciplina corresponde a una síntesis de los enfoques disciplinarios qu
 
 La arqueología se ha dividido en múltiples subdisciplinas a lo largo de su desarrollo y esta nueva perspectiva promueve su articulación sin dejar de usar las disciplinas que han auxiliado en el análisis o interpretación, pero añadiendo nuevos conceptos de tipo metateórico (como el de *praxis*).
 
-Así es como puede abordarse el concepto de *etnicidad* en Arqueología.
+Así es como puede abordarse el concepto de *[[etnicidad]]* en Arqueología.
 
 ## Referencias
 

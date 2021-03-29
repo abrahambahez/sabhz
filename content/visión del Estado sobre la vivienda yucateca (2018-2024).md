@@ -2,7 +2,9 @@
 title: 'visión del Estado sobre la vivienda yucateca (2018-2024)'
 tags: [ 'nota-permanente', '§doctorado' ]
 ---
-Datos del Plan estatal de desarrollo 2018-2024.
+Contextualización legal: [Ley de vivienda del estado de Yucatán](https://www.poderjudicialyucatan.gob.mx/digestum/marcoLegal/02/2012/DIGESTUM02100.pdf)
+
+## Datos del Plan estatal de desarrollo 2018-2024.
 
 La vivienda forma parte de algunos indicadores con que el Estado evalúa y ejecuta planes y políticas.
 

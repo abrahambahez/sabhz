@@ -11,6 +11,6 @@ La estructuración es la realización de la [[agencia]]. Por eso la [[agencia]] 
 
 La escala de reconocimiento es variable: desde lo micro-metodológico a los agentes colectivos y la permanencia temporal de las cosas.
 
-**El análisis tecnológico con el método de la [[cadena operativa]] es la estratefia mejor documentada para desentrañar secuencias de acciones**, que son llevadas a cabo por agentes cognitivos actuando dentro de la esturctura y a su vez reestructurándola con sus acciones.
+**El análisis tecnológico con el método de la [[cadena operativa]] es la estrategia mejor documentada para desentrañar secuencias de acciones**, que son llevadas a cabo por agentes cognitivos actuando dentro de la esturctura y a su vez reestructurándola con sus acciones.
 
 El problema con la visión etnográfica de las *prácticas compartidas* entre las personas es que resulta menos útil arqueológicamente que la visión de las *prácticas repetidas*

@@ -19,4 +19,4 @@ tags: ['nota-referencia']
 - La temporalidad de las casas era corta (60-100 años), por lo tanto la suya es una **arquitectura efímera** y un [[paisaje cultural]] efímero también (en el sistema de milpa de tumba y roza se deja descansar a la tierra 2 años) p. 82
 - La casa maya es una reproducción simbólica de la creación del mundo *"un ejemplo es el de la creación de la tierra narrada en el códice del Popol Vuj, muy similar al trazo de la casa maya como inicio de la construcción (Sánchez, García y Eastmond, 2018)"*, citado en la p. 84
 
-Revisa [[vivienda yucateca]].
+Revisa [[vivienda en Yucatán]].

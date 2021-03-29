@@ -65,4 +65,4 @@ tags:
     - Visiones tradicinales de habitabilidad
     - Conocimiento constructivo, conocimiento vivencial
 
-### [[reconocimiento inter-espistémico]]
+### [[reconocimiento inter-epistémico]]

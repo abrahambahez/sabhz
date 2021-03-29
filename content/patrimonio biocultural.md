@@ -11,7 +11,7 @@ El patrimonio biocultural va más allá de la dicotomía material-inmaterial; pu
 >Sin estos escenarios de aprendizaje, raíz de un árbol que mantiene en pie las otras expresiones patrimoniales en sus ramas, el árbol empieza a deteriorarse y sus ramificaciones a desprenderse, desfragmentando el patrimonio que por siglos ha existido en una concepción de un patrimonio biocultural, que une el patrimonio natural con el intangible y tangible. Es en este escenario donde los saberes constructivos viven en la actualidad, librando batallas ante los cambios locales y globales
 >>— Sánchez Suárez (2020)
 
-Introducido por Sánchez Suárez (ver [[vivienda yucateca]]) para definir la casa maya, pero también posiblemente a otros elementos que conforman la relación material - cultural en los grupos sociales.
+Introducido por Sánchez Suárez (ver [[vivienda en Yucatán]]) para definir la casa maya, pero también posiblemente a otros elementos que conforman la relación material - cultural en los grupos sociales.
 
 ## Referencias
 

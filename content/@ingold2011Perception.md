@@ -80,7 +80,7 @@ Reuleaux extiende la definición de la máquina al hacerla comenzar desde la *fu
 
 Los animales no humanos y también tienen movimientos autónomos: el tratamiento humano de animales no humanos es diferente del tratamiento de herramientas, consiste esencialmente en modelar patrones conductuales específicos (por ejemplo, a través de instrumentos de coerción, p. 307).
 
-Tanto humanos (en condición de escalvos) como animales no humanos pueden ser reducidos a una *existencia de máquina* a través de represión sistemática de su capacidad de acción autónoma. Mumford 1966, citado en p. 308,  habla de la *megamáquina* de esclavos que construyó las pirámides egipcias; los caballos por su parte son casi la antonomasia de una cadena cinemática cerrada.
+Tanto humanos (en condición de esclavos) como animales no humanos pueden ser reducidos a una *existencia de máquina* a través de represión sistemática de su capacidad de acción autónoma. Mumford 1966, citado en p. 308,  habla de la *megamáquina* de esclavos que construyó las pirámides egipcias; los caballos por su parte son casi la antonomasia de una cadena cinemática cerrada.
 
 #### manufactura y maquinofactura
 

@@ -15,10 +15,10 @@ Se reconocen al menos tres tipos:
 	- Paisajes continuos, que aún siguen funcionando como modelos valiosos natural y socialmente. Por esto son asociados a modos de vida más *tradicionales* 
 3. Aquellos que son *asociativos*
 
-De acuerdo con Sánchez Suárez (2020), se reconoce que la etnología y la antropología son relevantes en el estudio de los *asociativos*; la arqueología y la historia lo son a su vez para los *relictos/fósiles* y la economía o los estudios de patrones de actividad lo son para los paisajes continuos.
+De acuerdo con [[@sanchezsuarezPaisajeCulturalEfimero2020]], se reconoce que la etnología y la antropología son relevantes en el estudio de los *asociativos*; la arqueología y la historia lo son a su vez para los *relictos/fósiles* y la economía o los estudios de patrones de actividad lo son para los paisajes continuos.
 
 Además deberían considerarse como parte del elemento humano las percepciones sensoriales (no sólo visuales sino olfativas, auditivas, etcétera) que esos paisajes provocan.
 
 ## Referencias
 
-Sánchez Suárez, A. (2020). Paisaje cultural efímero. El patrimonio vernáculo maya en su relación con el territorio. Arquitecturas del sur, 38(57), 74-89. [[@sanchezsuarezPaisajeCulturalEfimero2020]]
+Sánchez Suárez, A. (2020). [[paisaje]] cultural efímero. El patrimonio vernáculo maya en su relación con el territorio. Arquitecturas del sur, 38(57), 74-89.

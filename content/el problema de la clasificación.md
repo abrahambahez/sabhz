@@ -5,7 +5,7 @@ tags: ['nota-permanente', '❧perenne']
 
 Al clasificar nos centramos en lo que las entidades *tienen en común*, y por lo tanto tendemos a reducir o negar las particularidades incluso en contextos donde ellas son relevantes.
 
-La utilización del  [[análisis clasificatorio]] tiene un par de consecuencias:
+La utilización del [[análisis clasificatorio]] implica también la [[tensión entre generalización y especialización]]:
 
 - **La clasificación tiene una gran capacidad de generalización y facilita la recuperación de información** — Puedo ignorar cuál es la capital de Japón, pero si tengo un índice de capitales del mundo sabré que es «Tokio», ese índice opera por clasificación, tomando como caracterísrica común de un país su capital, identificando cada una y agrupándolas 
 - **La clasificación pierde de vista los detalles de las entidades que agrupa porque en realidad trabaja con cosas abstractas y no concretas**.

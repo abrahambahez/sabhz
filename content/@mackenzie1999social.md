@@ -39,13 +39,50 @@ Langdon Winner argumenta que la tecnología es inherentemente política, esto es
 
 Se dice que la ciencia da forma a la tecnología. Pero hay varias cosas incorrectas con esta noción: la ciencia *es afectada* por la sociedad que la produce (constructivismo social de la ciencia), la innovación tecnológica no suele desarrollarse a partir de los últimos conocimientos científicos; de hecho es más común que sea al revés (piensa en la dependencia de muchas ciencias en la computadora, p. 9).
 
-Otra interpretación es que *la tecnología da forma a la tecnología*. Esta noción desafía el mito del inventor que en un destello de inspiración logra la innovación; en contra de esta noción está la de que *las invenciones son inevitables* dados ciertos marcos previos técnicos y culturales (el hecho de que un mismo invento surja en varios puntos simultáneos es una prueba, p.10), sin embargo, técnología preexistente no es la única fuerza.
+Otra interpretación es que *la tecnología da forma a la tecnología*. Esta noción desafía el mito del inventor que en un destello de inspiración logra la innovación; en contra de esta noción está la de que *las invenciones son inevitables* dados ciertos marcos técnicos y culturales previos (el hecho de que un mismo invento surja en varios puntos simultáneos es una prueba, p.10), sin embargo, técnología preexistente no es la única fuerza.
 
 El [[paradigma tecnológico]] es una extensión analógica de la idea kuhniana de paradigma científico, que se entiende como  forma aceptada particular de entender problemas - soluciones y como constelación de creencias, valores, técnicas compartidas por comunidades científicas (recuerda que hay más de una forma de diseñar soluciones a problemas).
 
 >Dado que el conocimiento tecnológico no puede reducirse a un conjunto de reglas verbales, la presencia de un ejemplo conreto es un recurso de pensamiento vital (p. 11)
 
-La idea de [[trayectoria tecnológica]] ==te quedaste en la p. 11==
+La idea de [[trayectoria tecnológica]] es el camino que un artefacto tecnológico va siguiendo en diferentes etapas de construcción y con diferentes estados finales potenciales, actores relevantes y propuestas que determinan su forma final. Ejemplos de los estudios de Hughes están en la p. 12.
+
+El [[sistema tecnológico]] es más comúnmente usadon que el de [[paradigma tecnológico]]; para definirlos, Mackenzie sigue a [[Hughes, Thomas P. (2008). La evolución de los grandes sistemas tecnológicos]]. La diferencia es que el sistema tiene diversos componentes requeridos que no son no necesariemente parte de un mismo artefacto: *«Una lavadora autmática, por ejemplo, depende de su integración a los sistemas de electricidad, agua y drenaje»* (p. 12), y por tanto pueden tener cada uno su propia [[trayectoria tecnológica]] independiente.
+
+Según Mackenzie, para Hughes un [[saliente inverso]] es producto de un desarrollo desigual, un área donde el crecimiento tecnológico se alenta, un conjunto de *problemas críticos* que corregirían las brechas necesarias para que el [[sistema tecnológico]] funcione (pp. 12-13)
+
+### la forma económica de la tecnología
+
+El concepto de [[saliente inverso]] sólo tiene sentido si se interpreta a un [[sistema tecnológico]] como orientado a un *objetivo*. El marco conceptual de Hughes está lleno de ideas como *avance* o *retroceso* que necesitan esa presuposición para tener relevancia (p. 13). Mackenzie afirma que tales *objetivos* son de naturaleza económica: reducción de costos, incremento de utilidad; *«El razonamiento tecnológico y el económico son usualmente inseparables»* (p. 13). Aquí Mackenzie parece caer en el *[[sesgo de libre mercado]]* (cfr. p. 14, párr. 3). ^pp-13-14
+
+Un área de estudio importante ha sido el estudio del impacto del cambio tecnológico en el crecimiento económico. En una economía capitalista las consideraciones sobre la utilidad y el cambio tecnológico están invariablemente muy conectados; el problema ha sido definir la conexión precisa de ese cambio
+
+### tecnología, economía y relaciones sociales
+
+Bhaduri presenta un caso de estudio sobre las relaciones sociales agrícolas en la India del este difiere de aquellas en sociedades con un capitalismo más desarrollado; por lo tanto la forma en que la tecnología es determinada por consideraciones económicas difiere. Otro caso viene de estudios de innovación en la industria soviética, donde la planificación central que se enfoca en la cantidad de producción no estimula la innovación técnica pues el cálculo de los riesgos no parece beneficiarla (pp. 16-17).
+
+Los autores aclaran que la pregunta no es sólo la *tasa de innovación*, sino que **un estado socialista desarrollará una tecnología cualitativamente diferente de una capitalista**, por ejemplo, la tecnología capitalista desarrolla una tecnología sobre la necesidad de *control del trabajador* como un requisito (p. 17).
+
+El **costo de trabajo** es un asunto crítico en el cambio tecnológico, debido a que la innovación es fondeada y justificada sobre la base de ahorrar costos de trabajo (p. 17). En esto también la **relación entre género y el cambio tecnológico** juega un papel importante: en sociedades patriarcales de economías de cuidado asignadas a las mujeres el costo del salario para mujeres es típicamente más bajo. Esto impacta en el cambio tecnológico porque provee a los capitalistas de alternativas baratas para disminuir el costo del trabajo además de desarrollar tecnología (p.18).
+
+La implementación y aceptación del cambio tecnológico también tiene un costo y un tiempo considerables que forman parte de los riesgos.
+
+La forma más directa en la que el estado ha contribuido al desarrollo tecnológico ha sido a través de patrocinio de tecnología militar (p. 20).
+
+### tecnología y género
+
+La tecnología es definida como una actividad masculina (p. 22).
+
+Los problemas de participación y representación femenina en la tecnología contribuyen a reforzar la idea de que la tecnología, en tanto propiedad social de los varones es, exceptuando posiblemente la guerra, el ejemplo más fuerte de dominio masculino sobre la esfera pública (p. 22).
+
+El *saber-hacer («know-how»)* es el centro de muchas políticas de producción tecnológica y constituyen la fuente de poder masculino y su capacidad para dirigir ingresos y puestos de trabajo (p. 22).
+
+
+
+
+## Para seguir leyendo
+
+- [Giovanni Dosi](https://en.wikipedia.org/wiki/Giovanni_Dosi "Giovanni Dosi") (1982) 'Technological Paradigms and Technological Trajectories: a suggested interpretation of the determinants of technological change', Research Policy, Vol. 11, pp. 147–62.
 
 ## Referencias
 

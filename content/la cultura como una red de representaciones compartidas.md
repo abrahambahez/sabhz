@@ -13,7 +13,7 @@ La cultura no existe en el mismo sentido en que pensamos, por ejemplo, que *«la
 
 Una persona puede *decidir* actuar conforme una norma cultural, pero al hacerlo hace uso de su [[agencia]]. Sí, reproduce así la cultura, pero de ahí no se sigue que esté en una actitud apologética, que la esté defendiendo, que crea en ella... bien podríamos estar ante una [[categoría serial]].
 
-Hay incluso otros intentos por entender características culturales tan «profundas» como la etnicidad, mira el concepto de *etnicidad operacional* de Johannesen (2004), hablando de la [[acción serial]].
+Hay incluso otros intentos por entender características culturales tan «profundas» como la [[etnicidad]], mira el concepto de *[[etnicidad]] operacional* de Johannesen (2004), hablando de la [[acción serial]].
 
 ## Problemas
 

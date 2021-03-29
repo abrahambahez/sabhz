@@ -4,10 +4,13 @@ tags:
     - 'nota-proyecto'
     - '§doctorado'
 ---
+[[brevísima historia de la distribución del conocimiento occidental]]
+
 ## ideas interesantes de la clase
 
 - todo sirve para la investigación, no deberíamos despreciar fuentes de otras disciplinas o de otras naturalezas
-- En historia hay que situar los fenómenos (y las ideas) en un contexto particular [[modos de contextualización]], las cosas cambian y hay factores 
+- En historia hay que situar los fenómenos (y las ideas) en un contexto particular [[modos de contextualización]], las cosas cambian y hay factores
+- Analizar **siempre el contexto** y su historia; analizar **siempre el concepto**
 
 ## multidisciplinariedad
 - [[@pedrozaflores2006interdisciplinariedad]]

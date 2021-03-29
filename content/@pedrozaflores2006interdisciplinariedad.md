@@ -30,7 +30,7 @@ Pedroza Flores expone tres aspectos básicos de la discusión sobre la interdisc
 ### disciplina y estructura académica de la universidad
 p. 71
 
-La universidad se organiza en planes de estudio; representaciones de la reproducción del conocimiento. En su origen designaba acualquier organización de carácter corporativo (p. 72)
+La universidad se organiza en planes de estudio; representaciones de la reproducción del conocimiento. En su origen designaba acualquier organización de carácter corporativo (p. 72).
 
 >*«El poder de la corporación universitaria se basa en tres privilegios esenciales: la autonomía jurisdiccional –dentro del marco de la Iglesia con ciertas restricciones locales y la facultad de apelar al papa–, el derecho de huelga y de secesión y el monopolio de la colación de los grados universitarios»* (Le Goff, 1986: 77-79; citado en p. 71).
 

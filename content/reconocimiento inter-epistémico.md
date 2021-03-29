@@ -11,8 +11,6 @@ Condiciones epistemológicas de la desigualdad:
 - las [[posiciones interpretativas]] en la comunicación intersubjetiva
 - paradigmas occidentales (racionalismo, materialismo, posmodernismo)
 
-
-
 Mecanismos del desconocimiento:
 
 - epistemicidios

@@ -12,12 +12,12 @@ Algunas elaboraciones teóricas actuales de la identidad incluyen la definición
 
 La *personidad/personhood* posee campos o modos que definen su comportamiento contextual: la individualidad (estado unitario de la persona) e indivisibilidad (un aspecto de continuidad), el individuo, el dividuo (atribución de las múltiples autorías de la persona) y la dividualidad (multiplicidad flexible de los rasgos identitarios).
 
-En cuanto a la relación entre colectividad e identidad para el estudio de la etnicidad, existen también múltiples abordajes (pp. 46-54):
+En cuanto a la relación entre colectividad e identidad para el estudio de la [[etnicidad]], existen también múltiples abordajes (pp. 46-54):
 
-- Sustancialismo: basado en una epistemología esencialista que le atribuye a la etnicidad una serie de características fijas determinadas; este enfoque ha caído en desuso por los problemas que tiene para sostenerse históricamente o corresponder con algo *realmente existente*.
+- Sustancialismo: basado en una epistemología esencialista que le atribuye a la [[etnicidad]] una serie de características fijas determinadas; este enfoque ha caído en desuso por los problemas que tiene para sostenerse históricamente o corresponder con algo *realmente existente*.
 - Situacionismo: Basado en Frederik Barth, hace énfasis en los contextos sociales que organizan las diferencias culturales en cada situación dada donde los rasgos identitarios relevantes son variables, en detrimento de una frontera étnica o grupo étnico que permita estar diferenciado a plazos más largos
 - Instrumentalismo: Los grupos étnicos aparecen como resultado de la búsqueda de intereses comunes, centrándose también en los aspectos organizacionales del grupo
-- Primordialismo: Entiende la etnicidad como un proceso de diferencias culturales que se van haciendo significativas. Este proceso tiene como criterio nuclear la genealogía (sentido de pertenencia, de continuidad histórica, de lugar de origen y de tradiciones comunes)
+- Primordialismo: Entiende la [[etnicidad]] como un proceso de diferencias culturales que se van haciendo significativas. Este proceso tiene como criterio nuclear la genealogía (sentido de pertenencia, de continuidad histórica, de lugar de origen y de tradiciones comunes)
 - Procesualismo: Enfatiza la identidad como *resultado de un proceso*, pero en este caso, histórico o ideológico, la interpretación identitaria surge del contexto histórico donde va estructurándose y también intersectándose con otros espacios estructurantes como clase, género, etcétera.  También suele entenderse un proceso ideológico donde representaciones, valores y creencias fijan un universo relativamente coherente (p. 51)
 - Estructuralismo cognitivo. También llamado Arqueología de la Identidad por Almudena Hernando (2002, citado en la p. 53). Esta versión parte de que los grupos organizan cognitivamente el mundo de formas distintas, y esa configuración se correlaciona con el grado de control material sobre ese mundo; de este modo la identidad puede entenderse en términos de cómo el grupo entiende el mundo (los mecanismos cognitivos que lo median) y actúa en consecuencia, compartiendo esos modelos socialmente.
 
@@ -26,11 +26,11 @@ El problema de los pueblos sin historia y el *presentismo*  también afectó a l
 A manera de síntesis de trabajo se destacan dos ideas:
 
 - La identidad se asemeja más a un discurso de identidaes múltiples circunstancialmente manifestadas e inmersas en diversas dinámicas como las relaciones de poder o intereses compartidos en determinados contextos, las identidades pueden fragmentarse
-- La etnicidad se manifiesta en prácticas que lo hacen a su vez en la materialidad. La dimensión material de la identidad permite acceder a ella desde la arqueología
+- La [[etnicidad]] se manifiesta en prácticas que lo hacen a su vez en la materialidad. La dimensión material de la identidad permite acceder a ella desde la arqueología
 
 Otro elemento importante es la territorialización ( el espacio convertido en [[territorio]], a menudo sagrado) y otras formas de espacialidad donde se sitúa una buena parte de lo que está puesto en común, sobre todo la creencia compartida del mismo origen.
 
-Lo importante de este recorrido es hacer notar cómo la construcción unilateral (hecha desde la interpretación de los investigadores) de categorías étnicas como lo *maya*, puede ser superada y alcanzar mayor profundidad explicativa al complejo problema de identidad-etnicidad en arqueología. 
+Lo importante de este recorrido es hacer notar cómo la construcción unilateral (hecha desde la interpretación de los investigadores) de categorías étnicas como lo *maya*, puede ser superada y alcanzar mayor profundidad explicativa al complejo problema de identidad-[[etnicidad]] en arqueología. 
 
 
 ## Referencias

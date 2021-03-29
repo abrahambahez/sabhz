@@ -16,7 +16,7 @@ El discurso arqueológico se compone de un *tiempo de enunciación*, marcado por
 
 En este caso, el espacio de enunciación que reconoce es el de la provincia de Jujuy, dentro del espacio de la quebrada de Humahuaca.
 
->las evidencias materiales del pasado han adquirido un rol protagónico en los mecanismos de memoria social de las comunidades locales, quienes les otorgan nuevas valoraciones, y las re-significan por una parte, como elementos de su paisaje cultural que contribuyen a demarcar territorios ancestrales; y por la otra, como patrimonio cultural y potencial recurso de desarrollo económico asociado a proyectos turísticos (pp. 30-31)
+>las evidencias materiales del pasado han adquirido un rol protagónico en los mecanismos de memoria social de las comunidades locales, quienes les otorgan nuevas valoraciones, y las re-significan por una parte, como elementos de su [[paisaje]] cultural que contribuyen a demarcar territorios ancestrales; y por la otra, como patrimonio cultural y potencial recurso de desarrollo económico asociado a proyectos turísticos (pp. 30-31)
 
 Destaca el hecho de que la arqueología participativa, en palabras de la autora, sea capaz de sacar de la *marginalidad* epistémica a los grupos con quienes participa, pues de acuerdo con ella, la multivocalidad permite que «sectores, *otrora marginados*, puedan efectuar interpretaciones acerca del pasado en sus propios términos a fin de construir significados diferentes a los modelos dominantes» (p. 32 destacado mío), esto a través de una pedagogía que *promueve descolonización del conocimiento*.
 

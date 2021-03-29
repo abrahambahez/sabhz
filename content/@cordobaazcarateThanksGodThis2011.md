@@ -22,7 +22,7 @@ tags:
 - Cancún: arquetipo del turismo de sol y playa: lugar edénico
 - Celestún, lugar para comer pescado frito fresco, un lugar de retiro, un ligar para comenzar de nuevo
 - Haciendas: lugares de lujo que reproducen la experiencia elitista del hacendado, amplios espacios, reminiscencias europeas, y por supuesto, "servicio profesional" de personas locales "sobadoras mayas"
-- La idea del paisaje es fundamental
+- La idea del [[paisaje]] es fundamental
 
 
 ## Referencias
