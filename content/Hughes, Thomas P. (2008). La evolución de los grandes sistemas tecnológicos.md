@@ -35,7 +35,7 @@ Los sitemas tecnológicos suelen estar ordenados a través de [[jerarquía]] (p.
 
 Los grandes sitemas tecnológicos tienen patrones de evolución (son sistemas que evolucionan y se expanden, p. 109)
 
->La historia de los sistemas que evolucionan o se expanden puede presentarse de acuerdo a las fases en las cuales predomina alguna de las siguientes actividades: invención, desarrollo, innovación, transferencia, crecimiento, competencia y consolidación. En la medida que los sistemas maduran, adquieren estilo y [[momentum tecnológico|momentum]]. En este trabajo, el estilo es discutido en conjunción con la transferencia, y el momentum es discutido después de la sección sobre crecimiento, competencia y consolidación. Las fases de la historia de un [[sistema tecnológico]] no son simplemente secuenciales; existen solapamientos y retrocesos. (p. 110)
+>La historia de los sistemas que evolucionan o se expanden puede presentarse de acuerdo a las fases en las cuales predomina alguna de las siguientes actividades: invención, desarrollo, innovación, transferencia, crecimiento, competencia y consolidación. En la medida que los sistemas maduran, adquieren estilo y [[momentum tecnológico|momentum]]. En este trabajo, el estilo es discutido en conjunción con la transferencia, y el [[momentum tecnológico|momentum]] es discutido después de la sección sobre crecimiento, competencia y consolidación. Las fases de la historia de un [[sistema tecnológico]] no son simplemente secuenciales; existen solapamientos y retrocesos. (p. 110)
 
 La fase de transferencia requiere una especie de difusión donde habilidades administrativas y financieras son relevantes. El concepto de *entrepreneur* puede cubrir este rol, en el sentido de que es más un *generalista* que un *especialista*.
 
@@ -77,7 +77,7 @@ Hughes afirma que los sistemas tienden a expandirse a través de una racionaliza
 
 ### [[momentum tecnológico]]
 
->Los sistemas tecnológicos, incluso después de un crecimiento y una consolidación prolongada, no devienen autónomos, adquieren [[momentum tecnológico|momentum]]. Poseen una masa de componentes técnicos y organizacionales, poseen dirección o metas, y expresan una tasa de crecimiento que sugiere una velocidad. Un alto nivel de momentum a menudo produce que quienes lo observan asuman que un [[sistema tecnológico]] ha devenido autónomo. Los sistemas maduros poseen una cualidad que es análoga, por consiguiente, al movimiento inercial. (p. 139)
+>Los sistemas tecnológicos, incluso después de un crecimiento y una consolidación prolongada, no devienen autónomos, adquieren [[momentum tecnológico|momentum]]. Poseen una masa de componentes técnicos y organizacionales, poseen dirección o metas, y expresan una tasa de crecimiento que sugiere una velocidad. Un alto nivel de [[momentum tecnológico|momentum]] a menudo produce que quienes lo observan asuman que un [[sistema tecnológico]] ha devenido autónomo. Los sistemas maduros poseen una cualidad que es análoga, por consiguiente, al movimiento inercial. (p. 139)
 
 Hughes lee evidencias de [[momentum tecnológico]] en las características financieras de los sistemas de producción tecnológicos, como los activos fijos y costos invertidos (p. 140)
 

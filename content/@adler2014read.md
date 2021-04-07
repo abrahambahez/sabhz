@@ -3,40 +3,31 @@ title: 'How to Read a Book'
 aliases: ['How to Read a Book', '@adler2014read']
 initial_read: 2020-11-24
 source_type: libro
-authors: ['Adler, Mortimer', 'Van Doren, Charles']
+authors: 
+    - 'Adler, Mortimer'
+    - 'Van Doren, Charles'
 year: 1997
 apa: 'Adler y Van Doren (1997). How to read a Book. Ed. Fine Communications'
-tags: ['nota-referencia', '+leyendo']
+tags: 
+    - 'nota-referencia'
+    - '+leyendo'
 ---
+**El conocimiento no es un prerrequisito para la comprensión**. No es necesario conocer todo acerca de algo para poder entenerlo. Conocer el nombre de algo no significa entenderlo. La memoria capaz de traer información sin comprenderla no puede ser la mejor forma de lectura.
 
-### Las dimensiones de la lectura
+**Mientras más activa sea la lectura, mejor**. Dado que la lectura es una *actividad*, no puede ser absolutamente pasiva; la mente y los sentidos (ojos, oídos) deben estar activos en algún grado. La parte *activa* de la lectura consiste en *ser un detective que busca comprender mejor algo que no sabe y otro (la autora), sí*.
 
-### Los niveles de lectura
+**Comprensión y aprendizaje van juntos**. La lectura es un aprendizaje que Adler llama **descubrimiento no asistido**, a diferencia del aprendizaje basado en un maestro o tutor, que consiste en facilitar el **descubrimiento asistido**.
 
-- Nivel 1. Lectura elemental
-	- Aprendizaje de la lectura (¿lectura funcional?\*)
-- Nivel 2. Lectura inspeccional
-	- Pre-lectura o escaneo sistemático
-	- Lectura superficial
-	- Lectura de velicidad
-- Cómo ser un lector demandante
-- Nivel 3. Lectura analítica
-	- Clasificación suave de un libro (*Pigeonholing a book*)
-	- Análisis suave de un libro (*X-raying a book*)
-- Nivel 4. Lectura Sintópica o lectura paralela (*Syntopical Reading*)
-	- Preparación
-	- Lectura
+## Resumen esquemático
 
-## Fuentes relacionadas
+Adler distingue los propósitos de la lectura entre lectura por *entretenimiento*, lectura para la *información* y lectura para la *comprensión*. Cada propósito se encuentra en un menor o mayor rango dentro del proceso donde el sujeto pasa de *entender menos* a *entender más*.
 
-- Según [Leticia Mooney](https://biodagar.com/2019/04/syntopic-reading-what-it-is-and-how-to-do-it/), la lectura "*sintópica*" tiene estos pasos en su fase de lectura:
-	- Lectura inspeccional de la bibliografía seleccionada
-	- Construcción de una "terminología neutral" 
-	- Creación de un conjunto de proposiciones neutrales, que es una lista de preguntas que el autor debería responder
-	- Definición de los problemas que aparecen en cada obra, analizando la postura base del autor
-	- Analizar cada problema ordenando las preguntas de tal forma que tengan mayor sentido para el tópico o tema como sea posible.
-- Además, su objetivo principal es llegar una comprensión de los términos usados en un determinado problema, argumento o disciplina, para cualquier propósito que se esté usando
+### 4 niveles de lectura
 
+1. Lectura elemental o básica; que identifico con la [[literacidad]] clásica
+2. La [[lectura inspeccional]] 
+3. La [[lectura analítica]]
+4. La [[lectura sintópica]]
 
 ## Referencias
 

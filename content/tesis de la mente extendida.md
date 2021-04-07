@@ -1,6 +1,7 @@
 ---
 title: 'hipótesis de la mente extendida'
-tags: ['nota-término', '+incipiente']
+tags: 
+    - 'nota-término'
 ---
 Planteada por Clark y Chalmers (1998) propone que los procesos mentales no pueden reducirse simplemente a operaciones cerebrales, sino que existen entidades extra-cerebrales que *forman parte* de la cognición desde un punto de vista funcional (y posiblemente *sistémico*).
 

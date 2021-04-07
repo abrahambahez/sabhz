@@ -16,6 +16,7 @@ Estas son algunas téncnicas para escribir como forma de meditación, gestión d
 	- **escritura contemplativa**: meditación con escritura
 	- **gratitude journal**: Aumentar motivación y sentido del propósito
 	-  **morning pages**: Limpiar y ordenar tu cabeza en las mañanas
+	-  [[diario cognitivo]]
 
 ## Escribir para pensar
 

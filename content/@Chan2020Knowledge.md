@@ -11,7 +11,7 @@ tags:
     - 'nota-referencia'
     - 'leyendo'
 ---
-En el artículo, Chan muestra un método de [[elaboración escrita de ideas]] al que llama *síntesis de conocimiento (knowledge syntesis)*. Su núcleo es la construcción d eun nuevo punto de vista a partir de un conjunto de observaciones, que avanza o abre un camino hacia el conocimiento. Pero también puede llevar a crear reseñas crícticas de literatura (lecturas sintópicas, cfr [[@adler2014read]]), mejores preguntas de investigación o al refinamiento de argumentos o problemas de investigación.
+En el artículo, Chan muestra un método de [[elaboración escrita de ideas]] al que llama *síntesis de conocimiento (knowledge syntesis)*. Su núcleo es la construcción de un nuevo punto de vista a partir de un conjunto de observaciones, que avanza o abre un camino hacia el conocimiento. Pero también puede llevar a crear reseñas crícticas de literatura ([[lectura sintópica]], cfr [[@adler2014read]]), mejores preguntas de investigación o al refinamiento de argumentos o problemas de investigación.
 
 Para Chan hay varios factores por los que las síntesis escritas fallan:
 

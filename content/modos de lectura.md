@@ -7,11 +7,11 @@ Son las maneras en que un sujeto con capacidad de interpretación de un texto pu
 
 Tienen múltiples formas de categorizarse, según el énfasis que se haga en caracteristicas como el aprendizaje de la capacidad de interpretación del texto (literacidad, alfabetización), o el tipo de análisis / resultado que quiere obtenerse (p.e. traducción, deconstrucción en sentido derridiano)
 
-## Esquema de clasificación
+## lectura en sentido estricto
 
-### Según su aprendizaje y práctica:
+### literacidad
 
-- Lectura funcional o simple
+- [[literacidad]]
 	- Lectura veloz
 - Comprensión de lectura (estrategias)
 	- Lectura "inspeccional"
@@ -20,21 +20,21 @@ Tienen múltiples formas de categorizarse, según el énfasis que se haga en car
 
 ### Según cierto análisis o profundización en su contenido:
 
-- Lectura sintópica o lectura paralela
+- [[lectura sintópica]]
 - [[resumen progresivo]]
-- Traducción como práctica creativa - formal de profundización en el sentido de un texto
-- Deconstrucción derridiana
 - Círculo hermenéutico de Gadamer
 
-### Según cierto análisis o profundización en sus formas
+## métodos analíticos
 
 - Análisis [macroestructural](https://en.wikipedia.org/wiki/Macrostructure_(linguistics)) / microestructural de van Dijk
 - Análisis estructural de Greimas / Barthes
 - Análisis cuantitativo del discurso
 
-### Según análisis contextuales 
+## lectura en sentido amplio
 
+- traducción
 - [[etnografía como lectura]]
+- Deconstrucción derridiana
 
 ### Referencias
 
